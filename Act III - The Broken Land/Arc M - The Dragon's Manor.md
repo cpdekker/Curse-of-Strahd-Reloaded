@@ -42,15 +42,32 @@ Should the players request directions to the chapel, the revenant advises them t
 
 If the players ask the revenant to escort them to the mansion, it declines, noting gravely that it has been banished from its grounds and estate “for raising my voice against my commander, Vladimir Horngaard, when my oath could suppress my conscience no longer." It declines to explain further, advising the players to speak with Sir Godfrey instead.
 # M2. Approaching the Mansion
-This scene is as described in <span class="citation">Approaching the Mansion (p. 130).</span>
+When the players first come within sight of Argynvostholt, read:
+
+<div class="description">
+<p>High above the river valley juts a quiet promontory upon which looms a sepulchral mansion, its turrets capped with fairytale cones, its towers lined with sculpted battlements. A third of the structure has collapsed, as has part of the roof, but the rest appears intact. A dark, octagonal tower rises above the surrounding architecture.</p>
+<p>Out of the fog comes a distant peal of thunder, quickly accompanied by the howling of wolves in the woods below, but the house stands silent, seeming like the fossilized remains of some long-dead thing smote upon the mountainside.</p>
+</div>
 ## M2a. Dragon Statue
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q1.</em></span>
 
-This area is largely as described in <span class="citation">Q1. Dragon Statue (p. 130).</span>  However, the statue faces west, away from the mansion, and does not radiate any magical aura.
+When the players approach the dragon statue, read:
+
+<div class="description">
+<p>Perched atop a ten-foot-wide, ten-foot-high cube of granite is a moss-covered statue of a dragon, its wings tucked close to its body. The statue looks west, away from the mansion.</p>
+</div>
+
+The fog makes it hard to see the dragon's features from a distance, but close inspection reveals that it is a silver dragon of noble bearing, its spiny frill cracked and broken in many places. The statue is 10 feet tall but looks much more imposing perched on the granite block. The statue does not radiate any magical aura.
 ## M2b. Main Entrance
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q2.</em></span>
 
-This area is largely as described in <span class="citation">Q2. Main Entrance (p. 130).</span> However, no trap activates as the players climb the stairs or set foot on the landing.
+When the players approach the main entrance, read:
+
+<div class="description">
+<p>Flagstone steps flanked by stone railings climb to a landing in front of a pair of tall, wooden doors with rusted iron bands and knockers shaped like small dragons. Carved into the lintel above the entrance is the word ARGYNVOSTHOLT.</p>
+</div>
+
+No trap activates as the players climb the stairs or set foot on the landing. The doors are unlocked and can be pushed open to reveal a dark foyer.
 
 > [!info]+ **Scale of the Map**
 > If you’re running the players’ exploration of Argynvostholt on a battlemap, remember that each square on the official map is 10 feet across, rather than 5 feet.
@@ -58,15 +75,40 @@ This area is largely as described in <span class="citation">Q2. Main Entrance (p
 ## M3a. Foyer
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q3.</em></span>
 
-This area is largely as described in <span class="citation">Q3. Dragon’s Foyer (p. 132).</span> However, the draconic shadow passes into <span class="citation">Q12. Dining Hall (p. 132)</span> before disappearing.
+When the players enter this area, read:
+
+<div class="description">
+<p>This room feels like a king’s tomb. A grand staircase leads up to stone balconies held aloft by stone pillars and arches. A tall, faded tapestry depicting a nobleman in silver armor hangs from an iron rod above the staircase landing.</p>
+<p>Six sets of double doors lead from this foyer. Along the walls, displayed on marble pedestals, are three alabaster busts of handsome men. A fourth bust and its pedestal have been knocked over, and their shattered remains lie strewn across the mosaic floor. Two chandeliers of wrought iron hang from the ceiling like monstrous black spiders.</p>
+</div>
+
+The tapestry is torn in places and worthless. It is a portrait of Lord Argynvost. The alabaster busts depict several of the dragon’s other human guises. The stairs lead up to the second-floor balconies.
+
+The first time the players pass through this foyer, a great shadow with wings moves across the walls and passes into <span class="citation">Q12. Dining Hall (p. 132)</span> before disappearing. The players hear a soft bestial hiss in the darkness. The draconic shadow is ominous yet harmless.
 ## M3b. Dining Hall
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q12.</em></span>
 
-This area is as described in <span class="citation">Q12. Dining Hall (p. 132).</span>
+When the players enter this area, read:
+
+<div class="description">
+<p>A twenty-foot-long table with sculpted dragons for legs stands in the center of this hall. The chairs that surround the table have backs carved to resemble folded dragon wings, and several of the chairs have been overturned or smashed to pieces. Suspended above the table is a crystal chandelier that glows with a soft white light. Standing in windowed alcoves are two life-sized statues depicting knights with dragon-winged helms and shields.</p>
+<p>Rainwater trickles through cracks in the ceiling, flowing down the west wall and adding to a large puddle on the floor.</p>
+<p>Five sets of wooden doors lead to this hall. The doors in the northeast corner hang open. A pair of leaded glass doors, their panes cracked and broken, stand open between panels of stained glass set into the east wall. These panels depict silver dragons in flight. Beyond the glass doors lies a dark, misty room that appears to be a chapel.</p>
+</div>
 ## M3c. Chapel of Morning
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q13.</em></span>
 
-This area is largely as described in <span class="citation">Q13. Chapel of Morning (p. 134).</span> However, the pillars are made of stone, rather than wood, and the three kneeling revenants are not present. Instead, add the following text to the end of this area’s description:
+When the players enter this area, read:
+
+<div class="description">
+<p>Stone pillars support a wooden, U-shaped balcony that overhangs this stone-walled chapel. Narrow archways lead to spiral staircases that curl up to the balcony, and a door set into the north wall has a wooden beam barring it. At the east end of the chapel rests a stone altar flanked by iron candelabras. The altar is carved with a rising sun bas-relief. Tall, arching windows set with panels of stained glass decorate the walls behind the altar. One of the windows has been shattered, covering the chapel floor with shards of colored glass and allowing thick fog to enter and fill the room.</p>
+</div>
+
+Characters who study the room’s iconography and orientation (the fact that it draws light from the east) can determine, with a successful DC 10 Intelligence (Religion) check, that the chapel is dedicated to a god of the dawn. Anyone familiar with Barovian religion can conclude that the god in question is the Morninglord. The balcony is 20 feet high and can be reached by climbing either spiral staircase. Characters who stand near the altar and look up can see the hollow interior of the beacon tower above.
+
+The bar across the north door is easily lifted from this side. Once the bar is removed, the door can be pulled open to reveal a stone staircase leading down to the cemetery.
+
+Additionally, read:
 
 <div class="description">
 <p>A rusted, wrought-iron lantern hangs from each of the six pillars, each lantern’s glass panels fogged with age. Cold, ethereal lights flicker and writhe within them, and faint whispers seem to emanate from their depths.</p>
@@ -362,7 +404,31 @@ If allowed to depart, Nim hisses gleefully and scampers off on all fours, vanish
 ## M4a. Cemetery
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q15 and Q16.</em></span>
 
-The cemetery and mausoleum are largely as described in <span class="citation">Q15. Cemetery (p. 134)</span> and <span class="citation">Q16. Dragon’s Mausoleum (p. 134)</span>. However, add the following text to the end of the description of the interior of the mausoleum:
+When the players enter the cemetery, read:
+
+<div class="description">
+<p>Tucked behind the mansion is a fog-shrouded cemetery enclosed by a seven-foot-tall fence of wrought iron. In the northeast corner stands a mausoleum.</p>
+</div>
+
+The thick fog obscures the fact that five of the graves have been dug up. Closer inspection and a successful DC 10 Wisdom (Perception) check reveals that the corpses buried there crawled out of the earth. Of the missing corpses there is no sign, but the surrounding fence is intact, which suggests that no one got into the cemetery from outside. (These corpses were animated by the spirits of revenants and clawed their way out.)
+
+A stone staircase curls up the outside of a turret to a flagstone landing in front of a sturdy wooden door. The door is barred from the inside and opens into the chapel.
+
+When the players approach the mausoleum, read:
+
+<div class="description">
+<p>Tarnished, silver-plated gargoyles shaped like dragon wyrmlings cling to the stone-tiled roof of this mausoleum. An eight-foot-tall, four-foot-wide white marble door set into the southwest wall is engraved with a name: ARGYNVOST.</p>
+</div>
+
+The dragon-shaped gargoyles are harmless statuary. The stone door can be pulled open with a successful DC 15 Strength check. When the players enter the mausoleum, read:
+
+<div class="description">
+<p>The interior of the mausoleum is dark and dusty. You see four empty alcoves with raised floors. Etched into the far wall is a verse written in Draconic.</p>
+</div>
+
+Characters who can read the Draconic script can decipher the writing on the wall: "Here lie the bones and treasures of Argynvost, lord of Argynvostholt and founder of the Order of the Silver Dragon."
+
+Additionally, read:
 
 <div class="description">
 <p>Twin unlit torches rest in rusted sconces along the far wall on either side of the verse.</p>
@@ -372,7 +438,13 @@ The cemetery and mausoleum are largely as described in <span class="citation">Q1
 ### Kitchen
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q10.</em></span>
 
-This area is largely as described in <span class="citation">Q10. Kitchen (p. 133).</span> However, the iron pot has a lid and isn’t rattling when the players first enter the room. Instead, the room is noticeably colder than the surrounding rooms, though not quite freezing.
+When the players enter this area, read:
+
+<div class="description">
+<p>This kitchen has been plundered, its tables overturned. The floor is littered with rusted utensils and smashed crockery. Narrow windows flanking a hearth look out over a cemetery. A closed iron pot hangs from a hook inside the blackened fireplace.</p>
+</div>
+
+The room is noticeably colder than the surrounding rooms, though not quite freezing.
 
 If a player approaches or crosses in front of the fireplace, read:
 
@@ -403,7 +475,13 @@ If a player removes the pot’s lid, Zorya—in the form of a wisp of silvery mi
 ### Servants’ Quarters
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q9.</em></span>
 
-This area is as described in <span class="citation">Q9. Servants’ Quarters (p. 133).</span> 
+When the players enter this area, read:
+
+<div class="description">
+<p>Tattered brown drapes cover the windows of this circular room, and a heavy curtain hangs across an archway to the south. Strewn about the floor is the wreckage of half a dozen beds and other pieces of furniture.</p>
+</div>
+
+The room contains nothing of value. Beyond the curtain lies the kitchen.
 
 If the players have previously encountered Zorya in the [[#Kitchen]], the room’s temperature is noticeably lower than the nearby rooms and Zorya is hiding beneath the frame of the northeastern bed.
 
@@ -413,7 +491,13 @@ If a player moves the bed skirts to reveal Zorya’s hiding place, Zorya—in th
 ### Parlor
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q7.</em></span>
 
-This area is as described in <span class="citation">Q7. Parlor (p. 133).</span>
+When the players enter this area, read:
+
+<div class="description">
+<p>Tattered velvet drapes cover the tall, slender windows that encircle this parlor. The furnishings are covered with dust and cobwebs, and lie in disarray. A damaged brass chandelier hangs from the ceiling, which is covered with a faded mural that depicts metallic dragons and colorful birds flying beneath white clouds.</p>
+</div>
+
+Time and neglect have damaged the furnishings, leaving nothing of value.
 
 If the players have previously encountered Zorya in the [[#Servants’ Quarters]], the room’s temperature is noticeably lower than the nearby rooms and Zorya is hiding behind the drapes of the western window.
 
@@ -423,7 +507,13 @@ If a player moves the drapes to reveal Zorya’s hiding place, Zorya—again in 
 ### Dragon’s Den
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q6.</em></span>
 
-This area is largely as described in <span class="citation">Q6. Dragon’s Den (p. 132).</span> However, the living fire doesn't appear as they approach the fireplace.
+When the players enter this area, read:
+
+<div class="description">
+<p>This wood-paneled den has been ransacked, its furnishings tossed about. A cold, dark hearth dominates the west wall between two narrow windows. Standing upright against the north wall is a sarcophagus made of black wood with a queen’s effigy carved into its lid.</p>
+</div>
+
+Argynvost had the empty sarcophagus converted into a wine cabinet. Now, only shattered wineglasses and decanters are to be found on the shelves. The den’s other furnishings include rotted divans, broken chairs, overturned ottomans, and smashed oil lamps. A secret door at the north end of the east wall can be pushed open to reveal a storage room. The living fire doesn’t appear when the players approach the fireplace.
 
 If the players have previously encountered Zorya in the [[#Parlor]], the room’s temperature is noticeably lower than the nearby rooms and Zorya is hiding within the wine-cabinet sarcophagus, concealed within a decanter made of frosted glass.
 
@@ -502,11 +592,13 @@ Once befriended in this way, Zorya remains with the players while they remain wi
 ### Wine Storage
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q11.</em></span>
 
-This area is largely as described in <span class="citation">Q11. Wine Storage (p. 133).</span> However, the dusk elf Savid is not present. Instead, add the following text to the end of this area’s description:
+When the players enter this area, read:
 
 <div class="description">
-<p>An old purple stain covers much of the far half of the stone floor, faded and discolored with age. A rusted crowbar sits against the wall not far away.</p>
-</div> 
+<p>Five barrels lie in wooden braces along the walls of this dark, moldy storage room. An old purple stain covers much of the far half of the stone floor, faded and discolored with age. A rusted crowbar sits against the wall not far away.</p>
+</div>
+
+The wine in the barrels turned to vinegar and evaporated long ago. Emblazoned on the barrels' sides are the name of the winery, the Wizard of Wines, and the name of the wine, Champagne du le Stomp. A secret door at the north end of the west wall can be pulled open to reveal the den.
 
 A player who inspects the stain and succeeds on a DC 12 Intelligence (Investigation) check determines that it appears to have originated from the northeastern barrel.
 
@@ -519,7 +611,13 @@ The northeastern barrel appears to be empty. However, a player who uses the crow
 ## M4c. Spiders’ Ballroom
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q4.</em></span>
 
-This area is largely as described in <span class="citation">Q4. Spider's Ballroom (p. 132).</span> However, replace two of the **giant spiders** with a pair of **phase spiders** lurking in the Ethereal Plane, which emerge into the Material Plane and attack when all **giant spiders** have been defeated.
+When the players enter this area, read:
+
+<div class="description">
+<p>Rubble is strewn throughout much of this vast chamber, caused by the partial collapse of the rooms above it. On the pink marble floor, fallen chandeliers lie amid broken chairs and other furnishings. Thick webs stretch from wall to wall, and moving among them are too many giant spiders to count!</p>
+</div>
+
+Seven **giant spiders** nest here. They attack anyone who gets too close. However, replace two of the **giant spiders** with a pair of **phase spiders** lurking in the Ethereal Plane, which emerge into the Material Plane and attack when all **giant spiders** have been defeated.
 
 > [!combat]- **Combat - The Spiders' Ballroom**  
 > **Combat Level**: Bruising (first wave), Mild (second wave)
@@ -569,23 +667,41 @@ The satchel, which appears to have had its leather strap forcibly torn off, cont
 ## M4d. Exterior
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q5 and Q8.</em></span>
 
-These areas are as described in <span class="citation">Q5. Ruined Stable (p. 132)</span> and <span class="citation">Q8. Iron Gate (p. 133).</span>
+***Ruined Stable.*** The ruined stable contains the blackened beams of a wooden stable, burned to its stone foundation. Looming above the wreckage is the partially collapsed south end of the mansion, all three of its floors exposed to the elements. There is nothing of value in the stable.
+
+***Iron Gate.*** An iron gate, chained shut, closes off a 10-foot-tall archway on the north wall of the mansion. The key to the chain's padlock was lost long ago, but the lock can be picked by someone who uses thieves' tools and makes a successful DC 20 Dexterity check. The old lock can be smashed by a character who uses a bludgeoning or slashing weapon on it and makes a successful DC 15 Strength check. Ten-foot-high flights of stone steps to the west and east of the archway lead up to landings and doors that provide access to the parlor and the servants' quarters.
 # M5. Second Floor
 ## M5a. Central Hall
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q17, Q18, Q20, Q21, Q22, and Q23.</em></span>
 
-The west staircases, balconies, south alcove, north alcove, bathroom, and storage room are largely as described in <span class="citation">Q17. West Staircases (p. 135)</span>, <span class="citation">Q18. Balconies (p. 135)</span>, <span class="citation">Q20. South Alcove (p. 135)</span>, <span class="citation">Q21. North Alcove (p. 135)</span>, <span class="citation">Q22. Bathroom (p. 135)</span>, and <span class="citation">Q23. Storage Room (p. 135)</span>.
+***West Staircases.*** These dusty, five-foot-wide spiral staircases connect the second-floor balconies to the third floor.
 
-However, no illusion appears in <span class="citation">Q20. South Alcove (p. 135)</span>. Additionally, instead of an alabaster bust of a human, the cloth covers an alabaster sculpture of a dragon wyrmling holding a brazier filled with alabaster “fire."
+***Balconies.*** Two stone balconies flank the main foyer. Balusters carved to resemble knights in shining armor support their elegantly carved stone railings. Weapons and shields festoon the walls along each of these walkways, while alabaster busts of handsome men flank hallways that lead north and south away from the foyer. At the west end of each balcony is an archway that leads to a spiral staircase going up. The balcony is 20 feet above the floor of the foyer. The weapons and shields hanging on the walls are nonmagical. The busts, displayed atop wooden pedestals, depict various human guises of the dragon Argynvost. Their eyes seem to watch the characters as they walk by, but the effect is an optical illusion.
+
+***South Alcove.*** A red velvet curtain hangs in front of an alcove in the southeast corner of this hall. It ripples ever so slightly due to a broken glass pane in one of the narrow windows, through which a slight breeze passes. Behind the curtain, a black cloth covers something atop a white marble pedestal. Beneath the black cloth is an alabaster sculpture of a dragon wyrmling holding a brazier filled with alabaster “fire.”
+
+***North Alcove.*** A red velvet curtain hangs in front of an alcove in the northeast corner of this hall. The alcove is empty except for the narrow windows in the back walls. Whenever the characters part the curtain and leave, the curtain is closed when they return. Only by removing the curtain from its rod can they prevent the curtain from closing on its own.
+
+***Bathroom.*** The room contains an iron tub and has wood paneling on the walls that rises to a height of three feet. Above the paneling, the walls are painted with a continuous, faded mural of a mountainscape. The mural accurately depicts the Balinok Mountains.
+
+***Storage Room.*** Rainwater seeps through cracks in the ceiling and flows into a pool on the sagging wooden floor. The pool fills about half the room. Bare stone shelves line the walls. This room has been thoroughly looted. The wooden floor is soft and spongy, and it can't support more than 100 pounds of weight. If more weight is applied, the floor collapses, and any creature in the room falls 20 feet, taking damage as normal and landing in the dining hall below.
 ## M5b. Northern Chambers
 ### Guest Rooms
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q26 and Q29.</em></span>
 
-These areas are largely as described in <span class="citation">Q26. Northeast Guest Room (p. 136)</span> and <span class="citation">Q29. Northwest Guest Room (p. 136)</span>. However, no dragon appears in the fireplace when the players approach.
+***Northeast Guest Room.*** Two beds with torn canopies stand against opposite walls with a tattered rug lying on the floor between them. Set into the far wall is a fireplace black with soot. No dragon appears in the fireplace when the players approach.
+
+***Northwest Guest Room.*** The contents of this room are draped in cobwebs. Between curtained windows stands a black marble hearth with a sculpted mantelpiece, above which hangs a framed portrait of a handsome, well-dressed man with a wry smile and a thick mane of thistledown hair. Opposite the fireplace is a large bed with a rotting mattress and wooden posts carved to resemble dragons. Across from the double doors stands a tall wardrobe, its doors hanging open, revealing a dark and empty cavity. The only other piece of furniture is an overstuffed leather chair that faces the hearth. The portrait depicts the silver dragon Argynvost in its guise as the human noble Lord Argynvost. No dragon appears in the fireplace when the players approach.
 ### Trapped Hallway
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q25.</em></span>
 
-This area is largely as described in <span class="citation">Q25. Trapped Hallway (p. 136)</span>. However, the hallway is noticeably colder than the surrounding areas.  In addition, no **phantom warriors** reside within <span class="citation">Q27. Knights’ Quarters (p. 136)</span> and <span class="citation">Q28. Knights’ Quarters (p. 136)</span>, whose doors remain locked. Finally, there is no *wall of stone* trap.
+When the players enter this area, read:
+
+<div class="description">
+<p>This T-shaped hallway has branches to the west, east, and south. Three arched windows in the north wall look out over the foggy grounds.</p>
+</div>
+
+The ceiling in the hall is 20 feet high. The hallway is noticeably colder than the surrounding areas. The wooden doors to <span class="citation">Q27. Knights’ Quarters (p. 136)</span> and <span class="citation">Q28. Knights’ Quarters (p. 136)</span> are locked, requiring a successful DC 20 Strength check to break down. No **phantom warriors** reside within those rooms, and there is no *wall of stone* trap.
 
 Instead, when the players first attempt to open one of the doors leading to <span class="citation">Q27. Knights’ Quarters (p. 136)</span> or <span class="citation">Q.28 Knights’ Quarters (p. 136)</span>, five **phantom warriors** use their ***etherealness*** feature to emerge from the Ethereal Plane, three rising from beneath the floor behind the players, and two passing through the surface of the door the players attempted to enter. Modify the phantom warriors' statistics as follows:
 
@@ -626,7 +742,9 @@ When the **phantom warriors** are defeated, any surviving **specters** warmly no
 ### Knights’ Quarters
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q27 and Q28.</em></span>
 
-These areas are largely as described in <span class="citation">Q27. Knights’ Quarters (p. 136)</span> and <span class="citation">Q28. Knights’ Quarters (p. 136)</span>. However, the four *potions of invulnerability* in <span class="citation">Q28. Knights’ Quarters (p. 136)</span> are instead *potions of greater healing* (<span class="citation">Dungeon Master’s Guide, p. 187</span>).
+***Q27. Knights’ Quarters.*** This room is littered with the wreckage of ancient bunk beds. Five dirt-caked windows allow precious little light to enter, and between them are four empty armor stands. Empty torch sconces line the walls.
+
+***Q28. Knights’ Quarters.*** Tattered and faded drapes cover the windows of this circular room, and empty torch sconces line the walls. Broken bunk beds and armor stands are strewn on the floor. Buried under the wreckage is a small wooden coffer containing four *potions of greater healing* (<span class="citation">Dungeon Master’s Guide, p. 187</span>). A search of the room yields this lost cache.
 
 In addition, <span class="citation">Q27. Knights’ Quarters (p. 136)</span> is haunted by the spirit of Minodora Taltos, a **poltergeist** that once served as a clerk to the Order of the Silver Dragon in the war against Strahd. When the players first enter this room, read:
 
@@ -670,7 +788,13 @@ Minodora is glad to provide the players with directions to Brother Marek’s pre
 ## M5c. Southern Chambers
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q19.</em></span>
 
-This area is largely as described in <span class="citation">Q19. Ruined Bedchambers (p. 135)</span>. However, add the following text to the end of the western room’s description:
+There are two of these rooms. When the players enter either room, read:
+
+<div class="description">
+<p>The south end of this room has collapsed, exposing the chamber to the elements. A few furnishings lie broken under fallen debris from the level above.</p>
+</div>
+
+The wooden floor creaks underfoot. Although it is safe to walk on, doing so attracts the giant spiders from the ballroom below. The floor here is 20 feet above the floor of the ballroom. Additionally, add the following text to the end of the western room’s description:
 
 <div class="description">
 <p>Long, thick webs stretch from the eastern wall, down past the collapsed floor to the space below. Something seems to be protruding from the wall behind the webbing.</p>
@@ -688,13 +812,21 @@ A creature must succeed on a DC 11 Dexterity (Stealth) check, made with disadvan
 ## M5d. Upper Chapel
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q14 and Q24.</em></span>
 
-These areas are as described in <span class="citation">Q14. Chapel Staircases (p. 134)</span> and <span class="citation">Q24. Chapel Balcony (p. 136)</span>. However, the chapel below is as described in [[#M3c. Chapel of Morning]].
+***Chapel Staircases.*** Narrow windows allow dim light to enter these five-foot-wide spiral staircases. The staircases lead from the chapel to the chapel's balcony and climb another 20 feet to a small, empty room with a window that looks down on the chapel.
+
+***Chapel Balcony.*** This wooden balcony overhangs the mansion's chapel. An exquisitely carved wooden throne rests at the west end between two doors, and narrow archways lead to spiral staircases going up and down. Hanging from the high ceiling is an iron chandelier with candle holders shaped like tiny silver dragons. A wooden railing surrounds the balcony, which is 20 feet above the floor of the chapel. The chapel below is as described in [[#M3c. Chapel of Morning]].
 # M6. Third Floor
 ## M6a. Halls of the Order
 #### Knights of the Order
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q37 and Q38 (p. 139).</em></span>
 
-These areas are largely as described in <span class="citation">Q37 Knights of the Order (p. 139)</span> and <span class="citation">Q38. Closet (p. 139)</span>. However, remove the final sentence of the area’s description. (No **revenants** sit in the chairs around the table.) Instead, add the following to the end of this area’s description:
+When the players enter this area, read:
+
+<div class="description">
+<p>Through the dust and cobwebs, you see faded war banners adorning the walls of a spacious chamber, in the center of which stands a heavy wooden table. An iron chandelier hangs above the table, which is surrounded by six high-backed chairs with wood-carved dragons perched atop them.</p>
+</div>
+
+No **revenants** sit in the chairs around the table. A dusty closet adjoins the room, with a slender window set into the north wall; the closet is otherwise empty. Characters who inspect the fireplace notice a shield-shaped patch on the wall above the mantelpiece. A magic shield once hung there, but it was taken when Strahd’s soldiers plundered the mansion. Additionally, read:
 
 <div class="description">
 <p>An inscription appears to be carved into the wood around the circumference of the table.</p>
@@ -711,7 +843,13 @@ The inscription is written in elegant calligraphy and interwoven with aged, intr
 #### Vladimir’s Bedroom
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q39.</em></span>
 
-This area is largely as described in <span class="citation">Q39. Vladimir’s Bedroom (p. 140)</span>. However, remove the four sentences describing the bear, the dire wolf, and the empty chest. Instead, add the following text to the end of the area’s description:
+When the players enter this area, read:
+
+<div class="description">
+<p>Light enters this circular room through five cracked windows. The light falls on a large, dust-covered bed in the center of the room, its posts topped with wood-carved dragons.</p>
+</div>
+
+This room once served as a bedchamber for Sir Vladimir Horngaard and Sir Godfrey Gwilym. Additionally, read:
 
 <div class="description">
 <p>An old portrait hangs on the wall above the bed.</p>
@@ -730,7 +868,15 @@ A player who studies the portrait and succeeds on a DC 15 Wisdom (Perception) ch
 #### Argynvost’s Study
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q40 and Q41.</em></span>
 
-These areas are largely as described in <span class="citation">Q40. Argynvost’s Study (p. 140)</span> and <span class="citation">Q41. Dragon’s Vault (p. 140)</span>. However, the copy of *The Oath Celestial* is no longer present. In addition, the slashed picture is nonmagical, and repairing it has no additional effect.
+When the players enter the study, read:
+
+<div class="description">
+<p>This room is a haven for dust and cobwebs. Three narrow windows allow slivers of light to illuminate bare oak shelves along the walls and a torn, padded chair lying on its side near a cavernous hearth. A picture above the mantel has been slashed, its lower half hanging down below the frame like a torn piece of flesh. An iron door set in the south corner of the west wall hangs open on one hinge.</p>
+</div>
+
+Strahd’s soldiers forced open the iron door that once sealed the vault. They also took every book in this study. The iron door leading to the vault hangs open on a single rusty hinge. It has obviously been forced open and no longer closes properly. The walls of the vault are lined with lead; emptied chests and shattered vases lie strewn upon the floor, their contents plundered.
+
+The copy of *The Oath Celestial* is no longer present in the study. The slashed picture is nonmagical, and repairing it has no additional effect.
 
 Revise Argynvost’s journal page to read as follows:
 
@@ -803,7 +949,13 @@ The scroll is a letter and reads as follows:
 #### Argynvost’s Bedroom
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q42.</em></span>
 
-This area is largely as described in <span class="citation">Q42. Argynvost’s Bedroom (p. 140)</span>. However, add the following text to the end of this area’s description:
+When the players enter this area, read:
+
+<div class="description">
+<p>Rich drapes, faded by time and neglect, hide the windows of this otherwise empty room.</p>
+</div>
+
+Argynvost preferred to sleep in his dragon form, and thus there is no furniture here. Additionally, read:
 
 <div class="description">
 <p>Several empty stone shelves dot the walls between the windows.</p>
@@ -814,12 +966,14 @@ This area is largely as described in <span class="citation">Q42. Argynvost’s B
 ## M6b. Collapsed Ceiling & Audience Hall
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q33 and Q36.</em></span>
 
-These areas are largely as described in <span class="citation">Q33. Collapsed Ceiling (p. 138)</span> and <span class="citation">Q36. Dragon’s Audience Hall (p. 138)</span>. However, Vladimir Horngaard is not in the throne in <span class="citation">Q36. Dragon’s Audience Hall</span>, and no **phantom warriors** linger there.
+***Collapsed Ceiling.*** The roof over this part of the mansion has collapsed, creating a twenty-foot-diameter gaping hole with broken rafters bisecting it. Dark storm clouds roll across the sky overhead. The floor is piled with rocks, broken tiles, shattered beams, and other debris. Beneath the rubble lie a sagging floor and puddles of rainwater. The ceiling here is 20 feet high, and the rubble is difficult terrain.
+
+***Dragon’s Audience Hall.*** The west wall of this fifty-foot-long, thirty-foot-wide audience hall has crumbled, leaving a gaping hole and a pile of rubble. Weapons and shields that once hung from the walls have fallen to the floor and succumbed to rust. A large, wooden throne carved to resemble a dragon with unfolding wings faces three tall windows to the west. Vladimir Horngaard is not in the throne, and no **phantom warriors** linger here.
 ## M6c. Upstairs Gallery
 ### East Staircases
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q31.</em></span>
 
-This area is as described in <span class="citation">Q31. East Staircases.</span>
+A round-topped wooden door opens to reveal a spiral staircase with narrow windows set into its walls. The stair connects the third floor and the mansion's roof.
 ### Ruined Antechamber
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q34 (p. 138).</em></span>
 
@@ -832,7 +986,13 @@ This area replaces <span class="citation">Q34. Ruined Bathroom (p. 138)</span>. 
 ### Upstairs Gallery
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q35.</em></span>
 
-This area is largely as described in <span class="citation">Q35. Upstairs Gallery (p. 138)</span>. However, add the following text to the end of this area’s description:
+When the players enter this area, read:
+
+<div class="description">
+<p>This room has dark wood paneling on the walls that rises to a height of three feet. Above the paneling, the walls are painted with murals of religious figures performing holy rites. In the center of the west wall is a tattered curtain hanging in an open doorway. Three tall, slender stained-glass windows set into the opposite wall depict figures in white robes with orange sunrises behind their heads.</p>
+</div>
+
+Additionally, read:
 
 <div class="description">
 <p>The left- and right-side windows depict two humans—an older man and a younger woman—kneeling in supplication, while the central window depicts a handsome male angel descending from the heavens between them. The man watches with reverent eyes as the angel bestows a small silver statuette upon the woman, whose eyes are closed in evident prayer. The statuette appears to glow with the same sunlight that encircles the angel’s head.</p>
@@ -898,7 +1058,13 @@ Each torch can be easily removed from its mount. If the players return to the [[
 ## M6d. Southern Chambers
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q32.</em></span>
 
-These areas are as described in <span class="citation">Q32. Ruined Bedchambers (p. 138)</span>.
+These two rooms stand across from each other, separated by a ruined corridor that abruptly ends to the south of their doors. When the players enter either room, read:
+
+<div class="description">
+<p>Most of this chamber has collapsed. The wooden floor is strewn with rubble and falls away into a foggy abyss to the south. The roof overhead is jagged and broken.</p>
+</div>
+
+The floor here is 40 feet above the floor of the ballroom below. The roof is 20 feet overhead.
 # M7. Fourth Floor
 ## M7a. Rooftop
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q43, Q44, Q45, Q46, Q47, Q48, and Q49.</em></span>
@@ -911,15 +1077,29 @@ When the players first exit the <span class="citation">Q31. East Staircases (p. 
 
 The tower is one of <span class="citation">Q52. Beacon Turrets (p. 141)</span>. The spectral figure is one of the two **phantom warriors** that occupy the turrets.
 
-The rooftop is largely as described in <span class="citation">Q43. Hole in Roof (p. 140)</span>, <span class="citation">Q44. Dragon Gargoyle (p. 141)</span>, <span class="citation">Q45. Ancient Ballista (p. 141)</span>, <span class="citation">Q46. Destroyed Ballista (p. 141)</span>, <span class="citation">Q47. Roof Turrets (p. 141)</span>, <span class="citation">Q48. Roof’s Edge (p. 141)</span>), and <span class="citation">Q49. Beacon Tower Door (p. 141)</span>. 
+***Hole in Roof.*** This 20-foot-diameter hole in the mansion’s roof is directly above the collapsed ceiling below. The rubble on the roof surrounding the hole is difficult terrain. The roof is sloped and covered with cracked stone tiles. Climbing the tiled roof requires a successful DC 15 Strength (Athletics) check. A failure by 5 or more causes the climber to slide down to the parapet, landing prone but taking no damage.
 
-However, the dragon gargoyle isn’t magical, and doesn’t whisper aloud when the players pass in front of it. In addition, a player who approaches or inspects <span class="citation">Q46. Destroyed Ballista (p. 141)</span> notices that it appears to have been pointed at <span class="citation">Q53. Beacon of Argynvostholt (p. 142)</span> before its destruction. (A player who succeeds on a DC 15 Wisdom (Perception) check notices that the tower stonework where the destroyed ballista is pointing is broken and crushed, as if gouged by an enormous set of claws.)
+***Dragon Gargoyle.*** Perched on the rooftop overlooking the parapet is a silver-plated gargoyle shaped like a dragon wyrmling. The silver dragon wyrmling statue is 10 feet above the parapet. The dragon gargoyle isn’t magical, and doesn’t whisper aloud when the players pass in front of it.
+
+***Ancient Ballista.*** An ancient ballista, rotted by time and weather, stands behind the battlements on this tower rooftop. The ballista falls apart if disturbed.
+
+***Destroyed Ballista.*** Strewn atop the roof toward the front of the mansion is the wreckage of a ballista. Flanking the wreckage are two stone turrets with conical rooftops and narrow doors. A player who approaches or inspects the destroyed ballista notices that it appears to have been pointed at <span class="citation">Q53. Beacon of Argynvostholt (p. 142)</span> before its destruction. (A player who succeeds on a DC 15 Wisdom (Perception) check notices that the tower stonework where the destroyed ballista is pointing is broken and crushed, as if gouged by an enormous set of claws.)
+
+***Roof Turrets.*** Cobwebs hang from the rafters of each turret, which is empty except for a wooden bench and an iron stove. Arrow slits look down upon the foggy grounds in front of the mansion.
+
+***Roof’s Edge.*** Beyond a ragged edge of stone is a sixty-foot plunge to the rubble-strewn ground below. A few rafters stick out from beneath the stone. The edge of the roof is sturdy enough to walk on and not in danger of further collapse.
+
+***Beacon Tower Door.*** The parapet narrows to a width of ten feet, ending before a sturdy wooden door set into the wall of the eastern tower. This door is barred from the inside.
 
 If the players, while all are wearing garments or gear bearing the insignia of the Order of the Silver Dragon, identify themselves as members or soldiers of the Order and succeed on a DC 11 Charisma (Deception) check, the two **phantom warriors** in <span class="citation">Q52. Beacon Turrets (p. 141)</span> demand the players speak Commander Horngaard's password before allowing them to approach <span class="citation">Q49. Beacon Tower Door (p. 141)</span>. 
 
 If the players fail to speak the password ("From this until the end of days"), or if any of the visible players aren't wearing garments or gear bearing the Order's insignia, the phantom warriors attack the players on sight, making ***spectral longbow*** attacks against any living character within their line of sight. (The **phantom warriors** have 16 (+3) Dexterity, and their ***spectral longbow*** attacks have +5 to hit and deal 7 (1d8 + 3) force damage on a hit.) A character can escape their line of sight by taking cover behind the mansion’s central roof, the turrets containing <span class="citation">Q31. East Staircases (p. 138)</span>, <span class="citation">Q47. Roof Turrets (p. 141)</span>.
 
-The interior of the beacon’s tower is largely as described in <span class="citation">Q50. Beacon, Lower Landing (p. 141)</span>, <span class="citation">Q51. Beacon, Upper Landing (p. 141)</span>, and <span class="citation">Q52. Beacon Turrets (p. 141)</span>, except for the changes to the **phantom warriors** described above. 
+***Beacon, Lower Landing.*** A rickety wooden landing and a staircase cling to the walls of this tower. The stairs lead up to another landing twenty feet above, and the floor of the chapel lies sixty feet below. The landing and the stairs creak and shudder underfoot, but they are safe.
+
+***Beacon, Upper Landing.*** Creaky stairs climb to a wooden landing with three windows that look out over the roof of the mansion. Flanking the windows are two narrow wooden doors. The landing creaks and groans underfoot. The 10-foot-long section marked T on the map is particularly weak, collapsing under 50 or more pounds of weight. A creature on this section of the landing when it collapses must succeed on a DC 15 Dexterity saving throw or fall 20 feet to the landing below. The collapse of this section creates a 10-foot gap in the landing. The doors lead to the rooftops of the turrets.
+
+***Beacon Turrets.*** A stone battlement encloses the roof of each turret. A spiral staircase descends to the level below. These turret rooftops are 80 feet above ground level. The spiral stairs descend 20 feet to archers’ posts -- small rooms with arrow slits. Standing guard in each of the two rooms is a **phantom warrior**, with the changes described above.
 
 In addition, if any characters successfully enter the tower, the **phantom warriors** exit the beacon turrets and engage the characters on the stairs connecting  <span class="citation">Q50. Beacon, Lower Landing (p. 141)</span> and <span class="citation">Q51. Beacon, Upper Landing (p. 141)</span>. When they do, they gain the following additional reaction, which they use in an effort to lure the players onto the trapped landing on <span class="citation">Q51. Beacon, Upper Landing (p. 141)</span>:
 
@@ -929,7 +1109,15 @@ As they fight in melee, the phantom warriors shout: “Begone, soldiers of the D
 ## M7b. Beacon
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q53.</em></span>
 
-This area is largely as described in <span class="citation">Q53. Beacon of Argynvostholt (p. 142)</span>. However, remove the sentence describing the ravens from the area’s description. (No ravens roost here.) Instead, add the following text to the end of the area’s description:
+When the players reach the tower’s peak, read:
+
+<div class="description">
+<p>Wooden stairs climb to the tower’s peak, which has a stone floor and a thirty-foot-high pitched roof. Crisscrossing rafters span the ceiling above, and small holes in the roof let in thin shafts of grey light. Ten-foot-high, five-foot-wide arched windows are evenly spaced around the walls. Each window consists of a lead latticework fitted with small panes of transparent glass.</p>
+</div>
+
+If the players look out the windows, they can see the following: to the north and east lies a mist-shrouded valley with dark woods, a small town, and a lonely windmill on a precipice. To the south, a river flows through a foggy marsh. To the west, between rocky hills, they glimpse an abbey perched on a snowy mountainside beyond a long stretch of fog-smothered pines.
+
+Additionally, read:
 
 <div class="description">
 <p>A small, silver-plated gargoyle, shaped like a dragon wyrmling and holding a tarnished brazier in its claws, crouches on the floor just beside the staircase landing, its wings curled tightly toward itself. Not far away, a knight in old, rusted armor stands by the western window, looking out across the misted landscape far beyond. The blade of a tall, gleaming greatsword rests on the ground beside him, with one of the knight’s rusted iron gauntlets resting upon its hilt.</p>

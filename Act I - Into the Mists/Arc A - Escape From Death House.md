@@ -100,7 +100,7 @@ Read all players the following text:
 
 Any players who began with the ***Barovian Relics*** hook can now see the players who began with the ***Lost in the Mists*** hook, and vice-versa. (If any of the players’ relics flew or rolled to Death House—as with the ***wanderer’s scarf*** or the ***electrum coin***—they land on the house’s threshold, just beyond the portico.) The street is otherwise deserted.
 
-The entrance beyond the portico is otherwise as described in <span class="citation">Entrance (p. 212)</span>.
+The wrought-iron gate filling the portico archway is unlocked, and its rusty hinges shriek when opened. Beyond the oaken doors lies a grand foyer. Hanging on the south wall of the foyer is a shield emblazoned with a coat-of-arms (a stylized golden windmill on a red field), flanked by framed portraits of stony-faced aristocrats — long-dead members of the Durst family. Mahogany-framed double doors leading from the foyer to the main hall are set with panes of stained glass.
 
 > [!lore]+ **Strahd & the Cult**
 >
@@ -112,7 +112,7 @@ The entrance beyond the portico is otherwise as described in <span class="citati
 
 When the players pass through Death House’s threshold, any Barovian relics they carry cease to be active. (For example, the *sunrise medallion* ceases to glow.)
 
-The main hall is largely as described in <span class="citation">Main Hall (p. 212)</span> but now contains a grandfather clock, which is placed in the circular space at the base of the stairs.
+A wide hall runs the width of the house, with a black marble fireplace at one end and a sweeping, red marble staircase at the other. The wood-paneled walls are ornately sculpted with images of vines, flowers, nymphs, and satyrs. Characters who search the walls for secret doors or otherwise inspect the paneling can, with a successful DC 12 Wisdom (Perception) check, see serpents and skulls inconspicuously woven into the wall designs. The decorative paneling follows the staircase as it circles upward to the second floor. A cloakroom off the hall has several black cloaks hanging from hooks on the walls, with a top hat sitting on a high shelf. The hall also now contains a grandfather clock, which is placed in the circular space at the base of the stairs.
 
 Instead of a longsword, the portrait of the Durst family from <span class="citation">Upper Hall (p. 213)</span> now hangs above the fireplace. In the portrait, Thorn is holding a smiling doll wearing a yellow lace dress. A plaque beneath the portrait reads: *Mr. Gustav and Mrs. Elisabeth Durst, with their two children, Rosavalda and Thornboldt.*<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup>
 
@@ -197,7 +197,7 @@ for a celebration of the one-year anniversary of the Durst Mill.
 ### Den of Wolves
 <span class="citation"><em>This scene takes place in Appendix B: Area 3.</em></span>
 
-This room is largely as described in <span class="citation">Den of Wolves (p. 212)</span>. As the players enter this room, read:
+As the players enter this room, read:
 
 <div class="description">
 <p>As you crack the door to this room open, you catch a glimpse of something feral beyond: an amber eye that flashes in the darkness, and a bestial muzzle curled into a snarl.</p>
@@ -213,7 +213,9 @@ If the players proceed, read:
 
 The discarded toys are small, plush gray wolves, whose threadbare coats show evidence of heavy mending and patchwork. Clumsy stitchwork on their stomachs reads ROSE and THORN, respectively.
 
-In addition to its other contents, the east cabinet contains five silvered crossbow bolts mixed in with the other sixty bolts. Meanwhile, the north cabinet also contains a mounted piece of child's needlework that depicts a boy and girl holding the hands of a young woman, alongside clumsily stitched words that read FOR MISS KLARA. The young woman's face has been slashed and cut out.
+The east cabinet sports a lock that can be picked with thieves' tools and a successful DC 15 Dexterity check. It holds a heavy crossbow, a light crossbow, a hand crossbow, and 20 bolts for each weapon — including five silvered crossbow bolts mixed in with the other sixty. The north cabinet is unlocked and holds a small box containing a deck of playing cards, an assortment of wine glasses, and a mounted piece of child's needlework that depicts a boy and girl holding the hands of a young woman, alongside clumsily stitched words that read FOR MISS KLARA. The young woman's face has been slashed and cut out.
+
+A trapdoor is hidden in the southwest corner of the floor. It can't be detected or opened until the characters approach it from the underside (see [[#Hidden Trapdoor]]). Until then, Death House supernaturally hides the trapdoor.
 
 The first time that no players are looking at them, the three taxidermied wolves move. When the players next look at them, the large gray wolf is standing beside the smaller brown wolf, and the first gray wolf has turned its snarl toward the others.
 
@@ -223,24 +225,30 @@ A player that succeeds on a DC 12 Intelligence (Nature) check can identify the l
 
 Players that approach this door can hear the muffled sound of a lively dinner feast, including clinking glasses, quiet laughter, and distant conversation. If the players open or knock on the door, however, the room falls silent, leaving only the stillness and the cold grandeur of the room beyond.
 
-This room is largely as described in <span class="citation">Dining Room (p. 213)</span>. When the players enter it, read:
+When the players enter it, read:
 
 <div class="description">
 <p>You enter into a wood-paneled dining room. The centerpiece is a carved mahogany table surrounded by eight high-backed chairs with sculpted armrests and cushioned seats. A crystal chandelier hangs above the table, which is set with resplendent silverware and crystal glasses polished to a dazzling shine. Mounted above the marble fireplace is a mahogany-framed painting of an alpine vale.</p>
-<p>The wall paneling is carved with elegant images of deer among the trees. Red silk drapes cover the windows, and a tapestry hangs from an iron rod bolted to the south wall.</p>
+<p>The wall paneling is carved with elegant images of deer among the trees. Red silk drapes cover the windows, and a tapestry depicting hunting dogs and horse-mounted aristocrats chasing after a wolf hangs from an iron rod bolted to the south wall.</p>
 <p>The table groans beneath the weight of a delicious-looking feast. Exquisite dishes lay on grand platters: succulent roasted poultry glazed with a shimmering honey sauce, perfectly grilled cuts of beef still steaming lightly, a variety of cheeses and fresh fruits, and freshly baked breads giving off a comforting aroma. </p>
 </div>
+
+Characters who search the walls for secret doors or otherwise inspect the paneling can, with a successful DC 12 Wisdom (Perception) check, see twisted faces carved into the tree trunks and wolves lurking amid the carved foliage. The silverware tarnishes, the crystal cracks, the portrait fades, and the tapestry rots if removed from the house.
 
 A player who partakes in the food suffers no ill effects.
 ### Kitchen and Pantry
 <span class="citation"><em>This scene corresponds to Appendix B: Area 4.</em></span>
 
-This room is largely as described in <span class="citation">Kitchen and Pantry (p. 213)</span>. When the players enter this room, read:
+When the players enter this room, read:
 
 <div class="description">
 <p>You enter a tidy kitchen, with dishware, cookware, and utensils neatly placed on shelves. A worktable has a cutting board and rolling pin atop it. A stone, dome-shaped oven stands near the east wall, its bent iron stovepipe connecting to a hole in the ceiling. Behind the stove and to the left is a thin door.</p>
 <p>In the front right-hand corner of the room stands a small wooden door set into the wall.</p>
 </div>
+
+The thin door leads to a well-stocked pantry. All the food in the pantry appears fresh but tastes bland.
+
+The small wooden door in the corner conceals a dumbwaiter — a 2-foot-wide stone shaft containing a wooden elevator box attached to a simple rope-and-pulley mechanism that must be operated manually. The shaft connects to the servants' quarters and the master bedroom. Hanging on the wall next to the dumbwaiter is a tiny brass bell attached by wires to buttons in those other areas. A Small character can squeeze into the elevator box with a successful DC 10 Dexterity (Acrobatics) check. The dumbwaiter's rope-and-pulley mechanism can support 200 pounds of weight before breaking.
 
 If the players inspect the cookware, they find that the largest kitchen knife is missing.
 
@@ -260,7 +268,7 @@ If the players read the note, one of the knives in the kitchen flies off of its 
 ### Upper Hall
 <span class="citation"><em>This scene takes place in Appendix B: Area 6.</em></span>
 
-This room is largely as described in <span class="citation">Upper Hall (p. 213)</span>. When the players enter this room, read:
+When the players enter this room, read:
 
 <div class="description">
 <p>Unlit oil lamps are mounted on the walls of this elegant hall. Hanging above the mantelpiece is a longsword with a windmill cameo worked into the hilt.</p>
@@ -268,15 +276,19 @@ This room is largely as described in <span class="citation">Upper Hall (p. 213)<
 <p>The red marble staircase continues its upward spiral to a third floor, a cold draft whispering down from above.</p>
 </div>
 
+Characters who inspect the doors more closely can, with a successful DC 12 Wisdom (Perception) check, see that the carved youths aren’t really dancing but fighting off swarms of bats.
+
 ### Servants’ Room
 <span class="citation"><em>This scene takes place in Appendix B: Area 7.</em></span>
 
-This room is largely as described in <span class="citation">Servants’ Room (p. 213)</span>. When the players enter this room, read:
+When the players enter this room, read:
 
 <div class="description">
 <p>This undecorated bedroom contains a pair of beds with straw-stuffed mattresses. At the foot of each bed is a closed foot locker. A door to the left appears to lead to a closet.</p>
 <p>In the right-hand corner stands a small wooden door, a metal button set into the wall beside it. A basket full of unwashed laundry appears to have been left beside it.</p>
 </div>
+
+The small wooden door conceals a dumbwaiter with a button on the wall next to it. Pressing the button rings the tiny bell in the kitchen.
 
 The basket contains a man's laundry, including fine suits, tunics, neckties, pants, and stockings. However, a single, much-smaller woman's slip appears to have been mixed in with the rest.
 ### Conservatory
@@ -284,11 +296,11 @@ The basket contains a man's laundry, including fine suits, tunics, neckties, pan
 
 Players that approach this door can hear the faint sound of a harpsichord playing from beyond the doors. If the players open or knock on the door, however, the music falls silent.
 
-This room is largely as described in <span class="citation">Conservatory (p. 214)</span>. When the players enter it, read:
+When the players enter it, read:
 
 <div class="description">
 <p>You enter into an elegantly appointed hall, the windows of which are covered by gossamer drapes. A brass-plated chandelier hangs from the ceiling, and upholstered chairs line the walls. </p>
-<p>Several stained-glass wall hangings depict beautiful men, women, and children singing and playing instruments. A harpsichord with a bench rests in the northwest corner. Near the fireplace is a large standing harp. Alabaster figurines of well-dressed dancers adorn the mantelpiece. </p>
+<p>Several stained-glass wall hangings depict beautiful men, women, and children singing and playing instruments. A harpsichord with a bench rests in the northwest corner. Near the fireplace is a large standing harp. Alabaster figurines of well-dressed dancers adorn the mantelpiece. Close inspection reveals that several of the figurines are carvings of well-dressed skeletons.</p>
 </div>
 
 ***The Harpsichord.*** A player who inspects the harpsichord finds that one of the keys appears to be permanently pressed in the "down" position. A player who investigates the interior of the harpsichord finds the cause: a rolled-up piece of parchment tucked beneath one of the strings. 
@@ -309,7 +321,7 @@ Playing *Waltz for Klara* also causes the bookshelf—not the door behind it—i
 ### Library
 <span class="citation"><em>This scene takes place in Appendix B: Area 8.</em></span>
 
-This room is largely as described in <span class="citation">Library (p. 213-14)</span>. When the players enter this room, read:
+When the players enter this room, read:
 
 <div class="description">
 <p>Red velvet drapes cover the windows of this room. An exquisite mahogany desk and a matching high-back chair face the entrance and the fireplace, above which hangs a framed picture of a windmill perched atop a rocky crag. Situated in corners of the room are two overstuffed chairs. </p>
@@ -327,7 +339,9 @@ This room is largely as described in <span class="citation">Library (p. 213-14)<
 <p>Klara</p>
 </div>
 
-The top drawer of the desk now contains a number of receipts for candles, daggers, and incense, rather than the key to [[#Children’s Room]].
+In addition to the note, the desk holds an oil lamp, a jar of ink, a quill pen, a tinderbox, and a letter kit containing a red wax candle, four blank sheets of parchment, and a wooden seal bearing the Durst family’s insignia (a windmill). The top drawer of the desk now contains a number of receipts for candles, daggers, and incense, rather than the key to [[#Children’s Room]].
+
+The bookshelves hold hundreds of tomes covering a range of topics including history, warfare, and alchemy, as well as several shelves containing first-edition collected works of poetry and fiction. The books rot and fall apart if taken from the house.
 
 A character that searches the room for 1 minute and succeeds on a DC 15 Wisdom (Perception) check can see flickering candle light emanating from beneath the secret door.<sup><a href="https://www.reddit.com/r/dndnext/comments/49bvms/notes_from_running_death_house/">4</a></sup>
 
@@ -335,7 +349,7 @@ A character that searches the room for 1 minute and succeeds on a DC 15 Wisdom (
 >
 > As the players explore Death House and the many secret places within the land of Barovia, don't forget the **Multiple Ability Checks** rule (<span class="citation">Dungeon Master's Guide, p. 237</span>). For example, a player who searches the library can take 10 minutes to automatically succeed on the check.
 
-***The Secret Door.*** The secret door in this room has two components. First, a player must pull on the switch as described in <span class="citation">Secret Door (p. 214)</span>. Doing so causes the bookshelf to swing forward, revealing a blank wooden wall behind it. 
+***The Secret Door.*** The secret door in this room has two components. First, a player must pull on a switch disguised to look like a red-covered book with a blank spine. A character inspecting the bookshelf spots the fake book with a successful DC 13 Wisdom (Perception) check. Pulling the switch causes the bookshelf to swing forward, revealing a blank wooden wall behind it. (Unless propped open, springs in the hinges cause the bookshelf to close on its own.) 
 
 Once the bookshelf has been moved, the players can see a small panel made of dark wood behind it, built into the wall at approximately chest level. A small hollow niche, jagged and irregular, lies at the panel's center and emanates a faint amber glow. 
 
@@ -343,13 +357,17 @@ The door cannot be opened unless the amber shard from the [[#Master Suite]] is p
 ### Secret Room
 <span class="citation"><em>This scene takes place in Appendix B: Area 9.</em></span>
 
-This room is largely as described in <span class="citation">Secret Room (p. 214)</span>. When the players enter this room, read:
+When the players enter this room, read:
 
 <div class="description">
 <p>This small hidden room is packed with bookshelves groaning with old and ominous-looking leather-bound tomes. A heavy wooden chest with clawed iron feet stands against the south wall, its lid half-closed. Sticking out of the chest, its ribs and head caught beneath the lid, is a skeleton in leather armor.</p>
 </div>
 
-The chest no longer contains the deed to Old Bonegrinder. Additionally, change Strahd’s letter to read as follows:
+The bookshelves contain tomes describing fiend-summoning rituals and the necromantic rituals of a cult called the Priests of Osybus. The rituals are bogus, which any character can ascertain after studying the books for 1 hour and succeeding on a DC 12 Intelligence (Arcana) check.
+
+Close inspection of the skeleton reveals that it belongs to a human adventurer who triggered a poisoned dart trap — three darts are stuck in the skeleton’s armor and ribcage. The dart-firing mechanism inside the chest no longer functions.
+
+Clutched in the skeleton’s left hand is a letter bearing the seal of Strahd von Zarovich. The chest no longer contains the deed to Old Bonegrinder. The letter reads as follows:
 
 <div class="description">
 <p>My most pathetic servant,</p>
@@ -369,12 +387,14 @@ As the players ascend the spiral stairs to the third floor, remind them that the
 ### Balcony
 <span class="citation"><em>This scene takes place in Appendix B: Area 11.</em></span>
 
-This room is largely as described in <span class="citation">Balcony (p. 214)</span>. When the players enter this room, read:
+When the players enter this room, read:
 
 <div class="description">
 <p>You climb the red marble staircase to its full height, arriving at a dusty balcony. The air here is dry and musty, but tinged with a strange, coppery scent. </p>
 <p>A suit of black plate armor stands against one wall, draped in cobwebs and marked by age. Oil lamps are mounted on the faded oak-paneled walls, which are carved with woodland scenes of trees, falling leaves, and tiny beasts.</p>
 </div>
+
+Characters who search the walls for secret doors or otherwise inspect the paneling can, with a successful DC 12 Wisdom (Perception) check, notice tiny corpses hanging from the trees and worms bursting up from the ground.
 
 When triggered, the **animated armor** will use one or both of its **_multiattack_** attacks to attempt to push a player over the railing using a ***shove*** attack, or attempt to grapple its nearest target before shoving them prone.
 
@@ -415,7 +435,7 @@ When a player first approaches this door, read:
 <p>And then, just as suddenly as it appeared, the shadow evaporates. The biting cold ebbs away, and the house's quiet sounds return once more.</p>
 </div>
 
-This room is largely as described in <span class="citation">Master Suite (p. 214)</span>. When the players enter this room, read:
+When the players enter this room, read:
 
 <div class="description">
 <p>You enter a dusty, cobweb-filled master bedroom with burgundy drapes covering the windows. A four-poster bed with embroidered curtains and tattered gossamer veils stands against the center wall.</p>
@@ -444,11 +464,11 @@ See **Elisabeth's Amber Shard** in [[#Ritual Chamber]] below for more informatio
 ### Bathroom
 <span class="citation"><em>This scene takes place in Appendix B: Area 13.</em></span>
 
-This room is as described in <span class="citation">Bathroom (p. 215)</span>.
+This dark room contains a wooden tub with clawed feet, a small iron stove with a kettle resting atop it, and a barrel under a spigot in the east wall. A cistern on the roof used to collect rainwater, which was borne down a pipe to the spigot; however, the plumbing no longer works.
 ### Storage Room
 <span class="citation"><em>This scene takes place in Appendix B: Area 14.</em></span>
 
-This room is largely as described in <span class="citation">Storage Room (p. 215)</span>. When the players enter it, read:
+When the players enter it, read:
 
 <div class="description">
 <p>Dusty shelves line the walls of this room. A few of the shelves have folded sheets, blankets, and old bars of soap on them. A cobweb-covered broom leans against the far wall.</p>
@@ -458,7 +478,7 @@ When a player first approaches within 5 feet of the **broom of animated attack**
 ### Nursemaid’s Suite
 <span class="citation"><em>This scene takes place in Appendix B: Area 15.</em></span>
 
-This room is largely as described in <span class="citation">Nursemaid’s Suite (p. 217)</span>. When the players enter it, read:
+When the players enter it, read:
 
 <div class="description">
 <p>Dust and cobwebs shroud this elegantly appointed bedroom. A large bed stands against the far wall, its once-opulent coverings now faded and threadbare. </p>
@@ -499,7 +519,7 @@ If the players ask the spirit for aid in reaching the basement or finding the �
 ### Attic Hall
 <span class="citation"><em>This scene takes place in Appendix B: Area 16.</em></span>
 
-This room is largely as described in <span class="citation">Attic Hall (p. 215)</span>. When the players enter this room, read:
+When the players enter this room, read:
 
 <div class="description">
 <p>This bare hall is choked with dust and cobwebs. Several doors lead from this attic corridor, including a door held shut with a padlock.</p>
@@ -510,7 +530,7 @@ The door leads to the [[#Spare Bedroom]].
 ### Spare Bedroom
 <span class="citation"><em>This scene takes place in Appendix B: Area 17.</em></span>
 
-This room is largely as described in <span class="citation">Spare Bedroom (p. 215)</span>. The doll from Children’s Room (p. 215-16) can be found here. When the players first enter it, read:
+When the players first enter it, read:
 
 <div class="description">
 <p>This cold, dust-choked room contains a slender bed, a nightstand, a small iron stove, a writing desk with a stool, an empty wardrobe, and a rocking chair. A frowning doll in a lacy yellow dress sits in the northern window box beside a tarnished old music box, cobwebs draping it like a wedding veil.</p>
@@ -529,7 +549,13 @@ As the players exit the room, the rocking chair begins to rock softly and the mu
 ### Children’s Room
 <span class="citation"><em>This scene takes place in Appendix B: Area 20.</em></span>
 
-This room is largely as described in **Children’s Room** (p. 215-16).
+The door to this room is locked from the outside (see [[#Attic Hall]] for details). When the players enter, read:
+
+<div class="description">
+<p>This room contains a bricked-up window flanked by two dusty, wood-framed beds sized for children. Closer to the door is a toy chest with windmills painted on its sides and a dollhouse that is a perfect replica of the dreary edifice in which you stand. These furnishings are draped in cobwebs. Lying in the middle of the floor are two small skeletons wearing tattered but familiar clothing. The smaller of the two cradles a stuffed doll that you also recognize.</p>
+</div>
+
+The Durst children, Rose and Thorn, were neglected by their parents and locked in this room until they starved to death. Their small skeletons lie in the middle of the floor, wearing tattered clothing that the characters recognize as belonging to the children. Thorn’s skeleton cradles the boy’s stuffed doll. The toy chest contains an assortment of stuffed animals and toys. Characters who search the dollhouse and succeed on a DC 15 Wisdom (Perception) check find all of the house’s secret doors, including one in the attic that leads to a spiral staircase (a miniature replica of the [[#Secret Stairs]]).
 
 ![[Rose and Thorn.png]]
 <span class="credit">"Rose & Thorn" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -586,7 +612,7 @@ A player possessed by Rose can cast the cantrips in her diary, while a player po
 ### Storage Room
 <span class="citation"><em>This scene takes place in Appendix B: Area 18.</em></span>
 
-This room is largely as described in <span class="citation">Storage Room (p. 215)</span>. When the players enter this room, read:
+When the players enter this room, read:
 
 <div class="description">
 <p>This dusty chamber is packed with lumpy, squat shapes draped in dusty white sheets. An old iron stove stands against the right-side wall, next to what looks to be a large trunk covered by a sheet.</p>
@@ -598,11 +624,11 @@ A player inspecting the remains feels a cold breath on their shoulder and the un
 ### Guest Bedroom
 <span class="citation"><em>This scene takes place in Appendix B: Area 19.</em></span>
 
-This room is as described in <span class="citation">Spare Bedroom (p. 215)</span>.
+This web-filled room contains a slender bed, a nightstand, a rocking chair, an empty wardrobe, and a small iron stove.
 ### Secret Stairs
 <span class="citation"><em>This scene takes place in Appendix B: Area 21.</em></span>
 
-This room is largely as described in <span class="citation">Secret Stairs (p. 217)</span>. However, opening the secret door reveals only a stone slab on the opposite side, inset with a small bronze panel at approximately chest level. A small hollow niche identical to the one in the library lies at the panel's center, emanating a faint amber glow. When the niche is exposed, the amber shard from the [[#Master Suite]] glimmers faintly and swings in the air toward it, as though held aloft by an unseen force.
+Opening the secret door reveals only a stone slab on the opposite side, inset with a small bronze panel at approximately chest level. A small hollow niche identical to the one in the library lies at the panel's center, emanating a faint amber glow. When the niche is exposed, the amber shard from the [[#Master Suite]] glimmers faintly and swings in the air toward it, as though held aloft by an unseen force.
 
 To allow the stone slab to swing open and reveal the hidden stairs on the opposite side, the players must place the amber shard into the niche.
 
@@ -626,7 +652,7 @@ As the players descend the stairs, read:
 ### Family Crypts
 <span class="citation"><em>This scene takes place in Appendix B: Area 23.</em></span>
 
-These rooms are largely as described in **Family Crypts** (p. 217-18). 
+Several crypts have been hewn from the earth. Each crypt is sealed with a stone slab unless noted otherwise. Removing a slab from its fitting requires a successful DC 15 Strength (Athletics) check; using a crowbar or the like grants advantage on the check.
 
 As the players approach the **Empty Crypt** and **Walter’s Crypt**, read:
 
@@ -682,13 +708,13 @@ The players cannot help Rose or Thorn’s ghosts find peace by placing their rem
 ### Cult Initiates’ Quarters
 <span class="citation"><em>This scene takes place in Appendix B: Area 24.</em></span>
 
-This room is largely as described in <span class="citation">Cult Initiates’ Quarters (p. 218)</span>. 
+A wooden table and four chairs stand at the east end of this room. To the west are four alcoves containing moldy straw pallets.
 
-As the characters move to descend to the <span class="citation">Well and Cultist Quarters (p. 218)</span>, a sudden splashing sound can be heard—which then quickly subsides.
+As the characters move to descend to the well and cultist quarters below, a sudden splashing sound can be heard—which then quickly subsides.
 ### Well and Cultist Quarters
 <span class="citation"><em>This scene takes place in Appendix B: Area 25.</em></span>
 
-This room is largely as described in <span class="citation">Well and Cultist Quarters (p. 218)</span>. When the players enter this room, read:
+When the players enter this room, read:
 
 <div class="description">
 <p>The ceiling of this dark, earthen chamber rises a foot higher than the cramped tunnel. It's supported by thick wooden posts and cross beams that have rotted with age and bear deep holes indicative of hungry insects.</p>
@@ -700,13 +726,17 @@ The well comprises a 4-foot-diameter well shaft with a 3-foot-high stone lip, an
 
 If the players toss an object down the well and then turn away, they hear loud splashing and tearing sounds coming from below. When they turn back, the object has been torn to pieces, with large parts missing.
 
+Each side room contains a wood-framed bed with a moldy straw mattress and a wooden chest to hold personal belongings. Each chest is secured with a rusty iron padlock that can be picked with thieves' tools and a successful DC 15 Dexterity check. In addition to some worthless personal effects, the chests contain the following valuables: **25A** holds 11 gp and 60 sp in a pouch made of human skin; **25B** holds three moss agates (worth 10 gp each) in a folded piece of black cloth; **25C** holds a black leather eyepatch with a carnelian (worth 50 gp) sewn into it; **25D** holds an ivory hairbrush with silver bristles (worth 25 gp).
+
 Replace the silvered shortsword in footlocker **25E** with a book bound in grimy black leather. This journal, which is signed by Drasha, contains a list of names and physical descriptions associated with each name. Each entry includes gruesome details describing the victim’s sacrifice, such as “struggled profusely” or “no sedative given,”<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup> and ends with the phrase, "Fed to Walter."
 
 
 ### Hidden Spiked Pit
 <span class="citation"><em>This scene takes place in Appendix B: Area 26.</em></span>
 
-This room is largely as described in <span class="citation">Hidden Spiked Pit (p. 218)</span>. If the characters enter this area from [[#Well and Cultist Quarters]], read:
+A 5-foot-long, 10-foot-deep pit is hidden under several rotted wooden planks, all concealed under a thin layer of dirt. A successful DC 15 Wisdom (Perception) check reveals an absence of footprints in this area; characters searching the floor for traps find the pit. The pit has sharpened wooden spikes at the bottom. The first character to step on the cover falls through, landing prone and taking 3 (1d6) bludgeoning damage from the fall plus 11 (2d10) piercing damage from the spikes.
+
+If the characters enter this area from [[#Well and Cultist Quarters]], read:
 
 <div class="description">
 <p>The staircase leads to a quiet landing. To the front, the stairs continue upward and vanish around a bend. To the right, the landing continues straight into a lonely corridor. This tunnel hallway seems surprisingly clean and bereft of debris; at its far end, another earthen staircase descends into darkness.</p>
@@ -730,7 +760,7 @@ If the characters enter this area from [[#Ghoulish Encounter]], read:
 ### Dining Hall
 <span class="citation"><em>This scene takes place in Appendix B: Area 27.</em></span>
 
-This room is largely as described in <span class="citation">Dining Hall (p. 218)</span>. When the players enter this room, read: 
+When the players enter this room, read: 
 
 <div class="description">
 <p>This room contains a plain wooden table flanked by long benches. Moldy humanoid bones lie strewn on the dirt floor.  A thick stench of rot and gore fills the chamber, so coppery with blood that you can taste it on your tongue.</p>
@@ -739,8 +769,6 @@ This room is largely as described in <span class="citation">Dining Hall (p. 218)
 
 ### Larder
 <span class="citation"><em>This scene takes place in Appendix B: Area 28.</em></span>
-
-This area is largely as described in <span class="citation">Larder (p. 218)</span>. 
 
 The **grick** in this alcove—the warped remains of Gustav Durst’s flayed corpse—is coiled on the ceiling, and drops onto its victim when they enter. A DC 17 Wisdom (Perception) check allows a player to determine its presence before entering. 
 
@@ -778,7 +806,7 @@ If the players disturb the grick, read:
 ### Ghoulish Encounter
 <span class="citation"><em>This scene takes place in Appendix B: Area 29.</em></span>
 
-This area is largely as described in <span class="citation">Ghoulish Encounter (p. 218)</span>. When the players first approach this area, read: 
+When the players first approach this area, read: 
 
 <div class="description">
 <p>A deathly stench emanates from this corridor. The stone walls bear cracked, red stains, and a trail of old bones leads deeper down the tunnel.</p>
@@ -823,7 +851,7 @@ If the players continue down the corridor, read:
 ### Stairs Down
 <span class="citation"><em>This scene takes place in Appendix B: Area 30.</em></span>
 
-This room is largely as described in <span class="citation">Stairs Down (p. 218)</span>. When the players approach this area, read:
+When the players approach this area, read:
 
 <div class="description">
 <p>A dark set of chiseled stone steps descends into darkness. It's clear that the origin of the muffled chanting you've been hearing lies below.</p>
@@ -832,7 +860,7 @@ This room is largely as described in <span class="citation">Stairs Down (p. 218)
 ### Darklord’s Shrine
 <span class="citation"><em>This scene takes place in Appendix B: Area 31.</em></span>
 
-This room is largely as described in <span class="citation">Darklord’s Shrine (p. 218)</span>. In addition, when the players enter this room, read:
+When the players enter this room, read:
 
 <div class="description">
 <p>This room is festooned with moldy skeletons that hang from rusty shackles against the walls, their mouths hanging open in silent screams. </p>
@@ -840,6 +868,8 @@ This room is largely as described in <span class="citation">Darklord’s Shrine 
 <p>Five ashen shadows are burned into the walls, with soot marks stretching across the floor toward the statue.</p>
 <p>The room has exits to the west and north. Chanting can be heard coming from the north.</p>
 </div>
+
+The crystal orb is worth 25 gp and can be used as an arcane focus, but is not magical. Characters searching the room for secret doors find a concealed door in the middle of the east wall with a successful DC 10 Wisdom (Perception) check. It is an ordinary (albeit rotted) wooden door hidden under a layer of clay. The door pulls open to reveal a stone staircase that climbs 10 feet to the [[#Hidden Trapdoor]].
 
 A player that approaches the orb can hear many voices whispering the following phrases:
 
@@ -875,7 +905,7 @@ The shadows gain the following additional feature:
 ### Hidden Trapdoor
 <span class="citation"><em>This scene takes place in Appendix B: Area 32.</em></span>
 
-This room is largely as described in <span class="citation">Hidden Trapdoor (p. 219)</span>. When the players find and enter this area, read:
+When the players find and enter this area, read:
 
 <div class="description">
 <p>The clay staircase ends at a cramped landing. Six feet above the ground, a half-rotted ceiling of close-fitting planks holds a closed wooden trapdoor leading to an upper floor. The trapdoor is bolted shut from this side.</p>
@@ -884,7 +914,7 @@ This room is largely as described in <span class="citation">Hidden Trapdoor (p. 
 ### Cult Leader’s Den
 <span class="citation"><em>This scene takes place in Appendix B: Area 33.</em></span>
 
-This room is largely as described in <span class="citation">Cult Leaders’ Den (p. 219)</span>. However, remove the **mimic** from this area. In addition, when the players enter this room, read:
+When the players enter this room, read:
 
 <div class="description">
 <p>This quiet room contains a wooden table flanked by two high-backed chairs and holding a clay jug and two flagons. Above the table is suspended an unlit cast-iron chandelier. Iron candlesticks stand in two corners of the chamber, their candles long since melted away. A short corridor at the north end of the room leads to a darkened chamber beyond.</p>
@@ -893,7 +923,7 @@ This room is largely as described in <span class="citation">Cult Leaders’ Den 
 ### Cult Leader’s Quarters
 <span class="citation"><em>This scene takes place in Appendix B: Area 34.</em></span>
 
-This room is largely as described in <span class="citation">Cult Leaders’ Quarters (p. 219)</span>. When the players enter this room, read:
+When the players enter this room, read:
 
 <div class="description">
 <p>This room contains a large wood-framed bed, the feather mattress rotted by years of disuse. An old wooden wardrobe carved with demonic faces stands against the wall to the left, and a faded wooden footlocker stands quietly at the foot of the bed.</p>
@@ -929,7 +959,7 @@ No **ghasts** attack if a player removes any items from the foot locker, and the
 ### Reliquary
 <span class="citation"><em>This scene takes place in Appendix B: Area 35.</em></span>
 
-This room is largely as described in <span class="citation">Reliquary (p. 219)</span>. When the players enter this room, read:
+When the players enter this room, read:
 
 <div class="description">
 <p>The dusty stone steps descend past a landing and around a bend until they end at a cold, rectangular chamber. A thin, wafting mist clings to the ground, and the wooden cross beams that support the ceiling groan beneath the weight of the house and underground complex above. </p>
@@ -943,16 +973,18 @@ This room is largely as described in <span class="citation">Reliquary (p. 219)</
 ### Prison
 <span class="citation"><em>This scene takes place in Appendix B: Area 36.</em></span>
 
-This room is largely as described in <span class="citation">Prison (p. 219)</span>. When the players enter this room, read:
+When the players enter this room, read:
 
 <div class="description">
 <p>The sound of clinking chains melds with a quiet, near-imperceptible rustling as you round the bend into a long, darkened dungeon. Rusted shackles hang patiently from the walls, as if waiting to bite into prisoners' flesh once more.</p>
 </div>
 
+A secret door in the south wall can be found with a successful DC 15 Wisdom (Perception) check and pulls open to reveal the [[#Ritual Chamber]] beyond. Hanging on the back wall of one of the cells is a human skeleton clad in a tattered black robe — a cult member who questioned the cult's blind devotion to Strahd. Characters who search the skeleton find a gold ring (worth 25 gp) on one of its bony fingers.
+
 ### Portcullis
 <span class="citation"><em>This scene takes place in Appendix B: Area 37.</em></span>
 
-This area is largely as described in <span class="citation">Portcullis (p. 219)</span>. When the players approach this area, read:
+When the players approach this area, read:
 
 <div class="description">
 <p>The floor is submerged beneath two feet of dark, murky water that sloshes around your calves and boots. The tunnel forward is blocked by a rusty iron portcullis. Beyond its iron bars, you can make out the dark outline of a half-submerged chamber, a raised stone dais, and a thick cloud of rolling mist.</p>
@@ -962,7 +994,7 @@ The wooden wheel that opens the portcullis remains on the western side of the ga
 ### Ritual Chamber
 <span class="citation"><em>This scene takes place in Appendix B: Area 38.</em></span>
 
-This room is largely as described in <span class="citation">Ritual Chamber (p. 219)</span>. The water is 2ft deep and should be treated as difficult terrain for Medium creatures or smaller. Climbing from the pool to the ledges also counts as difficult terrain. When the players enter this room, read:
+The water is 2ft deep and should be treated as difficult terrain for Medium creatures or smaller. Climbing from the pool to the ledges also counts as difficult terrain. When the players enter this room, read:
 
 <div class="description">
 <p>The smooth masonry walls of this forty-foot-square room provide excellent acoustics. Featureless stone pillars support the ceiling, and murky water covers most of the floor. Stairs lead up to dry stone ledges that hug the walls. In the middle of the room, more stairs rise to form an octagonal dais that also rises above the water. Rusty chains with shackles dangle from the ceiling directly above a stone altar mounted on the dais. The altar is carved with hideous depictions of grasping ghouls and is stained with dry blood. A small, white bundle lies atop it, surrounded by pulsating, fleshy tendrils.</p>
@@ -1206,7 +1238,7 @@ The house then collapses into the earth, leaving a dark and bottomless pit behin
 
 If they’re still possessing the players, [[Non-Player Characters#Rosavalda "Rose" Durst|Rose]] and [[Non-Player Characters#Thornboldt "Thorn" Durst|Thorn]]’s spirits end their possessions. The children remark that the woods resembles the Svalich Woods, which once surrounded their home—Barovia. However, the children add that these particular woods are unfamiliar to them, and that they seem to be far from their family's original village.
 
-As the players explore their surroundings, they can quickly see the top of an old, ruined stone tower poking up through the treetops. The architecture of the tower is as described in <span class="citation">Will-o'-Wisp (p. 33)</span>, but the interior is not desecrated ground, there is no wooden chest on the ground, and there are no **zombies** or **will-o'-wisps** inside or around the tower.
+As the players explore their surroundings, they can quickly see the top of an old, ruined stone tower poking up through the treetops. The tower is old and ruined, its floor made of packed earth. However, unlike the original module, the interior is not desecrated ground, there is no wooden chest on the ground, and there are no **zombies** or **will-o'-wisps** inside or around the tower.
 
 The players can easily surmise that this ruin appears to be a safe place to spend the night. Rose and Thorn offer to serve as sentries while the players rest, watching the woods and awakening the players should any threats emerge.
 

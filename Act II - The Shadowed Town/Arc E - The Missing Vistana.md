@@ -58,7 +58,7 @@ If the players return to Vallaki, confront Rictavio, and persuade him that they�
 # E1. Blinsky Toys
 <span class="citation"><em>This scene takes place in Chapter 5: Area N7.</em></span>
 
-After receiving Madam Eva’s request in [[Act I - Into the Mists/Arc C - Into the Valley]] to purchase and deliver a toy for her great grand-niece, Arabelle, the players can get directions to Vallaki’s local toy shop, Blinsky Toys, by asking Urwin Martikov, Danika Dorakova, or most native Vallakians for directions. Blinsky Toys can now be found on the northern edge of Vallaki's town square, which is as described in <span class="citation">N8. Town Square (p. 119)</span>.
+After receiving Madam Eva’s request in [[Act I - Into the Mists/Arc C - Into the Valley]] to purchase and deliver a toy for her great grand-niece, Arabelle, the players can get directions to Vallaki’s local toy shop, Blinsky Toys, by asking Urwin Martikov, Danika Dorakova, or most native Vallakians for directions. Blinsky Toys can now be found on the northern edge of Vallaki's town square—a broad plaza enclosed by shops and homes decorated with limp, tattered garlands and painted wooden boxes filled with tiny, dead flowers. At the north end of the square stands a row of stocks, and in the center, peasants in patchwork clothes draw water from a crumbling stone fountain topped by a gray statue of an impressive man facing west. Proclamations for the upcoming Festival of the Blazing Sun are posted all around the square.
 
 
 > [!profile]+ **Profile: Gadof Blinsky**
@@ -80,7 +80,7 @@ After receiving Madam Eva’s request in [[Act I - Into the Mists/Arc C - Into t
 >
 > ***Relationships.*** Blinsky owns Piccolo, a pet monkey that was given to him by "Alanik Ray", a traveling scholar (and one of Rudolph van Richten's disguises) shortly after Doru's rebellion. Blinsky also makes dolls resembling Ireena Kolyana for Izek Strazni, and receives a humble stipend to craft decorations for Baron Vallakovich’s weekly festivals. In addition, Blinsky is the creator of Ezmerelda d'Avenir's prosthetic leg.
 
-Blinsky Toys is as described in <span class="citation">N7. Blinsky Toys (p. 118)</span>. As the characters explore the shop, Blinsky cheerfully tells them about his inspiration for making toys: the legendary toymaker Fritz von Weerg, and his greatest invention that was lost to the ages: a clockwork man said to lie somewhere in Castle Ravenloft.
+Blinsky Toys is a cramped shop with a dark entrance portico, above which hangs a wooden sign shaped like a rocking horse with a "B" engraved on both sides. Flanking the entrance are two arched, lead-framed windows; through the dirty glass, the players can see jumbled displays of toys and hanging placards bearing the slogan "Is No Fun, Is No Blinsky!" As the characters explore the shop, Blinsky cheerfully tells them about his inspiration for making toys: the legendary toymaker Fritz von Weerg, and his greatest invention that was lost to the ages: a clockwork man said to lie somewhere in Castle Ravenloft.
 
 If the players ask Blinsky about the doll resembling Ireena Kolyana (see <span class="citation">Creepy Toys, p. 118</span>), he anxiously insists that it is not for sale and asks them to choose another toy. If the players demand an explanation for its eerie resemblance, they can coax a fearful Blinsky to share what he knows with a successful DC 10 Charisma (Persuasion or Intimidation) check or by taking the doll for themselves. Blinsky is clearly terrified of Izek’s wrath, and will do anything to ensure that the doll is delivered on time.
 
@@ -95,14 +95,14 @@ As the characters exit Blinsky Toys, they can see Izek Strazni and two **guards*
 # E2. Vistani Camp
 <span class="citation"><em>This scene takes place in Chapter 5: Area N9.</em></span>
 
-The path from Vallaki to the Vistani Camp is as described in <span class="citation">N9. Vistani Camp (p. 119)</span>. The journey is one-half mile long and takes approximately ten minutes.
+Several footpaths and horse trails lead from Vallaki to the Vistani Camp in the woods to the southwest. The journey is one-half mile long and takes approximately ten minutes. As the players arrive, the woods part to reveal an expansive clearing: a small, grass-covered hill with low houses built into its sides. Fog obscures the details, but the players can see that these buildings feature elegantly carved woodwork and have decorative lanterns hanging from their sculpted eaves. Atop the hill, above the fog, is a ring of barrel-topped wagons that surround a large tent with a column of smoke pouring out through a hole in the top. The tent is brightly lit from within, and the air carries the odors of wine and horses.
 
 When the players arrive at the camp, they can choose to either ascend the hill to the ring of wagons at the top (see [[#E2a. The Vistani Encampment]]) or speak with one the dusk elves guarding the hovels at the base of the hill (see [[#E2b. Dusk Elf Hovels]]).
 ## E2a. The Vistani Encampment
 ### Entering the Vistani Camp
-The Vistani are largely as described in <span class="citation">Roleplaying the Vistani and the Elves (p. 119)</span>, with the encampment largely as described in <span class="citation">N9c. Vistani Tent, N9d. Horses, N9e. Luvash's Wagon, N9f. Wagon of Sleeping Vistani, N9g. Wagon of Gambling Vistani, N9h. Vistani Family Wagon, and N9i. Vistani Treasure Wagon (pp. 121-23)</span>. 
+The Vistani are largely as described in <span class="citation">Roleplaying the Vistani and the Elves (p. 119)</span>. The hilltop encampment is covered with steaming piles of horse dung, with more than two dozen draft horses and six saddled riding horses tethered to stone blocks inside the circle of wagons but outside the tent. The various barrel-topped wagons include Luvash's personal wagon (decorated with golden silk drapes and gold sun-shaped hubcaps), four wagons containing intoxicated and unconscious Vistani, three wagons where sober Vistani play dice games for wine and favors, three family wagons housing Vistani adults and children, and a treasure wagon secured by two iron padlocks (Luvash carries one key, Arrigal the other; each lock is rigged with a poison needle trap).
 
-When the players first enter the tent, modify the descriptive text as follows:
+When the players first enter the tent, read:
 
 <div class="description">
 <p>As you duck inside the tent, you hear the sound of splintering wood and shattering ceramic. Blinking through the haze of smoke that fills the interior, you see three sputtering campfires burning low with embers. A total of six Vistani sit around the hearths, watching the source of the commotion with solemn, sympathetic looks.</p>
@@ -176,13 +176,13 @@ If the players accept Luvash’s mission, he directs them to **E2b. Dusk Elf Hov
 > 
 > Because the river has washed any traces away, the third individual's trail can't be followed any further. (Searching the entire length of the Luna River for the third individual's precise exit point is a fool's errand, and an impossible task.)
 ## E2b. Dusk Elf Hovels
-The dusk elf hovels are as described in <span class="citation">N9b. Dusk Elf Hovels (p. 121)</span>. The dusk elves themselves are as described in <span class="citation">Roleplaying the Vistani and the Elves (p. 119)</span>. If the players approach one of the guards and inquire about the Vistani, the guard directs them to the ring of wagons at the top of the hill. 
+Six simple houses ring the base of the hill, three protruding from the north side and three from the south side. A grim, gray-cloaked dusk elf guard stands in front of each hovel, and each hovel is configured similarly to Kasimir's hovel (see [[#E2c. Kasimir's Hovel]]). All are currently unoccupied; except for the guards left behind to watch the homes, the dusk elves are out searching for Arabelle. The dusk elves themselves are as described in <span class="citation">Roleplaying the Vistani and the Elves (p. 119)</span>. If the players approach one of the guards and inquire about the Vistani, the guard directs them to the ring of wagons at the top of the hill.
 
 If the players inquire about Luvash’s mission, the guard directs them to Kasimir's hovel. The guard notes, however, that Kasimir has recently returned from a long and arduous journey and that the players must not disturb him beyond what is reasonably necessary.
 ## E2c. Kasimir’s Hovel
 <span class="citation"><em>This scene takes place in Chapter 5: Area N9a.</em></span>
 
-Kasimir’s hovel is largely as described in <span class="citation">N9a. Kasimir's Hovel (p. 121)</span>. If the players enter it, read:
+Three sullen, gray-cloaked dusk elf guards stand quietly in front of Kasimir’s hovel, bathed in the warm light of its lanterns. If the characters seem friendly, the guards direct them inside to Kasimir. If the players enter the hovel, read:
 
 <div class="description">
 <p>You enter into a small, cozy vestibule several degrees warmer than the chill mists outside. The walls of this small chamber are decorated with hanging sketches and portraits of proud and wise-looking elves with dark skin, tree-borne spires carved of dark wood, and artistic depictions of constellations and celestial bodies. Two curtains of dark brown fabric obscure the entrance to another chamber beyond.</p>
@@ -246,7 +246,7 @@ If the players ask Kasimir about the history of the dusk elves, Kasimir shares t
 # E3. Burgomaster’s Mansion
 <span class="citation"><em>This scene takes place in Chapter 5: Area N3.</em></span>
 
-The burgomaster's mansion is largely as described in <span class="citation">N3. Burgomaster's Mansion (p. 103)</span>. However, the magic mirror in <span class="citation">N3p. Bridal Gown and Spirit Mirror (p. 108)</span> has been modified and moved to <span class="citation">N3t. Victor's Workroom (p. 109)</span>. See [[#E3c. Speaking with Victor]] below, or [[Arc H - The Lost Soul]] for more information about the mirror.
+The burgomaster's mansion has walls of plastered stone that display many scars where the plaster has fallen away from age and neglect. Drapes cover every window, including a large, arched opening above the mansion's double entrance doors. People come and go from the mansion at all hours during the day—guards bring criminals cited for "malicious unhappiness," and men and women arrive carrying bundles of twigs, which are piled about the mansion's grand foyer. However, the magic mirror in <span class="citation">N3p. Bridal Gown and Spirit Mirror (p. 108)</span> has been modified and moved to <span class="citation">N3t. Victor's Workroom (p. 109)</span>. See [[#E3c. Speaking with Victor]] below, or [[Arc H - The Lost Soul]] for more information about the mirror.
 
 If the players visit the burgomaster’s mansion openly, they are greeted by Clavdia, the Baron’s maid, and led to the den as described in <span class="citation">N3. Burgomaster's Mansion (p. 103)</span> and <span class="citation">N3e. Den (p. 106)</span>. The Baron arrives to speak with them a few minutes later, joined by his twin **mastiffs** named Fang and Claw, as described in **N3l. Library (p. 107)**.
 ## E3a. Entering the Mansion
@@ -272,7 +272,7 @@ The Baron cannot be convinced with appeals to Arabelle’s safety, insisting tha
 
 If the players wish to visit the library, the baron summons Clavdia, the maid, to escort them to the library before departing. (Proceed to [[#E3b. Searching the Library]].) If the players wish to interview Tereska, the baron asks Clavdia to escort them to the kitchen instead. In both cases, as the Baron departs, he asks them to avoid discussing the spirit with anyone who lives outside the household. 
 
-The kitchen is largely as described in <span class="citation">N3g. Kitchen (p. 106)</span>. The cook, Tereska, is a broad-shouldered, rough-hewn woman with a tough, no-nonsense attitude who wears her heart on her sleeve. She is reluctant to discuss the spirit, but can share the following information if asked:
+The kitchen is a warm, well-appointed room with a staircase in one corner that climbs to the upper floor. A door in the west wall leads to a garden outside; the door is usually locked, and both the cook and the burgomaster carry keys. The cook, Tereska, is a broad-shouldered, rough-hewn woman with a tough, no-nonsense attitude who wears her heart on her sleeve. She is reluctant to discuss the spirit, but can share the following information if asked:
 
 * The spirit has mostly been seen on the second floor, though strange sounds have been heard coming from the attic at night. 
 * Tereska experienced one particularly bad haunting while retrieving an old pot from the attic last week—an eerie presence, coupled with a cold draft and the unmistakable sound of breathing—which nearly pushed her to quit her job.
@@ -372,7 +372,9 @@ If Victor agrees to aid the players by sharing information about his spellbook, 
 ## E3c. Speaking with Victor
 <span class="citation"><em>This scene takes place in Chapter 5: Area N3t.</em></span>
 
-Victor’s workroom is largely as described in <span class="citation">N3t. Victor’s Workroom (p. 109)</span>, except that the *glyph of warding* on the door, rather than dealing lightning damage, casts _fear_ in a 30-foot cone away from the door when activated. Additionally, Victor’s spellbook contains the *sending* and *fear* spells and does not contain *remove curse.*
+Someone has carved a large skull into the door to Victor’s workroom. Hanging from the doorknob is a wooden sign that reads "ALL IS NOT WELL!" Anyone who inspects the carving and succeeds on a DC 14 Intelligence (Investigation) check notices a small, nearly invisible *glyph of warding* etched into the skull’s forehead. Rather than dealing lightning damage, the glyph casts _fear_ in a 30-foot cone away from the door when activated.
+
+Beyond the door, old, mismatched furniture has been arranged into a makeshift study in this dusty, lamplit chamber. Tables are strewn with pieces of parchment bearing strange diagrams, and a freestanding bookshelf holds a collection of tomes and trinkets. A dusty rug covers the floor in front of a pine box, on which lounges a skeletal cat. Additionally, Victor’s spellbook contains the *sending* and *fear* spells and does not contain *remove curse.*
 
 > [!Warning]+ Counterspell 2024
 > 
@@ -429,7 +431,7 @@ Victor can tell the players that, while Szoldar and Yevgeni spend most mornings 
 # E4. Lake Zarovich
 <span class="citation"><em>This scene takes place in Chapter 2: Area L.</em></span>
 
-Lake Zarovich is largely as described in <span class="citation">L. Lake Zarovich (p. 38)</span>. However, Bluto is not present.
+At the foot of a mountain, nestled in the misty forest, Lake Zarovich is a large lake whose dark, still waters reflect the black clouds overhead like a monstrous mirror. Three small rowboats are pulled up along the south shore, each able to safely hold five people.
 
 As the players journey west toward Szoldar’s shack, read:
 
@@ -479,9 +481,7 @@ If the players retrieve the scrap of material, they find it to be a small, soake
 ## E5b. Luna River Crossroads
 <span class="citation"><em>This scene takes place in Chapter 2: Area P.</em></span>
 
-The Luna River Crossroads are largely as described in <span class="citation">P. Luna River Crossroads (p. 40)</span>. 
-
-If this is the first time that the players have visited the Luna River Crossroads, four **twig blights** and two **scarecrows** are lying in wait here. Modify the area description as follows:
+If this is the first time that the players have visited the Luna River Crossroads, four **twig blights** and two **scarecrows** are lying in wait here. Read the following:
 
 <div class="description">
 <p>The road comes to an X intersection, with branches to the northwest, northeast, southwest, and southeast.</p>
@@ -489,6 +489,8 @@ If this is the first time that the players have visited the Luna River Crossroad
 <p>Nearby, a pair of scarecrows appear to have been mounted along two separate trees, bodies hewn of rough straw and weathered cloth clinging to twisted, low-hanging branches. Their painted sackcloth eyes seem almost mocking, and black raven's feathers poke from their stuffed guts.</p>
 <p>The lower half of a snapped wooden signpost thrusts upward at an angle near the eastern elbow of the intersection. The top half of the sign, featuring arms pointing in four directions, lies in the weeds nearby.</p>
 </div>
+
+The players can easily figure out how the top half of the signpost connects to the lower half. When the two parts are aligned and rejoined, the arms indicate Krezk and Tsolenka Pass to the southwest, Lake Baratok to the northwest, Vallaki and Ravenloft to the northeast, and Berez to the southeast.
 
 If Szoldar is accompanying the players, he warns them that the saplings and scarecrows are new additions to the crossroads, and that recent rumors have reported sightings of scarecrows moving of their own volition through the woods.
 
@@ -510,12 +512,14 @@ If the players approach the snapped signpost or move to leave the intersection, 
 # E6. Lake Baratok
 The journey from the Luna River Crossroads to Lake Baratok via the northwestern path is two and one-quarter miles long and takes forty-five minutes.
 
-Lake Baratok is as described in <span class="citation">Approaching the Tower (p. 167)</span>. The tower itself is largely as described in <span class="citation">Chapter 11: Van Richten's Tower (p. 167)</span>.
+The players come to a cold mountain lake enclosed by misty woods and rocky bluffs, with thick fog creeping across the dark, still waters. The trail ends at a grass-covered causeway that stretches a hundred yards across the lake to a flat, marshy island with a stone tower on it. The tower is old and decrepit, standing eighty feet tall with four levels (each twenty feet high) and a mostly intact slate tile roof. Collapsing scaffolds cling to one side where a large gash has split the wall, and timeworn griffon statues—their wings and flanks covered with moss—perch atop buttresses that support the walls. Parked near the base of the tower, within sight of the entrance, is a barrel-topped wagon spattered with mud.
+
+Khazan warded his tower so that he alone could cast spells near or within it. The effect is identical to an *antimagic field* centered on the tower and extending 5 feet from it in all directions. The effect doesn't apply to magic traps and constructs created by Khazan, including the trap on the tower door, the golems on the first floor, and the animated suit of armor on the fourth floor.
 ## E6a. Ezmerelda’s Wagon
 <span class="citation"><em>This scene takes place in Chapter 11: Area V1.</em></span>
 
 ### Outside the Wagon
-Ezmerelda’s wagon is largely as described in <span class="citation">V1. Ezmerelda's Magic Wagon (p. 168)</span>. However, the door is locked with a padlock, and can be opened with a successful DC 20 Dexterity (Thieves' Tools) check or a successful DC 20 Strength check. 
+Under layers of mud, Ezmerelda’s wagon sports a fresh coat of purple paint, and its wheels have fancy gold trim. A brass lantern hangs from each corner, and red drapes cover a tombstone-shaped window on each side. The wagon radiates an aura of conjuration magic if scrutinized with a *detect magic* spell; a character who casts *identify* on the wagon learns the command words needed to operate it ("Drovash" to summon a pair of quasi-real draft horses, and "Arvesh" to dismiss them). The wagon also has a hidden trapdoor in its underbelly that can be detected with a successful DC 13 Wisdom (Perception) check; the trapdoor opens into the wagon and is the only safe way inside. The back door is locked with a padlock, and can be opened with a successful DC 20 Dexterity (Thieves’ Tools) check or a successful DC 20 Strength check.
 
 In addition, rather than a single wooden sign, a trio of wooden signs has been arranged in a haphazard diagonal across the back door. The signs read, in order: “Keep out!”, “Home & Property of Ezmerelda d’Avenir,” and “Trespassers will be immediately incinerated.” Beneath the warning on the third sign, someone has drawn a small frowning face with crossed-out eyes, surrounded by a stylized flame.
 
@@ -559,7 +563,7 @@ If the players enter the wagon by means of the door instead of the trapdoor, Ezm
 ### 1. The Tower Door
 <span class="citation"><em>This scene takes place in Chapter 11: Area V2.</em></span>
 
-The tower door is largely as described in <span class="citation">V2. Tower Door (p. 169)</span>. However, modify the descriptive text as follows:
+The tower's iron door has no visible handles or hinges. When the players approach, read:
 
 <div class="description">
 <p>The tower door is made of iron, with no visible handles or hinges. In the middle of the door is a large, embossed, blank red seal. Carved into the lintel above the door is a word: Khazan.</p>
@@ -607,7 +611,7 @@ If eight different symbols are pressed in an incorrect sequence, their lights br
 ### 2. The Scaffolding
 <span class="citation"><em>This scene takes place in Chapter 11: Area V3.</em></span>
 
-The scaffolding is as described in <span class="citation">V3. Rickety Scaffolding (p. 170)</span>. If a creature climbs the scaffolding to the second floor, the four **gargoyles** on the roof come to life and attack. (Remember that the scaffolding leads to a hole in the wall on the third floor, not the second floor.) Use the statblock below for the **gargoyles**, rather than the one in the _Monster Manual._
+Rotting wooden beams support the scaffolding on the tower's exterior, which groans and creaks with the slightest breeze. A series of ladders and platforms lead to a hole in the northwest wall on the third floor. The scaffolding can't support more than 200 pounds of weight. If it collapses, anyone standing on it falls 20 feet to the ground, taking 1d6 bludgeoning damage per 10 feet fallen plus an additional 2d6 piercing damage from the debris, and a creature underneath must succeed on a DC 13 Dexterity saving throw or take 14 (4d6) bludgeoning damage from falling debris. If a creature climbs the scaffolding, the four **gargoyles** on the roof come to life and attack. (Remember that the scaffolding leads to a hole in the wall on the third floor, not the second floor.) Use the statblock below for the **gargoyles**, rather than the one in the _Monster Manual._
 
 <div class="statblock">
 <h2>Gargoyle</h2>
@@ -666,14 +670,16 @@ If able, a gargoyle that has grappled a player flies 15 feet up on its turn and 
 ### 3. Inside the Tower
 <span class="citation"><em>This scene takes place in Chapter 11: Areas V4, V5, V6, V7 & V8.</em></span>
 
-The interior of the tower is largely as described in <span class="citation">V4. Tower, First Floor, V5. Tower, Second Floor, V6. Tower, Third Floor, and V7. Tower, Fourth Floor (pp. 170-71)</span>. 
+**The First Floor.** The flagstone floor of the first level is strewn with debris, and a few old crates stand near the east wall. A torn curtain to the south partially obscures the tower vestibule. A five-foot-square indentation in the center of the floor contains four pulleys attached to taut iron chains that stretch up through a similarly sized hole in the rotted wooden ceiling. Standing next to the chains are four tall clay statues—**clay golems** whose sole purpose is to operate the elevator by pulling on the chains. The chains attach to a five-foot-square wooden platform that normally rests on the fourth floor. If a creature indicates it wants to use the elevator, the golems lower the platform, then raise it to whichever level the creature specifies.
 
-**The Third Floor.** The third floor also contains an old, rotted crib.
+**The Second Floor.** Dust and cobwebs fill this otherwise empty room, the wooden floor of which is badly rotted and partially collapsed.
+
+**The Third Floor.** Time and the elements have all but destroyed this chamber, leaving a gash in the northwest wall and slimy black mildew on the walls. The wooden floor is completely rotted and has begun to fall away in places. The five-foot-square sections of floor surrounding the central elevator shaft are weak; each section can support 50 pounds, and any more weight causes the section to collapse, sending creatures falling 40 feet to the ground floor. The third floor also contains an old, rotted crib.
 
 > [!lore]+ **The Crib**
 > The old crib is the last memento of Khazan's infant child, who died with its mother in childbirth two years after Barovia was trapped in the Mists.
 
-**The Fourth Floor.** The wooden box containing Yan's severed head has been removed from the tower. In addition, the suit of armor is nonmagical and a functional suit of plate armor.
+**The Fourth Floor.** Unlike the levels below, this room shows signs of recent habitation—it has a cozy bed, a desk with matching chair, bright tapestries, and a large iron stove with plenty of wood to feed it. Light enters through arrow slits and dirt-caked windows with broken shutters. A standing suit of armor and a wooden chest are also present. Old wooden rafters bend under the weight of the tower roof. The wooden box containing Yan's severed head has been removed from the tower, and the suit of armor is nonmagical and a functional suit of plate armor.
 
 A successful DC 15 Intelligence (Investigation) check or a ten-minute search of the fourth floor reveals two clues:
 
@@ -701,7 +707,7 @@ The handwriting matches the handwriting of the excerpt of *Van Richten's Guide t
 # E7. The Road Back
 The players’ activities at Lake Baratok attract the attention of a pair of **werewolves**, who lurk in the woods east of the lake, silently waiting for the players to return to the road.
 
-When the players begin the trek back to Vallaki—either by the northern path or the Old Svalich Road to the south—the werewolves follow. Fifteen minutes after the players depart the lake, they encounter the two werewolves in human form. The scene unfolds largely as described in <span class="citation">Werewolves (p. 32)</span>, but revise the descriptive text as follows: 
+When the players begin the trek back to Vallaki—either by the northern path or the Old Svalich Road to the south—the werewolves follow. Fifteen minutes after the players depart the lake, they encounter the two werewolves in human form, pretending to be trappers. Read the following:
 
 <div class="description">
 <p>A deep voice calls out, "Who goes there?" Through the chill mist you see a large man in drab clothing wearing a tattered gray cloak. He has shaggy, black hair and thick mutton chops. He leans heavily on a spear and has a small bundle of animal pelts slung over his shoulder.</p>
