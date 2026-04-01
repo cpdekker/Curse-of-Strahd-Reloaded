@@ -194,7 +194,15 @@ The players can uncover the following information by asking around the town squa
 >
 > If a player assures Victor that his words won’t be shared further and succeeds on a DC 15 Charisma (Persuasion) check, Victor reluctantly—and bitterly—shares that Stella invited him to join her on Lake Zarovich’s shore, as they had once often done together. “That was a long time ago," he says, quietly, “but she said that she would wait for me there." Victor refuses to elaborate further, and declines to accompany the players, preferring to return to his manor as swiftly as possible.
 ## U2c. Lake Zarovich
-Lake Zarovich is largely as described in <span class="citation">L. Lake Zarovich (p. 38)</span>. However, revise the second paragraph of this area’s description as follows:
+Lake Zarovich has the following description:
+
+<div class="description">
+<p>At the foot of a mountain, nestled in the misty forest, is a large lake. The water is perfectly still and dark, reflecting the black clouds overhead like a monstrous mirror.</p>
+</div>
+
+If the characters arrive along the shore north of Vallaki in the daytime, add: Pulled up along the south shore are three small row boats. A fourth boat can be seen in the middle of the lake, with a lone figure sitting in it, fishing pole in hand. Each rowboat can safely hold five people. The person fishing on the lake is Bluto Krogarov (NE male human commoner), a resident ofVallaki. He is in a trance and doesn't respond to anything or anyone unless attacked. His boat is 400 feet from the nearest shore. Tied up in the boat is a seven-year-old Vistana named Arabelle (LN female human commoner with 2 hit points and no effec tive attacks). She is bound with hempen rope, wrapped in a burlap sack, and lying prone so that she can't be seen or heard from the shore.
+
+However, revise the second paragraph of this area’s description as follows:
 
 <div class="description">
 <p>Pulled up along the south shore are four small rowboats. A gray-cloaked woman sits beside them, her long, brown tresses falling across her shoulders.</p>
@@ -613,7 +621,7 @@ Before the players depart, Lady Wachter warns them that, while Vallaki’s immed
 > * Raisa & Radomi & Iskra, three **commoner** siblings in their late teens with sickly parents
 
 > [!info]+ **Gates and Walls**
-> Vallaki’s town walls are as described in <span class="citation">Approaching the Town (p. 95)</span>. Each gate is as described in <span class="citation">Town Gates (p. 95)</span>, and has AC 19 and 20 hit points.
+> Vallaki’s town walls is as follows: The Old Svalich Road meanders into a valley watched over by dark, brooding mountains to the north and south. The woods recede, revealing a sullen mountain burg surrounded by a wooden palisade. Thick fog presses up against this wall, as though looking for a way inside, hoping to catch the town aslumber. The dirt road ends at a set of sturdy iron gates with a pair of shadowy figures standing behind them. Each gate is as follows: Three tall gates made of iron bars lead into town: • The north gate is sometimes called the Zarovich Gate, or "the gate to the lake," because it leads to Lake Za rovich (chapter 2, area L). • The west gate is referred to as the Sunset Gate, even though no living person in Vallaki has seen an un dimmed sunset. A few abandoned cottages line the road outside this gate. • The east gate is also known as the Morning Gate, or, as some locals like to call it, the Mourning Gate. , and has AC 19 and 20 hit points.
 
 > [!info]+ **The Zombies’ Approach**
 > In combat, a thick shroud of mist surrounds the walls of eastern Vallaki at a distance of thirty feet. Creatures within this mist are heavily obscured, and can’t be seen until they emerge.
@@ -726,7 +734,11 @@ The players can attempt to sneak past the dire wolves by succeeding on a DC 16 D
 
 The wolves, like the zombies, attack only in self-defense, and cease their attacks if the players retreat. In combat, the wolves fight to knock the players unconscious, then bring their unconscious bodies to Castle Ravenloft.
 ## U4c. The Black Carriage
-As the players pass through the crossroads to Castle Ravenloft, the area is as described in <span class="citation">I. Black Carriage (p. 37)</span>, including Strahd’s black carriage.
+As the players pass through the crossroads to Castle Ravenloft, the area has the following description:
+
+<div class="description">
+<p>Even here, in the mountains, the forest and the fog are inescapable. Ahead, the dirt road splits in two, widening toward the east. There you see patches of cobblestone, suggesting that the eastern branch was once an import ant thoroughfare.</p>
+</div> , including Strahd’s black carriage.
 
 Shortly after the players depart the crossroads, whether the players take the carriage or not, they are passed overhead by a small army of several dozen **swarms of ravens** sent by Muriel Vinshaw to reinforce Vallaki. Read:
 
@@ -744,7 +756,13 @@ The ravens don’t stop to interact with the players, and won’t be diverted fr
 ## U5a. The Castle Gates
 The journey from the crossroads to the castle gates is two and one-half miles long and takes fifty minutes.
 
-The gates of Ravenloft are as described in <span class="citation">J. Gates of Ravenloft (p. 38)</span>, with the castle’s drawbridge down. The players’ approach is largely as described in [[Arc O - Dinner with the Devil#O4. Arrival at Castle Ravenloft|O4. Arrival at Castle Ravenloft]], except Rahadin and Anastrasya are not waiting in the courtyard to greet them. In addition, thirteen **swarms of bats** fill the skies around Castle Ravenloft, with a trio of **bats** reporting to Strahd each time a swarm observes the players’ location.
+The gates of Ravenloft has the following description:
+
+<div class="description">
+<p>The following text assumes that the characters arrive here in the carriage from area I. Modify the text as needed if the characters arrive by another means. After winding through the forest and craggy mountain peaks, the road takes a sudden turn to the east, and the startling, awesome presence of Castle Raven loft towers before you. The carriage comes to a dead stop before twin turrets of stone, broken from years of ex posure. Beyond these guard towers is the precipice of a fifty-foot-wide, fog-filled chasm that disappears into unknown depths. A lowered drawbridge of old, shored-up wooden beams stretches across the chasm, between you and the archway to the courtyard. The chains of the drawbridge creak in the wind, their rust-eaten iron straining under the weight. From atop the high walls, stone gargoyles stare at you out of their hollow eye sockets and grin hid eously. A rotting wooden portcullis, green with growth, hangs above the entry tunnel. Beyond this location, the main doors of Raven loft stand open. A rich, warm light spills from within, flooding the courtyard. Torches flutter sadly in sconces on both sides of the open doors. The drawbridge appears sturdy, b_ut :;i few of its boards are missing and it creaks and gpoans under aqy weight.</p>
+</div>
+
+Each time a creature other than ·strahd or a horse that draws his carriage crosses the drawbridge, there is a 5 percent chance of one of its boards breaking under the creature. If a board breaks, the creature must succee.d on a DC 10 Dexterity saving throw or fall to the bottom of the cliffs, 1,000 feet below. If a companiol') is within 5 feet of the creature and reaches out to grab it, the crea ture has advantage on the save. , with the castle’s drawbridge down. The players’ approach is largely as described in [[Arc O - Dinner with the Devil#O4. Arrival at Castle Ravenloft|O4. Arrival at Castle Ravenloft]], except Rahadin and Anastrasya are not waiting in the courtyard to greet them. In addition, thirteen **swarms of bats** fill the skies around Castle Ravenloft, with a trio of **bats** reporting to Strahd each time a swarm observes the players’ location.
 
 Whether the players arrive via Strahd’s black carriage or on foot, the main doors to the castle are guarded by four **wights**, while two **vampire spawn** cling to the inner walls of the keep. If Volenta Popofsky, Anastraya Karelova, or Ludmilla Vilisevic still live, they are also present, leading and commanding the wights and other spawn.
 
@@ -775,7 +793,15 @@ If permitted, Sasha guides the players to Strahd by the following routes:
 > If the players attempt to reassure Sasha with the *Sunsword*, she shudders, her gaze lingering on it longingly before she squeezes her eyes shut. “It’s beautiful," she says dully, “but like all beautiful things in my Master’s domain, it will not survive this night. The true dawn will not come, and its like shall never be seen again."
 ## U5c. The Heart of Sorrow
 ### Approaching the Heart
-The Heart of Sorrow is largely as described in <span class="citation">K20. Heart of Sorrow (p. 59)</span>. However, the spiral staircase doesn’t shake as the players ascend the tower, the halberds don't animate if the players attack the Heart of Sorrow, and no **vampire spawn** arrive if the players attack the Heart. In addition, revise this area’s description as follows:
+The Heart of Sorrow has the following description:
+
+<div class="description">
+<p>As you step onto the spiral staircase, a reddish light flares high overhead, then settles into a dull, pulsing red glow. You now see the full immensity of this tower. The spiral staircase circles up the tower's full height. The tower, sixty feet wide at its base, becomes narrower as it climbs. At the pinnacle of the hollow tower, a large crystal heart pulsates with red light. Above the heart, the stairs continue upward. Have the characters and the Heart of Sorrow roll initia tive.</p>
+</div>
+
+A mosaic floor adds a touch of color to the otherwise dark, cold, empty tower that rises above you. A spiral staircase rises slowly into darkness, hugging the outer wall. In the center of the room, another set of stairs leads down. The staircase in the center of the floor (area K20a) leads down to area K71. The spiral staircase has no railing and connects the main floor of the castle with each level above it. First, the staircase climbs 50 feet to a landing (shown on map 4), from which an open archway leads to area K13. East of that opening is a secret door that conceals a ladder leading down to area K34. The stairs ascend another 40 feet to another landing (shown on map 5), with archways that lead to areas K45 and K46, and then climb another 100 feet to a landing beneath the tower's heart (shown on map 8). The stair case wraps around the heart, ending at the top of the tower (area K60). THE HEART The tower, including the spiral staircase, is alive. If the characters leave the tower and later return, they can reroll initiative, but the heart's initiative count doesn't change. The awakened tower shakes and pitches on the Heart of Sorrow's initiative count. Any creature on the stairs or hanging on a tower wall at the start of the heart's turn must succeed on a DC 10 Dexterity saving throw or fall to the base of the tower. Characters who are crawling on the staircase or who lie prone on the stairs succeed automatically. The Heart of Sorrow is a 10-foot-diameter red crystal heart that floats near the top of the tower. Characters standing on the nearby stairs can make melee attacks against the heart, provided their weapons have a reach of at least 10 feet. The glass heart has AC 15 and 50 hit points. If the heart is reduced to O hit points, it shatters, and its crystal shards transform into blood, which rains down on the tower interior and staircase. The destruc tion of the Heart of Sorrow causes the tower to stop shuddering, and the interior of the tower becomes dark. Destroying the heart earns the characters 1,500 XP. Strahd and the Heart of Sorrow are connected, such that any damage Strahd takes is transferred to the heart. If the heart absorbs damage that drops it to O hit points, it is destroyed, and Strahd takes any leftover damage. The Heart of Sorrow regains all its hit points at dawn if it has at least 1 hit point remaining. The Heart of Sorrow is held aloft by the will of Strahd. Casting dispel magic on it has no effect. Animated Halberds. Mounted on the walls along the section of staircase nearest the heart are ten animated halberds; use the stat block for the flying sword in the Monster Manual, but increase each halberd's damage to ldlO + 1 and reduce its AC to 15. The halberds attack any creature that threatens the Heart of Sorrow. Vampire Spawn. Strahd senses if any damage is done to the Heart of Sorrow and sends four vampire spawn to destroy those responsible. These vampire spawn are former adventurers whom Strahd defeated long ago. They use their Spider Climb feature to scuttle along the tower walls and arrive in 3 rounds.
+
+However, the spiral staircase doesn’t shake as the players ascend the tower, the halberds don't animate if the players attack the Heart of Sorrow, and no **vampire spawn** arrive if the players attack the Heart. In addition, revise this area’s description as follows:
 
 <div class="description">
 <p>This tall, cold tower is bathed in a pulsing crimson light. Glowing red runes have been carved into every inch of the tower’s inner walls, which bear a faint crimson sheen.</p>

@@ -158,9 +158,9 @@ As the players cross the bridge over the Luna River, read the following:
 <p>As you step onto the bridge, your boots echo against the old, damp wood. To the north, you can see the river meander upstream around the tree line before vanishing around a curve. To the south, the river winds like a ribbon between its banks, then gradually vanishes into mist.</p>
 </div>
 
-The Luna River Crossroads are as described in <span class="citation">P. Luna River Crossroads (p. 40)</span>. However, do not check for a random encounter when the players reach this area.
+The road comes to an X intersection here, with branches to the northwest, northeast, southwest, and southeast. The lower half of a snapped wooden signpost thrusts upward at an angle near the eastern elbow of the intersection, the top half of the sign lying in the weeds nearby. When the two parts of the sign are aligned and rejoined, the arms indicate Krezk and Tsolenka Pass to the southwest, Lake Baratok to the northwest, Vallaki and Ravenloft to the northeast, and Berez to the southeast. Do not check for a random encounter when the players reach this area.
 
-As the players pass it, the path to Argynvostholt is largely as described in <span class="citation">Approaching the Mansion (p. 130)</span>. Read:
+As the players pass it, they can see a winding branch of the Old Svalich Road that meanders up the forested slope of a mountain spur to the south. Read:
 
 <div class="description">
 <p>A dirt path branches off from the Old Svalich Road here, winding its way south up a craggy mountain spur. The earth of the path is hard-packed, its color a pallid gray-brown reminiscent of cold ashes. The trees on either side stand silent and stoic, their leaves a faded green. As the path winds upward, it's eventually replaced by the deep shadows of the mountain's forested incline, vanishing into the gloom of the woods beyond.</p>
@@ -191,7 +191,7 @@ Muriel doesn’t know why the woman was watching the road, but shares that the M
 
 If the players ask Muriel about the druid of the Forest Folk that they saw on the Old Svalich Road in [[Arc H - The Lost Soul]] she shares that the Forest Folk are known to be loyal servants of Strahd, who they worship like a deity. She advises the players to steer clear of the druids’ lair: a terraced mound called Yester Hill in the southwest corner of the Svalich Woods, south of the Wizard of Wines.
 ## J2c. The Raven River Crossroads
-The Raven River Crossroads are largely as described in <span class="citation">R. Raven River Crossroads (p. 40)</span>. However, do not check for a random encounter when the players reach this area. Additionally, add the following text to the end of the area description:
+This stretch of the Old Svalich Road has multiple branches. One branch heads north, quickly turning into a dirt path that leads to Van Richten’s Tower on Lake Baratok. One branch heads south, becoming Tsolenka Pass as it winds through the lower mountains and clings to the side of Mount Ghakis. A third branch heads west toward the Wizard of Wines winery and vineyard, dipping south as it changes from a road into a gravel trail. A weatherworn signpost stands next to the road: the arm pointing north reads "Krezk," the arm pointing east reads "Vallaki," and the arm pointing southwest reads "The Wizard of Wines." Do not check for a random encounter when the players reach this area. Additionally, add the following text to the end of the area description:
 
 <div class="description">
 <p>A figure clad in rusty armor stands alone on the bridge, clutching a gleaming longsword in its pale hands.</p>
@@ -244,7 +244,19 @@ As the players proceed past the pit trap, read:
 
 If the players choose to investigate the slab, they find that it bears a carving of a wolf over an engraved three-pointed star.  (The slab is an ancient monument to the Huntress, and the three-pointed star the symbol of the Ladies Three. Unlike the other three slabs in Barovia, there is no lichen or moss on this monument, which is ordinarily well-maintained by the Martikovs. Although the Martikovs don't remember the names or natures of the Ladies of the Fanes, they retain a strong respect for Barovia's old gods.)
 # J3. The Wizard of Wines
-The last stretch of the journey to the Wizard of Wines is largely as described in <span class="citation">Approaching the Vineyard (p. 174)</span>. If Muriel is with the party, she recognizes the man's cloak as Davian Martikov’s and urges the players to meet him.
+As the players approach the Wizard of Wines, read:
+
+<div class="description">
+<p>After a half mile, the road becomes a muddy trail that meanders through the woods, descending gradually until the trees part, revealing a mist-shrouded meadow. The trail splits. One branch heads west into the valley, and the other leads south into dark woods. A wooden signpost at the intersection points west and reads, "Vineyard."</p>
+</div>
+
+If the players follow the trail west toward the vineyard, read:
+
+<div class="description">
+<p>A light drizzle begins to fall. Unpainted fences blindly follow the trail, which skirts north of a sprawling vineyard before bending south toward a stately building. The fog takes on ghostly forms as it swirls between the neatly tended rows of grapevines. Here and there, you see rope-handled half-barrels used for hauling grapes. North of the trail is a large stand of trees. A man wearing a dark cloak and cowl stands at the edge of the trees, beckoning you.</p>
+</div>
+
+If Muriel is with the party, she recognizes the man's cloak as Davian Martikov’s and urges the players to meet him.
 
 > [!lore]+ **History of the Winery**
 > Long ago, before Strahd von Zarovich first conquered the valley, the tribes of the First Folk were brutally united when Kavan the Blood-Drinker, a young chieftain, destroyed the hierarchy of the druidic caste and waged bloody war upon his neighbors.
@@ -388,7 +400,7 @@ As the players pass through the tunnel, read:
 <p>The tunnel soon opens into a shallow, freezing cavern. Thick brown mold carpets the walls, floor, and ceiling, its expanse interrupted only by a narrow dirt path that cuts across the floor to a dark stone archway at the opposite end. </p>
 </div>
 
-This area is as described in <span class="citation">W15. Brown Mold (p. 178)</span>. If the players approach the archway, read:
+The brown mold covers the walls, floor, and ceiling throughout this area in ten patches. If the players approach the archway, read:
 
 <div class="description">
 <p>The archway gives way to a stonework tunnel, which seemingly terminates at a blank brick wall fifteen feet beyond. </p>
@@ -408,7 +420,7 @@ The tooth dissipates into frigid mist if either of these properties are used.
 ## J3b. Into the Winery
 <span class="citation"><em>This scene takes place in Chapter 12, Area W14.</em></span>
 
-The wine cellar is largely as described in <span class="citation">W14. Wine Cellar (p. 178)</span>. However, modify the descriptive text to read as follows:
+The wine cellar contains wooden pillars and beams that support its ten-foot-high ceiling, and is split in two by a five-foot-thick brick wall. A secret door between the two halves can be pushed open to reveal the freezing cold passageway beyond. The eastern half holds a wooden wine rack half-filled with bottles of Red Dragon Crush, while the western rack stands empty. Against the north wall in the eastern portion rest three frosty barrels of Purple Grapemash No. 3. However, modify the descriptive text to read as follows:
 
 <div class="description">
 <p>Wooden pillars and beams support the ten-foot-high ceiling of this unseasonably warm cellar, which is split in two by a five-foot-thick brick wall. A thick, humid mist curls across the floor, which is criss-crossed by tiny black roots.</p>
@@ -516,7 +528,7 @@ The ivy covering the wine racks is a particularly nasty type of carnivorous razo
 
 When a creature other than a blight, a **druid naturalist**, or a **druid assailant** moves within 5 feet of a tangle or starts its turn there, the razorvine lashes out like a whip toward it. That creature must succeed on a DC 10 Dexterity saving throw or take 5 (1d10) slashing damage from the razorvine’s bladelike thorns. On a failure, that creature is also grappled (escape DC 10) and must succeed on a DC 10 Constitution saving throw or be poisoned until the start of its next turn.
 ## J3c. Ascending the Stairs
-The three exits from the cellar are largely as described in <span class="citation">W11. Spiral Staircase (p. 177)</span>, <span class="citation">W12. Ramp (p. 177)</span>, <span class="citation">W13. Back Staircase (p. 178)</span>, and <span class="citation">W10. Glassblower’s Workshop (p.177)</span>. However, the ramp is completely filled with poison razorvine from the cellar to the top floor, obstructing the players’ ascent by that route.
+Three exits lead from the cellar. A stone spiral staircase with windows in its outer wall connects all three levels of the winery. A turret with a sloping, wooden floor spirals upward as a ramp from the cellar to the upper levels. A moss-covered underground staircase in the back ascends to the glassblower’s workshop above, which contains tools, a rack of freshly blown glass bottles, a hearth, and a barrel of sand. However, the ramp is completely filled with poison razorvine from the cellar to the top floor, obstructing the players’ ascent by that route.
 
 As the players climb the spiral staircase or back staircase toward the first floor, read:
 
@@ -528,7 +540,7 @@ As the players climb the spiral staircase or back staircase toward the first flo
 ### Fermentation Vats
 <span class="citation"><em>This scene takes place in Chapter 12, Area W9.</em></span>
 
-The scream originates from the large room containing the winery’s fermentation vats, which is largely as described in <span class="citation">W9. Fermentation Vats (p. 176)</span>. However, remove the final two sentences of the room’s description. If the players have entered the room from <span class="citation">W10. Glassblower's Workshop (p. 177)</span> or have entered the chamber fully, also read the following text:
+The scream originates from the large room containing the winery’s fermentation vats. This large, two-story chamber is dominated by four enormous wooden casks, each one eight feet wide and twelve feet tall. A wooden staircase in the center of the room climbs to a ten-foot-high wooden balcony that clings to the south wall, which has four windows set into it at balcony level. The balcony climbs another five feet as it continues along the west and east walls, ending at doors leading to the winery’s upper level. Sliding wooden doors along the north wall are chained shut from the inside, and the single doors leading to the loading dock and the veranda are barred shut from the inside. If the players have entered the room from the glassblower’s workshop or have entered the chamber fully, also read the following text:
 
 <div class="description">
 <p>Beneath the sloping roof stretch thick rafters, from which hang six wooden cages arranged side-by-side. Each cage holds more than a dozen ravens crammed together, with little space to move or breathe. Most of the ravens bear cuts or broken beaks, and all of them are missing feathers.</p>
@@ -796,7 +808,7 @@ Five **vine blights** lurk atop the wooden walkway on the western side, disguise
 > | Twig Blight | 5 | 5 | 5 | 6 |
 > | Vine Blight | 3 | 4 | 5 | 6 |
 
-The three barrels, which stand in the northeast, southeast, and northwest corners of the room, are largely as described in <span class="citation">W2. Loading Dock (p. 176)</span>, but are covered with strands of **poison razorvine.** 
+The loading dock contains a wagon and a raised wooden walkway that runs along the west, south, and east walls. Three barrels of Purple Grapemash No. 3, which stand in the northeast, southeast, and northwest corners of the room, are covered with strands of **poison razorvine.** 
 
 When a creature other than a blight, a **druid naturalist**, or a **druid assailant** moves within 5 feet of a tangle or starts its turn there, the razorvine lashes out like a whip toward it. That creature must succeed on a DC 10 Dexterity saving throw or take 5 (1d10) slashing damage from the razorvine’s bladelike thorns. On a failure, that creature is also grappled (escape DC 10) and must succeed on a DC 10 Constitution saving throw or be poisoned until the start of its next turn.
 ### Barrel Storage
@@ -804,7 +816,7 @@ When a creature other than a blight, a **druid naturalist**, or a **druid assail
 
 The barrel in the northwest corner is visibly older than the others, with darker wood, a rusted metal band, and cracks and chips across its surface. It contains three *potions of greater healing*, a packet of *dust of disappearance*, and a pouch containing 75 gp.
 ## J3e. The Second Floor
-The second floor of the winery is largely as described in <span class="citation">W9. Fermentation Vats (p. 176)</span>, <span class="citation">W16. Loading Winch (p. 178)</span>, <span class="citation">W17. Master Bedroom (p. 178)</span>, <span class="citation">W18. Kitchen and Dining Room (p. 179)</span>, <span class="citation">W19. Sleeping Quarters (p. 179)</span>, and <span class="citation">W20, Printing Press (p. 179)</span>. 
+The second floor of the winery contains the upper balconies of the fermentation vat chamber, the loading winch room, the master bedroom (currently used by Stefania and Dag Martikov and their baby daughter), a kitchen and dining room with a rectangular table surrounded by eight chairs, two sleeping quarters with bunk beds, and the printing press room. 
 
 However, the door leading from the balcony of <span class="citation">W9. Fermentation Vats (p. 176)</span> to <span class="citation">W16. Loading Winch (p. 178)</span> is covered in **poison razorvine** and obstructed from the far side, requiring a successful DC 20 Strength check to open.
 
@@ -812,7 +824,7 @@ When the players first reach the second floor, they can hear the sound of clatte
 ### Printing Press
 <span class="citation"><em>This scene takes place in Chapter 12, Area W20.</em></span>
 
-The room containing the Martikovs’ printing press is largely as described in <span class="citation">W20. Printing Press (p. 179)</span>. However, the druid is a **druid assailant**, and is accompanied by three **vine blights** rather than two. The druid and blights attack the players on sight.
+The printing press room contains a desk, a chair, a tall wooden cabinet, and a strange contraption that takes up most of the northern end of the room—Davian Martikov’s printing press, which he uses to make wine bottle labels. Inside the cabinet is a key on a loop of twine that unlocks the padlock on the sliding doors between the veranda and the fermentation vats. However, the room is occupied by a **druid assailant** who is rooting through the contents of the cabinet, accompanied by three **vine blights**. The druid and blights attack the players on sight.
 
 > [!combat]- **Combat - The Printing Press**  
 > **Combat Level**: Mild
@@ -830,7 +842,7 @@ The room containing the Martikovs’ printing press is largely as described in <
 ### Loading Winch
 <span class="citation"><em>This scene takes place in Chapter 12, Area W16.</em></span>
 
-This area is largely as described in <span class="citation">W16. Loading Winch (p. 178)</span>. However, revise the descriptive text to read as follows:
+When the players enter this area, read:
 
 <div class="description">
 <p>The roof over this room has collapsed, scattering mounds of debris and revealing a dark, stormy sky overhead that flashes with lightning. Heavy rain falls down onto the room’s wooden floor, which has a ten-foot-square hole cut into the middle of it and a wooden winch mounted upon the north side. </p>
@@ -845,7 +857,7 @@ The two artificial birds are **greater strixes.** The man is a **druid naturalis
 * ***Master of Blights.*** As an action, Lorghoth can use the *Gulthias staff* that he carries to summon and command any blights within a 1-mile radius.
 * ***Guardian of the Gulthias (1/day).*** In response to being targeted by an attack or spell, Lorghoth can use his reaction to magically polymorph into a **shambling mound** for 1 minute, summoning the roots and vines around him to encase his humanoid form. Any equipment he is wearing or carrying is absorbed or borne by the new form (Lorghoth’s choice). In his new form, Lorghoth retains his game statistics (including his hit points), spellcasting abilities, and ability to speak, but his AC, movement modes, Strength, Dexterity, resistances, immunities, and special senses are replaced by those of his new form, and he gains any statistics and capabilities that his new form has but that he lacks. While in this form, Lorghoth also gains the following feature: ***Mulchform.*** Lorghoth can move through a space as narrow as 5 feet wide without squeezing.
 
-The *Gulthias staff* is largely as described in <span class="citation">Gulthias Staff (p. 221)</span>. However, the staff’s dying wail can be heard in a 1-mile radius, rather than a 300-foot radius. Breaking the staff kills both the blights and the cutting of the Gulthias tree, which rapidly rots into a dark, grayish-black sludge.
+The *Gulthias staff* is a spongy, black length of wood made from the branch of a Gulthias tree. It has 10 charges and regains 1d6 + 4 expended charges daily at dusk. Its evil makes beasts visibly uncomfortable within 30 feet. While attuned to the staff, blights and other evil plant creatures don’t regard the wielder as hostile unless harmed. As a magic quarterstaff, on a hit, the wielder can expend 1 charge to regain hit points equal to the damage dealt, but must succeed on a DC 12 Wisdom saving throw or be afflicted with short-term madness. If the staff is broken or burned to ashes, its wood releases a terrible, inhuman scream that can be heard in a 1-mile radius. Breaking the staff kills both the blights and the cutting of the Gulthias tree, which rapidly rots into a dark, grayish-black sludge.
 
 > [!info]+ **Strix Statistics**
 > A **greater strix** uses the statistics of a **manticore**, but is Medium and has vulnerability to fire damage. Instead of actual tail spikes, the greater strix’s **_tail spikes_** attack releases a volley of dozens of tiny silver barbs from its wings.
@@ -1079,7 +1091,7 @@ After departing Kavan’s cairn, the players can return to the path and continue
 <p>The man's heel clicks against his steed's side, and it steps obediently forward to obstruct your path. Strahd's smile widens as he drinks in the sight of you, his gaze boring through the dancing shadows that lurk amidst the path.</p>
 </div>
 
-Beucephalus is as described in <span class="citation">Crypt 39 (p. 93)</span>. In addition to having 104 hit points, it also gains the following feature:
+Beucephalus is Strahd’s **nightmare** steed, with 104 hit points. It also gains the following feature:
 
 * ***Ethereal Escape (Recharge 5-6).*** In response to Beucephalus or its rider taking damage, Beucephalus can use its reaction to use its ***ethereal stride*** ability.
 
@@ -1132,7 +1144,13 @@ As in his first encounter with the players, Strahd is glad to accept any reasona
 
 If the players successfully convince Strahd to allow them to fight the Forest Folk, upon reaching the base of Yester Hill, Strahd notes that he is impressed by their audacity, and offers the following wager: if the players succeed in their task, they may meet him at the base of the Whispering Wall to the west of Yester Hill after the ritual, where he will offer them a gift—and share with them a secret. (If asked what the players will lose should they fail, Strahd merely smiles, and notes that their "opponent" likely has plans for that eventuality.)
 # J5. Yester Hill
-The final stretch of the trail that leads to Yester Hill is as described in <span class="citation">Y1. Trail (p. 197)</span>. However, read the following additional text when the players arrive at the base of Yester Hill:
+As the players approach Yester Hill, read:
+
+<div class="description">
+<p>The trail through the thick woods leads to a hill covered with dead grass and cairns of black rock. Dark, ominous clouds gather high above, and a single bolt of lightning strikes the hilltop. West of the hill, the land, the woods, and the sky vanish behind a towering wall of fog.</p>
+</div>
+
+Additionally, read the following text when the players arrive at the base of Yester Hill:
 
 <div class="description">
 <p>A flash of brilliant viridian light suddenly flickers from within an enormous ring of stacked boulders atop the hilltop. As you watch, the light thrums like an unsteady heartbeat—even as it slowly, gradually, and yet steadily grows in intensity. You think you can faintly hear the distant sound of drumming echoing across the mountains from atop the hill.</p>
@@ -1140,14 +1158,14 @@ The final stretch of the trail that leads to Yester Hill is as described in <spa
 
 When the players arrive at Yester Hill, if Strahd has accompanied them, he informs them that, if they wish to make good on their bet, they must first meet him at the point where the road meets the top of the hill. (He promises the players that he'll "make sure the festivities don't start without you," adding, "You must meet your opponent, after all.") If the players accept, he notes that he will "see them at the top," and vanishes astride Beucephalus.
 
-The players can climb the trail straight to <span class="citation">Y3. Druids Circle (p. 197)</span> at the top of the hill. (They don't need to travel through the berserker cairns, which are as described in <span class="citation">Y2. Berserker Cairns (p. 197)</span> and which they pass during their ascent up the hill, in order to do so.)
+The players can climb the trail straight to <span class="citation">Y3. Druids Circle (p. 197)</span> at the top of the hill. (They don't need to travel through the berserker cairns, which are ten-foot-high mounds of slimy black rocks arranged in two concentric rings encircling the hillside, and which they pass during their ascent up the hill, in order to do so.)
 
 > [!info]+ **The Swarms of Ravens**
 > The **swarms of ravens** that accompanied the players to Yester Hill follow in the skies behind them, but don't join in the fighting. (If the players mention this, Muriel points out that they'd be of little use when attacking against more dangerous foes than the blights of the winery, but notes her belief that they may find some way to help all the same.)
 > 
 > Although the ravens won't act as combatants in battle, they can aid the players in their fight against Ludmilla and in their efforts to escape should the ritual fail. See [[#Ludmilla's Provocations]] and [[#J5f. Stopping the Ritual]] for more information on how the ravens help.
 ## J5a. Entering the Circle
-The druids' circle is largely as described in <span class="citation">Y3. Druids' Circle (p. 197)</span>. However, add the following text to the end of the area's description:
+Atop the hill is a wide ring of black boulders and smaller rocks that collectively form a makeshift wall enclosing a field of dead grass, with the ring spanning 250 feet in diameter and ranging from 5 to 10 feet high. Lightning strikes the edge of the ring from time to time, illuminating a ghastly, fifty-foot-tall statue made of tightly woven twigs and packed with black earth that resembles a towering, cloaked man with fangs. Any creature that climbs over the black boulders has a 10 percent chance of being struck by lightning, taking 44 (8d10) lightning damage; characters can avoid this by sticking to the two trails that pass through the ring. When the players arrive, read the following additional text:
 
 <div class="description">
 <p>A deep viridian light flashes from the statue's chest, and the swell of the drumbeat fills your ears. As you pass through the boulders, it's joined by the sound of chanting, which rumbles from a circle of thirteen figures that stand around the statue's base. Above the beast hides they wear, they bear antlers, wolfskins, and crowns crafted of wicked thorns, and crimson markings paint their faces a bloody hue.</p>
@@ -1432,7 +1450,7 @@ Svarog has the statistics of a **druid naturalist**, except he gains the followi
 * ***Gust of Wind.*** As an action, Svarog casts *gust of wind*.
 * ***Bind Elements (3/day).*** _2nd Level Spell:_ range 60 feet, components V S, 1 round. As a reaction when he sees a creature casting a spell of 3rd level or lower within range that deals acid, cold, fire, lightning, or thunder damage, Svarog can force that creature to make a DC 12 saving throw using its spellcasting ability. On a failure, the creature's spell fails and it has no effect, and a small orb of elemental energy appears in Svarog's hand. Svarog can use a bonus action on his next turn to fling the orb, making a ranged spell attack using the orb (+5 to hit) against a creature within 60 feet. On a hit, the orb deals 1d6 damage of the type absorbed, plus an additional 1d6 damage for each level of the spell absorbed.
 
-The statue is largely as described in <span class="citation">Y3. Druids' Circle (p. 197)</span>. However, the statue has 100 hit points. In addition, the portion of the statue's chest containing the gem, which lies 30 feet above the ground, has AC 10 and 10 hit points, with immunity to poison and psychic damage. The gem cannot be retrieved until the statue's chest is reduced to 0 hit points, at which point the gem is exposed. 
+The statue is a ghastly, fifty-foot-tall construction made of tightly woven twigs and packed with black earth, resembling a towering, cloaked man with fangs. The statue has 100 hit points. In addition, the portion of the statue's chest containing the gem, which lies 30 feet above the ground, has AC 10 and 10 hit points, with immunity to poison and psychic damage. The gem cannot be retrieved until the statue's chest is reduced to 0 hit points, at which point the gem is exposed. 
 
 If the ritual is permanently disrupted (see **The Ritual Begins** above) or if the players retrieve the gem from the statue's chest, the ritual's destructive energy is unleashed upon the circle. Read:
 

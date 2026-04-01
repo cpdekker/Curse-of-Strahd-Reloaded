@@ -264,7 +264,7 @@ If the players attempt to enter through the gates, the guards solemnly inform th
 If the players kill any guards or cultists, the guards and cultists fight to the death, attempting to kill the players in return. Otherwise, the guards and cultists use nonlethal tactics, surrendering if three or more guards and/or cultists are knocked unconscious.
 
 > [!abstract]+ **Breaking Into Vallaki**
-> Vallaki’s guard patrols are largely as described in <span class="citation">Town Gates (p. 95)</span>. However, an additional six **cultists** loyal to Lady Wachter patrol the walls alongside the **guards**.
+> Vallaki’s guard patrols is as follows: Three tall gates made of iron bars lead into town: • The north gate is sometimes called the Zarovich Gate, or "the gate to the lake," because it leads to Lake Za rovich (chapter 2, area L). • The west gate is referred to as the Sunset Gate, even though no living person in Vallaki has seen an un dimmed sunset. A few abandoned cottages line the road outside this gate. • The east gate is also known as the Morning Gate, or, as some locals like to call it, the Mourning Gate. However, an additional six **cultists** loyal to Lady Wachter patrol the walls alongside the **guards**.
 
 > [!lore]+ **The Long Arm of Castle Ravenloft**
 > Following the players’ exploits in [[Arc Q - A Shining Beacon]], and upon learning of the players’ close relationship to Lady Fiona Wachter following [[Arc F - Lady Wachter's Wish]] and [[Arc H - The Lost Soul]], Strahd sent an emissary from Castle Ravenloft to bring Lady Wachter—and Vallaki—to heel. Hoping to spread fear and despair in advance of the Grand Conjunction, Strahd commanded his emissary to “break the town’s spirit"—by any means necessary. (If Volenta Popofsky, Ludmilla Vilisevic, or Anastrasya Karelova are still alive, Strahd designated one of them as his emissary. Otherwise, he turned his fanatical Vistani **spy** Eliza into a **vampire spawn** and designated her as his emissary instead. If neither Volenta, Ludmilla, Anastrasya, nor Eliza survive, Strahd instead chose the **vampire spawn** Helga, who is as described in <span class="citation">K32. Maid in Hell (p. 64)</span>.
@@ -528,7 +528,15 @@ Exethanter, who is clearly horrified, agitated, and somewhat impressed by the au
 > The thirteen stars grow increasingly aligned each night, reaching perfect alignment on the third night following Exethanter’s message.
 # T3. The Witch of Berez
 ## T3a. Berez Outskirts
-The players’ approach to Berez is largely as described in <span class="citation">Approaching the Ruins (p. 161)</span>. However, revise this area’s description as follows:
+The players’ approach to Berez has the following description:
+
+<div class="description">
+<p>The following boxed text assumes that the characters approach Berez from the north, along the trail leading from the Old Svalich Road. If they approach from a dif ferent direction, don't read the first sentence. The trail hugs the river for several miles. The dirt and grass soon turn to marsh as the trail dissolves into spongy earth pockmarked with stands of tall reeds and pools of stagnant water. A thick shroud of fog covers all. Scattered throughout the marsh are old peasant cottages, their walls covered with black mildew, their roofs mostly caved in. These decrepit dwellings seem to hunker down in the mire, as though they have long since given up on escaping the thick mud. Everywhere you look, black clouds of flies dart about, hungry for blood. The fog is much thinner on the far side of the river, where a light flashes amid a dark ring of standing stones. The river ranges in depth but is never more than 10 feet deep.</p>
+</div>
+
+Muriel Vinshaw, a wereraven in human form, lurks amid the circle of standing stones (area U6) and is using a lantern to signal the heroes. In the village proper, fog prevents a creature from seeing any other creature or object more than 120 feet away. A few sections of dirt road have survived, and these places are not difficult terrain. The marsh, however, is difficult terrain. Whenever the characters take a short or long rest in the marsh, even if they barricade themselves in a ruined building, they are accosted by ld4 swarms of hungry flies (use the swarm of insects [wasps) stat block in the Monster Manual). The swarms don't trouble characters in areas U3 or US.
+
+However, revise this area’s description as follows:
 
 <div class="description">
 <p>The trail hugs the river for several miles. The dirt and grass soon turn to marsh as the trail dissolves into spongy earth pockmarked with stands of tall reeds and pools of stagnant water. A thick shroud of fog covers all.</p>
@@ -573,7 +581,11 @@ Beyond the entrance, the hedge maze splits into two corridors: one that runs wes
 > [!info]+ **Light in the Maze**
 > Except in [[#T3k. Baba Lysaga’s Hut]], no natural or artificial light illuminates the interior of the hedge maze, leaving all rooms in darkness unless illuminated by the players.
 ## T3b. Northern Cottages
-This area is largely as described in <span class="citation">U1. Abandoned Cottages (p. 162)</span> (north cottages). However, two **greater strix** hang from the ceiling above the cottages. When the players enter, the strix descend upon the players and attack, releasing a pair of shrill, piercing shrieks.
+This area has the following description:
+
+<div class="description">
+<p>As you approach this cluster of ruined cottages sepa rated by low stone walls, you see a short stretch of dirt road that has remained intact. The cottages contain rotted furnishings and nothing of value. The walls that separate the cottages are 3 feet tall and easily scaled or circumvented.</p>
+</div> (north cottages). However, two **greater strix** hang from the ceiling above the cottages. When the players enter, the strix descend upon the players and attack, releasing a pair of shrill, piercing shrieks.
 
 > [!combat]- **Combat - The Northern Cottages**  
 > **Combat Level**: Mild
@@ -594,7 +606,11 @@ Three ten-foot-wide passages lead from this chamber:
 * One along the southeast wall, which leads to [[#T3d. Town Green]]
 * One to the southwest, which leads to [[#T3e. Churchyard]]
 ## T3c. Southern Cottages
-This area is largely as described in <span class="citation">U1. Abandoned Cottages (p. 162)</span> (south cottages). However, if they weren’t killed in [[Arc Q - A Shining Beacon]], two **Barovian hexwitches** and two **Barovian bogwitches**, as described in [[Arc P - Ravenloft Heist#P9c. Cauldron Room|Arc P - Ravenloft Heist]], lurk in four cottages flanking the road. If she’s still alive, Wensencia and her undead **dire wolf**, as described in [[Arc M - The Dragon's Manor#The Witch's Harvest|The Witch's Harvest]], lurk in a fifth cottage. The witches emerge and attack any players who pass between or enter the cottages.
+This area has the following description:
+
+<div class="description">
+<p>As you approach this cluster of ruined cottages sepa rated by low stone walls, you see a short stretch of dirt road that has remained intact. The cottages contain rotted furnishings and nothing of value. The walls that separate the cottages are 3 feet tall and easily scaled or circumvented.</p>
+</div> (south cottages). However, if they weren’t killed in [[Arc Q - A Shining Beacon]], two **Barovian hexwitches** and two **Barovian bogwitches**, as described in [[Arc P - Ravenloft Heist#P9c. Cauldron Room|Arc P - Ravenloft Heist]], lurk in four cottages flanking the road. If she’s still alive, Wensencia and her undead **dire wolf**, as described in [[Arc M - The Dragon's Manor#The Witch's Harvest|The Witch's Harvest]], lurk in a fifth cottage. The witches emerge and attack any players who pass between or enter the cottages.
 
 > [!combat]- **Combat - The Southern Cottages**  
 > **Combat Level**: Mild
@@ -664,7 +680,15 @@ Two ten-foot-wide passages lead from this chamber:
 * One to the northwest, which leads to [[#T3b. Northern Cottages]]
 * One to the southeast, which leads to [[#T3c. Southern Cottages]]
 ## T3e. Churchyard
-This area is largely as described in <span class="citation">U4. Churchyard</span>. However, add the following to the end of this area’s description:
+This area has the following description:
+
+<div class="description">
+<p>Through the fog you see the empty shell an old stone church, north of which is a cemetery of leaning grave stones enclosed by a disintegrating iron fence. Half of the cemetery has sunk into the mire. '. Rotted coffins and moldy bones are buried in the grave yard.</p>
+</div>
+
+Characters who explore the gutted church find the rotten remains of a pulpit and an old iron bell half immersed in the marsh, lying amid the remains of a col lapsed steeple.
+
+However, add the following to the end of this area’s description:
 
 <div class="description">
 <p>Three flickering lights bob between the graves.</p>
@@ -692,7 +716,15 @@ Three ten-foot-wide passages lead from this chamber:
 * One to the south, which leads to [[#T3g. Manor Cellar]]
 * One to the southwest, which leads to [[#T3f. Marina’s Monument]]. (A faint golden glow emanates from this passage.)
 ## T3f. Marina’s Monument
-This area is largely as described in <span class="citation">U5. Marina’s Monument (p. 164)</span>. However, modify this area’s description as follows:
+This area has the following description:
+
+<div class="description">
+<p>Strahd had this monument erected after Marina's death. The monument is hidden ip the marsh, and the charac ters aren't likely to find it on their own unless they scour the area thoroughly.</p>
+</div>
+
+If they lay Burgomaster Ulrich's spirit to rest (see area U2), it points t-he\ to this.location before fading away. Without Ul.rich's guidance, t!Je char acters must enter the square in which the monument 'is located and search that area .. A characJer·who searches the area for 10 minutes can make a DC.15 Wisdom (Perception) check, finding.the monument on a success. If the monument isn't found, th] check can be repeated after another 10 minutes of searching. The following boxed text assumes that the characters have met Ireena Koly^na. If they have not, don't read the sentence that mentions her. Hidden by the fog and elevated a few feet above the sur rounding marsh is a raised plot of land, barely ten feet on a side, enclosed by a disintegrating iron fence. In the center of the plot is a life-sized stone monument carved in the likeness of a kneeling peasant girl clutching a rose. Although her features are gray and weatherworn, she bears a striking resemblance to lreena Kolyana. Carved into the monument's base is an epitaph. The epitaph reads as follows: Marina, Taken by the Mists.
+
+However, modify this area’s description as follows:
 
 <div class="description">
 <p>Hidden by the fog and elevated a few feet above the surrounding marsh is a raised plot of land, barely ten feet on a side, enclosed by a disintegrating iron fence. In the center of the plot is a stone monument.</p>
@@ -906,7 +938,13 @@ The dolls attack if the players approach them or otherwise pass the midpoint of 
 
 A player who inspects the collapsed ceiling and succeeds on a DC 8 Intelligence (Investigation) check discerns that the ceiling collapsed long ago—likely centuries before the players arrived.
 ## T3h. Goat Pen
-This area is largely as described in <span class="citation">U2. Ulrich Mansion (p. 162)</span>. However, Baba Lysaga has transformed the nine **goats** here into hulking carnivorous beasts (use the statistics of a **giant hyena** with the additional ***gore*** attack of a **rhinoceros**). The goats attack any player who enters their pen.
+This area has the following description:
+
+<div class="description">
+<p>Toward the south end of the village lie the remains of a mansion built on higher ground. It has been reduced to piles of stone and rotting timber. Empty, arched windows stare at you. South of the ruin, an untamed garden runs rampant, surrounded by broken walls that are no longer able to contain it. East of the ruin, someone has erected a crude wooden fence, forming a circular yard in which several goats are penned. Surmounting the fence posts are human skulls. The ruined mansion is littered with the rotted remains of furniture and decor. ThN last burgcièaster qf Berez, Lazlo Ulrich, haunts the rui.n a'.'i;aghost. Ifthéêharac ters search the rnan,sion, tl)e ghcisl'.·appears before them: - ;_,· . ,\' ,' t . . :  A ghost takes shape in the fog, assuming the form of a giant of a man, his features mutilated and his entrails hanging out like frayed ropes. Despite its intimidating presence, the apparition has a cringing light in its eyes. "Why do you invade my home? Begone, I beseech you!"</p>
+</div>
+
+However, Baba Lysaga has transformed the nine **goats** here into hulking carnivorous beasts (use the statistics of a **giant hyena** with the additional ***gore*** attack of a **rhinoceros**). The goats attack any player who enters their pen.
 
 > [!combat]- **Combat - The Goat Pen**  
 > **Combat Level**: Bruising
@@ -925,7 +963,13 @@ Two ten-foot-wide passages lead from this chamber, whose walls are flush with th
 * One to the east, which leads to [[#T3c. Southern Cottages]]
 * One to the southwest, which leads to [[#T3i. Garden]]
 ## T3i. Garden
-This area is largely as described in <span class="citation">U2. Ulrich Mansion (p. 162)</span>. However, six **scarecrows** are interspersed among the stone sculptures throughout the garden. The scarecrows and **giant poisonous snakes** attack characters who venture more than 20 feet inside the garden.
+This area has the following description:
+
+<div class="description">
+<p>Toward the south end of the village lie the remains of a mansion built on higher ground. It has been reduced to piles of stone and rotting timber. Empty, arched windows stare at you. South of the ruin, an untamed garden runs rampant, surrounded by broken walls that are no longer able to contain it. East of the ruin, someone has erected a crude wooden fence, forming a circular yard in which several goats are penned. Surmounting the fence posts are human skulls. The ruined mansion is littered with the rotted remains of furniture and decor. ThN last burgcièaster qf Berez, Lazlo Ulrich, haunts the rui.n a'.'i;aghost. Ifthéêharac ters search the rnan,sion, tl)e ghcisl'.·appears before them: - ;_,· . ,\' ,' t . . :  A ghost takes shape in the fog, assuming the form of a giant of a man, his features mutilated and his entrails hanging out like frayed ropes. Despite its intimidating presence, the apparition has a cringing light in its eyes. "Why do you invade my home? Begone, I beseech you!"</p>
+</div>
+
+However, six **scarecrows** are interspersed among the stone sculptures throughout the garden. The scarecrows and **giant poisonous snakes** attack characters who venture more than 20 feet inside the garden.
 
 > [!combat]- **Combat - The Garden**  
 > **Combat Level**: Bruising
@@ -1099,7 +1143,15 @@ The candelabra, bookstand, and stone bust each have the statistics of an **anima
 
 If the players continue to defy Lazlo, or attack him, he and the animated objects attack.
 ## T3k. Baba Lysaga’s Hut
-This area is largely as described in <span class="citation">U3. Baba Lysaga’s Hut (p. 163)</span>. However, if more than 10 minutes have passed since Baba Lysaga’s _programmed illusion_ activated in [[#T3a. Berez Outskirts]], revise this area’s description as follows:
+This area has the following description:
+
+<div class="description">
+<p>Someone has built a ramshackle wooden hut on the stump of what was once an enormous tree. The rotting roots of the stump thrust up from the mire like the legs of a gigantic spider. An open doorway is visible on one side of the hut, be neath which floats the upside-down, hollowed-out skull of a giant. Flanking the hut's doorway are two iron cages that dangle like hideous ornaments from the eaves. Scores of ravens are trapped in each one. They squawk and flutter their wings excitedly as you approach.</p>
+</div>
+
+Baba Lysaga (see appendix D) is inside her hut unless she has been drawn forth by activity elsewhere. The squawks of the birds are music to her ears, but the noise makes it impossible for her to hear anyone approaching. Only the howling of the skulls in area U2 or sounds of combat nearby are loud enough to be heard over the squawking. Inside each cage is a swarm of ravens that fiercely attacks Baba Lysaga and her scarecrows if released. Each cage is held shut by one of Baba Lysaga's arcane lock spells, and opening it requires a knock spell or a successful DC 20 Strength check. A character can also pick the lock with thieves' tools and a successful DC 20 Dexterity check.
+
+However, if more than 10 minutes have passed since Baba Lysaga’s _programmed illusion_ activated in [[#T3a. Berez Outskirts]], revise this area’s description as follows:
 
 <div class="description">
 <p>A small, grassy hill rises from the mire here. A ramshackle wooden hut rests on a stump atop the hill. The stump’s rotting roots thrust down toward the mire, like the legs of a gigantic spider.</p>
@@ -1212,7 +1264,13 @@ Baba Lysaga then attacks.
 <hr>
 <p><strong><em>Blessing of Mother Night.</em></strong> Baba Lysaga is shielded against divination magic, as though protected by a <em>nondetection</em> spell.</p>
 <p><strong><em>Skilled Casting.</em></strong> Baba Lysaga can concentrate on up to three spells at a time. If she would lose concentration on one, she loses concentration on all of them.</p>
-<p><strong><em>Flying Skull.</em></strong> While riding her flying giant’s skull, Baba Lysaga gains a fly speed of 30 ft. and has half cover. The skull shares Baba Lysaga’s Strength, Dexterity, and Constitution scores and saving throws, and is otherwise as described in <span class="citation">U3. Baba Lysaga’s Hut (p. 163)</span>.</p>
+<p><strong><em>Flying Skull.</em></strong> While riding her flying giant’s skull, Baba Lysaga gains a fly speed of 30 ft. and has half cover. The skull shares Baba Lysaga’s Strength, Dexterity, and Constitution scores and saving throws, and has the following description:
+
+<div class="description">
+<p>Someone has built a ramshackle wooden hut on the stump of what was once an enormous tree. The rotting roots of the stump thrust up from the mire like the legs of a gigantic spider. An open doorway is visible on one side of the hut, be neath which floats the upside-down, hollowed-out skull of a giant. Flanking the hut's doorway are two iron cages that dangle like hideous ornaments from the eaves. Scores of ravens are trapped in each one. They squawk and flutter their wings excitedly as you approach.</p>
+</div>
+
+Baba Lysaga (see appendix D) is inside her hut unless she has been drawn forth by activity elsewhere. The squawks of the birds are music to her ears, but the noise makes it impossible for her to hear anyone approaching. Only the howling of the skulls in area U2 or sounds of combat nearby are loud enough to be heard over the squawking. Inside each cage is a swarm of ravens that fiercely attacks Baba Lysaga and her scarecrows if released. Each cage is held shut by one of Baba Lysaga's arcane lock spells, and opening it requires a knock spell or a successful DC 20 Strength check. A character can also pick the lock with thieves' tools and a successful DC 20 Dexterity check. </p>
 <p><strong><em>Swallowed by the Swamp.</em></strong> When Baba Lysaga is reduced to 0 hit points, she plunges or sinks into the swamp of Berez. She then resurfaces, riding atop a tower of swamp vines coiled around her lower body. Her statistics are instantly replaced by those of her second form. Her initiative count doesn’t change, excess damage doesn’t carry over, and she retains none of the conditions she had in her previous form.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Baba Lysaga uses Hair Blade twice, or uses Spellcasting to cast <em>acid splash</em> twice.</p>
@@ -1901,7 +1959,15 @@ Van Richten is eternally grateful to the players for reuniting him and Erasmus, 
 > [!abstract]+ **Erasmus’s Unfinished Business**
 > If asked why his ghost persists, Erasmus shares that—beyond his entrapment in Barovia’s mists—he feels he cannot depart his father’s side until Van Richten has resolved his own unfinished business. “He has one more battle to fight," Erasmus says softly. “I need to be there by his side when he does."
 ## T4d. The Forest Fane
-The Forest Fane is located at the grove of the Gulthias Tree at Yester Hill. This area is largely as described in <span class="citation">Y4. Gulthias Tree (p. 198)</span>. However, replace the last two sentences of the area description with the following text:
+The Forest Fane is located at the grove of the Gulthias Tree at Yester Hill. This area has the following description:
+
+<div class="description">
+<p>At the south end of the hilltop is a sickly copse, a grove of dead trees and shrubs with a huge, misshapen tree at its core. Blood oozes like sap from its twisted trunk. Skulk ing around the tree are six gangly' humanoid creatures covered with needles. Embedded in the tree is a shiny battleaxe, beneath which lies a humanoid skeleton. The tree is a Gulthias tree (see the blights entry in the Monster Manual), the roots of which extend deep be neath the hill. Lurking among the dead trees and shrubs are three vine blights, six needle blights, and twelve twig blights. The needle blights are plainly visible, but the False Appearance feature of the vine blights and the twig blights allows them to hide in plain sight. The blights attack anyone who harms the Gulthias tree, which has no actions or effective attacks of its own.</p>
+</div>
+
+The Gulthias tree has AC 15, 250 hit points, and im munity to bludgeoning, piercing, and psychic damage. If it is reduced to O hit points, it seems to be destroyed but isn't truly dead; it regains 1 hit point every month until it is fully healed. With a successful DC 15 Intelligence (Nature) check, a character can determine that the en tire stump must be uprooted for the tree to truly die. The Gulthias tree withers and dies in 3d10 days if a hallow spell is cast in its area. The Gulthias tree creates blights from ordinary plants and is the only tree of its kind in Barovia. If the Gulth ias tree is killed, no new blights can be created within Strahd's domain. Award the party 1,500 XP for destroy ing the Gulthias tree. The skeleton lying at the base of the Gulthias tree is all that remains of a human adventurer who was killed by blights while trying to cut down the tree.
+
+However, replace the last two sentences of the area description with the following text:
 
 <div class="description">
 <p>A circle of craggy, jagged megaliths stands hunkered down among the undergrowth, draped with rotted vines and overgrown by large brambles and dead shrubs. Each megalith bears a carving of a different animal. The air here is thick and unseasonably warm, and a sickly, putrid smell chokes the air.</p>
@@ -2061,7 +2127,13 @@ A player who succeeds on a DC 12 Wisdom (Insight) check discerns that the emissa
 * The vampire spawn and wights have dug pit traps just past both doors leading into the warehouse.
 * The warehouse office’s door is trapped with tripwires; if triggered, the tripwires activate snare traps tied to the warehouse’s central pulley mechanism.
 ## T5c. Arasek Stockyard
-This area is largely as described in <span class="citation">N5. Arasek Stockyard (p. 115)</span>. The stockyard’s warehouse, which is forty feet long, sixty feet wide, and twenty feet tall, stands directly to the left of <span class="citation">N6. Coffin Maker’s Shop (p. 116)</span>. It has the following features:
+This area has the following description:
+
+<div class="description">
+<p>The wagon suddenly lurches, as though something big has thrown itself against the inside wall. You hear the cracking of wood, the scraping of metal, and the snarl of something inhuman. Upon closer inspection, you see that the sides of the wagon are spattered with dry blood. You also see an inscription on the wagon's door frame that reads, "I bring you from Shadow into Light!" Rictavio carries the key to the wagon door. The lock can be picked but is rigged with a poison needle trap (see "Sample Traps" in chapter 5, "Adventure Environ ments," of the Dungeon Master's Guide).</p>
+</div>
+
+This large stockyard has several locked sheds along its periphery and lies adjacent to a roomy warehouse. A wooden sign above the front gate reads "Arasek Stockyard." Parked at the south end of the stockyard is a sturdy carnival wagon, its colorful paint peeling off. Faded let tering on its sides spells out the words "Rictavio's Carni val of Wonders." A heavy padlock secures the back door. --- --ss::: • The stockyard is a general store and a facility where storage sheds can be rented. It is owned by a middle aged married couple, Gunther and Yelena Arasek (LG male and female commoners). They sell items from the Adventuring Gear table in the Player's Handbook that have a price of 25 gp or less, but at five times the price. R1cTAv10's CARNIVAL WAGON The colorful half-elf bard Rictavio (see area N2 and ap pendix D) paid Gunther and Yelena a generous amount of gold to watch his carnival wagon, no questions asked. Inside the wagon is a saber-toothed tiger with 84 hit points. It is clad in specially fitted half plate (AC 17) and has been trained to hunt evil Vistani. The tiger rec ognizes Vistani by·smqiLand, to a lesser extent, by the fancy garb they wear: This-tiger has a challenge rating of 3 (700 XP). . . CHAPTER 5 I THE TOWN Of VALLAKl  I rr5 ___ r--z-=""-&,,..o n6 The wagon also contains the torn-up remains of a doll. A character who makes a successful DC 10 Intelligence (Investigation) check discovers that the doll was once a colorfully dressed Vistani effigy. Stitched into its tat tered pants is a slogan: "Is No Fun, Is No Blinsky!" Rictavio isn't ready to unleash the tiger on the Vistani just yet. He feeds it by dropping wolf steaks down a 1-foot-square hatch in the wagon's roof. A character who climbs atop the wagon can spot the hatch without need ing to make an ability check. If the tiger is released, it begins stalking through the streets until its keen sense of smell locates either Ricta vio (area N2) or Piccolo (area N7). The tiger doesn't attack anyone who isn't a Vistana except in self-defense. It attacks Vistani on sight. Rictavio can make the tiger break off its attack and lure it back into the wagon. The stockyard’s warehouse, which is forty feet long, sixty feet wide, and twenty feet tall, stands directly to the left of <span class="citation">N6. Coffin Maker’s Shop (p. 116)</span>. It has the following features:
 
 * **Front Doors.** A set of tall double wooden doors at the front. An iron chain (AC 19, 10 hit points, and immunity to poison, psychic, and piercing damage) is tied and padlocked around the doors from the inside. In addition, wires tied to either door are connected to bells on the left and right side of the doors, which ring if the doors are opened. (A successful DC 10 Intelligence (Investigation) check reveals the bells, which can be disabled with a successful DC 12 Dexterity (Thieves’ Tools) check.)
 * **Back Door.** A single wooden door at the back. The door is locked, requiring a successful DC 15 Dexterity (Thieves’ Tools) check to open. In addition, a wire tied to the door is connected to a bell just above the doors, which rings if the door is opened. (A successful DC 10 Intelligence (Investigation) check reveals the bell, which can be disabled with a successful DC 12 Dexterity (Thieves’ Tools) check.)

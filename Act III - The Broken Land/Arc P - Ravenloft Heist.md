@@ -117,7 +117,13 @@ Whether the players are coming from Barovia or Vallaki, if the players reunited 
 >
 > The stone can be used to cast the _clairvoyance_ spell three times. The third time the spell is cast, the stone crumbles to dust after the spell ends.
 ## P2b. Approaching the Castle
-The castle crossroads are largely as described in <span class="citation">I. Black Carriage (p. 37)</span>, except Strahd’s black carriage isn’t present. The journey from the crossroads to the castle gates is two and one-half miles long and takes fifty minutes.
+When the players arrive at the castle crossroads, read:
+
+<div class="description">
+<p>Even here, in the mountains, the forest and the fog are inescapable. Ahead, the dirt road splits in two, widening toward the east. There you see patches of cobblestone, suggesting that the eastern branch was once an important thoroughfare.</p>
+</div>
+
+Strahd’s black carriage isn’t present. The journey from the crossroads to the castle gates is two and one-half miles long and takes fifty minutes.
 
 As the players approach the castle, read:
 
@@ -126,7 +132,7 @@ As the players approach the castle, read:
 <p>A thick blanket of fog rolls across the road, creeping along the land like a skulking spider. Within it, eerie shapes occasionally form and dissipate—a grasping hand, a writhing serpent, a screaming face—then vanish, as quickly as they came.</p>
 </div>
 
-The gates of Ravenloft are largely as described in <span class="citation">J. Gates of Ravenloft (p. 38)</span>. However, revise this area’s description as follows:
+When the players arrive at the gates of Ravenloft, read:
 
 <div class="description">
 <p>After winding through the craggy mountain peaks, the road takes a sudden turn to the east. Twin stone guard towers stand before you, their rotted wooden doors creaking in the wind. Beyond these twin turrets lies the precipice of a fifty-foot-wide, fog-filled chasm that plummets to unknown depths below.</p>
@@ -207,7 +213,13 @@ The players might use any of the following methods to distract the **wights** pa
 ## P3a. Front Courtyard
 <span class="citation"><em>This scene takes place in Chapter 4, Area K1.</em></span>
 
-This area is largely as described in <span class="citation">K1. Front Courtyard (p. 52)</span>. However, the doors into the keep are closed.
+When the players enter this area, read:
+
+<div class="description">
+<p>Thick, cold fog swirls in this courtyard. Sporadic flashes of lightning lance the weeping clouds overhead as thunder shakes the ground. Through the drizzle, you see the keep's main doors standing closed against the chill. High above the entrance is a round window with shards of broken glass lodged in its iron frame.</p>
+</div>
+
+The walls that enclose the courtyard are 90 feet high. The dark towers of the castle rise even higher. Doors in the gate towers on each side of the tunnel entrance are shut against the rain, and a howling wind rushes through the courtyard. The large, shattered window overlooking the main entrance is 50 feet above the courtyard.
 
 > [!info]+ **Sneaking Past the Guards**
 > If the players haven’t alerted the **wights** atop the walls yet, they must succeed on a DC 14 group Dexterity (Stealth) check to evade detection each time they move across the grounds without pausing. If the players fail the check, the **wights** attack from atop the walls using their longbows, but don’t follow the players into the castle.
@@ -217,26 +229,62 @@ This area is largely as described in <span class="citation">K1. Front Courtyard 
 ## P3b. Center Court Gate
 <span class="citation"><em>These scenes take place in Chapter 4, Area K2.</em></span>
 
-These north and south courtyards are largely as described in <span class="citation">K2. Center Court Gate (p. 54)</span>. In addition, a creature that attempts to lift one of the portcullises in these areas must succeed on a DC 13 Dexterity (Stealth) check with disadvantage to avoid alerting any **wights** nearby.
+When the players enter one of these courtyards, read:
+
+<div class="description">
+<p>A massive wall juts out to connect the outer walls of the castle with the keep. A twenty-foot-wide, twenty-foot-tall archway offers passage through the connecting wall but is blocked by a rusting iron portcullis.</p>
+</div>
+
+The portcullis is unlocked and can be lifted with a successful DC 15 Strength check. It can also be opened with a command word that only Strahd and Cyrus Belview know. Unless the portcullis is wedged or propped open, it falls back into place once it is let go. In addition, a creature that attempts to lift one of the portcullises in these areas must succeed on a DC 13 Dexterity (Stealth) check with disadvantage to avoid alerting any **wights** nearby.
 ## P3c. Servants’ Courtyard
 <span class="citation"><em>This scene takes place in Chapter 4, Area K3.</em></span>
 
-This area is as described in <span class="citation">K3. Servants’ Courtyard (p. 54)</span>.
+This courtyard northeast of the keep is enclosed by towering walls. A stone carriage house with hinged wooden doors stands silent in the corner where the outer walls meet. Across from the carriage house, a slender wooden door reinforced with iron bands leads into the keep.
+
+The carriage house is described in [[#P3d. Carriage House]]. The wooden door, which leads to [[#Servants’ Entrance]], is swollen and stuck in its frame. A character can shoulder open the stuck door with a successful DC 10 Strength check.
 
 > [!info]+ **Entering the Servants’ Entrance**
 > Players who enter the wooden door here exit the castle grounds and enter [[#P5. Servants’ Wing]] via [[Arc P - Ravenloft Heist#Servants’ Entrance|Servants’ Entrance]].
 ## P3d. Carriage House
 <span class="citation"><em>This scene takes place in Chapter 4, Area K4.</em></span>
 
-This area is as described in <span class="citation">K4. Carriage House (p. 54)</span>.
+If the characters open the carriage house doors, read:
+
+<div class="description">
+<p>The double doors swing open to reveal a sleek, black carriage fitted with glass windows and brass lanterns.</p>
+</div>
 ## P3e. Chapel Garden
 <span class="citation"><em>This scene takes place in Chapter 4, Area K5.</em></span>
 
-This area is as described in <span class="citation">K5. Chapel Garden (p. 54)</span>.
+When the players enter this area, read:
+
+<div class="description">
+<p>At the back of the keep, behind towering buttresses and tall, boarded-up stained-glass windows, a small garden struggles to survive. Small flowers press skyward against the gloom. A pair of large iron gates blocks the way to some kind of overlook.</p>
+</div>
+
+The large iron gates squeal loudly on rusted hinges when opened. Beyond them lies [[#P3f. Overlook]].
 ## P3f. Overlook
 <span class="citation"><em>This scene takes place in Chapter 4, Area K6.</em></span>
 
-This area is as described in <span class="citation">K6. Overlook (p. 54)</span>.
+When the players enter this area, read:
+
+<div class="description">
+<p>Dark clouds overhead drizzle constantly. A flagstone avenue passes between empty outbuildings, leading to a stone-paved overlook. The overlook has a low stone wall adorned with outward-facing gargoyle carvings.</p>
+</div>
+
+If a character peers over the balcony, read:
+
+<div class="description">
+<p>A flash of lightning illuminates the dismal village of Barovia, its rooftops visible above a smothering blanket of fog one thousand feet below.</p>
+</div>
+
+If a character who has a passive Wisdom (Perception) score of 15 or higher peers over the wall, add:
+
+<div class="description">
+<p>Underneath the platform on which you stand, about one hundred feet down, a stone construction protrudes from the cliff face. Three dirt-caked windows are set into it.</p>
+</div>
+
+The windows are so dirty as to be opaque, although a character within reach of one can scrape the dirt away and see a dusty tomb beyond (area K88). Characters who try to reach the windows from the overlook must descend 110 feet and move 20 feet back under the platform. This descent cannot be accomplished without the aid of magic or the use of a climber's kit. Anyone who falls from the overlook plummets 1,000 feet.
 
 > [!info]+ **Descending to the Crypts**
 > Players who use ropes, flight, or other means to descend to the windows in the cliff face beneath the overlook can exit the castle grounds and enter [[#P12. Catacombs]] via the King & Queen's Tomb in [[#P12b. Central Catacombs]].
@@ -246,14 +294,52 @@ This area of the castle, including the main entry, the castle dining hall, and t
 ### Main Entrance
 <span class="citation"><em>This scene takes place in Chapter 4, Area K7.</em></span>
 
-This area is largely as described in <span class="citation">K7. Entry (p. 54)</span>. However, there are only two **red dragon wyrmling** statues instead of four. (As in the original campaign, the dragons only attack strangers leaving the castle, not entering it.)
+When the players enter this area from the courtyard, read:
+
+<div class="description">
+<p>The ornate outer doors of the castle hang open, flanked by fluttering torches in iron sconces. Twenty feet inside the castle is a second set of doors.</p>
+</div>
+
+If the players come within 10 feet of the inner double doors, they suddenly swing open, revealing a grand hall beyond. When the players enter from either direction, read:
+
+<div class="description">
+<p>Overhead, in the vaulted entry foyer, two statues of dragons glare down, their eyes flickering in the torchlight.</p>
+</div>
+
+If anyone except Strahd enters this area through the doors that adjoin the great entry, the dragons come alive, drop to the floor hissing and spitting, and attack. The dragons don't attack characters who enter this area from the courtyard, heading east. The dragons are two **red dragon wyrmlings**, and they have instructions to allow guests to enter the castle, but not to leave it. If intruders vacate this area, the dragons fly up to their perches and revert to stone. In their stone forms, they are impervious to weapon damage. The dragons never leave the room.
 
 > [!info]+ **Exiting the Main Entrance**
 > Players who depart through the double doors here exit the castle commons and enter [[#P3. Castle Grounds]] via [[#P3a. Front Courtyard]].
 ### Main Foyer
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K8, K9, and K19.</em></span>
 
-This area is largely as described in <span class="citation">K8. Great Entry (p. 55)</span>, <span class="citation">K9. Guests’ Hall (p. 55)</span>, and <span class="citation">K19. Grand Landing (p. 58)</span>. However, reduce the number of **gargoyles** from eight to four. 
+When the players enter the great entry, read:
+
+<div class="description">
+<p>Cobwebs stretch between the columns that support the vaulted ceiling of a great, dusty hall dimly lit by sputtering torches in iron sconces. The torches cast odd shadows across the faces of four stone gargoyles squatting motionlessly on the rim of the domed ceiling. Cracked and faded ceiling frescoes are covered by decay.</p>
+<p>Double doors of bronze stand closed to the east. To the north, a wide staircase climbs into darkness. A lit hallway to the south contains another set of bronze doors, through which you hear sad and majestic organ tones.</p>
+</div>
+
+The southern hallway leads to the guests’ hall. The wide staircase leads up to the grand landing.
+
+When the players enter the guests’ hall, read:
+
+<div class="description">
+<p>Torchlight flutters against the walls of this vaulted hall. To the east, an arched hallway stretches for twenty feet, ending at a spiral staircase that goes up and down. Next to the hallway, a suit of armor, oiled and glistening, stands at attention in a shallow alcove. To the west, large double doors hang slightly open, and a steady bright light escapes through the opening. Swells of organ music come from behind the doors, spilling their melody of power and defeat into the hall.</p>
+</div>
+
+The suit of armor standing in the alcove is merely a normal suit of plate armor that is well cared for. The staircase leads down to the [[#Elevator Hall]] and up to the [[#Accountant’s Office]]. The double doors provide access to the [[#Dining Hall]].
+
+When the players ascend the grand landing, read:
+
+<div class="description">
+<p>Massive stairs rise to a landing twenty feet wide by forty feet long. Stone arches support a ceiling covered with frescoes twenty feet overhead. The frescoes depict armored knights on horseback, their finer features faded beyond recognition.</p>
+<p>Dust floats in the air here. At each end of the south wall, a staircase rises into darkness. Between the staircases are twin alcoves, each one containing a standing suit of armor covered with dark stains. Each suit of armor clutches a mace, the "business end" of which is shaped like a dragon’s head. Words engraved on the arches above the suits of armor have been scratched out.</p>
+</div>
+
+Both staircases on the south wall climb to the [[#Audience Hall]]. Anyone who crosses in front of the alcoves along the south wall activates the suits of armor, which are mechanical traps. Each trap is activated by a pressure plate hidden in the floor in front of its alcove. A character who searches for traps in one of these locations notices both pressure plates with a successful DC 15 Wisdom (Perception) check.
+
+When 40 or more pounds of weight are placed on a pressure plate, the suit of armor nearest to that plate springs forward, flailing its arms and wielding its mace. Any creature standing on a pressure plate when its trap triggers must succeed on a DC 14 Dexterity saving throw or take 7 (2d6) bludgeoning damage from the flailing armor. After leaping out and attacking, the armor retracts. The pressure plate resets after 1 minute. A pressure plate can be disabled by a character who uses thieves’ tools and makes a successful DC 15 Dexterity check. A trap can also be disabled by destroying its suit of armor, which has AC 18, 5 hit points, and immunity to psychic and poison damage.
 
 > [!combat]- **Combat - The Entryway**  
 > **Combat Level**: Mild
@@ -519,7 +605,7 @@ Whether Ludmilla successfully steals the symbol or not, she then retreats up <sp
 ### Dining Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K10.</em></span>
 
-This area is largely as described in <span class="citation">K10. Dining Hall (p. 56)</span>. However, there is no illusion of Strahd sitting at the organ. In addition, revise the area’s description to read as follows:
+There is no illusion of Strahd sitting at the organ. When the players enter this area, read:
 
 <div class="description">
 <p>Three enormous crystal chandeliers brilliantly illuminate this magnificent chamber. Pillars of stone stand against dull white marble walls, supporting the ceiling. In the center of the room, a long, heavy table is covered with a fine white satin cloth. At the center of the far west wall, between floor-to-ceiling mirrors, stands a massive organ, its once-thunderous pipes now plunged into a deep, unsettling silence.</p>
@@ -532,17 +618,48 @@ The woman’s corpse is an illusion created by the *major image* spell, and rese
 <p>A fierce, bone-chilling wind rises up and roars through the hall, extinguishing every open flame and plunging the majestic hall into darkness. Ancient hinges screech, and the air is briefly filled with the sounds of many heavy doors slamming shut, one after another, into the distance.</p>
 </div>
 
+The organ appears locked in place and immovable, but a character who makes a successful DC 20 Wisdom (Perception) check notices scratch marks on the floor that suggest that the organ can be slid outward. A character who tries pushing various keys and pedals discovers that one of the pedals, when depressed, causes the organ to slide outward about 2 feet, allowing access to a secret door in the back wall. Because this secret door is hidden behind the organ, it can’t be found and opened until the organ is moved out of the way.
+
 > [!info]+ **Behind the Organ**
 > Players who enter the secret door behind the organ exit the castle commons and enter [[#P10. Garrison]] via [[#First Floor South Archers’ Post]].
 ### Hall of Faith
 <span class="citation"><em>This scene takes place in Chapter 4, Area K14.</em></span>
 
-This area is as described in <span class="citation">K14. Hall of Faith (p. 57)</span>. 
+When the players enter this area, read:
+
+<div class="description">
+<p>This grand hall is choked with dust and stretches into darkness ahead. Webs hang from the arched ceiling like drapes, and life-sized statues of knights line the hallway on both sides, their eyes seeming to watch you.</p>
+</div>
+
+The statues are harmless. Their moving eyes are a simple optical illusion. Double doors stand at both ends of the hall. Above the doors leading to the chapel hangs a symbol of beaten bronze that looks like a rising or setting sun.
 ### Chapel
 #### Nave & Chancel
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K15, K16, and K17.</em></span>
 
-This area is largely as described in <span class="citation">K15. Chapel (p. 57)</span>, <span class="citation">K16. North Chapel Access (p. 58)</span>, and <span class="citation">K17. South Chapel Access (p. 58)</span>. However, remove the last two sentences from the description of <span class="citation">K15. Chapel (p. 57)</span>. 
+When the players enter the chapel, read:
+
+<div class="description">
+<p>Dim, colored light filters through tall, broken, and boarded-up windows of stained glass, illuminating the ancient chapel of Ravenloft. A few bats flutter about near the top of the ninety-foot-high domed ceiling. A balcony runs the length of the west wall, fifty feet above the floor. In the center of the balcony, two dark shapes are slumped in tall chairs.</p>
+<p>Benches coated with centuries of dust lie about the floor in jumbled disarray. Beyond this debris, lit by a piercing shaft of light, an altar stands upon a stone platform. The sides of the altar are carved with bas-reliefs of angelic figures entwined with grape vines.</p>
+</div>
+
+A sculpted stone railing cordons off the upstairs balcony, which is described in [[#Chapel Balcony]].
+
+When the players enter the north chapel access, read:
+
+<div class="description">
+<p>This arched room connects a vast chamber to the east and a staircase that rises to the west. Alcoves in the north and south walls hold eight-foot-tall sculptures of helmed knights with muscular builds. Black shadows fall across their faces.</p>
+</div>
+
+The statues are harmless. The vast chamber to the east is the chapel. The staircase to the west leads up to the [[#Chapel Stairs]].
+
+When the players enter the south chapel access, read:
+
+<div class="description">
+<p>This arched room connects a vast chamber to the east and the landing of a staircase to the west. To the left of the landing, the stairs curl down into darkness. To the right, the stairs climb into thick drapes of cobwebs. Alcoves in the north and south walls hold eight-foot-tall sculptures of helmed knights with bright blades. Black shadows obscure their faces.</p>
+</div>
+
+The statues are harmless. The vast chamber to the east is the chapel. The staircase to the west leads to the high tower staircase (area K18).
 
 Additionally, if the players encountered Ludmilla in [[#Main Foyer]], add the following sentence to the end of the chapel's description:
 
@@ -558,17 +675,35 @@ Ludmilla has cast *gaseous form* and concealed herself at a random point within 
 > Don't forget Ezmerelda's six *vials of holy water*, which she freely offers to the players as-needed to weaken Ludmilla's ***shroud of shadows***.
 
 > [!info]+ **The High Tower**
-> Players who ascend the high tower staircase reach the high tower peak, which is largely as described in <span class="citation">K59. High Tower Peak (p. 73)</span>, except Pidlwick II cannot be found there.
+> Players who ascend the high tower staircase reach the high tower peak. When they arrive, read:
+>
+>> <div class="description">
+>> <p>The spiral staircase finally ends at a five-foot-wide stone walkway that circles the shaft. In the center of the tower's highest floor, a fifteen-foot-diameter hole drops into the cold heart of Ravenloft itself. Cold air rushes up out of the shaft, sending a chill through you. Arrow slits line the walls, and aging beams support a steep, cone-shaped roof. One beam and part of the roof have fallen away, leaving a gaping hole open to the stormy sky.</p>
+>> </div>
+>
+> The hole in the floor forms the mouth of an enclosed shaft (area K18a) that descends 450 feet to the castle catacombs (area K84). Pidlwick II cannot be found here.
 >
 > Players who descend the high tower staircase are obstructed by the masonry wall described in <span class="citation">K18. High Tower Staircase (p. 58)</span>. Players who bypass the wall and continue to descend exit the castle commons and enter [[Arc P - Ravenloft Heist#P12. Catacombs|Castle Crypts]] via [[Arc P - Ravenloft Heist#P12. Catacombs|P12. Catacombs]].
 #### Chapel Stairs
 <span class="citation"><em>This scene takes place in Chapter 4, Area K29.</em></span>
 
-This area is as described in <span class="citation">K29. Creaky Landing (p. 62)</span>.
+When the players enter this area, read:
+
+<div class="description">
+<p>This staircase is made of old wood that strains underfoot, creaking and groaning.</p>
+</div>
+
+The staircase climbs from the north chapel access to the king's balcony. It seems unstable but is sturdy. The creatures on the balcony above can't be surprised by anyone climbing the creaky steps.
 #### Chapel Balcony
 <span class="citation"><em>This scene takes place in Chapter 4, Area K28.</em></span>
 
-This area is largely as described in <span class="citation">K28. King’s Balcony (p. 62)</span>. However, remove the two **Strahd zombies**.
+When the players enter this area, read:
+
+<div class="description">
+<p>A sculpted stone railing encloses this long balcony, which overlooks Ravenloft’s chapel. Two ornate thrones stand side by side in the center of the balcony, covered with dust and strung with cobwebs. The thrones face away from the double doors that give access to the balcony.</p>
+</div>
+
+The balcony is 50 feet above the floor of the chapel. A staircase north of the double doors leads down to the [[#Chapel Stairs]].
 
 Additionally, if the players encountered Ludmilla in [[#Main Foyer]], add the following sentence to the end of this area's description:
 
@@ -583,14 +718,28 @@ Ludmilla has cast *gaseous form* and concealed herself at a random point within 
 ### Audience Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K25.</em></span>
 
-This area is largely as described in <span class="citation">K25. Audience Hall (p. 61)</span>. However, if Ludmilla has passed through here, the doors leading to <span class="citation">K27. King’s Hall (p. 62)</span> are slightly ajar.
+When the players enter this area, read:
+
+<div class="description">
+<p>Dim light from the courtyard falls into this great hall through the broken glass and iron latticework of a large window in the west wall. This immense room is a place of chilly, brooding darkness. Empty iron sconces dot the walls. Hundreds of dust-laden cobwebs drape the hall, hiding the ceiling from view. Directly across from the window stand a set of double doors in the east wall. Farther south, a single door also leads from the east wall. Staircases at both ends of the north wall lead down.</p>
+<p>At the far southern end of the hall, a large wooden throne stands atop a marble dais. The high-backed throne faces south, away from most of the room.</p>
+</div>
+
+A secret door in the south wall leads to a turrets post access hall (area K13). It is hidden by dust and cobwebs, and requires a successful DC 16 Wisdom (Perception) check to find. Both staircases in the north wall lead down to the grand landing. The eastern double doors can be pulled open to reveal the guards’ post (area K26) beyond. The single door in the east wall opens into the [[#Accountant’s Office]]. However, if Ludmilla has passed through here, the doors leading to <span class="citation">K27. King’s Hall (p. 62)</span> are slightly ajar.
 
 > [!info]+ **Secret Door**
 > Players who find and enter the secret door behind the throne exit the castle commons and enter [[#P10. Garrison]] via [[Arc P - Ravenloft Heist#Second Floor South Archers’ Post Access Hall|Second Floor South Archers’ Post Access Hall]].
 ### Accountant’s Office
 <span class="citation"><em>This scene takes place in Chapter 4, Area K30.</em></span>
 
-This area is largely as described in <span class="citation">K30. King’s Accountant (p. 62)</span>. However, Lief Lipsiege is a lawful neutral **wight** with no attacks. When the players first approach, notice, or interact with him, read:
+When the players enter this area, read:
+
+<div class="description">
+<p>Dusty scrolls and tomes line the walls of this room. More scrolls and books lie scattered on the floor, around four heavy wooden chests fitted with sturdy iron locks. The only unobstructed floor space is directly in front of the doors on the east and west walls.</p>
+<p>In the center of this clutter stands a great black desk. A figure crouches atop a tall stool, scratching on a seemingly endless scroll of paper with a dry quill pen. Nearby a tasseled rope hangs from a hole in the ceiling.</p>
+</div>
+
+Lief Lipsiege is a lawful neutral **wight** with no attacks. The western door leads to the [[#Audience Hall]]. The eastern door provides access to the south tower staircase (area K21). When the players first approach, notice, or interact with him, read:
 
 <div class="description">
 <p>The corpselike figure atop the stool is—or once was—an elderly man, clad in a high-collared, once-crisp white shirt, a deep brown vest, and a light pink ascot, all of which have grown faded and rotted with the ravages of age. His thinning, white-haired combover is neatly parted over his pallid, wrinkled forehead, and his gaunt, ash-gray face is framed by an impressively thick pair of mutton chops. His near-skeletal hands tremble slightly as he scribbles along a crumbling parchment scroll, his gray eyes never once flickering in your direction.</p>
@@ -616,7 +765,25 @@ If asked how to access the “old treasury," Lief is willing to help the players
 ### King’s Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K27.</em></span>
 
-This area is largely as described in <span class="citation">K27. King’s Hall (p. 62)</span>, including the <span class="citation">Flight of the Vampire (p. 61)</span> event. However, this room now contains the tapestry described in <span class="citation">K83a. Spiral Stair Landing (p. 85)</span>. Add the description of that tapestry to the end of this area’s description.
+When the players enter this area, read:
+
+<div class="description">
+<p>This twenty-foot-high hall has a dark, vaulted ceiling draped with cobwebs. A low moan seems to travel the length of the corridor as it rises and falls, intoning sadness and despair.</p>
+</div>
+
+The moaning is only the wind. Characters who examine the ceiling can, with a successful DC 20 Wisdom (Perception) check, spot pulleys and a rope that run the full length of the corridor along the ceiling, well hidden by the cobwebs.
+
+Halfway down the hall on the south side is a narrow secret door that can be pulled open to reveal the trapworks (area K31). This room also contains a faded tapestry that depicts King Barov and Queen Ravenovia overlooking a throng of Barovian subjects.
+
+***Flight of the Vampire.*** Hidden in a compartment above the western set of double doors is a dressed wooden mannequin that looks exactly like Strahd. It wears a black cloak, its fangs are bared, and its arms and clawed fingers are outstretched in a threatening manner. The mannequin is attached to a rope that runs through pulleys fastened along the length of the hallway ceiling.
+
+When one or more characters reach the midpoint of the hall from either direction, read:
+
+<div class="description">
+<p>You hear a scraping sound of stone against stone, followed by the squeaking of a bat. In the direction of the noise, you see the fanged visage, outstretched claws, and flapping black cape of a vampire bearing down on you from above! A deep, throaty chuckle fills the hall.</p>
+</div>
+
+The scraping noise is the sound of the hidden compartment opening, and the squeaking is the sound of the pulleys supporting the weight of the mannequin as it glides through the air. The chuckling is a harmless magical effect similar to that created by a *prestidigitation* cantrip. On initiative count 5, the mannequin flies over the characters, 10 feet above the floor. On its next turn, it reverses direction and flies back to its compartment. The trap resets after 1 minute. The mannequin has AC 15 and 10 hit points, and it is immune to poison and psychic damage.
 
 A player can find the secret door described in <span class="citation">K27. King’s Hall (p. 61)</span> behind the tapestry of King Barov and his army. The secret door can be found as described in <span class="citation">The Lands of Barovia: Common Features (p. 33)</span>, or by spending 1 minute searching the wall for hidden doors.
 
@@ -628,29 +795,66 @@ This area of the castle, including the servants’ entrance, the servants’ qua
 ### Servants’ Entrance
 <span class="citation"><em>This scene takes place in Chapter 4, Area K23.</em></span>
 
-This area is largely as described in <span class="citation">K23. Servants’ Entrance (p. 59)</span>. However, add the following to the end of this area’s description:
+When the players enter this area, read:
 
 <div class="description">
-<p>A withered corpse lies slumped against the table, unmoving. A dried trail of blood leads from it to the steps leading down.</p>
+<p>Dim light filters in through a dust-caked window in the east wall. A door next to the window leads to the castle’s northeast courtyard.</p>
+<p>A withered corpse lies slumped against a table, unmoving. A dried trail of blood leads from it to the steps leading down.</p>
 </div>
+
+The east door leading to the courtyard is swollen in its frame and requires a successful DC 10 Strength check to force open.
 
 Four puncture wounds disfigure the corpse’s neck. A player who succeeds on a DC 10 Wisdom (Medicine) check learns that the corpse has been exsanguinated. (The corpse was left here by the two **vampire spawn** lurking in the [[#Wine Cellar]].)
 ### Servants’ Quarters
 <span class="citation"><em>This scene takes place in Chapter 4, Area K24.</em></span>
 
-This area is as described in <span class="citation">K24. Servants’ Quarters (p. 61)</span>.
+When the players enter this area, read:
+
+<div class="description">
+<p>Broken furniture and torn cloth are strewn about this twenty-by-forty-foot room. Dim light comes from a pair of dirt-caked windows in the northeast corner. A narrow staircase with no railing ascends along the north wall.</p>
+</div>
+
+The stairs lead up to the [[#Servants’ Upper Floor]].
 ## P5b. Servants’ Wing, Second Floor
 ### Servants’ Upper Floor
 <span class="citation"><em>This scene takes place in Chapter 4, Area K34.</em></span>
 
-This area is as described in <span class="citation">K34. Servants’ Upper Floor (p. 64)</span>.
+When the players enter this area, read:
+
+<div class="description">
+<p>Dirt-caked windows allow little light to enter this upstairs room. Broken bed frames and torn bits of mattress litter the floors. A tall, dusty wardrobe roughly shaped like a coffin, its black doors painted with fey creatures, stands between two cracked, full-length mirrors hanging on the south wall. A staircase descends along the north wall.</p>
+</div>
+
+If someone opens the wardrobe, read:
+
+<div class="description">
+<p>A plain white dress yellowed with age flies out of the wardrobe and begins to dance in the middle of the room. The dress flaps around to the music of the storm.</p>
+</div>
+
+If anyone touches the dancing dress, it collapses in a lifeless heap on the floor. Otherwise, it dances forever. Hanging in the wardrobe are a few rotted servant’s uniforms, none of which are animate or valuable.
+
+Set into the south wall, behind the hanging mirror west of the wardrobe, is a secret door. It can be pulled open to reveal a closet choked with dust and cobwebs and that contains a wooden ladder that leads up 20 feet to another secret door in the tower stairway (area K20). The staircase leads down to the [[#Servants’ Quarters]].
 
 > [!info]+ **North Tower Secret Door**
 > Players who find and pass through the secret door here exit the servants’ wing and enter [[#P10. Garrison]] via [[#Servants’ Landing]].
 ### Second-Floor Elevator Access
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K31 and K31a.</em></span>
 
-This area is as described in <span class="citation">K31. Trapworks (p. 63)</span> and <span class="citation">K31a. Elevator Shaft (p. 63)</span>.
+When the players enter the trapworks, read:
+
+<div class="description">
+<p>The aromas of grease and well-oiled wood hit your nostrils as you pull open the door. This ten-by-twenty-foot room is filled with intricate machinery, except for small spaces between the stone gears and the iron chains and pulleys. On the other side of the machinery, to the south, is a rectangular shaft that rises up from the darkness and continues past this room. Attached to the west wall is a steel plate that has an iron lever protruding downward.</p>
+</div>
+
+The shaft descends 90 feet from here to the elevator hall (area K61), and ascends 40 feet to the shaft access (area K31b). Another 40 feet above that is a stone trapdoor in the ceiling that opens into area K47.
+
+Operating the machinery in this room raises a stone elevator compartment from the bottom of the shaft, lifting it past this room to the top of the shaft. A character can spend 1 minute disabling the machinery in this room. The elevator trap won't function until the machinery is repaired.
+
+The iron lever set into the western wall is normally in the "down" position. Moving it to the "up" position activates the trap and raises the elevator. Sliding it back down lowers the elevator and resets the trap. When the elevator trap is activated, all the chains, pulleys, and gears in this room move at once. It takes 10 seconds (1 round) for the elevator to reach the top of the shaft.
+
+A secret door in the north wall is easy to spot from this side (no ability check required) and opens into the [[#King's Hall]].
+
+The shaft itself is dark and coated with mildew. Cold air fills the rectangular shaft, and taut iron chains extend up and down, their links thick and covered with grease. Scaling the shaft is impossible without the aid of magic or the use of a climber's kit, because the walls are smooth and slick with mildew, and the greasy iron chains are too thick and slippery to grasp.
 
 > [!lore]+ **The Elevator**
 > The elevator trap was once a proper elevator, designed by the genius toymaker Fritz von Weerg. In its heyday, servants used it to reach the [[#King’s Hall]] (for access to the [[#Audience Hall]] and [[#Chapel Balcony]]), [[Arc P - Ravenloft Heist#P7b. Belfry Access Hall|Belfry Access Hall]] (to ring the bell to mark meals, mornings, emergencies, and other occasions), and [[#P8. Guest Suite]] (to deliver meals to visiting guests and dignitaries). After he became a vampire, however, Strahd turned the elevator into a trap for thieves and vampire hunters.
@@ -663,7 +867,13 @@ This area is as described in <span class="citation">K31. Trapworks (p. 63)</span
 ### Third-Floor Elevator Access
 <span class="citation"><em>This scene takes place in Chapter 4, Area K31b.</em></span>
 
-This area is as described in <span class="citation">K31b. Shaft Access (p. 64)</span>.
+When the players enter this area, read:
+
+<div class="description">
+<p>This ten-foot-square room overlooks a vertical shaft to the south that plunges into darkness and continues upward.</p>
+</div>
+
+This vantage point is 130 feet from the bottom of the shaft (area K31a). Forty feet down is the trapworks (area K31), and 40 feet up is a stone trapdoor in the ceiling that opens into area K47. A door in the north wall is easy to spot from this side (no ability check required) and opens into the hall of webs (area K39).
 
 > [!info]+ **Third-Floor Shaft Access**
 > Players who find and pass through the secret door exit the servants’ wing and enter [[#P7. Bell Tower]] via [[#P7b. Belfry Access Hall]].
@@ -671,7 +881,7 @@ This area is as described in <span class="citation">K31b. Shaft Access (p. 64)</
 ### Servants’ Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K62.</em></span>
 
-This area is largely as described in <span class="citation">K62. (p. 76)</span>. However, revise this area's description as follows:
+When the players enter this area, read:
 
 <div class="description">
 <p>Heavy beams support the sagging, ten-foot-high ceiling of this long hall, its mortared walls illuminated by flickering torchlight. Fog clings to the floor, obscuring everything that lies less than three feet above it.</p>
@@ -679,7 +889,9 @@ This area is largely as described in <span class="citation">K62. (p. 76)</span>.
 <p>A giant shadow lurches across the ceiling as a dark figure shuffles purposefully down the corridor toward you.</p>
 </div>
 
-The figure is Cyrus, as described in <span class="citation">K62. Servants’ Hall (p. 76)</span>. However, Cyrus does not try to escort the players to the guest suite, nor does he know of the elevator trap. 
+The portcullis bars are 1 inch thick and spaced 4 inches apart. The portcullis can be lifted with a successful DC 20 Strength check. Stairs at the east end of the north wall lead up to the [[#Servants’ Entrance]]. The double doors at the west end of the hall lead to the [[#Hall of Bones]].
+
+The figure is Cyrus Belview, a **mongrelfolk** and Strahd’s faithful servant. He stands 4 feet, 9 inches tall but appears shorter because of his hunched posture. He has the Keen Hearing and Smell feature. The left side of his face is covered with lizard scales, and he has the ears of a panther. His left foot looks like a duck’s webbed foot, and his arms have patches of black dog fur. Cyrus does not try to escort the players to the guest suite, nor does he know of the elevator trap.
 
 > [!profile]+ **Profile: Cyrus Belview**
 > **Roleplaying Information**
@@ -746,7 +958,17 @@ The vampires prefer to target easy prey, including unarmored or surprised charac
 ### Elevator Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K61.</em></span>
 
-This area is largely as described in <span class="citation">K61. Elevator Trap (p. 74)</span>. However, the elevator trap triggers whenever three or more Small- and/or Medium-sized creatures are standing on its pressure plate (e.g., a **vampire spawn**, its victim, and any other creature).
+When the players enter this area, read:
+
+<div class="description">
+<p>This dusty, ten-foot-wide, thirty-foot-long corridor has a flat ceiling ten feet overhead. To the south, a web-filled stairway spirals down into darkness. The north end of the hall ends at a wooden door.</p>
+</div>
+
+This hallway contains an elevator trap, triggered when at least three Small- and/or Medium-sized creatures are standing on the 10-foot-square section of floor in the center of the hall (e.g., a **vampire spawn**, its victim, and any other creature). A party of adventurers moving in close formation down the hall is certain to trigger the trap.
+
+A character who examines the corridor for traps and succeeds on a DC 15 Wisdom (Perception) check notices that a 10-foot-square section of the floor in the center of the hall is actually an elevated stone block, flush with the surrounding floor. The seams around the block and the faint smell of grease coming from them can also be detected with a successful DC 20 Intelligence (Investigation) check.
+
+When the trap is sprung, the center section of the floor rises to the ceiling at a rate of 10 feet per round, acting as an elevator. Any creature on the elevator is trapped inside a stone compartment. The ceiling grinds to a halt once the elevator reaches the top of the shaft at area K47. Once at the top, the compartment fills with sleeping gas that renders its occupants unconscious for 1 hour unless they succeed on a DC 15 Constitution saving throw.
 
 > [!info]+ **Sleeping Gas**
 > Because vampire spawn have no need to breathe, as described in <span class="citation">Vampire (Monster Manual, p. 297)</span>, they are unaffected by the sleep gas that fills the elevator compartment as it rises.
@@ -763,17 +985,35 @@ This area is largely as described in <span class="citation">K61. Elevator Trap (
 ### Wine Cellar
 <span class="citation"><em>This scene takes place in Chapter 4, Area K63.</em></span>
 
-This area is as described in <span class="citation">K63. Wine Cellar (p. 77)</span>.
+When the players enter this area, read:
+
+<div class="description">
+<p>Arched frames of stone form a low, wet ceiling over this wine cellar. Great casks line the walls, their bands rusting and their contents long since spilled onto the floor. A few hungry rats make their home here, but upon your sudden arrival, they retreat to the shadows.</p>
+</div>
+
+The rats are harmless. Characters who search the room find a crack at the southern end of the west wall. The crack is half an inch wide, 5 inches tall, and 12 inches deep; it leads to the high tower staircase (area K18).
 ### Kitchen
 <span class="citation"><em>This scene takes place in Chapter 4, Area K65.</em></span>
 
-This area is largely as described in <span class="citation">K65. Kitchen (p. 78)</span>. However, a hungry **vampire spawn** lurks hidden in the shadowed corners of the ceiling. A player with a passive Wisdom (Perception) score of 16 or higher notices a silhouette stirring above one of the shelves.
+When the players enter this area, read:
+
+<div class="description">
+<p>A horrible odor of decay fills this steaming hot room. A huge pot bubbles over a blazing fire pit in the center of the room, its green, muddy contents churning. The far wall is lined with pegs, hanging from which are numerous large cooking implements—some of which could easily double as implements of torture.</p>
+</div>
+
+If a character looks into the pot, three human **zombies** rise up from the bubbling depths and attack. The zombies are slowly being boiled to death, and each has only 13 hit points remaining. However, a hungry **vampire spawn** also lurks hidden in the shadowed corners of the ceiling. A player with a passive Wisdom (Perception) score of 16 or higher notices a silhouette stirring above one of the shelves.
 
 The vampire attacks if noticed, or if any player enters this area alone.
 ### Butler’s Quarters
 <span class="citation"><em>This scene takes place in Chapter 4, Area K66.</em></span>
 
-This area is largely as described in <span class="citation">K66. Butler’s Quarters (p. 78)</span>. However, the clutter in the room was not collected by Cyrus, and a hungry **vampire spawn** lurks hidden in the shadowed corners of the ceiling. A player with a passive Wisdom (Perception) score of 16 or higher notices a silhouette stirring in the southwest corner.
+When the players enter this area, read:
+
+<div class="description">
+<p>This twenty-foot-square room is filled wall to wall with clutter. A long, sagging bed sits to one side under a huge faded tapestry that depicts Castle Ravenloft. Dusty lanterns sit in various places, and bright curtains are draped haphazardly about the room. Thousands of pieces of junk cover the floor. Broken swords, crumpled shields, and helmets lie in piles all about.</p>
+</div>
+
+The clutter in the room was not collected by Cyrus. There is nothing of value here. However, a hungry **vampire spawn** lurks hidden in the shadowed corners of the ceiling. A player with a passive Wisdom (Perception) score of 16 or higher notices a silhouette stirring in the southwest corner.
 
 The vampire attacks if noticed, or if any player enters this area alone.
 # P6. King’s Apartments
@@ -782,11 +1022,23 @@ This area of the castle once hosted Strahd’s private apartments on the third f
 ### King’s Apartment Stair
 <span class="citation"><em>This scene takes place in Chapter 4, Area K33.</em></span>
 
-This area is as described in <span class="citation">K33. King’s Apartment Stair (p. 64)</span>.
+This dark hall is concealed behind two secret doors. When the players enter this area, read:
+
+<div class="description">
+<p>This arched corridor has been swept clean. Oak paneling decorates the walls to a height of four feet. Mounted on the east wall above the wood paneling are three unlit oil lamps spaced ten feet apart. A plain wooden door is set into the west wall, and light seeps through its cracks. A staircase at the north end of the west wall ascends into darkness.</p>
+</div>
+
+The staircase climbs 40 feet to the Hall of Heroes (area K45). The door in the west wall opens into the [[#Court’s Bedchamber]].
 ### Court’s Bedchamber
 <span class="citation"><em>This scene takes place in Chapter 4, Area K32.</em></span>
 
-This area is largely as described in <span class="citation">K32. Maid in Hell (p. 64)</span>. However, replace Helga with a **broom of animated attack**. The broom is largely as described in <span class="citation">Broom of Animated Attack (p. 50)</span>, except it’s wearing Helga’s necklace wrapped around its wooden shaft. The broom attacks if a player attempts to remove the necklace or otherwise interfere with its cleaning.
+When the players enter this area, read:
+
+<div class="description">
+<p>Oil lamps illuminate this long, rectangular chamber with oak-paneled walls. Stained, yellowed lace hangs neatly from eight canopied beds. A broom sweeps lithely about the room on its own, as though guided by an invisible hand. Wrapped around its wooden shaft is a gold necklace with a ruby pendant.</p>
+</div>
+
+The broom is a **broom of animated attack**. It attacks if a player attempts to remove the necklace or otherwise interfere with its cleaning. The gold necklace with its ruby pendant is almost five centuries old and is worth 750 gp.
 
 > [!lore]+ **The Witches’ Broom**
 > The broom belongs to the witches’ coven that resides in [[#P9. Coven’s Quarters]], whose members affectionately refer to the broom as their “pet."
@@ -797,7 +1049,15 @@ This area is largely as described in <span class="citation">K32. Maid in Hell (p
 ### King’s Antechamber
 <span class="citation"><em>This scene takes place in Chapter 4, Area K35.</em></span>
 
-This area is largely as described in <span class="citation">K35. Guardian Vermin (p. 64)</span>. However, seven **crawling claws** emerge from the alcoves behind the **swarms of rats** on the first round of combat as described in <span class="citation">Crawling Claws (p. 50)</span>.
+When the players enter this area, read:
+
+<div class="description">
+<p>A door of delicately engraved steel stands at the west end of this short, dark hallway. Intricate details stand out clearly on the door's surface. The door seems to shine with a light of its own, untouched by time. Flanking the door are two alcoves in shadow. A dark, vaguely man-shaped figure stands in each alcove.</p>
+</div>
+
+The dark figures are four **swarms of rats** piled atop one another to form manlike shapes (two swarms per alcove). These rats are under Strahd's control and attack anyone that tries to move through this area. However, seven **crawling claws** also emerge from the alcoves behind the **swarms of rats** on the first round of combat.
+
+The steel door is engraved with images of a human king in armor astride a horse, a majestic range of mountains and shooting stars in the background. Tiny figures of people and wolves frame the image.
   
 > [!combat]- **Combat - The Guardian Vermin**  
 > **Combat Level**: Mild
@@ -825,11 +1085,35 @@ This area is largely as described in <span class="citation">K35. Guardian Vermin
 ### King’s Dining Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K36.</em></span>
 
-This area is largely as described in <span class="citation">K36. (p. 65)</span>. However, nothing happens if the players take the groom figurine from the cake, and Pidlwick’s ghost doesn’t appear if a player plays the harp. In addition, the doors leading to <span class="citation">K37. Study (p. 66)</span> and <span class="citation">K43. Bath Chamber (p. 68)</span> are locked as described in <span class="citation">The Lands of Barovia: Common Features (p. 33)</span>.
+When the players enter this area, read:
+
+<div class="description">
+<p>Dust assaults your lungs. A sweet yet pungent smell of decay fills this room, in the center of which stands a long oak table. A blanket of dust covers the tabletop and its fine china and silverware. In the center of the table, a large, tiered cake leans heavily to one side. The once white frosting has turned green with age. Cobwebs hang like dusty lace down every side of the cake. A single doll figure of a well-dressed woman adorns the crest of the cake. Suspended above is a web-shrouded chandelier of forged iron. An arched window in the south wall is draped with heavy curtains. Resting in a wooden stand by the window is a dusty lute, and standing quietly in the southwest corner is a tall harp shrouded in cobwebs.</p>
+</div>
+
+The wedding cake is over four centuries old, kept in its current rotten state by the will of Strahd. The toy figure of the groom from the top of the cake was cast on the floor long ago. A character who searches the dusty floor finds the figurine with a successful DC 10 Wisdom (Perception) check. However, nothing happens if the players take the groom figurine from the cake, and Pidlwick’s ghost doesn’t appear if a player plays the harp.
+
+The room has wooden doors in the north and west walls, and an ornate steel door in the east wall (see [[#King’s Antechamber]] for details). The doors leading to <span class="citation">K37. Study (p. 66)</span> and <span class="citation">K43. Bath Chamber (p. 68)</span> are locked as described in <span class="citation">The Lands of Barovia: Common Features (p. 33)</span>.
+
+The harp stands 6½ feet tall, weighs close to 300 pounds, and is fashioned of dark, stained wood carved with images of harts and roses. Its taut strings are made of gut.
+
+The lute, though old and covered in dust, has survived the passage of time. It is a magic instrument of the bards called a *Doss lute*.
 ### Study
 <span class="citation"><em>This scene takes place in Chapter 4, Area K37.</em></span>
 
-This area is largely as described in <span class="citation">K37. Study (p. 66)</span>. However, the doors leading to <span class="citation">K36. Dining Hall of the Count (p. 65)</span>, <span class="citation">K45. Hall of Heroes (p. 68)</span>, and <span class="citation">K83. Spiral Stair (p. 85)</span> are locked as described in <span class="citation">The Lands of Barovia: Common Features (p. 33)</span>.
+When the players enter this area, read:
+
+<div class="description">
+<p>A blazing hearth fire fills this room with rolling waves of red and amber light. The walls are lined with ancient books and tomes, their leather covers well oiled and preserved through careful use. All is in order here. The stone floor is concealed beneath a thick, luxurious rug. In the center of the room is a large, low table, waxed and polished to a mirrored finish. Even the poker in its stand next to the blazing fireplace is polished. Large, overstuffed divans and couches are arranged about the room. Two chairs of burgundy-colored wood with padded leather seats and back cushions face the hearth. A huge painting hangs over the mantelpiece in a heavy, gilded frame. The rolling firelight illuminates the carefully rendered portrait. It is an exact likeness of Ireena Kolyana.</p>
+</div>
+
+This chamber has several exits, including a large set of double doors in the west wall, a door at each end of the north wall, and a door to the south. The doors leading to <span class="citation">K36. Dining Hall of the Count (p. 65)</span>, <span class="citation">K45. Hall of Heroes (p. 68)</span>, and <span class="citation">K83. Spiral Stair (p. 85)</span> are locked as described in <span class="citation">The Lands of Barovia: Common Features (p. 33)</span>.
+
+The painting above the fireplace depicts Tatyana, a beautiful young woman with auburn hair. Strahd commissioned the painting over four centuries ago to impress his beloved.
+
+The back wall of the fireplace contains a secret door, which is opened by lifting the poker from its stand. The fire must be extinguished in order for anyone to reach the secret door safely. Otherwise, a creature that enters the fireplace for the first time on a turn or starts its turn there takes 5 (1d10) fire damage and catches fire. Until someone takes an action to douse the flames on the creature, it takes 5 (1d10) fire damage at the start of each of its turns.
+
+The real treasure here is Strahd's collection of books—over one thousand unique tomes in all. The collection is worth 80,000 gp.
 
 In addition, a player who inspects the portrait of Tatyana notices that she is wearing a silver bracelet carved with an intricate pattern of the moon and stars, with a moonstone gem embedded at the center of the moon and multiple lapis-lazuli serving as the stars. A player who has previously seen Ireena’s bracelet in [[Act I - Into the Mists/Arc B - Welcome to Barovia#B5j. Lugdana's Knoll|Arc B - Welcome to Barovia]] recognizes it as the same bracelet.
 
@@ -838,17 +1122,39 @@ If present, Ireena is disturbed at the sight of the portrait and its clear resem
 > [!info]+ **Exiting the Study**
 > A player who departs the study via <span class="citation">K83. Spiral Stair (p. 85)</span> exits the king’s apartments, passes through <span class="citation">K83a. Spiral Stair Landing (p. 85)</span>, and enters the [[Arc P - Ravenloft Heist#P11. Dungeons|Dungeons]] via [[#P11e. Brazier Room]].
 >
-> The spiral stair landing is largely as described in <span class="citation">K83a. Spiral Stair Landing (p. 85)</span>, but the tapestry is no longer present.
+> The spiral stair landing is a forty-foot-long corridor that connects two spiral stairways, one leading up and the other descending into the depths of Castle Ravenloft. The tapestry that once hung here is no longer present. The stairs at the north end of the west wall descend to a door leading to [[#P11e. Brazier Room]]. The stairs at the south end of the west wall lead up, ending at a door that opens into the [[#Study]].
 ### Bath Chamber & Closet
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K43 & K44.</em></span>
 
-This area is largely as described in <span class="citation">K43. Bath Chamber (p. 68)</span> and <span class="citation">K44. Closet (p. 68)</span>. However, while the tub is stained with ancient blood, it does not currently contain any blood, and Varushka’s spirit doesn’t haunt it.
+When the players enter the bath chamber, read:
 
-In addition, the closet contains only three capes, rather than twenty-eight.
+<div class="description">
+<p>Red satin curtains hang in archways at both ends of the south wall in this dark room. Between them, in the center of the chamber, stands a large, ornate iron tub with clawed feet. The tub is stained with ancient blood, but is otherwise empty.</p>
+</div>
+
+Both curtained archways lead to the closet. However, the tub does not currently contain any blood, and Varushka’s spirit doesn’t haunt it.
+
+When the players enter the closet, read:
+
+<div class="description">
+<p>The walls here are lined with iron hooks, upon which hang black capes and formal wear. Two arched windows in the south wall are covered by heavy curtains.</p>
+</div>
+
+Three capes and several sets of fine clothes are stored here. Red satin drapes hang in the archways that connect this closet to the adjoining bath chamber.
 ### King’s Bedchamber
 <span class="citation"><em>This scene takes place in Chapter 4, Area K42.</em></span>
 
-This area is largely as described in <span class="citation">K42. King’s Bedchamber (p. 68)</span>. However, remove the word “dainty" from the description of Gertruda’s slipper in this area’s description.
+When the players enter this area, read:
+
+<div class=”description”>
+<p>Sweet smells waft from this delicately lit room. A great arched window along the west wall is covered by heavy red draperies, their golden tassels glinting in the light of three candelabras sitting atop small tables about the room. Tall white candles burn with bright, steady light.</p>
+<p>A large bed, canopied by silk curtains, sits with its headboard against the north wall. Carved into the headboard with great skill is a large “Z.” Lying amid the velvet and satin sheets and bedclothes is a young woman in a nightgown. One of her slippers has fallen to the floor at the bed’s foot.</p>
+<p>Arched double doors lead from this room to the south and east.</p>
+</div>
+
+The window is divided into four tall panes of glass, each enclosed by a lead framework. The two outermost sections have small iron hinges built into them so that they can be opened, as well as iron latches to lock them in place when they’re closed. The window looks out onto the parapets (area K46).
+
+Next to the bed, set into the north wall, is a secret door. It can be pushed open to reveal a dusty hall that ends at a similar secret door in the back of an alcove (see [[#Hall of Heroes]] for details).
 
 ![[Gertruda.png]]
 <span class="credit">"Gertruda" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -1076,15 +1382,36 @@ As with Ludmilla, Anastrasya fights to the death, unwilling to face Strahd’s w
 ### Hall of Heroes
 <span class="citation"><em>This scene takes place in Chapter 4, Area K45.</em></span>
 
-This area is largely as described in <span class="citation">K45. Hall of Heroes (p. 68)</span>. However, the statues are not imbued with the spirits of Strahd’s ancestors and cannot answer questions.
+When the players enter this area, read:
 
-A secret door behind the furthest-west statue on the south side of the corridor leads to [[#King’s Bedchamber]], as described in <span class="citation">K42. King’s Bedchamber (p. 68)</span>. To open it, the statue’s sword arm must be pulled thirty degrees upward.
+<div class="description">
+<p>Dark alcoves line the walls of this long hall. The ceiling has fallen here, leaving rubble strewn across the floor. Overhead, the beams of Ravenloft’s roof are exposed. Lightning from the dark clouds above sporadically illuminates the hall, lighting the faces of life-sized human statues in the alcoves. Each visage is frozen in terror.</p>
+</div>
+
+The ten statues that line this corridor depict ancient heroes. In actuality, the faces of the statues are stoic and expressionless, but whenever the lightning flashes, their expressions change to utter horror until the hall goes dark again. However, the statues are not imbued with the spirits of Strahd’s ancestors and cannot answer questions.
+
+The stairs at the west end of the hall descend 40 feet to the [[#King’s Apartment Stair]]. An open archway to the east reveals a tower landing beyond (part of area K20).
+
+A secret door behind the furthest-west statue on the south side of the corridor leads to [[#King’s Bedchamber]]. To open it, the statue’s sword arm must be pulled thirty degrees upward.
 # P7. Bell Tower
 This area of the castle hosts the castle belfry, whose bell once marked the hours of the day and announced castle ceremonies, holidays, or other special events. Because of its relative isolation, Strahd also chose this section to host his concealed treasury—as well as a false treasury to lure would-be thieves to their doom.
 ## P7a. False Treasury
 <span class="citation"><em>This scene takes place in Chapter 4, Area K38.</em></span>
 
-This area is largely as described in <span class="citation">K38. False Treasury (p. 66)</span>. However, a character that inspects the skeleton and succeeds on a DC 14 Wisdom (Medicine) check learns that it died of suffocation. In addition, a character that inspects the skeleton’s attire or equipment observes that its pockets are stuffed with gold coins.
+When the players enter this area, read:
+
+<div class="description">
+<p>Resting on the floor of this smoke-filled room is a closed chest surrounded by piles of gold, silver, and copper coins. The fittings and clawed feet on the chest are evidence of great workmanship.</p>
+<p>Attached to the east wall are two torch sconces. The southernmost one holds a torch with an intricate metal base. The other is empty. A skeleton in broken plate armor lies against the wall. The skeleton’s right hand is on its throat, and its left hand holds the matching torch from the empty sconce.</p>
+</div>
+
+The coins scattered around the trapped chest total 50 gp, 100 sp, and 2,000 cp. The chest weighs 40 pounds and is unlocked. When opened, it releases a cloud of sleeping gas that fills the room. Any creature in the room must succeed on a DC 18 Constitution saving throw or be paralyzed for 4 hours.
+
+However, a character that inspects the skeleton and succeeds on a DC 14 Wisdom (Medicine) check learns that it died of suffocation. In addition, a character that inspects the skeleton’s attire or equipment observes that its pockets are stuffed with gold coins.
+
+The secret door at the northern end of the east wall is sealed shut. If the torch is taken from the skeleton’s hand and placed back in the empty sconce, the secret door swings inward, revealing the [[#P7b. Belfry Access Hall]] beyond. Removing the torch from its sconce at any time causes the secret door to close and lock shut, becoming sealed as before.
+
+The secret door on the west wall can’t be opened from this side, except by magic (such as a *knock* spell). It is connected to the poker in the [[#Study]].
 
 > [!lore]+ **The Choking Skeleton**
 > This dead adventurer entered Castle Ravenloft during Strahd’s hibernation, seeking to loot the castle for gold and jewels. After finding the secret door in <span class="citation">K27. King’s Hall (p. 61)</span> and using it to access <span class="citation">K31. Trapworks (p. 63)</span>, he ascended the iron chains in <span class="citation">K31a. Elevator Shaft (p. 63)</span> and exited the secret door from <span class="citation"> K31b. Shaft Access (p. 64)</span> into <span class="citation">K39. Hall of Webs (p. 67)</span>. 
@@ -1117,7 +1444,17 @@ Otherwise, if undisturbed, the invisible stalker inspects each character’s bod
 ## P7b. Belfry Access Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K39.</em></span>
 
-This area is as described in <span class="citation">K39. Hall of Webs (p. 67)</span>.
+When the players enter this area, read:
+
+<div class="description">
+<p>This ancient hall is choked with spider webs broken by a single clear path down its center.</p>
+</div>
+
+The hall has an arched ceiling 20 feet overhead, hidden behind thick webbing. At the eastern end are a pair of arched bronze doors of ornate design. These doors can be pulled open to reveal the [[#P7c. Belfry]] beyond.
+
+Most of the hall is full of giant spider webs (see "Dungeon Hazards" in chapter 5, "Adventure Environments," of the *Dungeon Master's Guide*). Characters who stray from the unobstructed path through the webs risk becoming stuck.
+
+At the west end of the hall are two secret doors. The secret door on the west wall can't be opened from this side, except by magic (such as a *knock* spell). See [[#P7a. False Treasury]] for more information on this secret door. A narrow secret door at the western end of the south wall is hidden behind a mass of webs. If these webs are cleared away, characters can search for the secret door, finding it with a successful DC 15 Wisdom (Perception) check. The door can be pulled open to reveal the [[#Third-Floor Elevator Access]] (area K31b).
 ## P7c. Belfry
 <span class="citation"><em>This scene takes place in Chapter 4, Area K40.</em></span>
   
@@ -1133,11 +1470,33 @@ This area is as described in <span class="citation">K39. Hall of Webs (p. 67)</s
 > |-|-|-|-|-|
 > | Giant Spider | 4 | 4 | 5 | 6 |
 
-This area is largely as described in <span class="citation">K40. Belfry (p. 67)</span>. However, if the players drew the attention of the **invisible stalker** by activating the sleeping gas trap in [[#P7a. False Treasury]], a player with a passive Wisdom (Perception) score of 16 or higher notices that the dust and webbing around the secret door have recently been disturbed.
+When the players enter this area, read:
+
+<div class="description">
+<p>You can hear the rain and thunder outside, and the air here is cold and damp. Veils and curtains of webbing fill the room, making it hard to gauge its width and depth. A single, narrow path leads to the dark center of the room, where a rope dangles from high above.</p>
+</div>
+
+The rope is attached to a great bell mounted in a wooden framework 50 feet overhead. Pulling the rope or attempting to climb it brings forth a loud, long "GONG." That sound causes the giant spiders to drop from their webs and attack. The spiders attack only if they are attacked or if the bell is sounded.
+
+Most of the belfry is filled with giant spider webs (see "Dungeon Hazards" in chapter 5, "Adventure Environments," of the *Dungeon Master's Guide*). Characters who blunder into them risk becoming stuck.
+
+At the west end of the north wall, behind thick webs, is a secret door that opens into [[#P7d. Treasury]]. However, if the players drew the attention of the **invisible stalker** by activating the sleeping gas trap in [[#P7a. False Treasury]], a player with a passive Wisdom (Perception) score of 16 or higher notices that the dust and webbing around the secret door have recently been disturbed.
 ## P7d. Treasury
 <span class="citation"><em>This scene takes place in Chapter 4, Area K41.</em></span>
 ### Entering the Tower
-This area is largely as described in <span class="citation">K41. Treasury (p. 67)</span>. However, the command word to the *Daern’s instant fortress* is the same phrase as for the *Tome of Strahd*: “I come in Dostron’s memory."
+When the players enter this area, read:
+
+<div class=”description”>
+<p>This octagonal vault is free of dust and cobwebs. The domed ceiling forty feet above is painted black and sparkles with a display of stars in unfamiliar constellations. Barely contained within this vault is a square tower, twenty feet on a side and thirty feet high, with arrow slits on all sides and a battlemented roof.</p>
+</div>
+
+The domed ceiling is coated with dry pitch. The “stars” are shards of glowing crystal embedded in the pitch, and thanks to the starry “night sky,” the vault is dimly lit.
+
+The plundered riches of Strahd’s secret hoard lie within this adamantine tower, which is actually a *Daern’s instant fortress* (see chapter 7, “Treasure,” of the *Dungeon Master’s Guide*). Only Strahd knows the command word to alter its shape and size, which can’t be done until every bit of treasure inside it is removed. Only Strahd can open the two means of entry: a sealed adamantine door set into the base of the tower on the north side, and an adamantine trapdoor on the roof.
+
+The arrow slits of the tower are 4 inches wide and 2 feet tall, and the walls of the fortress are 3 inches thick. Characters who are able to reduce their size or assume gaseous form can enter the tower through these slits.
+
+However, the command word to the *Daern’s instant fortress* is the same phrase as for the *Tome of Strahd*: “I come in Dostron’s memory.”
 
 Speaking the command phrase aloud doesn’t cause the door or trapdoor to open. Instead, once the command phrase is spoken, the adamantine door (on the ground floor) and trapdoor (on the roof) become reflective, mirror-like surfaces for the next 1 minute. Read:
 
@@ -1151,7 +1510,9 @@ Creatures that don’t cast a reflection (e.g., because they are invisible, beca
 
 Players who fail to open the door can still enter the tower through magical teleportation or by passing through the tower’s arrow slits through magical means, as described in <span class="citation">K41. Treasury (p. 67)</span>.
 ### Plundering the Treasury
-The contents of the treasury are largely as described in <span class="citation">K41. Treasury (p. 67)</span>. However, replace the *alchemy jug*, *helm of brilliance*, and *rod of the pact keeper, +1* with a *driftglobe*, *cape of the mountebank*, two *pearls of power* and an *amber shard* of Great Taar Haak, the Five-Headed Destroyer. (See the [[Amber Shards]] appendix for more information about amber shards.). In addition, replace the four *potions of greater healing* with *potions of superior healing*, and add a *+1 light crossbow* hanging from a hook on the wall.
+The ground floor of the *Daern's instant fortress* contains 50,000 cp, 10,000 sp, 10,000 gp, 1,000 pp, 15 assorted gems (100 gp each), and a *+2 shield* emblazoned with a stylized silver dragon that is the emblem of the Order of the Silver Dragon. The shield whispers warnings to its bearer, granting a +2 bonus to initiative if the bearer isn't incapacitated.
+
+The upper floor of the tower contains 10 pieces of jewelry (250 gp each) in a red velvet sack, a *driftglobe*, a *cape of the mountebank*, two *pearls of power*, an *amber shard* of Great Taar Haak, the Five-Headed Destroyer (see the [[Amber Shards]] appendix for more information about amber shards), and an unlocked wooden coffer with four compartments, each one containing a *potion of superior healing*. A *+1 light crossbow* hangs from a hook on the wall.
 
 An **invisible stalker** bound by Strahd to protect the treasury’s contents lurks in the upper floor of the tower. The invisible stalker has the following changes to its statistics:
 
@@ -1163,7 +1524,20 @@ This area of the castle once hosted important guests to the keep, including thos
 ## P8a. Guest Landing
 <span class="citation"><em>This scene takes place in Chapter 4, Area K47.</em></span>
 
-This area is largely as described in <span class="citation">K47. Portrait of Strahd (p. 68)</span>. However, modify the portrait as follows:
+When the players enter this area, read:
+
+<div class="description">
+<p>You come to a dark landing ten feet wide and twenty feet long. A cold draft of wind rushes down the spiral staircase at the north end of the east wall and whistles mournfully through the room before streaming down the stairs to the south.</p>
+<p>An ornate, square rug covers the floor to the south. Set into the west wall is an ironbound wooden door with a wooden trapdoor set into the floor in front of it. Hanging on the north wall above the trapdoor is a framed portrait of a handsome, well-dressed man with a serene yet penetrating gaze.</p>
+</div>
+
+The ornate rug is actually a **rug of smothering**. It attacks creatures, other than undead, that move across it or anyone who tries to move it or otherwise disturb it. Underneath the rug is a bare stone floor.
+
+The wooden, square trapdoor is 4 feet on a side and as thick as the floor, with recessed iron hinges and an iron ring built into the side opposite the hinges. Pulling up on the ring opens the door. Below the trapdoor, characters see one of two things: either a 170-foot-deep shaft (area K31a) or, if the elevator trap has been activated (see [[#Elevator Hall]]), a stone elevator compartment with a secret trapdoor in its top.
+
+The portrait on the wall depicts Strahd von Zarovich before he became a vampire. Even in life, he was pale. The eyes of the portrait seem to watch and follow the characters as they explore the area. The picture frame is bolted to the wall and can't be removed without destroying it.
+
+If the characters attack the rug or the picture, or if they attempt to remove either item, the **guardian portrait** (see appendix D) attacks. However, modify the portrait as follows:
 
 * The portrait can take up to three reactions per round, but only one per turn.
 * The portrait gains the following reaction: ***Reflexive Spellcasting.*** In response to being targeted by an attack or spell, or in response to a creature casting a spell that would place the portrait in its area of effect, the portrait casts one of the spells it knows.
@@ -1201,16 +1575,28 @@ Shortly after combat ends, the door to <span class="citation">K49. Lounge (p. 70
 ## P8b. Guest Suite
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K49, 50 & 51.</em></span>
 
-This area is largely as described in <span class="citation">K49. Lounge (p. 70)</span>, <span class="citation">K50. Guest Room (p. 70)</span>, and <span class="citation">K51. Closet (p. 70)</span>. However, the witches' ambush does not occur if the party rest here, and modify this area’s description depending on Escher’s location, which is as follows:
+When the players enter the lounge, read:
 
-* If he saw the players in <span class="citation">K47. Portrait of Strahd (p. 68)</span> after they fought the **guardian portrait** and **rug of smothering** in [[#P8a. Guest Landing]], Escher attempts to conceal himself in <span class="citation">K51. Closet (p. 70)</span> while waiting for the players to leave. 
-* Otherwise, Escher is lounging on the couch as described in <span class="citation">K49. Lounge (p. 70)</span>.
+<div class="description">
+<p>As thunder shakes the tower, heavy beams groan under the weight of the ceiling. Three ornate lanterns hang by chains from these beams, each casting a dim glow. The curved west wall is fitted with three windows of leaded glass in steel latticework. A bookcase sits on the east wall between two doors. Plush, overstuffed chairs and couches are placed about the room. The fabric has faded with age, and the patterns it depicts are nearly gone.</p>
+</div>
+
+The leaded windows are fitted with iron hinges and can be opened. They can be locked from the inside, though they are currently unlocked. The books in the bookcase have no value and aren’t much help to the characters. Some of the titles found on the bookshelf include *Embalming: The Lost Art*, *Life Among the Undead: Learning to Cope*, *Castle Building 101*, and *Goats of the Balinok Mountains*.
+
+The guest room contains a large bed with a black canopy trimmed with gold tassels, and several comfortable divans. However, the witches’ ambush does not occur if the party rest here.
+
+The closet is a small, wood-paneled room that reeks of mildew. Iron hooks line the walls, and a dusty black cloak hangs from one hook in the center of the south wall. The cloak is ordinary.
+
+Modify this area’s description depending on Escher’s location, which is as follows:
+
+* If he saw the players in <span class="citation">K47. Portrait of Strahd (p. 68)</span> after they fought the **guardian portrait** and **rug of smothering** in [[#P8a. Guest Landing]], Escher attempts to conceal himself in the closet while waiting for the players to leave.
+* Otherwise, Escher is lounging on the couch in the lounge.
 
 Regardless of his location, once discovered by the players, Escher immediately pales, then drops to his knees and begs the players to spare his life. While babbling, he promises, amongst other things, to “drink only animal blood," “become a vegetarian," or “become a monk of the Morninglord."
 
 ***Threatening Escher.*** Players who threaten Escher and succeed on a DC 15 Charisma (Intimidation) check can convince him to provide the information in **What Escher Knows** below. Otherwise, Escher cowers and pleads for mercy while insisting he cannot betray “Count von Zarovich." 
 
-If attacked, Escher attempts to flee through the window as described in <span class="citation">K49. Lounge (p. 70)</span>.
+If attacked, Escher hurls himself out the window and lands like a cat on the roof of the keep (area K53).
 
 ***Reassuring Escher.*** If reassured that the players mean him no harm, Escher looks abashed, then grows sullen and irate. He demands to know why the players have “come traipsing through the Master’s castle," but almost immediately changes his mind and insists that he “has no interest in their games."
 
@@ -1251,14 +1637,18 @@ This area lies at the peak of Castle Ravenloft’s South Tower, once nicknamed t
 ## P9a. Familiar Room
 <span class="citation"><em>This scene takes place in Chapter 4, Area K54.</em></span>
 
-This area is largely as described in <span class="citation">K54. Familiar Room (p. 71)</span>. However, the door to this chamber is ajar, as is the door to the chamber beyond. 
+The low ceiling of this twenty-foot-square room presses down on the players. Torn and broken couches lie in heaps, haphazardly strewn about. Deep claw marks cover the hardwood furniture, and the once-lush upholstery has been sliced to shreds. From the dark shadows amid the rubble, three pairs of green eyes stare back at the players. The three **cats** are familiars of the witches in [[#P9c. Cauldron Room]]. However, the door to this chamber is ajar, as is the door to the chamber beyond. 
 
 > [!abstract]+ **Watchful Familiars**
 > The witches aren’t automatically alerted to the players’ presence if the familiars see them here. However, if the players failed to prevent the **black cat** familiar in [[#P8a. Guest Landing]] from alerting its mistress, three of the witches in [[#P9c. Cauldron Room]] are watching through the eyes of the three **cats** in this chamber as described in the *find familiar* spell.
 ## P9b. Element Room
 <span class="citation"><em>This scene takes place in Chapter 4, Area K55.</em></span>
 
-This area is largely as described in <span class="citation">K55. Element Room (p. 72)</span>. However, a **zombie** stands silently at the center of the room. (The zombie doesn’t attack except in self-defense, or except as directed by the coven.) Add the following to the end of this area’s description:
+Heavy beams support the ceiling of this large room, the outer wall of which curves to follow the shape of the tower. Dim light filters into the room through the steel lattice squares of two leaded glass windows. Several tables stand throughout the room, weighed down by stacks of glass jars and bottles, all of them bearing labels. The labeled glass containers hold various elements that the witches use in their fell concoctions and rituals, identifying such items as "Eye of Newt," "Hair of Bat," "Snail Hearts," and "Frog's Breath." There are no magic potions among the bottles and jars. However, a **zombie** stands silently at the center of the room. (The zombie doesn’t attack except in self-defense, or except as directed by the coven.)
+
+The leaded windows are fitted with iron hinges and can be opened. They are currently locked from the inside. Characters who search the room spot numerous boot prints in the dust, as well as a short trail in the dust on the floor, leading from the northeast corner of the room to the easternmost door, as though something heavy was dragged across the floor toward the doorway. There is a secret trapdoor in the northeast corner of the floor. Because of the trail through the dust, the trapdoor can be found without an ability check. Tapping or knocking on the trapdoor three times releases a hidden latch, causing the trapdoor to swing down to reveal <span class="citation">K51 (p. 71)</span> below.
+
+Add the following to the end of this area’s read-aloud description:
 
 <div class="description">
 <p>A rotting figure stands still at the center of the room, its glassy, unblinking eyes staring straight ahead.</p>
@@ -1295,7 +1685,11 @@ The witches in [[#P9c. Cauldron Room]] emerge and join the fray if they hear the
 ## P9c. Cauldron Room
 <span class="citation"><em>This scene takes place in Chapter 4, Area K56.</em></span>
 
-This area is largely as described in <span class="citation">K56. Cauldron (p. 72)</span>. However, replace the reference to “green-glowing wisps of steam" in this area’s description with “red-glowing wisps of steam."
+Red-glowing wisps of steam bubble up from a fat, black cauldron in the center of this dark, oppressive room. Surrounding the cauldron are several gaunt women in soiled black robes. These witches sit hunched on tall wooden stools, their tangled hair tucked under black, pointed hats. They take turns tossing ingredients into the cauldron, uttering fell incantations, and cackling maniacally. (If the witches know the characters are coming, the stools are empty and the witches are invisible, as described below.)
+
+When the cauldron is touched by someone who also speaks the proper command word (“Gorah!”), it magically heats any liquid placed inside it and remains hot for 3 hours, or until the command word is spoken again by someone within 5 feet of the cauldron. Once the cauldron’s property has been used, the cauldron can’t be activated again until the next dawn. Captured witches will trade information in exchange for their lives and freedom, and can be forced to divulge the command word. They also know how to open the trapdoor in [[#P9b. Element Room]].
+
+Not visible from the entrance is a small table behind the cauldron on which sits an opened spellbook, seemingly on the verge of falling apart. The book is evil. Any non-evil creature that touches it or starts its turn with the book in its possession takes 5 (1d10) psychic damage.
 
 > [!lore]+ **The Cauldron**
 > The potion in the cauldron, when imbibed by a **zombie**, transforms it into a **zombie plague spreader**. Due to the enchantments layered into the potion by the witches, a **zombie plague spreader** created in this way is loyal first to Strahd, second to Rahadin, third to Strahd’s consorts, and last to the witches who created it. Unless ordered otherwise, the plague spreader attacks any non-undead on sight.
@@ -1350,7 +1744,11 @@ This area of the castle once hosted the barracks and common areas of the castle 
 ### Hall of Bones
 <span class="citation"><em>This scene takes place in Chapter 4, Area K67.</em></span>
 
-This area is largely as described in <span class="citation">K67. Hall of Bones (p. 78)</span>. However, if Argynvost’s skull is removed from its mount, a **skeleton** crawls from each of the four mounds of bones at the corners of the room. The skeletons attack living creatures on sight.
+This area is desecrated ground. Dark stains cover the floor. Large oak tables, scarred and beaten, lie scattered like toys about the room, their wood crushed and splintered. Replacing them are furnishings made entirely of human bones. The walls and the twenty-foot-high vaulted ceiling are a sickly yellow color, adorned with bones and skulls arranged in a morbidly decorative fashion, giving the room a cathedral-like quality. Four enormous mounds of bones occupy the corners of this ossuary, and garlands of skulls extend from these mounds to a chandelier of bones that hangs from the ceiling above a long table constructed of bones in the center of the room. Ten chairs made of bones and festooned with decorative skulls surround the table, resting atop which is an ornate, bowl-shaped vessel made of yet more bones. The doors to the north and south are sheathed in bone, but the steel-banded double doors in the center of the east wall are not. Above these eastern doors is mounted the skull of a dragon.
+
+The dragon skull mounted above the eastern doors belonged to Argynvost, a silver dragon that was killed in the valley by Strahd and his army before the founding of Castle Ravenloft. The skull weighs 250 pounds. The bones and skulls in the room are held together with gray mortar and white paste. The dark stains on the floor are old bloodstains.
+
+If Argynvost’s skull is removed from its mount, a **skeleton** crawls from each of the four mounds of bones at the corners of the room. The skeletons attack living creatures on sight.
 
 For the next 1 minute, an additional **skeleton** crawls from each non-destroyed bone mound at initiative count 0 of each round. Each bone mound has AC 15, 10 hit points, immunity to piercing, psychic, and poison damage, and vulnerability to bludgeoning damage.
 
@@ -1363,11 +1761,11 @@ For the next 1 minute, an additional **skeleton** crawls from each non-destroyed
 ### Guards’ Run
 <span class="citation"><em>This scene takes place in Chapter 4, Area K68.</em></span>
 
-This area is as described in <span class="citation">K68. Guards’ Run (p. 79)</span>.
+This ten-foot-wide arched corridor is cold and moist. The cold seems to emanate from an open archway in the west wall, which leads to [[#Guards’ Quarters]]. A door at the north end of the hall opens into [[#Hall of Bones]]. To the south, the hallway ends at the foot of a staircase that spirals upward.
 ### Guards’ Quarters
 <span class="citation"><em>This scene takes place in Chapter 4, Area K69.</em></span>
 
-This area is largely as described in <span class="citation">K69. Guards’ Quarters (p. 79)</span>. However, revise this area’s description as follows:
+The yellow lichen covering the ceiling of this passage is harmless. However, revise the area’s read-aloud description as follows:
 
 <div class="description">
 <p>Sickly, yellow lichen covers the ceiling of this cold, damp, ten-foot-wide passage running east and west. Opening off both sides of this passage are ten ten-foot-square alcoves that contain rotting debris and rags.</p>
@@ -1399,15 +1797,19 @@ Players who inspect the crawling zombie notice that it appears far older and mor
 ### Kingsmen Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K70.</em></span>
 
-This area is as described in <span class="citation">K70. Kingsmen Hall (p. 79)</span>.
+This thirty-foot-square room is a shambles. Scattered furniture lies in heaps near the walls. Broken bones lie scattered amid crumpled and crushed plate armor. Shields and swords jut from the walls as if driven into them by some tremendous force. Two doors stand opposite one another in the center of the north wall and the south wall. A dark archway leads out through the east wall.
+
+After Strahd was transformed into a vampire, several of the castle guards retreated to this room, but Strahd caught them and slaughtered them in a brutal show of violence. Removing one of the shields or swords from the wall requires a successful DC 10 Strength check. None of the items found here are valuable.
 ### Kingsmen Quarters
 <span class="citation"><em>This scene takes place in Chapter 4, Area K71.</em></span>
 
-This area is largely as described in <span class="citation">K71. Kingsmen Quarters (p. 79)</span>. However, the sack beneath the loose flagstone in the southeast alcove also contains a *stone of good luck*.
+This dark passage runs for twenty feet, connecting an archway to the west with an ascending stone staircase to the east. To the north and south are four ten-foot-square alcoves cluttered with rotting cots and dirty rags. The ceilings here are covered with yellow lichen, which is harmless. Beyond the archway to the west is [[#Kingsmen Hall]]. The staircase (area K20a) that goes up along the east wall leads to the North Tower.
+
+A loose flagstone in the southeast alcove covers a hidden cubbyhole in the floor, which can be found with a successful DC 10 Wisdom (Perception) check. The cubbyhole contains a moldy sack holding 150 ep (stamped with the profiled visage of Strahd von Zarovich) and a *stone of good luck*.
 ### Chamberlain’s Office
 <span class="citation"><em>This scene takes place in Chapter 4, Area K72.</em></span>
 
-This area is largely as described in <span class="citation">K72. Chamberlain’s Office (p. 79)</span>. However, remove Rahadin and the **shadow demon** from this room.
+This shadowy room is in perfect order. A great table stands here with its chair, inkwell, and quill set carefully in place. Lances, swords, and shields that bear the Barovian crest are hung neatly on the dark, oak-paneled walls. A secret door is set into the north end of the west wall. It can be pulled open to reveal a dusty, web-choked staircase of ancient, worn stone (area K79) that descends into darkness. However, Rahadin and the **shadow demon** are not present in this room.
 
 In addition, a player who investigates Rahadin’s desk finds an unsealed parchment letter sitting upon it. It reads:
 
@@ -1428,11 +1830,11 @@ Rahadin von Zarovich</p>
 ### First Floor South Archers’ Post Access Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K13.</em></span>
 
-This area is largely as described in <span class="citation">K13. Turrets Post Access Hall (p. 57)</span>.
+This long, narrow corridor runs east to west. Cobwebs fill the hall, obstructing sight beyond a few feet.
 ### First Floor South Archers’ Post
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K11 & K12.</em></span>
 
-This area is as described in <span class="citation">K11. South Archers’ Post (p. 57)</span> and <span class="citation">K12. Turret Post (p. 57)</span>. However, a single **shadow** dwells here, as described in <span class="citation">Shadows (p. 51)</span>.
+The castle courtyard is visible through arrow slits in the walls. In the archers’ post, leaning against the walls are mirrors of various sizes, some as tall as a human and others small enough to fit in a backpack. The framed mirrors (seventeen in all) used to hang on various walls of the castle; Strahd had them taken down and stored here. Each arrow slit is 2½ feet tall and 4 inches wide. The adjoining turret post features a high, domed ceiling capping a thirty-foot-wide octagonal room, with frescoes faded with age adorning the ceiling, their images impossible to make out. However, a single **shadow** dwells here.
 
 This **shadow**, which understands Common but can’t speak it, is the remnant of a spirit that died in the castle long ago. If permitted to do so, it shyly attempts to follow the players throughout Castle Ravenloft, though it hides itself among nearby furniture or architecture if confronted or attacked. If this occurs, a player can coax it back from hiding with a successful DC 10 Charisma (Persuasion) check.
 
@@ -1443,7 +1845,7 @@ The shadow is lonely and longs for the company of others—including, particular
 ### North Tower Vestibule
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K20 and K20a.</em></span>
 
-This area is largely as described in <span class="citation">K20. Heart of Sorrow (p. 59)</span> and <span class="citation">K20a. Tower Hall Stair (p. 59)</span>. Players who ascend the stairs reach [[#Servants’ Landing]].
+A mosaic floor adds a touch of color to the otherwise dark, cold, empty tower that rises above the players. A spiral staircase rises slowly into darkness, hugging the outer wall. In the center of the room, another set of stairs leads down to [[#Kingsmen Quarters]]. Players who ascend the stairs reach [[#Servants’ Landing]].
 
 > [!info]+ **The Heart of Sorrow**
 > The Heart of Sorrow is largely as described in  <span class="citation">K20. Heart of Sorrow (p. 59)</span>. However, it is immune to all damage, and no **vampire spawn** attack characters that attack it. In addition, rather than shaking the tower on initiative count 10 each round, the Heart shakes the tower each time the players attempt to ascend an additional story toward the Heart. 
@@ -1452,7 +1854,7 @@ This area is largely as described in <span class="citation">K20. Heart of Sorrow
 ### First Floor North Archers’ Post Access Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K13.</em></span>
 
-This area is as described in <span class="citation">K13. Turrets Post Access Hall (p. 57)</span>. However, the entrance to this corridor contains a giant spider cocoon suspended from the ceiling, which is as described in <span class="citation">Giant Spider Cocoon (p. 51)</span>. 
+This long, narrow corridor runs east to west. Cobwebs fill the hall, obstructing sight beyond a few feet. However, the entrance to this corridor contains a giant spider cocoon suspended from the ceiling, which is as described in <span class="citation">Giant Spider Cocoon (p. 51)</span>. 
 
 If opened, the cocoon contains Pidlwick II, who is as described in <span class="citation">Pidlwick II (p. 73)</span>. Pidlwick II is grateful to the characters for rescuing him, and attempts to assist them as described in <span class="citation">Pidlwick II (p. 73)</span>. It otherwise acts as described in <span class="citation">Pidlwick II (p. 73)</span>.
 
@@ -1463,20 +1865,20 @@ If the players are kind toward Pidlwick II and succeed on a DC 12 Charisma (Pers
 ### First Floor North Archers’ Post
 <span class="citation"><em>This scene takes place in Chapter 4, Area K22.</em></span>
 
-This area is largely as described in <span class="citation">K22. North Archers’ Post (p. 59)</span>. 
+The castle courtyard is visible through arrow slits in the walls. Each arrow slit is 2½ feet tall and 4 inches wide. 
 ## P10c. Garrison, Second Floor
 ### Second Floor South Archers’ Post Access Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K13.</em></span>
 
-This area is largely as described in <span class="citation">K13. Turrets Post Access Hall (p. 57)</span>. However, four **crawling claws** cling to the ceiling above the secret door leading to <span class="citation">K25. Audience Hall (p. 61)</span>, and drop down to attack any creature that passes beneath them. The claws otherwise behave as described in <span class="citation">Crawling Claws (p. 50)</span>.
+This long, narrow corridor runs east to west. Cobwebs fill the hall, obstructing sight beyond a few feet. However, four **crawling claws** cling to the ceiling above the secret door leading to <span class="citation">K25. Audience Hall (p. 61)</span>, and drop down to attack any creature that passes beneath them. The claws otherwise behave as described in <span class="citation">Crawling Claws (p. 50)</span>.
 ### Second Floor South Archers’ Post
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K12 & K22.</em></span>
 
-This area is as described in <span class="citation">K12. Turret Post (p. 57)</span> and <span class="citation">K22. North Archers’ Post (p. 59)</span>.
+A high, domed ceiling caps the thirty-foot-wide octagonal room, with frescoes faded with age adorning the ceiling, their images impossible to make out. Tall, thin arrow slits look out over the courtyard. Each arrow slit is 2½ feet tall and 4 inches wide.
 ### Servants’ Landing
 <span class="citation"><em>This scene takes place in Chapter 4, Area K20.</em></span>
 
-This area is as described in <span class="citation">K20. Heart of Sorrow (p. 59)</span>. Players who ascend the stairs reach [[#King’s Landing]]. Players who descend the stairs reach [[#North Tower Vestibule]].
+A mosaic floor adds a touch of color to the otherwise dark, cold, empty tower. A spiral staircase rises slowly into darkness, hugging the outer wall. Players who ascend the stairs reach [[#King’s Landing]]. Players who descend the stairs reach [[#North Tower Vestibule]].
 
 > [!info]+ **The Secret Door**
 > Players who find and pass through the secret door set in the northeastern wall exit the Garrison and enter [[#P5. Servants’ Wing]] via [[Arc P - Ravenloft Heist#Servants’ Upper Floor|Servants' Upper Floor]].
@@ -1488,19 +1890,19 @@ This area is as described in <span class="citation">K20. Heart of Sorrow (p. 59)
 ### Second Floor North Archers’ Post Access Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K13.</em></span>
 
-This area is as described in <span class="citation">K13. Turrets Post Access Hall (p. 57)</span>. 
+This long, narrow corridor runs east to west. Cobwebs fill the hall, obstructing sight beyond a few feet. 
 
 > [!info]+ **The Secret Door**
 > Players who find and pass through the secret door set in the southern wall exit the Garrison and enter [[#P6. King’s Apartments]] via [[#King’s Apartment Stair]].
 ### Second Floor North Archers’ Post
 <span class="citation"><em>This scene takes place in Chapter 4, Area K22.</em></span>
 
-This area is as described in <span class="citation">K22. North Archers’ Post (p. 59)</span>.
+The castle courtyard is visible through arrow slits in the walls. Each arrow slit is 2½ feet tall and 4 inches wide.
 ## P10d. Garrison, Third Floor
 ### Inner South Wall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K46.</em></span>
 
-This area is largely as described in <span class="citation">K46. Parapets (p. 68)</span>. However, Strahd's **animated armor** no longer patrols here.
+The players stand on a ten-foot-wide walkway that encircles most of the keep. The drizzle of rain continues, punctuated by the occasional clap of thunder or stroke of lightning. Far below these parapets are the shining wet cobblestones of the courtyard. The walkway runs around the front of the upper portion of the keep, with battlemented walkways extending from the keep north, south, and east to the outer walls of the castle. All the windows leading from this area into the keep are shut and locked, but can easily be broken. However, Strahd's **animated armor** no longer patrols here.
 
 > [!info]+ **Through the Windows**
 > The five-foot-wide windows along this walkway are locked from the inside and covered by heavy curtains:
@@ -1510,11 +1912,11 @@ This area is largely as described in <span class="citation">K46. Parapets (p. 68
 ### Inner West Wall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K46.</em></span>
 
-This area is largely as described in <span class="citation">K46. Parapets (p. 68)</span>.
+The players stand on a ten-foot-wide walkway that encircles most of the keep. The drizzle of rain continues, punctuated by the occasional clap of thunder or stroke of lightning. Far below these parapets are the shining wet cobblestones of the courtyard.
 ### King’s Landing
 <span class="citation"><em>This scene takes place in Chapter 4, Area K20.</em></span>
 
-This area is largely as described in <span class="citation">K20. Heart of Sorrow (p. 59)</span>. Players who ascend the stairs reach [[#General’s Landing]] via [[#North Tower Stair]]. Players who descend the stairs reach [[#Servants’ Landing]].
+A mosaic floor adds a touch of color to the otherwise dark, cold, empty tower. A spiral staircase rises slowly into darkness, hugging the outer wall. Players who ascend the stairs reach [[#General’s Landing]] via [[#North Tower Stair]]. Players who descend the stairs reach [[#Servants’ Landing]].
 
 Players who pass through the western archway exit the Garrison and enter [[Arc P - Ravenloft Heist#P6. King’s Apartments|King's Apartments]] via [[#Hall of Heroes]].
 
@@ -1525,16 +1927,16 @@ Players who pass through the western archway exit the Garrison and enter [[Arc P
 ### Inner North Wall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K46.</em></span>
 
-This area is largely as described in <span class="citation">K46. Parapets (p. 68)</span>.
+The players stand on a ten-foot-wide walkway. The drizzle of rain continues, punctuated by the occasional clap of thunder or stroke of lightning. Far below these parapets are the shining wet cobblestones of the courtyard.
 ### Inner East Wall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K46.</em></span>
 
-This area is largely as described in <span class="citation">K46. Parapets (p. 68)</span>.
+The players stand on a ten-foot-wide walkway. The drizzle of rain continues, punctuated by the occasional clap of thunder or stroke of lightning. Far below these parapets are the shining wet cobblestones of the courtyard.
 ## P10e. Garrison, Fourth Floor
 ### North Tower Stair
 <span class="citation"><em>This scene takes place in Chapter 4, Area K20.</em></span>
 
-This area is largely as described in <span class="citation">K20. Heart of Sorrow (p. 59)</span>.
+A mosaic floor adds a touch of color to the otherwise dark, cold, empty tower. A spiral staircase rises slowly into darkness, hugging the outer wall.
 
 > [!info]+ **The Heart of Sorrow**
 > The Heart of Sorrow is largely as described in  <span class="citation">K20. Heart of Sorrow (p. 59)</span>. However, it is immune to all damage, and no **vampire spawn** attack characters that attack it. In addition, rather than shaking the tower on initiative count 10 each round, the Heart shakes the tower each time the players attempt to ascend an additional story toward the Heart. 
@@ -1544,13 +1946,13 @@ This area is largely as described in <span class="citation">K20. Heart of Sorrow
 ### North Tower Stair
 <span class="citation"><em>This scene takes place in Chapter 4, Area K20.</em></span>
 
-This area is largely as described in <span class="citation">K20. Heart of Sorrow (p. 59)</span>.
+A mosaic floor adds a touch of color to the otherwise dark, cold, empty tower. A spiral staircase rises slowly into darkness, hugging the outer wall.
 
 ## P10g. Garrison, Sixth Floor
 ### General’s Landing
 <span class="citation"><em>This scene takes place in Chapter 4, Area K20.</em></span>
 
-This area is largely as described in <span class="citation">K20. Heart of Sorrow (p. 59)</span>.
+A mosaic floor adds a touch of color to the otherwise dark, cold, empty tower. A spiral staircase rises slowly into darkness, hugging the outer wall.
 
 
  In addition, when the players arrive at this level, read:
@@ -1579,7 +1981,9 @@ This area is largely as described in <span class="citation">K20. Heart of Sorrow
 ### General’s Terrace
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K57 & K58.</em></span>
 
-This area is as described in <span class="citation">K57. Tower Roof (p. 72)</span> and<span class="citation">K58. Bridge (p. 73)</span>.
+The sixty-foot-diameter tower roof is rimmed with battlements. A slender stone bridge with no railing spans the gap between this tower and the slightly taller tower to the north. To the east, the high tower of Ravenloft thrusts skyward with no apparent opening at this level. Black, boiling clouds hurl rain down from above. The courtyard is 190 feet below, the roof of the keep 80 feet below. A stone railing encloses a stone spiral staircase that descends into the tower.
+
+A strong wind blows across the slender bridge of stone and masonry. The bridge connects the South Tower to the North Tower. The wind isn't strong enough to knock creatures off the bridge, but a creature that takes damage while standing on the bridge must succeed on a DC 10 Dexterity saving throw or fall 60 feet onto the roof of the keep.
 
 > [!info]+ **Descending the Offstair**
 > Players who descend <span class="citation">K48. Offstair (p. 70)</span> exit the Garrison and enter [[Arc P - Ravenloft Heist#P9. Coven’s Quarters|Coven's Quarters]] via the landing outside [[#P9a. Familiar Room]].
@@ -1587,7 +1991,9 @@ This area is as described in <span class="citation">K57. Tower Roof (p. 72)</spa
 ### North Tower Peak
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K60.</em></span>
 
-This area is largely as described in <span class="citation">K60. North Tower Peak (p. 74)</span>. 
+The stairs end at a dark and dreary room with manacles attached to the walls. In the middle of the room is a wood-framed bed fitted with leather restraints. At the foot of the bed rests a closed iron chest, its lid sculpted with Strahd's family crest. A wooden ladder leads up to a trapdoor in the ceiling. Thin streams of water drip through the trapdoor's rotting wood, forming a puddle around the base of the ladder. The ceiling here is 9 feet high. The manacles are rusted and can be easily torn from the walls. The trapdoor in the ceiling leads to the tower rooftop.
+
+The iron chest is locked, and its key is with Cyrus Belview. The chest contains a bejeweled gold crown (worth 2,500 gp) resting on a silk pillow. 
 
 A player who inspects the bed notices dark bloodstains coloring the bed and nearby floor. A DC 15 Wisdom (Medicine) check reveals that the bloodstains can’t be older than a few months old. 
 
@@ -1599,7 +2005,7 @@ A player with a passive Wisdom (Perception) score of 14 or higher also notices a
 ### North Tower Rooftop
 <span class="citation"><em>This scene takes place in Chapter 4, Area K60a.</em></span>
 
-This area is largely as described in <span class="citation">K60a. North Tower Rooftop (p. 74)</span>. However, revise this area’s description to read as follows:
+The courtyard lies 260 feet below, and the roof of the keep is 130 feet below. However, revise the area’s read-aloud description to read as follows:
 
 <div class="description">
 <p>A cold wind greets you atop the tower roof, its rain-slicked flagstones surrounded by a twenty-foot-diameter ring of stone battlements. From the thunderclouds above, thousands of bats descend upon the tower.</p>
@@ -1626,7 +2032,9 @@ The bats arrive in two rounds, rather than three.
 > [!info]+ **Flooded Areas** 
 > The areas of <span class="citation">K73. Dungeon Hall (p. 82) </span>, <span class="citation">K74. North Dungeon (p. 82) </span>, <span class="citation">K75. South Dungeon (p. 82) </span>, <span class="citation">and K76. Torture Chamber (p. 82) </span>  are difficult terrain.
 
-This area is largely as described in <span class="citation">K73. Dungeon Hall (p. 79)</span>. However, the trapdoors function as follows:
+The stairs descend into black, still water that fills an arched hallway. The water's surface is like dark, mirrored glass, disturbed only occasionally by the drop of water falling from the ceiling. Twenty feet ahead, arched doorways lead downward from each side of the hallway. In each arched doorway, an iron door stands closed and partially submerged. A weak cry for help can be heard from beyond the south door.
+
+The water is 3 feet deep in the hallway and opaque. The steps on both sides of the hallway descend another 2 feet before ending at the iron doors to the north and south dungeons. However, the trapdoors function as follows:
 
 * A trapdoor opens when a Medium- or Small-sized creature steps on it, but can be detected or avoided by knocking on the ground with a ten-foot pole or similar equipment. The trapdoors can also be avoided by swimming through the water. (Each trapdoor is enchanted to appear non-magical through the use of a permanent *Nystul’s magic aura* spell, and therefore doesn’t appear magical beneath the scrutiny of a *detect magic* spell.)
 * If a character doesn’t know where a trapdoor is and fails to effectively and intentionally avoid it, they automatically activate it as they pass through its section of the hall. Once a trapdoor activates, the resulting “explosion of air and water" alerts the players to its location, allowing them to navigate around it if they choose.
@@ -1641,7 +2049,20 @@ Additionally, instead of teleporting their victims to cells in the dungeons, the
 ## P11b. North Dungeon
 <span class="citation"><em>This scene takes place in Chapter 4, Area K74.</em></span>
 
-This area is largely as described in <span class="citation">K74. North Dungeon (p. 80)</span>. However, modify the half-elf corpse in <span class="citation">K74c. Rotting Corpse (p. 80)</span> to be a human corpse instead.
+The rusty iron door connecting this hall to the Dungeon Hall is submerged in 5 feet of water and requires a successful DC 10 Strength (Athletics) check to open. A mold-covered ceiling hangs three feet above the still, black water that fills this dungeon corridor. The water is five feet deep. Ten-foot-square cells, their entrances blocked by iron bars, line both sides of the hall. One of the cells is dimly lit.
+
+The corridor is 40 feet long. Branching off it are eight cells, four along each wall. Light spills out of cell K74h. A hinged door of 1-inch-thick rusted iron bars spaced 4 inches apart, with horizontal crossbars spaced 6 inches apart, closes off each cell. Each door is fitted with an iron lock. A character using thieves' tools can try to pick a lock, which requires 1 minute and a successful DC 20 Dexterity check (made with disadvantage from inside the cell). A character can force open a barred door by succeeding on a DC 25 Strength check.
+
+The cells contain the following:
+
+* ***K74a. Forgotten Treasure.*** Scattered across the floor are 3,000 ep stamped with Strahd's visage.
+* ***K74b. Forgotten Treasure.*** The rusted door hangs open slightly. Scattered across the floor are 300 pp stamped with Strahd's visage.
+* ***K74c. Rotting Corpse.*** Clinging to the bars is the rotting corpse of a human dressed in leather armor. A search of the corpse yields a sheathed longsword and two belt pouches, one containing five gemstones (50 gp each) and the other containing a *potion of heroism*. (Modified from a half-elf to a human corpse.)
+* ***K74d. Empty Cell.*** This cell contains nothing of interest.
+* ***K74e. End of the Ride.*** A secret door 5 feet up from the floor on the north wall can't be opened from this side without *knock* or similar magic. Behind it is a chute of polished black marble that slants upward.
+* ***K74f. Empty Cell.*** This cell contains nothing of interest.
+* ***K74g. Gray Ooze.*** A **gray ooze** clings to the floor and attacks anything that enters. While underwater, the ooze is effectively invisible.
+* ***K74h. Lost Sword.*** A glowing blade can be seen beneath the water near the back of the cell.
 
 In addition, modify the description of <span class="citation">K74h. Lost Sword (p. 81)</span> to refer to a glowing mace, rather than a glowing blade. The mace has the same properties as the shortsword, but is not sentient, requires no attunement, and allows its wielder to cast *aura of life* rather than *crusader’s mantle*.
 
@@ -1650,7 +2071,22 @@ In addition, modify the description of <span class="citation">K74h. Lost Sword (
 ## P11c. South Dungeon
 <span class="citation"><em>This scene takes place in Chapter 4, Area K75.</em></span>
 
-This area is largely as described in <span class="citation">K75. South Dungeon (p. 81)</span>. However, Emil doesn’t lie to players who tell him that Zuleika sent them, and is surprised, but grateful for their efforts to rescue him. No matter what, Emil doesn’t betray the players to Strahd or Strahd’s minions, and provides his best efforts to assist them in escaping the castle if rescued.
+The rusty iron door connecting this hall to the Dungeon Hall is submerged in 5 feet of water and requires a successful DC 10 Strength (Athletics) check to open. A mold-covered ceiling hangs three feet above the still, black water that fills this dungeon corridor. The water is five feet deep. Ten-foot-square cells, their entrances blocked by iron bars, line both sides of the hall. From one of the cells, a gruff voice asks, "Who’s there?"
+
+The corridor is 40 feet long. Branching off it are eight cells, four along each wall. The voice comes from one of the southernmost cells (K75a), where Emil Toranescu is imprisoned. The cells and their locks function as described in [[#P11b. North Dungeon]].
+
+The cells contain the following:
+
+* ***K75a. Prisoner.*** A strong young man clutches the bars of his cell while struggling to keep his teeth from chattering. His clothes are shredded, and he is soaked from head to toe. (This is Emil Toranescu, a werewolf.)
+* ***K75b. Forgotten Treasure.*** Scattered across the floor are 2,100 ep stamped with Strahd’s visage.
+* ***K75c. Empty Cell.*** This cell contains nothing of interest.
+* ***K75d. Dead Dwarf.*** The skeletal remains of a dwarf fighter lie at the bottom of the cell, enclosed in rusted plate armor. A nonmagical but usable battleaxe lies nearby.
+* ***K75e. Empty Cell.*** This cell contains nothing of interest.
+* ***K75f. Dead Wizard.*** Shackled to the back wall is an emaciated figure in a blue robe, its spindly arms spread wide and its head tilted forward—the remains of a human wizard whom Strahd captured and slowly bled to death.
+* ***K75g. Hanging Bard.*** A man, flabby and stout, in tight-fitting leather armor, hangs upside down from a rusted iron pulley. His boots are bound with rope, his hands are tied behind his back, and his head is underwater. He isn’t moving.
+* ***K75h. Empty Cell.*** This cell contains nothing of interest.
+
+However, Emil doesn’t lie to players who tell him that Zuleika sent them, and is surprised, but grateful for their efforts to rescue him. No matter what, Emil doesn’t betray the players to Strahd or Strahd’s minions, and provides his best efforts to assist them in escaping the castle if rescued.
 
 Emil, who has three levels of exhaustion, has been locked in his cell for weeks. He wears a *silverthorn collar* around his neck (see below). If asked, he can share that the key to his collar is held by Volenta or, if Volenta has been killed in [[Arc D - St. Andral's Feast]], Ludmilla. (Emil can share that Ludmilla dwells with her witches’ coven on the highest level of the South Tower, but isn’t sure how to get there from here.)
 
@@ -1723,7 +2159,11 @@ Emil, who has three levels of exhaustion, has been locked in his cell for weeks.
 ## P11d. Torture Chamber
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K76 & K77.</em></span>
 
-This area is largely as described in <span class="citation">K76. Torture Chamber (p. 82)</span> and <span class="citation">K77. Observation Balcony (p. 82)</span>. However, remove the reference to the “last victims" of the torture devices in the water. In addition, replace the six **Strahd zombies** with three **zombies**, and add a three-foot amphora and an *alchemy jug* beside the thrones on the balcony. The amphora is filled with several gallons of oil, which is otherwise as described in <span class="citation">Oil (Flask) (Player’s Handbook, p. 152)</span>. Also, there is an extra **zombie** operating the rack. It is docile and only attacks in self-defense.
+Dark, low shapes thrust up out of the still, brackish water that fills this fifty-foot-square room, the ceiling of which is festooned with hanging chains that look like thick, black web strands. A balcony set into the north wall overlooks the room and has two large thrones atop it, with a red velvet curtain behind them.
+
+The ceiling is 17 feet above the surface of the water, which is 3 feet deep. The balcony to the north stands 7 feet above the water’s surface, 10 feet above the floor. The dark shapes in the water are racks, iron maidens, stocks, and other instruments of torture. However, remove the reference to the “last victims” of the torture devices. In addition, replace the six **Strahd zombies** with three **zombies**, and add a three-foot amphora and an *alchemy jug* beside the thrones on the balcony. The amphora is filled with several gallons of oil, which is otherwise as described in <span class="citation">Oil (Flask) (Player’s Handbook, p. 152)</span>. Also, there is an extra **zombie** operating the rack. It is docile and only attacks in self-defense.
+
+Two large, wooden thrones rest on the observation balcony. Behind the thrones hangs a red velvet curtain thirty feet long. The ceiling here is ten feet high. The room continues behind the curtain an additional 10 feet to a wall that has a door in its center.
 
 > [!info]+ **Climbing the Balcony**
 > A successful DC 10 Strength (Athletics) check is required to climb the edge of the observation balcony.
@@ -1924,7 +2364,17 @@ On initiative count 20 of each subsequent round, the oil spreads an additional f
 ## P11e. Brazier Room
 <span class="citation"><em>This scene takes place in Chapter 4, Area K78.</em></span>
 
-This area is largely as described in <span class="citation">K78. Brazier Room (p. 82)</span>. However, revise the brazier’s riddle to read as follows:
+This room is thirty feet square, rising to a twenty-foot-tall flat ceiling. A stone brazier burns fiercely in the center of the room, but its tall white flame produces no heat. The rim of the brazier is carved with seven cup-shaped indentations spaced evenly around the circumference. Within each indentation is a spherical stone, twice the diameter of a human eyeball and made of a colored crystal. No two stones are the same color.
+
+Overhead, a wood-framed hourglass as tall and wide as a dwarf hangs ten feet above the brazier, suspended from the ceiling by thick iron chains. All the sand is stuck in the upper portion of the hourglass, seemingly unable to run down into the bottom. Written in glowing script on the base of the hourglass is a verse in Common. Two nine-foot-tall iron statues of knights on horseback, poised to charge with swords drawn, stand in deep alcoves facing each other. The brazier sits between them.
+
+The two statues are **iron golems**. Each horse and rider is considered one creature, and they are inseparable. The golems will not leave the room under any circumstances, and they attack only under specific conditions (see "Development" below). The hourglass has AC 12, 20 hit points, immunity to poison and psychic damage, and vulnerability to thunder damage. If the hourglass is reduced to 0 hit points, its glass shatters, causing the sand within it to fall to the floor.
+
+The brazier’s flame is magical and sheds no warmth. A successful casting of *dispel magic* (DC 16) extinguishes the flame for 1 hour. The fire is permanently extinguished if the brazier is destroyed. The brazier has AC 17, 25 hit points, immunity to poison and psychic damage, and resistance to all other damage. The stones set into the brazier’s rim are colored red, orange, yellow, green, blue, indigo, and violet.
+
+***Development.*** If the brazier, the hourglass, or either golem is attacked, the doors of the room magically slam shut and lock (unless held or wedged open), and the golems animate and attack. On the first round, the golems fill the room with their poison breath, which issues from the horses’ mouths. (Each creature in the room must make two saving throws, one for each breath weapon.) On subsequent rounds, each golem makes one attack with its sword and one slam attack with its hoof. When there are no creatures left to fight, the golems return to their alcoves, and the doors unlock. Forcing open a locked door requires a successful DC 25 Strength (Athletics) check. Each door has AC 15, 25 hit points, and immunity to poison and psychic damage.
+
+However, revise the brazier’s riddle to read as follows:
 
 <div class="description">
 <p>Cast a stone into the fire<br>
@@ -1973,7 +2423,7 @@ Players who investigate the exits from this room can observe the following point
 ## P11f. Western Stair
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K79.</em></span>
 
-This area is largely as described in <span class="citation">K79. Western Stair (p. 84)</span>. However, remove the *glyph of warding*. Instead, a curious, yet fearful **shadow** lurks here.
+This staircase of ancient stone is worn smooth. Thick dust covers its steps, and cobwebs choke the passage. The stairs rise at a 45-degree angle for a distance of 40 feet horizontally, leading to a 10-foot-square landing. A second set of stairs continues upward to the east at a similar angle for a distance of 30 feet horizontally, ending at a secret door that opens into [[#Chamberlain's Office]]. However, remove the *glyph of warding* from the landing. Instead, a curious, yet fearful **shadow** lurks here.
 
 If the players approach the staircase from <span class="citation">K78. Brazier Room (p. 82)</span>, the shadow flees upward, squeezing through the secret door to <span class="citation">K72. Chamberlain’s Office (p. 79)</span> and concealing itself within one of the drawers of Rahadin’s desk. (The shadow isn’t very good at hiding, allowing part of its ephemeral, shroud-like body to extrude through the drawer’s keyhole.)
 
@@ -1989,14 +2439,22 @@ This **shadow**, which understands Common but can’t speak it, is the remnant o
 ## P11g. Catacomb Tunnel
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K81 & K82.</em></span>
 
-This area is as described in <span class="citation">K81. Tunnel (p. 84)</span> and <span class="citation">K82. Marble Slide (p. 85)</span>.
+This tunnel is cut into the Pillarstone of Ravenloft itself. Its surface is slick, and its ceiling is barely 6 feet high. A lingering fog limits visibility to a few feet. The tunnel is 120 feet long, with a stone door at its eastern end.
+
+Near the midpoint of the tunnel is a trapdoor hidden under a layer of fog. Characters can't spot the trapdoor passively, but an active search accompanied by a successful DC 20 Wisdom (Perception) check locates it. Unless the trapdoor is fastened shut, it opens when 100 pounds of weight or more is placed on it. When the trapdoor opens, everyone standing on it slides into the marble chute below—a chute of polished black marble that deposits them in a flooded cell (K74e). The slide contains no handholds and is too slippery to ascend without the aid of magic.
 
 > [!info]+ **Exiting the Tunnel**
 > A player who exits the eastern end of the tunnel exits the dungeons and enters [[#P12. Catacombs]] via [[#North Crypts, First Row]].
 # P12. Catacombs
 <span class="citation"><em>This scene takes place in Chapter 4, Area K84.</em></span>
 
-This area is largely as described in <span class="citation">K84. Catacombs (p. 85)</span>, except where denoted otherwise below.
+Buried deep beneath the keep of Ravenloft lie ancient catacombs, with arched ceilings supported by wide, hollow columns that double as crypts. Cobwebs hang limp in the musty air. A thick fog clings to the floor, which is covered in putrid waste. The black ceiling is moving—home to tens of thousands of bats.
+
+The catacombs fill an area roughly 110 feet east to west by 180 feet north to south, and the floor is covered in several inches of bat guano. The catacombs are made up of 10-foot-wide arched walkways running between 10-foot-square crypts, which serve as pillars that support the 20-foot-high ceiling. Each crypt is sealed with a chiseled stone slab measuring 3 feet wide, 5 feet tall, and 3 inches thick. Removing or resetting a stone slab requires an action and a successful DC 15 Strength check. Each crypt houses the remains of the person or persons whose epitaph is inscribed on the front of the slab. Unless noted otherwise, each crypt contains a 3-foot-by-6-foot rectangular bier of marble, 3 feet high, with a skeleton draped in rags lying atop it.
+
+The bats hang here during daytime hours and fly out in the evening through the high tower's central shaft to hunt at night. They will not attack intruders unless provoked or specifically commanded to do so by Strahd. If one or more bats within a 10-foot square are attacked or caught in the area of a harmful spell, 2d4 **swarms of bats** form in that area and attack. No more swarms can be formed in that square until the next dawn.
+
+The following areas are described below, except where denoted otherwise.
 
 > [!abstract]+ **Rahadin's Challenge**
 > This arc assumes the players visit the catacombs after completing all other major objectives (i.e., rescuing Gertruda, freeing Emil, and obtaining Argynvost's skull). When they do, Rahadin obstructs their departure from the catacombs after they visit St. Markovia's crypt, as described in [[#South Crypts, Third Row]].
@@ -2015,11 +2473,24 @@ This area is largely as described in <span class="citation">K84. Catacombs (p. 8
 ## P12a. North Catacombs
 ### North Crypts
 #### North Crypts, First Row
-This row of crypts is largely as described in <span class="citation">Crypt 1 (p. 86)</span>, <span class="citation">Crypt 2 (p. 86)</span>, <span class="citation">Crypt 3 (p. 86)</span>, <span class="citation">Crypt 4 (p. 86)</span>, <span class="citation">Crypt 5 (p. 86)</span>, and <span class="citation">Crypt 6 (p. 86)</span>. However, replace the epigraph and contents of Crypt 6 with the epigraph and contents of <span class="citation">Crypt 40 (p. 93)</span>, and remove the trap surrounding Crypt 6.
+This row of crypts contains the following:
+
+* ***Crypt 1.*** "Herein lie the ones who walk the path of pain and torment." The stone door connects not with a crypt, but with a hewn tunnel of stone (the catacomb tunnel).
+* ***Crypt 2.*** "Artista DeSlop—Court Ceiling Painter." The domed ceiling of this crypt is painted with an image of imps holding bouquets of colorful flowers. A skeleton draped in rags lies atop a marble slab. A wooden box tucked under one bony hand contains seven wood-handled paintbrushes and seven small gourds of dried-up paint.
+* ***Crypt 3.*** "Lady Isolde Yunk (Isolde the Incredible): Purveyor of antiques and imports." A skeleton draped in rags lies atop a marble slab, surrounded by heaps of old baskets, braziers, bundled tapestries, candlesticks, chairs, chests, cooking utensils, and other junk. None of the junk looks valuable.
+* ***Crypt 4.*** "Prince Ariel du Plumette (Ariel the Heavy)." If opened, the apparition of a large, rotund man forms within the dark crypt, its eyes wild with insanity. Large, artificial wings unfold from its back. Prince Ariel's evil **ghost** attacks the characters on sight. If Ariel succeeds in possessing a character, his host climbs the high tower until it reaches the peak, then hurls itself down the tower's central shaft, screaming, "I can fly!"
+* ***Crypt 5.*** "Artank Swilovich: Friend and member of the Barovian Wine Distillers Guild." A skeleton draped in rags lies atop a marble slab, surrounded by thousands of empty wine bottles from the Wizard of Wines winery.
+* ***Crypt 6.*** Replace the epigraph and contents of Crypt 6 with "Tatsaul Eris—Last of the Line." A skeleton draped in rags lies atop a marble slab. Mounted on the north, east, and south walls are three unlit torches in iron brackets. When a creature enters this tomb for the first time, the torches burst into flame. Examination of the skull and bones reveals that they are plaster facsimiles. Remove the trap surrounding Crypt 6.
 
 Players who exit <span class="citation">K81. Tunnel (p. 84)</span> via Crypt 1, or who approach the intersection between Crypts 2, 7, and 8 observe a human corpse lying on the stone floor just south of <span class="citation">Crypt 2 (p. 87)</span>. (The corpse is a **zombie. See below for more information.**)
 #### North Crypts, Second Row
-This row of crypts is largely as described in <span class="citation">Crypt 7 (p. 87)</span>, <span class="citation">Crypt 8 (p. 87)</span>, <span class="citation">Crypt 9 (p. 87)</span>, <span class="citation">Crypt 10 (p. 87)</span>, and <span class="citation">Crypt 11 (p. 87)</span>. However, Tasha Petrovna’s holy symbol in <span class="citation">Crypt 11 (p. 87)</span> is not present; instead, it is currently worn by Father Lucian in Vallaki.
+This row of crypts contains the following:
+
+* ***Crypt 7.*** "Endorovich (Endorovich the Terrible): What the blood of a hundred wars did not do, the spurn of a woman accomplished." The stone door lies on the floor. A skull, some bones, and a few bits of rusted armor lie atop a marble slab with a leering stone **gargoyle** squatting at each end. If anyone disturbs the bones, one gargoyle awakens and attacks (max 77 HP). If destroyed, Endorovich’s spirit moves to the second gargoyle.
+* ***Crypt 8.*** "Duchess Dorfniya Dilisnya." A skeleton draped in rags lies atop a marble slab. Hanging on the back wall is a handsome quilt depicting a royal feast. The quilt is magically preserved but not valuable.
+* ***Crypt 9.*** "Pidlwick—Fool of Dorfniya." If the characters explore this crypt after summoning the ghost of Pidlwick in area K36, they find a small, flat wooden box on the marble slab next to Pidlwick’s bones containing a full *deck of illusions*.
+* ***Crypt 10.*** "Sir Leonid Krushkin (Sir Lee the Crusher): Bigger than life, he loved his jewelry." An oversized skeleton draped in jewelry and rags lies atop an elongated marble slab. A bloodstained maul leans against the slab. The maul is harmless and nonmagical. Three jeweled necklaces (worth 750 gp each) lie across the skeleton.
+* ***Crypt 11.*** "Tasha Petrovna—Healer of Kings, Light unto the West, Servant, Companion." A skeleton wearing tattered priestly vestments lies atop a marble slab. The domed ceiling is painted with a glorious sun mural. Creatures that would take damage from sunlight have disadvantage on all ability checks, attack rolls, and saving throws while inside this crypt. However, Tasha Petrovna’s holy symbol is not present; instead, it is currently worn by Father Lucian in Vallaki.
 
 In addition, a human corpse lies sprawled across the floor immediately south of <span class="citation">Crypt 2 (p. 87)</span>. If approached, the corpse rises as a **zombie** and attacks.
 
@@ -2035,7 +2506,14 @@ The vampire also attacks the players if cornered, or if it finds a character iso
 
 Players with a passive Wisdom (Perception) score of 16 or more occasionally hear distant rustling or catch glimpses of the vampire’s shadow out of the corner of their eye, indicating its current location.
 #### North Crypts, Third Row
-This row of crypts is largely as described in <span class="citation">Crypt 12 (p. 87)</span>, <span class="citation">Crypt 13 (p. 88)</span>, <span class="citation">Crypt 14 (p. 88)</span>, <span class="citation">Crypt 15 (p. 88)</span>, <span class="citation">Crypt 16 (p. 89)</span>, and <span class="citation">Crypt 17 (p. 89)</span>. However, replace the epigraph on Crypt 16 to read “Elsa Fallona, Beloved Actor."
+This row of crypts contains the following:
+
+* ***Crypt 12.*** “King Troisky—The Three-Faced King.” There are no bones atop the marble slab, only a steel helm with three evenly spaced visors crafted to look like three faces—one sad, one happy, and one angry. The helm is nonmagical and weighs 10 pounds. If the helm is removed without 10 pounds of weight immediately being added, poisonous gas pours out of the slab’s hollow interior. A DC 12 Wisdom (Perception) check spots tiny holes in the slab. A creature in the crypt must make a DC 14 Constitution saving throw, taking 22 (4d10) poison damage on a failure, or half on a success.
+* ***Crypt 13.*** “King Katsky (Katsky the Bright): Ruler, inventor, and self-proclaimed time traveler.” A skeleton draped in rags lies atop a marble slab with a stoppered drinking horn (powder horn loaded with gunpowder), a fat pouch (20 silvered bullets), and a musket. A wooden flying contraption (dragon-wing glider) hangs from the ceiling by wires. The glider can’t support more than 80 pounds.
+* ***Crypt 14.*** “Stahbal Indi-Bhak: A truer friend no ruler ever had. Here lies his family in honor.” A ten-foot-square shaft plunges 40 feet into a vault containing fifteen stone coffins and fifteen **wights** (one per coffin). See the original module for full details on this vault.
+* ***Crypt 15.*** “Khazan: His word was power.” A skeleton draped in rags lies atop a marble slab. The skull has black opals set in its eye sockets (worth 1,000 gp each) and shards of amber where its teeth should be (eight amber teeth worth 100 gp each). (See [[#North Crypts, Third Row]] for the modified Khazan puzzle.)
+* ***Crypt 16.*** Replace the epigraph to read “Elsa Fallona, Beloved Actor.” A skeleton draped in rags lies atop a marble slab. Nine shallow alcoves are carved into the surrounding walls, the back wall of each painted with a full-body image of a handsome man. At the feet of each painting rests a skull atop a pile of bones.
+* ***Crypt 17.*** “Sir Sedrik Spinwitovich (Admiral Spinwitovich): Confused though he was, he built the greatest naval force ever assembled in a landlocked country.” An eleven-foot-long funeral barge dominates this crypt, wedged diagonally. Lying in the boat is a skeleton draped in rags, with hundreds of clay coins painted gold (worthless).
 
 ***Crypt 15.*** Speaking the name “Khazan" inside Crypt 15 does not cause a *staff of power* to materialize. Instead, the back wall of the crypt is engraved with eight arcane runes and the inscription: “The one who marks my seal with their mastery may prove themselves worthy to inherit my legacy."  A player with proficiency in Arcana, or who makes a successful DC 10 Intelligence (Arcana) check, identifies the runes as the symbols of the eight schools of magic. The order of the symbols, moving clockwise around the engraving, is: illusion, abjuration, necromancy, conjuration, divination, enchantment, transmutation, evocation.
 
@@ -2075,30 +2553,68 @@ The player can release the staff at any time. If they release the staff while th
 ### Sergei’s Tomb
 <span class="citation"><em>This scene takes place in Chapter 4, Area K85.</em></span>
 
-This area is largely as described in <span class="citation">K85. Sergei’s Tomb (p. 93)</span>. However, Sergei’s armor is nonmagical and ceremonial, rather than practical, and cannot be used as plate armor.
+A portcullis is closed in the archway into this tomb. Lifting it requires a successful DC 25 Strength check. White marble steps descend to a tomb that has a vaulted ceiling thirty feet overhead. A stillness—a calm amid the storm—is felt here. In the center of the tomb, a white marble slab supports an intricately inlaid coffin. Chiseled into the slab is a name: Sergei von Zarovich. To the north, behind the coffin, are three alcoves. A beautifully carved statue stands in each alcove—a stunning young man flanked by two angels—looking as polished and new as the day each was placed there. An iron lever protrudes from the south wall, west of the tomb’s entrance.
+
+Raising the lever lifts the portcullis at the top of the stairs. Pulling it down lowers the portcullis. The coffin opens easily to the touch of a lawful good creature. Otherwise, opening it requires a successful DC 15 Strength check. Sergei’s flesh has been magically preserved, and at first glance it looks like he is sleeping in his casket. However, Sergei’s armor is nonmagical and ceremonial, rather than practical, and cannot be used as plate armor.
 ## P12b. Central Catacombs
 ### Central Crypts
 #### Central Crypts, North Row
-This row of crypts is largely as described in <span class="citation">Crypt 18 (p. 89)</span>, <span class="citation">Crypt 19 (p. 89)</span>, and <span class="citation">Crypt 20 (p. 89)</span>. However, Sasha does not attack the players if encountered in her crypt. (Strahd has ordered her to remain here, and she cannot depart her crypt if asked.)
+This row of crypts contains the following:
+
+* ***Crypt 18.*** "Ireena Kolyana: Wife." The stone door has been carefully laid to one side. The crypt is empty and has been swept clean. This is where Strahd intends to keep Ireena once he turns her into a vampire spawn.
+* ***Crypt 19.*** "Artimus (Builder of the Keep): Thou standest amidst the monument to his life." A skeleton draped in rags lies atop a marble slab. This crypt contains nothing of interest.
+* ***Crypt 20.*** "Sasha Ivliskova—Wife." Webs as thick and pale as linen cover a shapely female form lying atop a marble slab. A voice issues from the darkness: "My love, have you come to set me free?" This **vampire spawn** is an old wife of Strahd's. However, Sasha does not attack the players if encountered in her crypt. (Strahd has ordered her to remain here, and she cannot depart her crypt if asked.)
 #### Central Crypts, South Row
-This row of crypts is largely as described in <span class="citation">Crypt 21 (p. 89)</span>, <span class="citation">Crypt 22 (p. 90)</span>, and <span class="citation">Crypt 23 (p. 90)</span>. However, Crypt 21 does not contain Patrina’s **banshee**. (Patrina’s spirit instead resides in the Amber Temple.) In addition, the epigraph on Crypt 23 bears the name of the character whose skill, arrogance, and power have impressed Strahd the most.
+This row of crypts contains the following:
+
+* ***Crypt 21.*** "Patrina Velikovna—Bride." However, Crypt 21 does not contain Patrina’s **banshee**. (Patrina’s spirit instead resides in the Amber Temple.) The crypt contains a skeleton draped in rags lying atop a marble slab, surrounded by 250 pp, 1,100 gp, 2,300 ep, 5,200 sp, and 8,000 cp. Buried under the coins is Patrina’s spellbook, which has carved wooden covers.
+* ***Crypt 22.*** "Sir Erik Vonderbucks." A gilded man lies atop a marble slab. The thin layer of gold, if peeled from Sir Erik’s desiccated corpse, is worth 500 gp.
+* ***Crypt 23.*** The epigraph on Crypt 23 bears the name of the character whose skill, arrogance, and power have impressed Strahd the most. Opening the crypt releases a horrid stench of decay and reveals a corpse lying on the marble slab that looks like the named character. Touching the corpse causes it to melt away, and the inscription fades.
 ### King & Queen’s Tomb
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K87 & K88.</em></span>
 
-This area is as described in <span class="citation">K87. Guardians (p. 94)</span> and <span class="citation">K88. Tomb of King Barov and Queen Ravenovia (p. 94)</span>.
+Wide steps descend to a landing flanked by two alcoves. Within each alcove, taking up the full thirty-foot height of the ceiling, is a bronze statue of a warrior holding a spear. A soft blue curtain of light flows between the two alcoves. Dimly visible on the other side of the curtain are more descending stairs.
+
+The curtain has no effect on creatures that move east to west. A creature of lawful good alignment that moves west to east through the curtain can do so without difficulty, but creatures of other alignments that do so are teleported back to the top of the stairs behind them. A Small creature can squeeze behind and around one of the bronze statues to circumvent the light curtain.
+
+Beyond lies a tomb resting in hushed silence. Tall, stained glass windows dominate the eastern walls, allowing dim light to fall on two coffins resting atop white marble slabs. The one against the north wall is marked "King Barov von Zarovich," and the one against the south wall is marked "Queen Ravenovia van Roeyen." The vaulted ceiling thirty feet overhead is inlaid with a beautiful gold mosaic.
+
+The north coffin holds a beautifully sculpted, life-sized wax effigy of Strahd's father, King Barov, with his bones in a compartment beneath the effigy. The south coffin holds the skeleton of Strahd's mother, Queen Ravenovia, covered by a tattered white shroud.
 ## P12c. South Catacombs
 ### South Crypts
 #### South Crypts, First Row
-This row of crypts is largely as described in <span class="citation">Crypt 24 (p. 90)</span>, <span class="citation">Crypt 25 (p. 90)</span>, <span class="citation">Crypt 26 (p. 90)</span>, <span class="citation">Crypt 27 (p. 90)</span>, <span class="citation">Crypt 28 (p. 90)</span>, and <span class="citation">Crypt 29 (p. 91)</span>. However, remove the **giant wolf spiders** from Crypt 27, and replace the *luck blade* in Crypt 29 with a set of *+2 studded leather armor*.
+This row of crypts contains the following:
+
+* ***Crypt 24.*** "Ivan Ivliskovich, Champion of Winter Dog Racing: The race may go to the swift, but vengeance is for the loser's relatives." A skeleton draped in bits of fur lies atop a marble slab. The walls and ceiling are covered with plaster painted to look like an evergreen forest surrounded by snow. This crypt contains nothing of interest.
+* ***Crypt 25.*** "Stefan Gregorovich: First Counselor to King Barov von Zarovich." A skeleton draped in rags lies atop a marble slab. The skull is well polished and radiates a faint aura of necromancy magic. It will answer up to five questions per day as though *speak with dead* had been cast on it. If questioned about Strahd or the castle, all information it provides is untrue.
+* ***Crypt 26.*** "Intree Sik-Valoo: He spurned wealth for the knowledge he could take to heaven." A skeleton draped in rags lies atop a marble slab. The skull is well polished and radiates a faint aura of necromancy magic. It will answer up to five questions per day as though *speak with dead* had been cast on it. Unlike Stefan in Crypt 25, Intree was well educated, and the information he provides about Strahd or the castle is true.
+* ***Crypt 27.*** This crypt is missing its door. However, remove the **giant wolf spiders** from Crypt 27. The crypt is otherwise empty.
+* ***Crypt 28.*** "Bascal Ofenheiss—Chef Deluxe." A skeleton draped in white linen lies atop a marble slab, clutching a bell and wearing a tall chef's hat. If the bell is rung inside the crypt, magic fire sweeps through (DC 17 Dexterity save; 22 (4d10) fire damage on failure, half on success). Creatures that fail catch fire, taking 5 (1d10) fire damage per turn. An electrum spork with a bejeweled handle (worth 250 gp) is tucked under the chef's hat.
+* ***Crypt 29.*** "Baron Eisglaze Driif." Opening the door fills the area with cold. Every surface is covered with thick, brownish mold. A patch of brown mold fills the crypt. If killed off, a set of *+2 studded leather armor* can be found hidden under the mold next to the baron's bones.
 #### South Crypts, Second Row
-This row of crypts is largely as described in <span class="citation">Crypt 30 (p. 91)</span>, <span class="citation">Crypt 31 (p. 91)</span>, <span class="citation">Crypt 32 (p. 91)</span>, <span class="citation">Crypt 33 (p. 91)</span> and <span class="citation">Crypt 34 (p. 92)</span>. However, revise the epigraph on Crypt 33 to read “St. Finderway, Saint of Lost Travelers," and replace Sir Klutz’s remains with a set of human bones lying beside an *orb of direction* (<span class="citation">Xanathar’s Guide to Everything, p. 138</span>) hanging from a leather cord.
+This row of crypts contains the following:
+
+* ***Crypt 30.*** “Prefect Ciril Romulich (Beloved of King Barov and Queen Ravenovia): High Priest of the Most Holy Order.” A skeleton in red vestments lies atop a marble slab, clutching a golden holy symbol. The domed ceiling is painted to look like a canopy of autumn trees. Dozens of stone ravens perch on a narrow ledge ten feet above the floor. The prefect’s gold holy symbol is worth 750 gp. If touched by an evil creature, it is consumed in a blast of light dealing 11 (2d10) radiant damage to all creatures within 5 feet.
+* ***Crypt 31.*** “We knew him only by his wealth.” This crypt is empty, its walls painted with mountains of gold coins. The floor is actually the cover of a 30-foot-deep spiked pit that opens if 100 pounds or more are placed on it. A human skeleton wrapped in bits of studded leather armor lies amid the spikes at the bottom, along with a shattered lantern, a rusty crowbar, 50 feet of hempen rope, a dagger, a pouch containing 25 pp, and a *spell scroll of magic circle*.
+* ***Crypt 32.*** The door has no name or epitaph. This crypt is empty except for two alcoves in the back wall, above which are carved the words “PASS NOT THESE PORTALS YE FOOLISH MORTALS.” Creatures that enter the eastern alcove are teleported to the eastern alcove of Strahd’s tomb. The western alcove has no effect, but creatures teleporting from the western alcove of Strahd’s tomb appear here.
+* ***Crypt 33.*** Revise the epigraph to read “St. Finderway, Saint of Lost Travelers.” Replace Sir Klutz’s remains with a set of human bones lying beside an *orb of direction* (<span class="citation">Xanathar’s Guide to Everything, p. 138</span>) hanging from a leather cord.
+* ***Crypt 34.*** “King Dostron the Hellborn.” A seven-foot-long gilded sarcophagus with the likeness of a screaming king rests in the center. A stuffed owlbear looms behind it. The sarcophagus is made of beaten lead encased in gold (500 gp worth). Its lid can be pried open to reveal nothing but dust.
 
 In addition, remove the **imp** from Crypt 34, and place the *Spear of the Huntress* inside of the sarcophagus there.
 
 > [!item]+ **Spear of the Huntress**
 > This six-foot shaft of ash wood is adorned with carvings of wild animals, vines, and leaves, and bears a simple, yet sharp stone head. When first recovered from Dostron’s sarcophagus, it has the properties of a *blood spear* (<span class="citation">Blood Spear, p. 221</span>), but its wielder gains only a +1 bonus to attack and damage rolls made with it instead of +2. (The spear was corrupted long ago by the influence of Kavan and the Devourer, and can be restored in [[Arc T - The Three Fanes]] by either communing with the spirit of the Huntress, or reconsecrating the Forest Fane at Yester Hill, which the players can learn about at the Mountain Folk settlement of Soldav in [[Arc R - Trials of the Mountain]].)
 #### South Crypts, Third Row
-This row of crypts is largely as described in <span class="citation">Crypt 35 (p. 92)</span>, <span class="citation">Crypt 36 (p. 92)</span>, <span class="citation">Crypt 37 (p. 92)</span>, <span class="citation">Crypt 38 (p. 92)</span>, <span class="citation">Crypt 39 (p. 93)</span>, and <span class="citation">Crypt 40 (p. 93)</span>. However, the **hell hounds** and General Grislek’s **wraith** do not emerge from Crypt 38 when it is first opened. In addition, Beucephalus cannot be found in Crypt 39 at this time. Finally, move the invisible teleport traps described in <span class="citation">Teleport Traps (p. 85)</span> to the base of the stairs in Strahd’s tomb (see below).
+This row of crypts contains the following:
+
+* ***Crypt 35.*** "Sir Jarnwald the Trickster: The joke was on him." A charnel stench fills this empty crypt. The floor is an illusion hiding a 20-foot-deep pit with polished smooth sides. At the bottom are six starving **ghouls**. A permanent *silence* spell suppresses sound in the pit. The silence and the illusory floor can be dispelled (DC 14 for both). A signet ring worth 25 gp can be found amid the remains at the bottom.
+* ***Crypt 36.*** Claw marks obliterate the name on this crypt’s door. A skeleton draped in rags lies atop a marble slab. This crypt contains nothing of interest.
+* ***Crypt 37.*** "Gralmore Nimblenobs—Wizard Ordinaire." A corpse with a long white beard lies on a marble slab, wearing dusty red robes and clutching a nonmagical wooden staff with a brass knob on one end and a marble knob on the other. Placing the marble-knob end in a shallow recess on the slab causes it to levitate 5 feet, revealing a compartment containing a small, black leather case with three *spell scrolls* (*cone of cold*, *fireball*, and *lightning bolt*). The slab sinks back after 1 minute. Placing the brass-knob end in the recess instead deals 22 (4d10) lightning damage to the holder.
+* ***Crypt 38.*** "General Kroval ’Mad Dog’ Grislek (Master of the Hunt): A leader of hounds and men." The stench of brimstone and burnt fur spills from this crypt. However, the **hell hounds** and General Grislek’s **wraith** do not emerge from Crypt 38 when it is first opened. Bits of incinerated bone lie strewn atop a marble slab, along with fragments of a shattered spear with a silvered head (repairable with *mending*).
+* ***Crypt 39.*** "Beucephalus, the Wonder Horse: May the flowers grow ever brighter where he trods." The door to this crypt is larger than all the others, 6 feet wide by 8 feet tall. However, Beucephalus cannot be found in Crypt 39 at this time.
+* ***Crypt 40.*** See below for the modified contents of this crypt.
+
+Finally, move the invisible teleport traps described in <span class="citation">Teleport Traps (p. 85)</span> to the base of the stairs in Strahd’s tomb (see below).
 
 > [!combat]- **Combat - The Thirty-Fifth Crypt**  
 > **Combat Level**: Bruising
@@ -2116,7 +2632,15 @@ This row of crypts is largely as described in <span class="citation">Crypt 35 (p
 ***Crypt 40.*** Replace the epigraph and contents of Crypt 40 with the epigraph and contents of <span class="citation">Crypt 6 (p. 86)</span>, including the **poison dart trap** protecting it (see <span class="citation">Dungeon Master’s Guide, p. 123</span>). However, reduce the number of darts to two, and replace the darts’ attack rolls with two DC 15 Dexterity saving throws (one per dart). In addition, replace Saint Markovia’s thighbone with the *Icon of Dawn’s Grace* (see below), and remove the whispered message from Saint Markovia’s spirit.
 
 > [!item]+ **Icon of Dawn’s Grace**
-> The *Icon of Dawn’s Grace* is largely as described in <span class="citation">Icon of Ravenloft (p. 222)</span>, but is an eight-inch-tall statuette, and does not grant the benefits of a *protection from evil and good* spell. Instead, it gains the following additional feature, which can be used only by a creature attuned to the icon:
+> The *Icon of Dawn’s Grace* is a statuette made of the purest silver, weighing 10 pounds, depicting a cleric kneeling in supplication. It was given to Strahd by the archpriest Ciril Romulich, an old family friend, to consecrate the castle and its chapel. The icon requires attunement by a creature of good alignment. Only a creature attuned to the icon can use its properties, which are as follows:
+>
+> ***Augury.*** You can use an action to cast an *augury* spell from the icon, with no material components required. Once used, this property can’t be used again until the next dawn.
+>
+> ***Bane of the Undead.*** You can use the icon as a holy symbol while using the Turn Undead or Turn the Unholy feature. If you do so, increase the save DC by 2.
+>
+> ***Cure Wounds.*** While holding the icon, you can take an action to heal one creature that you can see within 30 feet of you. The target regains 3d8 + 3 hit points, unless it is an undead, a construct, or a fiend. Once used, this property can’t be used again until the next dawn.
+>
+> However, the *Icon of Dawn’s Grace* is an eight-inch-tall statuette (rather than twelve inches tall), and does not grant the benefits of a *protection from evil and good* spell. Instead, it gains the following additional feature, which can be used only by a creature attuned to the icon:
 >
 > ***Protection from Evil.*** You can present the icon as an action to grant yourself and each creature within 30 feet of you the effect of a *protection from evil and good* spell against fiends and undead until the start of your next turn. Once used, this property can’t be used again until the next dawn.
 >
@@ -2306,7 +2830,11 @@ This row of crypts is largely as described in <span class="citation">Crypt 35 (p
 ### Strahd’s Tomb
 <span class="citation"><em>This scene takes place in Chapter 4, Area K86.</em></span>
 
-This area is largely as described in <span class="citation">K86. Strahd’s Tomb (p. 93)</span>. However, the teleport traps described in <span class="citation">Teleport Traps (p. 85)</span> form a protective ring around the base of the staircase that descends into the tomb, rather than around the entrance to the tomb. In addition, replace the three vampiric brides buried in the earth near the east wall with three anonymous **vampire spawn** created from ordinary Barovians. 
+A heavy portcullis stands closed in the archway leading to this tomb. Lifting it requires a successful DC 25 Strength check. Black marble steps descend to a dark tomb that has a vaulted ceiling thirty feet overhead. The essence of evil permeates the very air. The smell of freshly turned earth is here. Settled into the dirt on the floor is a shining black coffin of finely waxed wood. The coffin’s fittings are of brilliant brass, and the lid is closed. South of the coffin are three gloomy alcoves. An iron lever protrudes from the north wall, east of the tomb’s entrance.
+
+Raising the lever lifts the portcullis at the top of the stairs. Pulling it down lowers the portcullis. Creatures that enter the western alcove are instantly teleported to the western alcove of Crypt 32. Stepping into the eastern alcove has no effect, but any creature that teleports from the eastern alcove of Crypt 32 appears here. The central alcove is nonmagical.
+
+However, the teleport traps described in <span class="citation">Teleport Traps (p. 85)</span> form a protective ring around the base of the staircase that descends into the tomb, rather than around the entrance to the tomb. In addition, replace the three vampiric brides buried in the earth near the east wall with three anonymous **vampire spawn** created from ordinary Barovians. 
   
 > [!combat]- **Combat - The Tomb of the Darklord**  
 > **Combat Level**: Mild

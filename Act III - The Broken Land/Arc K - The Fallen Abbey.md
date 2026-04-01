@@ -25,7 +25,17 @@ The players’ first journey to Krezk is as described in [[Arc I - The Walls of 
 > 
 > ***Relationships.*** Dmitri, a secret **werewolf**, is the husband of Baroness Anna Krezkova, the brother of the **werewolf** cleric of Mother Night Zuleika Toranescu, the father of Kala and Ilya Krezkov, and the burgomaster of the village of Krezk.
 
-The village of Krezk is as described in <span class="citation">S3. Village of Krezk (p. 145)</span>. Once the players are within the village walls, Baron Krezkov is glad to share any or all of the information provided in <span class="citation">Krezk Lore (p. 146)</span>, but with the following changes:
+The mist-shrouded village beyond the wall is nothing more than a scattering of humble wooden cottages along dirt roads that stretch between stands of snow-dusted pine trees. To the northeast, gray cliffs rise sharply, and the road winding up to the abbey is easy to see from this vantage. The village operates as a commune, with no exports or moneymaking businesses. Villagers grow trees and vegetables, cut wood to heat their homes, raise chickens and pigs, and share their food. The village has no inns or taverns.
+
+Once the players are within the village walls, Baron Krezkov is glad to share any or all of the following information, but with the changes listed below:
+
+* Residents never leave the village for fear of being attacked by wolves, dire wolves, and werewolves.
+* About once a month, a wagonload of wine arrives from the Wizard of Wines, the winery and vineyard to the south, owned and operated by the Martikov family.
+* A pool at the north end of the village provides fresh water throughout the year. Next to the pool, the village's ancestors built a shrine to the Morninglord in a gazebo, known as the Shrine of the White Sun.
+* The Abbey of Saint Markovia is named after a priest of the Morninglord who took a stand against the devil Strahd. After a fierce uprising, Markovia and her most loyal followers stormed Castle Ravenloft, only to be destroyed.
+* The abbey was once a hospital and a convent, but it fell on hard times after the land was swallowed up by the mists.
+
+However, modify this information with the following changes:
 
 * Dmitri's sole two children are the thirteen-year-old Ilya and the eight-year-old Kala. Ilya recently went missing after a werewolf attack.
 * The Abbot doesn't demand tribute in the form of wine. Additionally, while many believe the Abbot is Strahd or one of Strahd's servants, Dmitri's late grandfather once spoke of a time when the Abbot was kind and compassionate, and cared for the sick and suffering of Barovia. (Dmitri isn't sure whether he believes this or not.)
@@ -332,9 +342,9 @@ Dmitri apologizes to the players for concealing this information from them, and 
 > 
 > Ezmerelda, a minor clairvoyant, has also sensed that the spirits within the Abbey are disturbed and restless. Though she hasn’t had a chance to do so yet, she plans to conduct a seance upon her return from the Svalich Wood in the hopes of contacting a spirit with more information about the Abbot and his plans.
 # K2. The Abbey of Saint Markovia
-The road to the Abbey of Saint Markovia is as described in <span class="citation">S5. Winding Road (p. 147)</span>. 
+The switchback road to the Abbey of Saint Markovia hugs the cliff, ten feet wide and covered with loose gravel and chunks of broken rock. The ascent is slow and somewhat treacherous, and the air grows colder as one nears the top. The road climbs 400 feet, doubling back on itself twice before reaching the north gate. 
 ## K2a. Entering the Abbey
-The gate to the Abbey and its occupants are as described in <span class="citation">S6. The North Gate (p. 147)</span>. Before escorting the players into the Abbey, Otto and Zygfrek demand to know why they’ve come. 
+The gravel road to the Abbey passes between two small, stone outbuildings, to either side of which stretches a five-foot-high, three-foot-thick wall of jumbled stones held together with mortar. Iron gates attached to the outbuildings by rusty hinges block the road; they are unlocked but squeal loudly when opened. The gate guards are Otto and Zygfrek Belview, two mongrelfolk who sleep under piles of musty animal furs in the outbuildings and serve as the Abbot’s gravediggers. Before escorting the players into the Abbey, Otto and Zygfrek demand to know why they’ve come. 
 
 > [!profile]+ **Profile: Otto & Zygfrek**
 > ***Roleplaying Information***
@@ -391,7 +401,7 @@ If the players appear disturbed or amused by the Belviews’ condition, Clovin a
 
 If the players ask Clovin about the Vistana described in Madam Eva’s reading, he notes only (and with minor irritation) that the Abbot will answer their questions.
 ## K2b. Main Hall
-This area is largely as described in <span class="citation">S13. Main Hall (p. 150)</span>. However, there is no music if Clovin is guiding the players. Additionally, Vasilka is a **flesh golem** with an Intelligence of 17, a Charisma of 8, proficiencies in Religion and Nature, and the ability to speak and understand Common and Celestial.
+The ground floor of the north wing is one large, fifty-foot-square room with arched, leaded glass windows. A cauldron sits on an iron rack above a fire in a hearth, while above the fireplace mantel hangs a golden disk engraved with the symbol of the sun. In one corner, a wooden staircase climbs to the upper level, while in another corner a stone staircase descends into darkness. Several chairs surround a wooden table that stretches nearly the length of the room, with wooden dishware and gold candelabras neatly arranged upon it. Standing behind the table is a young woman with alabaster skin dressed in a torn and soiled red gown, her auburn hair neatly bundled so as not to touch her soft shoulders. She seems lost in her own thoughts. If the Abbot is present, a handsome young man in a brown monk's robe gently takes the woman by her hand, a painted wooden holy symbol depicting the sun hanging from a chain around his neck. However, there is no music if Clovin is guiding the players. Additionally, Vasilka is a **flesh golem** with an Intelligence of 17, a Charisma of 8, proficiencies in Religion and Nature, and the ability to speak and understand Common and Celestial.
 
 > [!profile]+ **Profile: The Abbot**
 > **Roleplaying Information**
@@ -523,7 +533,7 @@ As Clovin guides a sobbing, unresisting Marzena into the courtyard, the Abbot ap
 * Cyrus is—or was—the patriarch of the Belview clan until recently. Marzena, his grand-niece, held him in particularly high esteem.
 * All of the Belviews seek perfection, as their ancestors did. “Cyrus," the Abbot says softly, “has proceeded to the next stage in his journey. It is difficult, however, for the other Belviews to hear that they have been left behind. I prefer not to discuss it, for it upsets them deeply, and to no meaningful end." (The Abbot declines to discuss Cyrus further, noting his belief that “idle gossip" is a dull and poisonous disease.)
 ## K2c. The East Wing
-The Abbot guides the players to the doorway of the foyer of the East Wing, which is as described in <span class="citation">S14. Foyer (p. 151)</span>. As he opens the door, the **flesh golem** is waiting for them. Read:
+The Abbot guides the players to the doorway of the foyer of the East Wing. The room was once an office, as evidenced by the remains of a desk and a chair, both smashed to pieces. A hallway to the south leads to a staircase going up, while a dark passage to the east is full of unnatural whispers, mad laughter, and bestial odors. As the Abbot opens the door, the **flesh golem** is waiting for them. Read:
 
 <div class="description">
 <p>Just beyond the doorframe stands a towering figure exceeding seven feet in height, its shoulders broad and hulking. A patchwork of skin—varying in color, texture, and age—covers its body, crudely sewn together with thick, dark thread that zigzags across its form like a cartographer's nightmare. Muscles bulge unnaturally, as if overstuffed, and you can see places where the stitching has pulled tight, the skin almost tearing from the tension.</p>

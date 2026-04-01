@@ -640,7 +640,7 @@ If, after he has finished his story, the players ask Kasimir why he lied about h
 ## R4b. The Druids’ Vengeance
 The journey from the dusk elf encampment to the Raven River Crossroads is four and one-quarter miles and takes one hour and twenty-five minutes.
 
-This area is largely as described in <span class="citation">R. Raven River Crossroads (p. 40)</span>. However, the crossroads now hides three poisoned spiked pit traps (<span class="citation">Dungeon Master’s Guide, p. 122</span>), concealed as described in <span class="citation">False Trail (p. 30)</span>. A player with a passive Wisdom (Perception) score of 15 or greater or who succeeds on a DC 15 Wisdom (Perception) check spots the pit traps.
+This area has the following features: Always check for a random encounter whenever the characters reach area R. This stretch of the Old Svalich Road has multiple branches. One branch heads north, quickly turning into a dirt path that leads to Van Richten's Tower on Lake Baratok (area V). One branch heads south, becoming Tsolenka Pass (area T) as it winds through the lower mountains and clings to the side of Mount Ghakis. A third branch heads west toward the Wizard of Wines winery and vineyard (area W), dipping south as it changes from a road into a gravel trail. Standing at the intersection of the Old Svalich Road and the road to the winery is a signpost: You see a weatherworn signpost next to the road. The three arms of the sign point along the three branches of the road. The arm pointing north reads KREZK, and through the woods you can see an arching stone bridge spanning a river. The arm pointing east reads VALLAKI, and the road slopes up gradually in that direction. The arm pointing southwest reads THE W1zARD OF W1NES. The road slopes gently downward in that direction. However, the crossroads now hides three poisoned spiked pit traps (<span class="citation">Dungeon Master’s Guide, p. 122</span>), concealed as described in <span class="citation">False Trail (p. 30)</span>. A player with a passive Wisdom (Perception) score of 15 or greater or who succeeds on a DC 15 Wisdom (Perception) check spots the pit traps.
 
 Together, the pit traps form a diagonal across the road that runs from the start of the path to Lake Baratok (lake path) to the start of the trail to Mt. Ghakis (mountain trail). A 2-foot-wide catwalk between each pit trap provides safe passage between them.
 
@@ -947,7 +947,15 @@ In combat, the wolves fight in pairs, hoping to use their ***pack tactics*** in 
 ## R4e. The Gatehouse
 The journey from the crevasse to the gatehouse is one and three-quarter miles long. It takes one hour and ten minutes if the players are traveling the day after the blizzard (due to the high snow banks), and two hours if the players are traveling during the blizzard.
 
-The players’ arrival at the gatehouse is largely as described in <span class="citation">T1. Gatehouse Portcullis (p. 157)</span>, <span class="citation">T2. Demon Statues (p. 157)</span>, and <span class="citation">T3. Curtain of Green Flame (p. 157)</span>. However, add the following sentence to the end of the description of <span class="citation">T1. Gatehouse Portcullis (p. 157)</span>:
+The players’ arrival at the gatehouse has the following description:
+
+<div class="description">
+<p>The shelf of rock on which the mountain road clings grows narrow. To your left, the icy cliffs rise sharply toward dark, rolling clouds. To your right, the ground falls away into a sea of fog. Ahead, through the wind and snow, you see a high wall of black stone lined with spikes and topped by statues of demonic vultures with horned heads. Set in the center of the wall is a closed iron port cullis, behind which burns a curtain of green flame. On the other side of the dark wall, gripping the moun tain's edge, is a guard tower of white stone topped by golden statues of mighty warriors. The gatehouse is 30 feet high.</p>
+</div>
+
+The adjoining walls are 20 feet high and lined with stone spikes_ If the charac ters circumvent the gate by flying or climbing over it, the statues on the gatehouse (area T2) animate and attack. THE ROAD CURVED AND CLIMBED, MAKING a lengthy switchback into this edge of Mount Ghakis. The air grew colder, not warmer, and patches of snow became more frequent until they were unbroken. · - : '. : ·._ -Strahd van Zarovich I . in I, Sti'ahct: TheMem?ir/ of a Y°OJnPire , . . 1• i , ' - ... :--	:·· If the characters approach within 10 feet of the port cullis, it shrieks with the sound of metal on metal as it rises on its own. It stays open for 1 minute, then closes. These statues are actually two petrified vrocks. If they are attacked, or if the characters bypass the gatehouse, the vrocks revert to flesh and attack, pursuing prey that flees and fighting until slain. A curtain of green flame fills the eastern archway of the gatehouse. Any creature that enters the curtain for the first time on a turn or starts its turn in the green flame takes 33 (6d10) fire damage. A successful casting of dispel magic (DC 16) sup presses the curtain for 1 minute. The curtain is also suppressed within an antimagic field.
+
+However, add the following sentence to the end of the description of <span class="citation">T1. Gatehouse Portcullis (p. 157)</span>:
 
 <div class="description">
 <p>The tower perches upon the lip of an overhanging cliff, which juts out across the churning fog far below.</p>
@@ -969,7 +977,13 @@ In addition, increase the number of petrified vrocks to four. (If present, Kasim
 
 A player who thinks to present the *amulet of knight’s passage* while within 30 feet of the portcullis can suppress the curtain of flame for 1 minute, as described in [[Arc M - The Dragon's Manor#Argynvost’s Study|Arc M - The Dragon's Manor]].
 
-The guard tower of the gatehouse is as described in <span class="citation">T4. Guard Tower, Ground Floor (p. 157)</span>, <span class="citation">T5. Guard Tower, Upper Floor (p. 159)</span>, and <span class="citation">T6. Guard Tower Rooftop (p. 159)</span>.
+The guard tower of the gatehouse has the following description:
+
+<div class="description">
+<p>The tower door is made of ironbound wood and barred from within.</p>
+</div>
+
+A character can force open the door with a successful DC 22 Strength (Athletics) check. N*s Side-View /-··. • .,,,,.> The tower door is made of ironbound wood and barred from within. A character can force open the door with a successful DC 22 Strength (Athletics) check. N*s Side-View /-··. • .,,,,.> as well as a stone bridge (areas T7-T9) that spans the Luna River. Wind and snow make the journey treacherous. Without some way to keep warm, characters who aren't dressed for cold weather suffer the effects of extreme cold at night (see "Weather" in chapter 5, "Adventure Environments," of the Dungeon Master's Guide).
 ## R4f. The Tyrant’s Second Trial
 No matter where the players choose to rest, the blizzard comes to an end shortly after they begin their long rest. Read:
 
@@ -1211,7 +1225,7 @@ When the players awaken the following morning, the weather is crisp and cold, wi
 > [!info]+ **Traveling to the Gatehouse**
 > If the players chose to find shelter instead of proceeding toward the gatehouse the previous night, the journey from their place of shelter to the gatehouse is two-and-three-quarter miles long and takes one hour and fifty minutes. 
 > 
-> The players’ arrival at the gatehouse is largely as described in <span class="citation">T1. Gatehouse Portcullis (p. 157)</span>, <span class="citation">T2. Demon Statues (p. 157)</span>, and <span class="citation">T3. Curtain of Green Flame (p. 157)</span>. However, add the following sentence to the end of the description of <span class="citation">T1. Gatehouse Portcullis (p. 157)</span>:
+> The players’ arrival at the gatehouse is as follows: The shelf of rock on which the mountain road clings grows narrow. To your left, the icy cliffs rise sharply toward dark, rolling clouds. To your right, the ground falls away into a sea of fog. Ahead, through the wind and snow, you see a high wall of black stone lined with spikes and topped by statues of demonic vultures with horned heads. Set in the center of the wall is a closed iron port cullis, behind which burns a curtain of green flame. However, add the following sentence to the end of the description of <span class="citation">T1. Gatehouse Portcullis (p. 157)</span>:
 >
 > <hr>
 > 
@@ -1223,9 +1237,17 @@ When the players awaken the following morning, the weather is crisp and cold, wi
 > 
 > A player who thinks to present the *amulet of knight’s passage* while within 30 feet of the portcullis can suppress the curtain of flame for 1 minute, as described in [[Arc M - The Dragon's Manor#Argynvost’s Study|Arc M - The Dragon's Manor]].
 > 
-> The guard tower of the gatehouse is as described in <span class="citation">T4. Guard Tower, Ground Floor (p. 157)</span>, <span class="citation">T4. Guard Tower, Upper Floor (p. 159)</span>, and <span class="citation">T6. Guard Tower Rooftop (p. 159)</span>.
+> The guard tower of the gatehouse is as follows: The tower door is made of ironbound wood and barred from within. A character can force open the door with a successful DC 22 Strength (Athletics) check. N*s Side-View /-··. • .,,,,.> The tower door is made of ironbound wood and barred from within. A character can force open the door with a successful DC 22 Strength (Athletics) check. N*s Side-View /-··. • .,,,,.> as well as a stone bridge (areas T7-T9) that spans the Luna River. Wind and snow make the journey treacherous.
 
-The bridge beyond the gatehouse is largely as described in <span class="citation">T7. Western Arch (p. 159)</span>, <span class="citation">T8. Stone Bridge (p. 159)</span>, and <span class="citation">T9. Eastern Arch (p. 159)</span>. However, remove the description of the black-cloaked rider from the text of <span class="citation">T8. Stone Bridge (p. 159)</span>.
+The bridge beyond the gatehouse has the following description:
+
+<div class="description">
+<p>The snowy pass comes to a gorge spanned by a stone bridge. At each end of the bridge is a thirty-foot-tall, thir ty-foot-wide stone arch. Atop each one are two statues of armored knights on horseback with lances, charging toward one another. The wind bites and howls like wolves as it passes through the gorge. The western arch contains empty guard posts, one on each side of the bridge. These 10-foot-wide chambers provide some protection against the howling wind. that spans the Luna River. Wind and snow make the journey treacherous. Without some way to keep warm, characters who aren't dressed for cold weather suffer the effects of extreme cold at night (see "Weather" in chapter 5, "Adventure Environments," of the Dungeon Master's Guide). One of the statues atop this arch has crumbled, leaving only the hindquarters of the horse intact. The mountain pass continues beyond. This arch contains IO-foot-square guard posts, one on each side of the bridge: Both rooms are empty. Beyond this arch, Tsolenka Pass hugs the mountain side for three miles before.branching north and south. The northern branch leads to the Amber Temple (chap ter 13).</p>
+</div>
+
+The southern branch continues to wrap around Mount Ghakis until it ends at the deadly fog that sur rounds Barovia (see chapter 2, "Mists of Ravenloft"). statistics, with the following modifications:
+
+However, remove the description of the black-cloaked rider from the text of <span class="citation">T8. Stone Bridge (p. 159)</span>.
 
 As the players depart the bridge, read:
 
@@ -2444,7 +2466,7 @@ When the players are ready to depart, Diegia and her family wish them farewell. 
 ## R6a. Sangzor's Test
 Upon departing Soldav, Kasimir can guide the players to the hidden trail that leads from the plateau to the Amber Temple.
 
-This hidden path is largely as described in <span class="citation">Bloodhorn's Charge (p. 160)</span>. However, three miles down the path, the players automatically notice Sangzor on a crag above them. 
+This hidden path has the following features: l As the characters make their 'way_along Tsolenka Pass, they encounter a beast thatthe druids and berserkers bf Barovia call Sangzor ("Bloodh6q.n1:): .', : . .,. - ' The road ahead is cut out of the mountainside, rising steeply to one side and falling away on the other. Mist and snow greatly reduce visibility, and the howling wind cuts through you like a knife. If no character has a passive Wisdom (Perception) score of 16 or higher, the party is surprised. However, three miles down the path, the players automatically notice Sangzor on a crag above them. 
 
 Modify Sangzor's stats as follows:
 
@@ -2465,6 +2487,12 @@ If Sangzor determines that a player intends to seek the power of the vestiges of
 
 If Sangzor does not detect any intent to seek the vestiges' power in the players' hearts, it bows its head as a show of respect, then turns to depart, soon vanishing into the snow and mist.
 ## R6b. The Amber Temple
-Past Sangzor's crag, the narrow road continues another half-mile before passing between two tall, looming cliffs. As the players pass between the cliffs, they arrive at the Amber Temple, whose exterior is as described in <span class="citation">X1. Temple Facade (p. 183)</span>. The players then begin [[Arc S - A Sword of Sunlight]].
+Past Sangzor's crag, the narrow road continues another half-mile before passing between two tall, looming cliffs. As the players pass between the cliffs, they arrive at the Amber Temple, whose exterior has the following description:
+
+<div class="description">
+<p>The road fades away under a covering of snow, but it takes you far enough to see the facade of some kind of temple carved into the sheer mountainside ahead. The front of the structure is fifty feet high and has six alcoves containing twenty-foot-tall statues.</p>
+</div>
+
+A snow-swept gravel road climbs the mountainside as it travels north from Tsolenka Pass toward the temple. Each statue is carved from a single block of amber and depicts a faceless, hooded figure, its hands pressed together in a gesture of prayer. Between the two innermost statues is a twenty foot-tall archway with a staircase leading down. The amber statues are impervious to damage. Looking at one for long fills a viewer with unease. The players then begin [[Arc S - A Sword of Sunlight]].
 
 ***Milestone.*** Reaching the Amber Temple achieves a story milestone. When the players arrive outside the Amber Temple, award each player 5,000 XP.

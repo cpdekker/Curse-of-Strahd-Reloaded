@@ -20,7 +20,15 @@ Players who escape Castle Ravenloft via the teleportation brazier in <span class
 ***Ruins of Berez.*** If the players teleport to Marina's Monument in Berez, they can take shelter in <span class="citation">U2. Ulrich Mansion (p. 162)</span> or <span class="citation">U4. Churchyard (p. 164)</span>, their arrival hidden by the thick fog that clings to the swamp.
 
 > [!abstract]+ **Ruins of Berez**
-> Should the players attempt to explore the other structures within Berez, those ruins are largely as described in <span class="citation">U1. Abandoned Cottages (p. 162)</span>, <span class="citation">U4. Churchyard (p. 164)</span>, and <span class="citation">U5. Marina's Monument (p. 164)</span>. However, the abandoned cottages house four witches as detailed below, Lazlo Ulrich's ghost does not appear in the Ulrich mansion, and Baba Lysaga's goat pen is as described in [[Arc I - The Walls of Krezk#I4c. The Scrying Spell|I4c. The Scrying Spell]].
+> Should the players attempt to explore the other structures within Berez, those ruins are largely as described below:
+>
+> **U1. Abandoned Cottages.** A cluster of ruined cottages separated by low stone walls stands along a short stretch of dirt road that has remained intact. The cottages contain rotted furnishings and nothing of value. The walls that separate the cottages are 3 feet tall and easily scaled or circumvented.
+>
+> **U4. Churchyard.** Through the fog stands the empty shell of an old stone church, north of which is a cemetery of leaning gravestones enclosed by a disintegrating iron fence. Half of the cemetery has sunk into the mire. Rotted coffins and moldy bones are buried in the graveyard. Characters who explore the gutted church find the rotten remains of a pulpit and an old iron bell half immersed in the marsh, lying amid the remains of a collapsed steeple.
+>
+> **U5. Marina's Monument.** Hidden by the fog and elevated a few feet above the surrounding marsh is a raised plot of land, barely ten feet on a side, enclosed by a disintegrating iron fence. In the center of the plot is a life-sized stone monument carved in the likeness of a kneeling peasant girl clutching a rose. Although her features are gray and weatherworn, she bears a striking resemblance to Ireena Kolyana. Carved into the monument's base is an epitaph that reads: "Marina, Taken by the Mists."
+>
+> However, the abandoned cottages house four witches as detailed below, Lazlo Ulrich's ghost does not appear in the Ulrich mansion, and Baba Lysaga's goat pen is as described in [[Arc I - The Walls of Krezk#I4c. The Scrying Spell|I4c. The Scrying Spell]].
 
 If the players attempt to take shelter in <span class="citation">U1. Abandoned Cottages (p. 162)</span>, they are attacked by two **Barovian hexwitches** and two **Barovian bogwitches**, who are as described in [[Arc P - Ravenloft Heist#P9c. Cauldron Room|Arc P - Ravenloft Heist]]. The tumult attracts the attention of the seven **scarecrows** standing guard in the marsh, which arrive three rounds after combat begins.
 
@@ -1157,7 +1165,7 @@ The players may then provide Vladimir with any good reason to accept Argynvost�
 </div>
 
 > [!info]+ **Vladimir’s Greatsword**
-> Players who later investigate Vladimir’s remains can recover his greatsword and holy symbol, which are as described in <span class="citation">Q36. Dragon’s Audience Hall (p. 138)</span>.
+> Players who later investigate Vladimir’s remains can recover his *+2 greatsword* and his platinum holy symbol of the Morninglord (worth 250 gp), which he wears around his neck underneath his half plate armor.
 
 As Vladimir dies, any remaining **phantom warriors** haunting Argynvostholt or its cemetery dissolve into mist, and any character cursed by Vladimir’s ***oathbind*** feature is freed from its constraints. In addition, the spirits of any **revenants** of the Order of the Silver Dragon are freed from the corpses they inhabit, including Sir Godfrey Gwilym. Read:
 

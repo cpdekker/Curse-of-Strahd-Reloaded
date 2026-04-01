@@ -231,11 +231,14 @@ One hour after nightfall, the majority of the werewolf pack departs the den. Rea
 > 
 > When leaving Barovia, Kiril takes only the long-time members of the pack with him to hunt, leaving his four bloodthirsty lackeys behind to supervise and protect the den. Kiril doesn't allow the long-time members of the pack to eat everything they hunt, and has threatened to dismember or kill them if they dare touch anything more than the scraps he leaves behind.
 
-As the players approach, the exterior of the den is largely as described in <span class="citation">Approaching the Den (p. 201)</span>. However, add the following text to the end of that description:
+As the players approach, read:
 
 <div class="description">
+<p>Above the tree line, carved into the side of a rocky mountain spur, is a wide cave that looks like the gaping maw of a great wolf.</p>
 <p>An enormous beast's carcass lies crookedly across the bottom of the cliff beside the cave's mouth—an enormous elk, easily as tall as two men standing atop each other's shoulders. Much of the flesh has been stripped from its bones, and its entire throat has been ripped away.</p>
 </div>
+
+One hundred feet above the cave mouth, farther up the sloping mountainside and not visible from the cave mouth or its vicinity, is a rocky ledge (<span class="citation">Z8. Ring of Stone, p. 205</span>). A character can scale the slope to reach the ledge without the need for a climber's kit or ability checks.
 
 A successful DC 12 Wisdom (Medicine) check reveals that the elk's throat was torn away by a single massive set of jaws, easily large enough to devour a humanoid's torso whole.
 
@@ -244,7 +247,7 @@ A successful DC 12 Wisdom (Medicine) check reveals that the elk's throat was tor
 ## L4a. Cave Mouth & Guard Post
 <span class="citation"><em>This area corresponds to Z1. Cave Mouth (p. 203) and Z2. Guard Post (p. 203).</em></span>
 
-This area is largely as described in <span class="citation">Z1. Cave Mouth (p. 203)</span> and <span class="citation">Z2. Guard Post (p. 203)</span>. However, revise the description of this area to read as follows:
+When the players enter the cave mouth, read:
 
 <div class="description">
 <p>The open jaws of the wolf's head form a fifteen-foot-high canopy of rock over the cave mouth, held up by natural pillars of rock. The ceiling rises to a height of twenty feet inside the cave. Small clusters of amber light dot the walls, casting a faint glow across the cavern floor.</p>
@@ -268,9 +271,15 @@ Replace the wolves' ***bite*** attack with the following action options:
 ## L4b. Underground Spring
 <span class="citation"><em>This area corresponds to Z4. Underground Spring (p. 203).</em></span>
 
-This area is largely as described in <span class="citation">Z4. Underground Spring (p. 203)</span>. However, the area is lit by yellow clumps of fungus, not torches.
+When the players enter this area, read:
 
-Additionally, if the players linger or delve deeper into this chamber, read:
+<div class="description">
+<p>A gash in the rocky ceiling allows the gray light and cold drizzle of the outdoors to seep into this dank cave, where an underground spring forms a pool of water roughly forty feet across and ten feet deep. A five-foot-high ledge to the north overlooks the pool. A similar ledge spans the eastern wall, with a rough-hewn staircase leading up to it. A few crates sit atop the eastern ledge.</p>
+</div>
+
+The area is lit by yellow clumps of fungus, not torches. The water is fresh. The ceiling is roughly 20 feet above the surface of the pool. The fissure in the ceiling is 3 feet wide at its widest point, and 6 inches at its narrowest. The crates on the eastern ledge contain heaps of adult-sized clothing.
+
+If the players linger or delve deeper into this chamber, read:
 
 <div class="description">
 <p>A soft ripple runs across the surface of the dark pool.</p>
@@ -283,9 +292,10 @@ A creature that approaches the pool sees its reflection distorted. Instead of it
 ## L4c. Wolf Den
 <span class="citation"><em>This area corresponds to Z3. Wolf Den (p. 203).</em></span>
 
-This area is largely as described in <span class="citation">Z3. Wolf Den (p. 203)</span>. However, add the following text to the end of the area’s description:
+When the players enter this area, read:
 
 <div class="description">
+<p>A five-foot-high stone ledge overlooks this large cave, which has a smoldering campfire at the far west end. The floor is covered with gnawed bones.</p>
 <p>An old, scrawny wolf lies curled up by the fire, its head turned away from you.</p>
 </div>
 
@@ -318,7 +328,13 @@ Skennis’s howl alerts Ilya and Zuleika in [[#L4e. Shrine of Mother Night]], th
 ## L4d. Deep Caves
 <span class="citation"><em>This area corresponds to Z5. Deep Caves (p. 203).</em></span>
 
-This area is largely as described in <span class="citation">Z5. Deep Caves (p. 203)</span>. However, replace the word “torchlit" in the description with “yellow-lit." In addition, players who pass through this area can see flickering torchlight emanating from <span class="citation">Z7. Shrine of Mother Night (p. 204)</span>.
+When the players enter this area, read:
+
+<div class=”description”>
+<p>A maze of yellow-lit tunnels and caves expands in front of you. Bones lie strewn upon the floor.</p>
+</div>
+
+The ceiling here is 10 feet high. The bones on the floor are a warning system. They crunch loudly underfoot, and creatures have disadvantage on Dexterity (Stealth) checks made to move silently through this area. Players who pass through this area can see flickering torchlight emanating from <span class=”citation”>Z7. Shrine of Mother Night (p. 204)</span>.
 
 Bianca, Wensencia, and Kellen are not present when the players arrive. Instead, <span class="citation">Z5a. South Cave (p. 203)</span> is occupied by two slumbering **werewolf brawlers** in wolf form named Kobal Mironovich and Radovan Lipsiege, while <span class="citation">Z5b. North Cave (p. 203)</span> is occupied by six alert **wolves** loyal to Strahd and Kiril.
 
@@ -386,7 +402,7 @@ To sneak through this area without disturbing the wolves, the players must succe
 ## L4e. Shrine of Mother Night
 <span class="citation"><em>This area corresponds to Z7. Shrine of Mother Night (p. 204).</em></span>
 
-This area is largely as described in <span class="citation">Z7. Shrine of Mother Night</span>. However, there is no torch or luminescent fungi in or adjoining the chamber’s southern alcove. Additionally, revise the area's description to read as follows:
+There is no torch or luminescent fungi in or adjoining the chamber’s southern alcove. When the players enter this area, read:
 
 <div class="description">
 <p>Rough-hewn stairs lead down to a torchlit cave. From a small crack in the chamber ceiling, a shaft of moonlight illuminates a crude wooden statue standing against the far wall, bearing the rough likeness of a wolf-headed woman draped in garlands of vines and night flowers. Around its neck hangs a gleaming platinum medallion in the shape of a sunburst, a large ruby set in its center, and mounds of gold, silver, and gemstones are piled high around its base. Behind the statue, two maggot-ridden corpses hang from iron shackles bolted to the wall. Gold coins have been driven into the empty sockets where their eyes should be.</p>

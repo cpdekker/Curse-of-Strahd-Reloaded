@@ -24,7 +24,11 @@ Can the players defeat Volenta's plan and restore the church's protection? Or wi
 # D1. St. Andral's Church
 <span class="citation"><em>This scene takes place in Chapter 5: Area N1.</em></span>
 
-The church is largely as described in <span class="citation">N1. St. Andral's Church (p. 97)</span>.
+This slouching, centuries-old stone church has a bulging steeple in the back and walls lined with cracked, stained glass windows depicting pious saints. A fence of wrought iron encloses a garden of gravestones next to the church, where a thin mist creeps among the graves.
+
+The church is dedicated to the Morninglord and named after St. Andral, whose bones once rested under the altar. Father Lucian Petrovich (LG male human **priest**) oversees the church and does his best to raise spirits. Assisting him is an orphan and altar boy named Yeska (LG male human noncombatant). A brawny lad with a perpetually furrowed brow named Milivoj tends the grounds and digs graves.
+
+At night, the church is packed with 2d6 + 6 frightened Vallakian adults (LG male and female human **commoners**) and 2d6 equally terrified Vallakian children (LG male and female human noncombatants). Father Lucian offers his nightly congregation his prayers and the promise of St. Andral's protection.
 
 The church's occupants follow the following schedule unless interrupted:
 
@@ -152,7 +156,7 @@ While accompanying the party, Father Lucian fights alongside them, but allows th
 
 The fresh boards and nails were delivered by Henrik. The opening is barely wide enough to allow one person to enter, and descends into the crypt.
 
-The crypt is as described in <span class="citation">Bones of St. Andral (p. 97)</span>, lying largely beneath the chapel's altar. If a player enters the crypt, read:
+The crypt lies largely beneath the chapel's altar. If a player enters the crypt, read:
 
 <div class="description">
 <p>You descend into a small, dark, damp chamber, the walls made of rough-hewn stone blocks stained with age and moisture. At the center stands a lonely stone slab, an empty, circular depression carved neatly into its surface.</p>
@@ -253,7 +257,9 @@ If the players suggest reporting the theft of the bones to the burgomaster, Fath
 # D3. Arasek Stockyard
 <span class="citation"><em>This scene takes place in Chapter 5: Area N5.</em></span>
 
-Arasek Stockyard is largely as described in <span class="citation">N5. Arasek Stockyard (p. 115)</span>. However, while Rictavio's wagon is mostly covered by old and faded paint, the Carnival of Wonders sign on its side is brand new and fresh-painted.
+This large stockyard has several locked sheds along its periphery and lies adjacent to a roomy warehouse. A wooden sign above the front gate reads "Arasek Stockyard." The stockyard is a general store and a facility where storage sheds can be rented, owned by a middle-aged married couple, Gunther and Yelena Arasek (LG male and female **commoners**). They sell items from the Adventuring Gear table in the Player's Handbook that have a price of 25 gp or less, but at five times the price.
+
+Parked at the south end of the stockyard is a sturdy carnival wagon, its colorful paint mostly covered by old and faded layers. However, the "Rictavio's Carnival of Wonders" sign on its side is brand new and fresh-painted. A heavy padlock secures the back door.
 
 If one of the players expresses an interest in breaking into the wagon, [[Non-Player Characters#Father Lucian Petrovich|Father Lucian]] discourages them from doing so if he is present.
 
@@ -263,7 +269,20 @@ If the players successfully break the door to the wagon or pick its padlock, the
 # D4. Coffin Maker's Shop
 <span class="citation"><em>This scene takes place in Chapter 5: Area N6.</em></span>
 
-The coffin maker's shop is largely as described in <span class="citation">N6. Coffin Maker's Shop (p. 116)</span>. However, the crates in <span class="citation">N6f. Vampire Nest (p. 118)</span> have been replaced by three coffins packed with grave dirt from Castle Ravenloft, which contain two **vampire spawn** and **Volenta Popofsky**, one of Strahd's vampiric brides. In addition, players who explore <span class="citation">N6f. Vampire Nest (p. 118)</span> find a faded green-tinged pentagram 5 feet in diameter burned onto the floor at the edge of the room, just beyond the vampires' coffins.
+This uninviting, two-story shop has a sign shaped like a coffin above the front door. All of the window shutters are closed up tight, and a deathly silence surrounds the establishment. Every window is a latticework of iron fitted with squares of frosted glass and locked from the inside, and the outside doors are barred shut from within.
+
+Henrik van der Voort (LE male human **commoner**) is a mediocre carpenter and a troubled, lonely man. He profits from the deaths of others, and no one desires his company because of the ghastly nature of his handiwork.
+
+The shop contains the following areas:
+
+- **N6a. Coffin Storage.** Arranged haphazardly about the floor of this musty, L-shaped room are thirteen empty wooden coffins.
+- **N6b. Junk Room.** A table with four chairs sits in one corner of this room, with a lantern hanging from a chain directly above. Two cabinets against the east wall are packed with worthless items Henrik has collected over the years.
+- **N6c. Workshop.** This workshop contains everything a carpenter needs to make coffins and furniture, with three sturdy worktables stretching the length of the west wall.
+- **N6d. Kitchen.** This kitchen contains a square table surrounded by chairs and shelves of provisions.
+- **N6e. Henrik's Bedroom.** This modest bedchamber holds a cot and several well-made pieces of furniture, including a table, a padded chair, a bookshelf, and a wardrobe. The wardrobe in the southeast corner has a secret compartment in its base, requiring a successful DC 15 Wisdom (Perception) check to find. Inside the compartment are two sacks—a large one containing the bones of St. Andral and a small one containing 30 sp and 12 ep.
+- **N6f. Vampire Nest.** This large, drafty room is strung with cobwebs and takes up most of the upper floor. Stacks of wooden planks lie amid several crates marked "JUNK." The two southernmost crates contain old junk that Henrik has accumulated over the years.
+
+However, the remaining crates in **N6f** have been replaced by three coffins packed with grave dirt from Castle Ravenloft, which contain two **vampire spawn** and **Volenta Popofsky**, one of Strahd's vampiric brides. In addition, players who explore **N6f** find a faded green-tinged pentagram 5 feet in diameter burned onto the floor at the edge of the room, just beyond the vampires' coffins.
 
 > [!lore]+ **The Burned Pentagram**
 > The green pentagram is a remnant of Volenta's use of the teleportation brazier in <span class="citation">K78. Brazier Room (p. 82)</span>. If asked, Henrik doesn't know what it signifies. However, he can share with the players that, one night shortly after he first met Volenta, a sickly green light flashed through the shop, with her two **vampire spawn** companions exiting from  <span class="citation">N6f. Vampire Nest (p. 118)</span> shortly thereafter.
@@ -521,7 +540,7 @@ Rahadin next rides to the Blue Water Inn or wherever else the players can be fou
 
 Shortly after Rahadin leaves, a red-faced, sobbing Yeska approaches the players and pleads with them to quickly come to the town square. Milivoj, he tells them, has been taken prisoner by the town guard, and is set to be executed. (Father Lucian, who has already gone to the town square to call for clemency, sent Yeska to find and summon the players when Milivoj was taken from the church grounds.)
 ## D6b. The Trial
-When the players arrive in the town square, which is largely as described in <span class="citation">N8. Town Square (p. 119)</span>, they find a small crowd of onlookers has gathered around the platform holding the empty stocks. Atop the platform stands Rahadin, flanked by two pale-faced Vallakian **guards**. One of the guards is bending down and arguing with Father Lucian, who stands at the base of the platform.
+When the players arrive in the town square—where the shops and homes enclosing the square are decorated with limp, tattered garlands and painted wooden boxes filled with tiny, dead flowers, and a crumbling stone fountain topped with a gray statue of an impressive man stands at the center—they find a small crowd of onlookers has gathered around the platform holding the empty stocks. Atop the platform stands Rahadin, flanked by two pale-faced Vallakian **guards**. One of the guards is bending down and arguing with Father Lucian, who stands at the base of the platform.
 
 On either side of Rahadin kneel Milivoj and Henrik van der Voort, their legs and feet bound with rope. Henrik is weeping with fear, while Milivoj is staring vacantly at the ground. Not far away, Milivoj's sobbing seven younger siblings, described further in [[#D2. Milivoj’s House]], struggle to ascend the platform stairs to reach him as a third **guard** blocks their path.
 
