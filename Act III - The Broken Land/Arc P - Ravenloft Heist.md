@@ -1,18 +1,18 @@
 *An adventure for five 7th-level characters.*
 
-In this arc, while Strahd is away from the keep, the players must infiltrate Castle Ravenloft to recover several prisoners and precious objects, including the **werewolf** Emil Toranescu, Doru’s betrothed Gertruda, the skull of Argynvost, the *Icon of Dawn's Grace*, and the long-lost *spear of the Huntress*. To do so, they must bypass the castle guards, navigate Ravenloft’s twisting corridors, and defeat Strahd’s consorts, servants, and other minions.
+In this arc, while Strahd is away from the keep, the players must infiltrate [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]] to recover several prisoners and precious objects, including the **werewolf** Emil Toranescu, Doru’s betrothed Gertruda, the skull of Argynvost, the *Icon of Dawn's Grace*, and the long-lost *spear of the Huntress*. To do so, they must bypass the castle guards, navigate Ravenloft’s twisting corridors, and defeat Strahd’s consorts, servants, and other minions.
 
-As they work to enter the castle, they’ll need to avoid the attentions of the **wights** patrolling the castle parapets. Through the main entrance, a team of **gargoyles** lies in wait as the vampire Ludmilla Vilisevic lurks nearby. In the servants’ wing, a pair of **vampire spawn** lurk amidst the darkness, with the castle’s ancient elevator trap not far away. In the king’s apartments above, the vampire Anastrasya Karelova keeps Gertruda under lock and key with the aid of four **wight** guards—and in the treasury nearby, an **invisible stalker** defends Strahd’s most precious riches.
+As they work to enter the castle, they’ll need to avoid the attentions of the **wights** patrolling the castle parapets. Through the main entrance, a team of **gargoyles** lies in wait as the vampire [[Non-Player Characters/Castle Ravenloft/Ludmilla Vilisevic|Ludmilla]] Vilisevic lurks nearby. In the servants’ wing, a pair of **vampire spawn** lurk amidst the darkness, with the castle’s ancient elevator trap not far away. In the king’s apartments above, the vampire [[Non-Player Characters/Castle Ravenloft/Anastrasya Karelova|Anastrasya]] Karelova keeps Gertruda under lock and key with the aid of four **wight** guards—and in the treasury nearby, an **invisible stalker** defends Strahd’s most precious riches.
 
-Far above the rest of the castle, Strahd’s **guardian portrait** watches over the silent landing outside the guest suite, while the witches’ coven prepares a noxious brew to create heralds of Strahd’s forthcoming zombie plague.  In the garrisons, an undead army quietly awaits its master’s orders. In the dungeons far below, the vampire **Volenta Popofsky** and her foul **zombies** guard Emil’s place in the castle’s black cells, while, in the catacombs, the *Icon of Dawn's Grace* and *spear of the Huntress* dwell in the crypts of Saint Markovia and King Dostron the Hellborn. 
+Far above the rest of the castle, Strahd’s **guardian portrait** watches over the silent landing outside the guest suite, while the witches’ coven prepares a noxious brew to create heralds of Strahd’s forthcoming zombie plague.  In the garrisons, an undead army quietly awaits its master’s orders. In the dungeons far below, the vampire **[[Non-Player Characters/Castle Ravenloft/Volenta Popofsky|Volenta]] Popofsky** and her foul **zombies** guard Emil’s place in the castle’s black cells, while, in the catacombs, the *Icon of Dawn's Grace* and *spear of the Huntress* dwell in the crypts of Saint Markovia and King Dostron the Hellborn. 
 
-And in the shadows, Strahd’s chamberlain Rahadin sits and meditates, preparing himself for his sacrifice on the day of the Grand Conjunction . . . 
+And in the shadows, Strahd’s chamberlain [[Non-Player Characters/Castle Ravenloft/Rahadin|Rahadin]] sits and meditates, preparing himself for his sacrifice on the day of the Grand Conjunction . . . 
 
 > [!warning]+ **Vampire Spawn and Grappling** 
 > To avoid vampire spawn getting trapped in place due to player abilities that slow movement, all vampire spawn in Barovia have the following ability: **Fast Grappler**. The vampire spawn does not have to spend extra movement to move a creature grappled by it if the grappled creature is the same size or smaller.
 
 # P1. Preparing for the Heist
-Upon returning to their chosen settlement at the conclusion of [[Arc O - Dinner with the Devil]], the players can make any plans and preparations they would like in advance of the heist. As they do, if the players don’t suggest it first, Ezmerelda and Ireena might make any or all of the following suggestions:
+Upon returning to their chosen settlement at the conclusion of [[Arc O - Dinner with the Devil]], the players can make any plans and preparations they would like in advance of the heist. As they do, if the players don’t suggest it first, [[Non-Player Characters/Abbey of St. Markovia/Ezmerelda dAvenir|Ezmerelda]] and [[Non-Player Characters/Village of Barovia/Ireena Kolyana|Ireena]] might make any or all of the following suggestions:
 
 * The players can use the *Keeper’s whistle* they obtained at the conclusion of [[Arc J - The Stolen Gem#J7b. Returning the Gem|Arc J - the Stolen Gem]] to request the assistance of the Keepers of the Feather in scouting out the grounds, distracting castle guards, and/or delivering messages to any NPC whose help the players might seek.
 * The players might ask Doru or Rudolph van Richten for a rough map of the castle to guide them. (See **Mapping the Castle** below for details.)
@@ -84,7 +84,7 @@ Upon returning to their chosen settlement at the conclusion of [[Arc O - Dinner 
 > **Muriel Vinshaw (Any).** Muriel is reluctant to venture into Ravenloft due to Davian’s orders and her grief over Elric’s death, though she is more than happy to meet the players with several **swarms of ravens** to assist their efforts to enter the castle. However, a player who promises Muriel an opportunity to obtain justice for Elric and succeeds on a DC 20 Charisma (Persuasion) check can convince her to join the party in the castle as well.
 # P2. The Old Svalich Road
 ## P2a. Approaching the Crossroads
-The journey from Vallaki to the castle crossroads is eight-and-a-half miles long and takes two hours and fifty minutes. As they travel, the players pass Old Bonegrinder and the western the Gates of Barovia.
+The journey from [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]] to the castle crossroads is eight-and-a-half miles long and takes two hours and fifty minutes. As they travel, the players pass [[Act II - The Shadowed Town/Arc H - The Lost Soul|Old Bonegrinder]] and the western the Gates of Barovia.
 
 Alternatively, if the players are traveling from Barovia, the journey is ten and one-half miles long and takes three hours and thirty minutes. As they travel, the players cross the River Ivlis, pass through the River Ivlis crossroads, pass the watchtower described in [[Act I - Into the Mists/Arc C - Into the Valley#C6. The Watchtower|Arc C - Into the Valley]], and cross the bridge at Tser Falls.
 
@@ -101,7 +101,7 @@ This encounter begins as described in Vistani bandits. However, as the Vistani c
 
 The old man is Stanimir, described further in [[Act I - Into the Mists/Arc C - Into the Valley#C4a. Arrival at Tser Pool|Arc C - Into the Valley]]. The two Vistani walking beside Stanimir are named Radu and Elisabeta, and have been passing the time by telling increasingly horrifying and macabre (or comedically outrageous) ghost stories.
 
-If he spots the players, he recognizes them and greets them warmly. He doesn’t inquire into their business and reassures them, with a twinkle in his eye, that it’s a “fine night for a stroll amidst the woods." If asked why he’s traveling the road, Stanimir shares that Madam Eva has commissioned him to deliver a token of esteem to the new burgomaster of Vallaki, Lady Fiona Wachter, as a gesture of friendship in recognition of her new office. 
+If he spots the players, he recognizes them and greets them warmly. He doesn’t inquire into their business and reassures them, with a twinkle in his eye, that it’s a “fine night for a stroll amidst the woods." If asked why he’s traveling the road, Stanimir shares that [[Non-Player Characters/Tser Pool Encampment/Madam Eva|Madam Eva]] has commissioned him to deliver a token of esteem to the new burgomaster of Vallaki, Lady [[Non-Player Characters/Town of Vallaki/Lady Fiona Wachter|Fiona Wachter]], as a gesture of friendship in recognition of her new office. 
 
 If asked to share Madam Eva’s “token," Stanimir removes a bead pouch from his cloak and allows the players to peek inside, revealing a flat, round stone crest engraved with the image of a three-pointed star. (A player who received the [[Character Creation#Harmony—The Stone Crest|stone crest]] during character creation recognizes the stone as near-identical to their own.) Stanimir knows nothing of the stone’s importance to the Ladies of the Fanes, but can share that, according to Madam Eva, the three points of the star represent foresight, resilience, and courage.
 
@@ -178,7 +178,7 @@ The players might use any of the following methods to gain access to the inner k
 The players might use any of the following methods to distract the **wights** patrolling the area above the drawbridge:
 
 * Magical illusions (e.g., *major image*), obfuscation (e.g., *fog cloud*), or invisibility.
-* Distracting decoys (e.g., **swarms of ravens** directed by Muriel, or the *find familiar* spell)
+* Distracting decoys (e.g., **swarms of ravens** directed by [[Non-Player Characters/Town of Vallaki/Muriel Vinshaw|Muriel]], or the *find familiar* spell)
 * Any other reasonable method (e.g., waiting until both wights are facing away from the drawbridge)
 # P3. Castle Grounds
 > [!abstract]+ **Varushka’s Gratitude**
@@ -369,11 +369,11 @@ Shortly after the players first enter this area, the *major image* abruptly chan
 > 
 > If the players neither enter  the dining hall nor ascend the south tower stair, and instead ascend the grand landing, Ludmilla hears them coming and creates a blood trail to lure them through the audience hall into the guards’ post, through the king’s hall onto the king’s balcony, and down the creaky landing into the chapel. 
 
-***The Second Visit.*** The second time the players enter this area (e.g., after investigating the the dining hall, they find a thick carpet of fog has covered its entire floor. They also find Ludmilla Vilisevic standing at the center of the great entry, waiting for them.
+***The Second Visit.*** The second time the players enter this area (e.g., after investigating the the dining hall, they find a thick carpet of fog has covered its entire floor. They also find [[Non-Player Characters/Castle Ravenloft/Ludmilla Vilisevic|Ludmilla]] Vilisevic standing at the center of the great entry, waiting for them.
 
 Ludmilla greets the players coldly and notes her regrets that the guards upon the walls evidently could not keep “troglodytes" such as them outside of the keep. She proceeds to attempt to provoke the players into attacking her, preferring to focus her insults and provocations upon melee-oriented players most likely to lose their tempers. (Ludmilla might threaten characters the player holds dear, impugn their principles or sense of honor, or imply that they are weak or otherwise incapable.)
 
-If no player rises to meet the bait, Ludmilla sneers at the players for believing they could match "Baba Lysaga's eldest and greatest student" (herself), and concludes that she will be pleased to bring their “cold, unmoving" remains to “Count von Zarovich"—*after* she’s dissected them herself. She then moves to attack.
+If no player rises to meet the bait, Ludmilla sneers at the players for believing they could match "[[Non-Player Characters/Berez/Baba Lysaga|Baba Lysaga]]'s eldest and greatest student" (herself), and concludes that she will be pleased to bring their “cold, unmoving" remains to “Count von Zarovich"—*after* she’s dissected them herself. She then moves to attack.
 
 > [!combat]- **Combat - The Witch**  
 > **Combat Level**: Mild (first phase), Mild (second phase)
@@ -397,7 +397,7 @@ Ludmilla always uses her bonus action to cast *darkness* on her first turn in co
 
 If Ludmilla isn’t hidden from the target, her attempt to take the *Holy Symbol of Ravenkind* automatically fails. Otherwise, the symbol’s wielder must make a DC 18 Dexterity saving throw to prevent Ludmilla from removing it.
 
-Whether Ludmilla successfully steals the symbol or not, she then retreats up the grand landing and releases concentration on her *darkness* spell. If she has taken the symbol, she taunts the players with an invitation to "come take it back." She then crosses the audience hall into the guards’ post, and passes through the king’s hall onto the king’s balcony before descending into the chapel. (Following her encounter with the players at Yester Hill, Ludmilla is happy to allow the **gargoyles** in the Great Entry to dispatch or weaken them before confronting them herself.)
+Whether Ludmilla successfully steals the symbol or not, she then retreats up the grand landing and releases concentration on her *darkness* spell. If she has taken the symbol, she taunts the players with an invitation to "come take it back." She then crosses the audience hall into the guards’ post, and passes through the king’s hall onto the king’s balcony before descending into the chapel. (Following her encounter with the players at [[Act III - The Broken Land/Arc J - The Stolen Gem|Yester Hill]], Ludmilla is happy to allow the **gargoyles** in the Great Entry to dispatch or weaken them before confronting them herself.)
 
 > [!warning]+ **Opportunity Attacks in Darkness**
 > Because creatures can take opportunity attacks only against targets they can see, a character blinded by Ludmilla’s *darkness* can’t make opportunity attacks against her while she’s attempting to steal the *Holy Symbol of Ravenkind*.
@@ -661,7 +661,7 @@ When the players enter the south chapel access, read:
 
 The statues are harmless. The vast chamber to the east is the chapel. The staircase to the west leads to the high tower staircase (area K18).
 
-Additionally, if the players encountered Ludmilla in [[#Main Foyer]], add the following sentence to the end of the chapel's description:
+Additionally, if the players encountered [[Non-Player Characters/Castle Ravenloft/Ludmilla Vilisevic|Ludmilla]] in [[#Main Foyer]], add the following sentence to the end of the chapel's description:
 
 <div class="description">
 <p>A thin cloud of fog shrouds the chapel floor.</p>
@@ -725,7 +725,7 @@ When the players enter this area, read:
 <p>At the far southern end of the hall, a large wooden throne stands atop a marble dais. The high-backed throne faces south, away from most of the room.</p>
 </div>
 
-A secret door in the south wall leads to a turrets post access hall (area K13). It is hidden by dust and cobwebs, and requires a successful DC 16 Wisdom (Perception) check to find. Both staircases in the north wall lead down to the grand landing. The eastern double doors can be pulled open to reveal the guards’ post (area K26) beyond. The single door in the east wall opens into the [[#Accountant’s Office]]. However, if Ludmilla has passed through here, the doors leading to the king’s hall are slightly ajar.
+A secret door in the south wall leads to a turrets post access hall (area K13). It is hidden by dust and cobwebs, and requires a successful DC 16 Wisdom (Perception) check to find. Both staircases in the north wall lead down to the grand landing. The eastern double doors can be pulled open to reveal the guards’ post (area K26) beyond. The single door in the east wall opens into the [[#Accountant’s Office]]. However, if [[Non-Player Characters/Castle Ravenloft/Ludmilla Vilisevic|Ludmilla]] has passed through here, the doors leading to the king’s hall are slightly ajar.
 
 > [!info]+ **Secret Door**
 > Players who find and enter the secret door behind the throne exit the castle commons and enter [[#P10. Garrison]] via [[Arc P - Ravenloft Heist#Second Floor South Archers’ Post Access Hall|Second Floor South Archers’ Post Access Hall]].
@@ -759,7 +759,7 @@ If treated with kindness and allowed to ramble regarding Strahd’s assorted ric
 <p>"If only Count Strahd would let me properly tabulate the items he’s added to the old treasury over the years," Lief grumbles. “Too many trinkets and baubles, all layered in dust. No ledger entries, no tallies, and he expects the numbers to match!" The old wight scratches his chin, grunting. “At least the old girl keeps an eye on them, bless her heart. A dreadful business when she was alive, though. A right shame."</p>
 </div>
 
-Lief then continues to ramble. If stopped and further questioned regarding “the old girl" he mentioned, Lief pauses to remember, then recalls aloud that she was “the red-haired woman." If Ireena is present, he jabs a withered finger in her direction and adds, “Like her." (Though he doesn’t remember her name or what happened to her, Lief is referring to the portrait of Tatyana Federovna.) 
+Lief then continues to ramble. If stopped and further questioned regarding “the old girl" he mentioned, Lief pauses to remember, then recalls aloud that she was “the red-haired woman." If [[Non-Player Characters/Village of Barovia/Ireena Kolyana|Ireena]] is present, he jabs a withered finger in her direction and adds, “Like her." (Though he doesn’t remember her name or what happened to her, Lief is referring to the portrait of Tatyana Federovna.) 
 
 If asked how to access the “old treasury," Lief is willing to help the players only if they first promise to fully tabulate and log the items found therein, and to avoid taking any for themselves. (“Count Strahd always finds out," he wheezes, wagging a bony finger at them.) Players who intend to steal from the treasury can convince Lief of their good faith by succeeding on a DC 12 Charisma (Deception) check. If they do, Lief abashedly admits that he doesn’t recall the proper way to enter, but does remember that it involved “poking" something in the third-floor study. (Lief doesn’t remember it, but he’s referring to the poker mechanism by the fireplace in Strahd's study.
 ### King’s Hall
@@ -790,7 +790,7 @@ A player can find the secret door described in the king’s hall behind the tape
 > [!info]+ **Shaft Door**
 > Players who find and enter the secret door behind the tapestry exit the castle commons and enter [[#P5. Servants’ Wing]] via [[#Second-Floor Elevator Access]].
 # P5. Servants’ Wing
-This area of the castle, including the servants’ entrance, the servants’ quarters on the first and second floor, the castle elevator shaft, and the servants’ hall, wine cellar, and kitchen in the basement, once served as the main hub of servant activity in the castle. From here, Rahadin or the castle butler oversaw castle operations or dispatched servants to the far corners of the keep, including the royal apartments, the guest suite, or the guards’ garrison.
+This area of the castle, including the servants’ entrance, the servants’ quarters on the first and second floor, the castle elevator shaft, and the servants’ hall, wine cellar, and kitchen in the basement, once served as the main hub of servant activity in the castle. From here, [[Non-Player Characters/Castle Ravenloft/Rahadin|Rahadin]] or the castle butler oversaw castle operations or dispatched servants to the far corners of the keep, including the royal apartments, the guest suite, or the guards’ garrison.
 ## P5a. Servants’ Wing, First Floor
 ### Servants’ Entrance
 <span class="citation"><em>This scene takes place in Chapter 4, Area K23.</em></span>
@@ -1115,7 +1115,7 @@ The back wall of the fireplace contains a secret door, which is opened by liftin
 
 The real treasure here is Strahd's collection of books—over one thousand unique tomes in all. The collection is worth 80,000 gp.
 
-In addition, a player who inspects the portrait of Tatyana notices that she is wearing a silver bracelet carved with an intricate pattern of the moon and stars, with a moonstone gem embedded at the center of the moon and multiple lapis-lazuli serving as the stars. A player who has previously seen Ireena’s bracelet in [[Act I - Into the Mists/Arc B - Welcome to Barovia#B5j. Lugdana's Knoll|Arc B - Welcome to Barovia]] recognizes it as the same bracelet.
+In addition, a player who inspects the portrait of Tatyana notices that she is wearing a silver bracelet carved with an intricate pattern of the moon and stars, with a moonstone gem embedded at the center of the moon and multiple lapis-lazuli serving as the stars. A player who has previously seen [[Non-Player Characters/Village of Barovia/Ireena Kolyana|Ireena]]’s bracelet in [[Act I - Into the Mists/Arc B - Welcome to Barovia#B5j. Lugdana's Knoll|Arc B - Welcome to Barovia]] recognizes it as the same bracelet.
 
 If present, Ireena is disturbed at the sight of the portrait and its clear resemblance to her, and voices her disbelief and discomfort at the thought that Strahd would commission a portrait of her. A player who succeeds on a DC 10 Intelligence (Investigation) check discerns that the portrait is centuries old. If informed of this fact, Ireena’s discomfort lessens, though she becomes stressed and disturbed at the prospect of this strange woman’s resemblance to her—especially if the players suggest she might be this woman’s reincarnation.
 
@@ -1192,12 +1192,12 @@ Gertruda is surprised to see the players, and fearful that they’re “another 
 
 If asked, Gertruda can share the following information:
 
-* Just over two weeks ago, she set off down the Old Svalich Road to obtain supplies for Barovia from Vallaki. Fearful that her mother would object, and unwilling to trouble Ireena and Ismark so soon after their father’s death, she did so alone, slipping out of the house when her mother, Mary, wasn’t looking.
+* Just over two weeks ago, she set off down the Old Svalich Road to obtain supplies for Barovia from [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]]. Fearful that her mother would object, and unwilling to trouble [[Non-Player Characters/Village of Barovia/Ireena Kolyana|Ireena]] and [[Non-Player Characters/Village of Barovia/Ismark Kolyanovich|Ismark]] so soon after their father’s death, she did so alone, slipping out of the house when her mother, Mary, wasn’t looking.
 * Gertruda, however, never made it to Vallaki. As she made her way through the Svalich Woods, Strahd’s black carriage came upon her—and the Devil himself stepped out. Terrified, but unwilling to show fear, Gertruda politely demanded Strahd allow supplies to be delivered to Barovia so that the villagers could rebuild. 
-* Strahd appeared amused by Gertruda’s courage and invited her to Castle Ravenloft to “discuss reparations further." Realizing that this was an invitation she couldn’t refuse, Gertruda reluctantly agreed to accompany him.
-* Since then, Gertruda has remained an “honored guest" in the castle, though it’s become clear that Strahd has no intention of allowing her to leave her chambers—much less the keep itself. She’s had few visitors aside from Sasha, whose company she’s been grateful for, and Volenta, whose company she fears. (Although Strahd hasn’t allowed any of his spawn to feed from Gertruda yet, Volenta has taken a sadistic pleasure in chatting about when that day will inevitably arrive.)
+* Strahd appeared amused by Gertruda’s courage and invited her to [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]] to “discuss reparations further." Realizing that this was an invitation she couldn’t refuse, Gertruda reluctantly agreed to accompany him.
+* Since then, Gertruda has remained an “honored guest" in the castle, though it’s become clear that Strahd has no intention of allowing her to leave her chambers—much less the keep itself. She’s had few visitors aside from Sasha, whose company she’s been grateful for, and [[Non-Player Characters/Castle Ravenloft/Volenta Popofsky|Volenta]], whose company she fears. (Although Strahd hasn’t allowed any of his spawn to feed from Gertruda yet, Volenta has taken a sadistic pleasure in chatting about when that day will inevitably arrive.)
 
-Gertruda is surprised that the players met with no resistance from Anastrasya Karelova, the **vampire spawn** that Strahd has assigned to guard her chambers. She informs the players fearfully that she and they must flee “before Anastrasya finds you here."
+Gertruda is surprised that the players met with no resistance from [[Non-Player Characters/Castle Ravenloft/Anastrasya Karelova|Anastrasya]] Karelova, the **vampire spawn** that Strahd has assigned to guard her chambers. She informs the players fearfully that she and they must flee “before Anastrasya finds you here."
 #### Anastrasya’s Confrontation
 As the players first move to depart the bedchamber with Gertruda, **Anastrasya Karelova** enters the study from the door leading to the [[#Hall of Heroes]], flanked by two **wights**. 
 
@@ -1256,7 +1256,7 @@ The two wights in the secret passage emerge on their first turns in combat, atta
 
 In her first phase, Anastrasya attempts to keep her distance from the players while attacking with her ***flying sword***, retreating toward [[#Hall of Heroes]] and the [[#King’s Landing]] if approached. If forced into her second phase, Anastrasya is enraged by the reveal of her true, grotesque form, and attacks the characters responsible with a vengeance. (While in her second form, Anastrasya prefers to grapple her prey using her ***unarmed strike***, then fly her chosen victim into the open air beside [[#King’s Landing]] before feeding upon them in midair with her ***bite***. If she reduces a character to 0 hit points in this way, she tosses their unconscious body onto [[#King’s Landing]] to feed on later.)
 
-As with Ludmilla, Anastrasya fights to the death, unwilling to face Strahd’s wrath should she fail.
+As with [[Non-Player Characters/Castle Ravenloft/Ludmilla Vilisevic|Ludmilla]], Anastrasya fights to the death, unwilling to face Strahd’s wrath should she fail.
 
 <div class="statblock">
 <h2>Anastrasya, Vampire Socialite</h2>
@@ -1571,7 +1571,7 @@ On initiative count 20 of the second round of combat after the **guardian portra
 
 The cat is the familiar of a **Barovian witch** in [[#P9. Coven’s Quarters]], and disappears up the stairs on initiative count 20 of the following round. Unless the players kill, capture, or otherwise stop it, it goes to warn its mistress in [[#P9c. Cauldron Room]] of the players’ presence. (If killed, the cat vanishes as described in the *find familiar* spell.)
 
-Shortly after combat ends, the door to the lounge cracks open, and a pale, anxious-looking face peers out. (A player with a passive Wisdom (Perception) score of 14 or greater recognizes the face as Escher’s.) Upon noticing the players, Escher then immediately slams the door shut again.
+Shortly after combat ends, the door to the lounge cracks open, and a pale, anxious-looking face peers out. (A player with a passive Wisdom (Perception) score of 14 or greater recognizes the face as [[Non-Player Characters/Castle Ravenloft/Escher|Escher]]’s.) Upon noticing the players, Escher then immediately slams the door shut again.
 ## P8b. Guest Suite
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K49, 50 & 51.</em></span>
 
@@ -1587,7 +1587,7 @@ The guest room contains a large bed with a black canopy trimmed with gold tassel
 
 The closet is a small, wood-paneled room that reeks of mildew. Iron hooks line the walls, and a dusty black cloak hangs from one hook in the center of the south wall. The cloak is ordinary.
 
-Modify this area’s description depending on Escher’s location, which is as follows:
+Modify this area’s description depending on [[Non-Player Characters/Castle Ravenloft/Escher|Escher]]’s location, which is as follows:
 
 * If he saw the players in the portrait of Strahd landing after they fought the **guardian portrait** and **rug of smothering** in [[#P8a. Guest Landing]], Escher attempts to conceal himself in the closet while waiting for the players to leave.
 * Otherwise, Escher is lounging on the couch in the lounge.
@@ -1600,7 +1600,7 @@ If attacked, Escher hurls himself out the window and lands like a cat on the roo
 
 ***Reassuring Escher.*** If reassured that the players mean him no harm, Escher looks abashed, then grows sullen and irate. He demands to know why the players have “come traipsing through the Master’s castle," but almost immediately changes his mind and insists that he “has no interest in their games."
 
-As the conversation unfolds, if Ireena is present, a player with a passive Wisdom (Insight) score of 14 or more notices that Escher appears to be studiously refusing to meet her gaze. A successful subsequent DC 14 Wisdom (Insight) check reveals that Escher appears to flinch and quickly look away whenever he notices Ireena’s eyes meet his own. 
+As the conversation unfolds, if [[Non-Player Characters/Village of Barovia/Ireena Kolyana|Ireena]] is present, a player with a passive Wisdom (Insight) score of 14 or more notices that Escher appears to be studiously refusing to meet her gaze. A successful subsequent DC 14 Wisdom (Insight) check reveals that Escher appears to flinch and quickly look away whenever he notices Ireena’s eyes meet his own. 
 
 Players who invoke Escher’s former relationship to the village of Barovia and succeed on a DC 15 Charisma (Persuasion) check can convince him to share the information contained in **What Escher Knows** below. A player makes the check with advantage if they blame Escher aloud for Strahd’s awakening and Strahd’s subsequent hunt for Ireena, Gertruda’s imprisonment, or Doru’s vampirism, and succeeds automatically if Doru is present. On a failure, Escher politely declines to assist the players, insisting that he cannot betray “Count von Zarovich’s secrets" on pain of death.
 
@@ -1633,7 +1633,7 @@ Players who invoke Escher’s former relationship to the village of Barovia and 
 > 
 > As they leave, a player with a passive Wisdom (Insight) score of 14 or greater notices that Escher’s shoulders are trembling with silent sobs.
 # P9. Coven’s Quarters
-This area lies at the peak of Castle Ravenloft’s South Tower, once nicknamed the “General’s Tower" for the contents of its highest floor. Before Strahd became a vampire, the familiar room was a guard post responsible for manning and supplying the tower roof, the element room was a map room and armory, and the cauldron room hosted the living quarters of General Kroval “Mad Dog" Grislek, whose remains now lie in Crypt 38.
+This area lies at the peak of [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]]’s South Tower, once nicknamed the “General’s Tower" for the contents of its highest floor. Before Strahd became a vampire, the familiar room was a guard post responsible for manning and supplying the tower roof, the element room was a map room and armory, and the cauldron room hosted the living quarters of General Kroval “Mad Dog" Grislek, whose remains now lie in Crypt 38.
 ## P9a. Familiar Room
 <span class="citation"><em>This scene takes place in Chapter 4, Area K54.</em></span>
 
@@ -1712,7 +1712,7 @@ The witches present are two **Barovian hexwitches** wearing bone earrings, two *
 > | Barovian Stormwich | 2 | 1 | 3 | 3 | 
 
 
-If the players didn’t attract her to [[#Main Foyer]], Ludmilla Vilisevic is also present alongside the witches’ coven. (See [[#Main Foyer]] for her statistics.) If combat breaks out, Ludmilla prefers to lure any enemy combatants up the offstair toward the tower roof, where she can more easily use the open-air battlefield to her advantage.
+If the players didn’t attract her to [[#Main Foyer]], [[Non-Player Characters/Castle Ravenloft/Ludmilla Vilisevic|Ludmilla]] Vilisevic is also present alongside the witches’ coven. (See [[#Main Foyer]] for her statistics.) If combat breaks out, Ludmilla prefers to lure any enemy combatants up the offstair toward the tower roof, where she can more easily use the open-air battlefield to her advantage.
 
 > [!item]+ **Potion of Poison Immunity**
 > A *potion of poison immunity* has the properties of a *potion of poison resistance*, but grants immunity rather than resistance.
@@ -1746,7 +1746,7 @@ This area of the castle once hosted the barracks and common areas of the castle 
 
 This area is desecrated ground. Dark stains cover the floor. Large oak tables, scarred and beaten, lie scattered like toys about the room, their wood crushed and splintered. Replacing them are furnishings made entirely of human bones. The walls and the twenty-foot-high vaulted ceiling are a sickly yellow color, adorned with bones and skulls arranged in a morbidly decorative fashion, giving the room a cathedral-like quality. Four enormous mounds of bones occupy the corners of this ossuary, and garlands of skulls extend from these mounds to a chandelier of bones that hangs from the ceiling above a long table constructed of bones in the center of the room. Ten chairs made of bones and festooned with decorative skulls surround the table, resting atop which is an ornate, bowl-shaped vessel made of yet more bones. The doors to the north and south are sheathed in bone, but the steel-banded double doors in the center of the east wall are not. Above these eastern doors is mounted the skull of a dragon.
 
-The dragon skull mounted above the eastern doors belonged to Argynvost, a silver dragon that was killed in the valley by Strahd and his army before the founding of Castle Ravenloft. The skull weighs 250 pounds. The bones and skulls in the room are held together with gray mortar and white paste. The dark stains on the floor are old bloodstains.
+The dragon skull mounted above the eastern doors belonged to Argynvost, a silver dragon that was killed in the valley by Strahd and his army before the founding of [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]]. The skull weighs 250 pounds. The bones and skulls in the room are held together with gray mortar and white paste. The dark stains on the floor are old bloodstains.
 
 If Argynvost’s skull is removed from its mount, a **skeleton** crawls from each of the four mounds of bones at the corners of the room. The skeletons attack living creatures on sight.
 
@@ -1809,7 +1809,7 @@ A loose flagstone in the southeast alcove covers a hidden cubbyhole in the floor
 ### Chamberlain’s Office
 <span class="citation"><em>This scene takes place in Chapter 4, Area K72.</em></span>
 
-This shadowy room is in perfect order. A great table stands here with its chair, inkwell, and quill set carefully in place. Lances, swords, and shields that bear the Barovian crest are hung neatly on the dark, oak-paneled walls. A secret door is set into the north end of the west wall. It can be pulled open to reveal a dusty, web-choked staircase of ancient, worn stone (area K79) that descends into darkness. However, Rahadin and the **shadow demon** are not present in this room.
+This shadowy room is in perfect order. A great table stands here with its chair, inkwell, and quill set carefully in place. Lances, swords, and shields that bear the Barovian crest are hung neatly on the dark, oak-paneled walls. A secret door is set into the north end of the west wall. It can be pulled open to reveal a dusty, web-choked staircase of ancient, worn stone (area K79) that descends into darkness. However, [[Non-Player Characters/Castle Ravenloft/Rahadin|Rahadin]] and the **shadow demon** are not present in this room.
 
 In addition, a player who investigates Rahadin’s desk finds an unsealed parchment letter sitting upon it. It reads:
 
@@ -1836,7 +1836,7 @@ This long, narrow corridor runs east to west. Cobwebs fill the hall, obstructing
 
 The castle courtyard is visible through arrow slits in the walls. In the archers’ post, leaning against the walls are mirrors of various sizes, some as tall as a human and others small enough to fit in a backpack. The framed mirrors (seventeen in all) used to hang on various walls of the castle; Strahd had them taken down and stored here. Each arrow slit is 2½ feet tall and 4 inches wide. The adjoining turret post features a high, domed ceiling capping a thirty-foot-wide octagonal room, with frescoes faded with age adorning the ceiling, their images impossible to make out. However, a single **shadow** dwells here.
 
-This **shadow**, which understands Common but can’t speak it, is the remnant of a spirit that died in the castle long ago. If permitted to do so, it shyly attempts to follow the players throughout Castle Ravenloft, though it hides itself among nearby furniture or architecture if confronted or attacked. If this occurs, a player can coax it back from hiding with a successful DC 10 Charisma (Persuasion) check.
+This **shadow**, which understands Common but can’t speak it, is the remnant of a spirit that died in the castle long ago. If permitted to do so, it shyly attempts to follow the players throughout [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]], though it hides itself among nearby furniture or architecture if confronted or attacked. If this occurs, a player can coax it back from hiding with a successful DC 10 Charisma (Persuasion) check.
 
 The shadow is lonely and longs for the company of others—including, particularly, its friend, another **shadow** lost elsewhere in the castle. Though it won’t fight on the players’ behalf, players who ask and succeed on a DC 15 Charisma (Persuasion) check can convince the shadow to use its ***amorphous*** feature to investigate adjacent rooms for danger while using its ***shadow stealth*** feature to remain concealed. The check succeeds automatically if the players agree to help the shadow reunite with its friend.
 
@@ -1858,7 +1858,7 @@ This long, narrow corridor runs east to west. Cobwebs fill the hall, obstructing
 
 If opened, the cocoon contains Pidlwick II, who is as described in Pidlwick II, a small carved wooden effigy of a jester brought to life through dark magic. Pidlwick II is grateful to the characters for rescuing him, and attempts to assist them as described in Pidlwick II, a small carved wooden effigy of a jester brought to life through dark magic. It otherwise acts as described in Pidlwick II, a small carved wooden effigy of a jester brought to life through dark magic.
 
-If the players are kind toward Pidlwick II and succeed on a DC 12 Charisma (Persuasion) check, they can convince it to depart the castle with them to meet the toymaker Gadof Blinsky.
+If the players are kind toward Pidlwick II and succeed on a DC 12 Charisma (Persuasion) check, they can convince it to depart the castle with them to meet the toymaker Gadof [[Non-Player Characters/Town of Vallaki/Gadof Blinsky|Blinsky]].
 
 > [!abstract]+ **Blinsky & Pidlwick II**
 > If brought to Blinsky Toys, Pidlwick II is content to be poked, prodded, and generally inspected at Blinsky’s whims. If permitted to remain in the shop for three full days, Pidlwick II agrees to be the official Blinsky Toys mascot in exchange for the freedom to wander about the town.
@@ -1971,7 +1971,7 @@ A mosaic floor adds a touch of color to the otherwise dark, cold, empty tower. A
  > [!info]+ **The Sliver of Darkness**
 > The sliver of darkness is the vestige of the Devourer, the fourth sister of the three Ladies of the Fanes. Once known as the Dreamer, she grew envious of the love the First Folk bore for her sisters and forsook her place among them, becoming the Devourer. 
 >
-> The Ladies—the Seeker, the Weaver, and the Huntress—mournfully struck their youngest sister down to protect the people of the valley. The Devourer’s corpse became the Whispering Wall at Yester Hill, but a god cannot fully die. Many years later, the wizards of the Amber Temple came upon the Devourer’s divine spark and sealed it in an amber sarcophagus at the Amber Temple.
+> The Ladies—the Seeker, the Weaver, and the Huntress—mournfully struck their youngest sister down to protect the people of the valley. The Devourer’s corpse became the Whispering Wall at [[Act III - The Broken Land/Arc J - The Stolen Gem|Yester Hill]], but a god cannot fully die. Many years later, the wizards of the [[Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight|Amber Temple]] came upon the Devourer’s divine spark and sealed it in an amber sarcophagus at the Amber Temple.
 >
 > The Devourer was a master of the magic of souls—and so when Strahd first learned of the Grand Conjunction, he realized he could use her knowledge to construct his scheme to escape the Mists. He extracted the vestige of the Devourer from her amber prison in the breached vault of the Amber Temple and forcefully resealed her in the Heart of Sorrow, where he could call upon her power and knowledge at will. 
 >
@@ -2088,7 +2088,7 @@ The cells contain the following:
 
 However, Emil doesn’t lie to players who tell him that Zuleika sent them, and is surprised, but grateful for their efforts to rescue him. No matter what, Emil doesn’t betray the players to Strahd or Strahd’s minions, and provides his best efforts to assist them in escaping the castle if rescued.
 
-Emil, who has three levels of exhaustion, has been locked in his cell for weeks. He wears a *silverthorn collar* around his neck (see below). If asked, he can share that the key to his collar is held by Volenta or, if Volenta has been killed in [[Arc D - St. Andral's Feast]], Ludmilla. (Emil can share that Ludmilla dwells with her witches’ coven on the highest level of the South Tower, but isn’t sure how to get there from here.)
+Emil, who has three levels of exhaustion, has been locked in his cell for weeks. He wears a *silverthorn collar* around his neck (see below). If asked, he can share that the key to his collar is held by [[Non-Player Characters/Castle Ravenloft/Volenta Popofsky|Volenta]] or, if Volenta has been killed in [[Arc D - St. Andral's Feast]], [[Non-Player Characters/Castle Ravenloft/Ludmilla Vilisevic|Ludmilla]]. (Emil can share that Ludmilla dwells with her witches’ coven on the highest level of the South Tower, but isn’t sure how to get there from here.)
 
 <div class="statblock">
 <h2>Emil Toranescu</h2>
@@ -2168,7 +2168,7 @@ Two large, wooden thrones rest on the observation balcony. Behind the thrones ha
 > [!info]+ **Climbing the Balcony**
 > A successful DC 10 Strength (Athletics) check is required to climb the edge of the observation balcony.
 
-If the players failed to placate Volenta during [[Arc O - Dinner with the Devil#Volenta’s Toy|Arc O - Dinner with the Devil]], the corpse of Anton Konstantinovich has been turned into an additional **zombie** and is seated in the right-side throne of the observation balcony. If combat breaks out, or if any non-undead creatures approach within 5 feet of its throne, this **zombie** attacks and pursues the nearest living creatures within the area.
+If the players failed to placate [[Non-Player Characters/Castle Ravenloft/Volenta Popofsky|Volenta]] during [[Arc O - Dinner with the Devil#Volenta’s Toy|Arc O - Dinner with the Devil]], the corpse of Anton Konstantinovich has been turned into an additional **zombie** and is seated in the right-side throne of the observation balcony. If combat breaks out, or if any non-undead creatures approach within 5 feet of its throne, this **zombie** attacks and pursues the nearest living creatures within the area.
 
 Otherwise, if the players successfully placated Volenta at dinner, Anton Konstaninovich is imprisoned within a rusted, metallic cage hanging above the southwest corner of the chamber. Though he can’t speak due to his missing tongue, Anton attempts to use gestures and grunts to warn the players of the zombies that dwell within the water, and is grateful to players who rescue him.
 
@@ -2218,7 +2218,7 @@ Otherwise, if the players successfully placated Volenta at dinner, Anton Konstan
 > * The right staircase leads to the king’s apartments, where Anton has heard a female prisoner is being kept.
 > * The central staircase leads to the catacombs and crypts. (Anton can share that bats and vampires dwell there.)
 ### Meeting Volenta
-If she is still alive and the players haven’t encountered her yet in the other areas of [[#P11. Dungeons]], Volenta Popofsky is seated on the left throne on the observation balcony, playing with a human skull held in her hand. (The skull belongs to Dezdrelda Konstaninova, Anton’s wife, who Volenta fed to the ghouls after her corpse was drained for blood in [[Arc O - Dinner with the Devil]].)
+If she is still alive and the players haven’t encountered her yet in the other areas of [[#P11. Dungeons]], [[Non-Player Characters/Castle Ravenloft/Volenta Popofsky|Volenta]] Popofsky is seated on the left throne on the observation balcony, playing with a human skull held in her hand. (The skull belongs to Dezdrelda Konstaninova, Anton’s wife, who Volenta fed to the ghouls after her corpse was drained for blood in [[Arc O - Dinner with the Devil]].)
 
 Volenta greets the players with mild surprise and congratulates them on surviving the traps and foes elsewhere in the castle. If the players defeated her or otherwise foiled her plot in [[Arc D - St. Andral's Feast]], she informs them that she’s been relishing the opportunity for a rematch, and directs the **zombies** beneath the water to arise and attack. 
   
@@ -2389,12 +2389,12 @@ Yellow for the mountain keep<br>
 
 The stones’ destinations are as follows:
 
-* Violet leads to Marina’s monument in Berez in Berez.
-* Orange leads to the first floor of Van Richten's Tower in Van Richten’s Tower.
-* Red leads to the Shrine of the White Sun in the pool and shrine in Krezk in Krezk.
-* Green leads to the vampire nest in the Coffin Maker’s Shop in Vallaki.
+* Violet leads to Marina’s monument in [[Act III - The Broken Land/Arc Q - A Shining Beacon|Berez]] in Berez.
+* Orange leads to the first floor of [[Non-Player Characters/Town of Vallaki/Dr. Rudolph van Richten|Van Richten]]'s Tower in Van Richten’s Tower.
+* Red leads to the Shrine of the White Sun in the pool and shrine in [[Act II - The Shadowed Town/Arc I - The Walls of Krezk|Krezk]] in Krezk.
+* Green leads to the vampire nest in the Coffin Maker’s Shop in [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]].
 * Indigo leads to the cemetery in the village of Barovia in the Village of Barovia.
-* Blue leads to the well at the Wizard of Wines near the Wizard of Wines.
+* Blue leads to the well at the [[Act III - The Broken Land/Arc J - The Stolen Gem|Wizard of Wines]] near the Wizard of Wines.
 * Yellow leads to the guard tower at Tsolenka Pass in the guard tower at Tsolenka Pass.
 
 A successful DC 15 Intelligence (Nature) check identifies “monkshood" as a colloquial name for wolfsbane.
@@ -2425,7 +2425,7 @@ Players who investigate the exits from this room can observe the following point
 
 This staircase of ancient stone is worn smooth. Thick dust covers its steps, and cobwebs choke the passage. The stairs rise at a 45-degree angle for a distance of 40 feet horizontally, leading to a 10-foot-square landing. A second set of stairs continues upward to the east at a similar angle for a distance of 30 feet horizontally, ending at a secret door that opens into [[#Chamberlain's Office]]. A curious, yet fearful **shadow** lurks on the landing.
 
-If the players approach the staircase from the brazier room, the shadow flees upward, squeezing through the secret door to the chamberlain’s office and concealing itself within one of the drawers of Rahadin’s desk. (The shadow isn’t very good at hiding, allowing part of its ephemeral, shroud-like body to extrude through the drawer’s keyhole.)
+If the players approach the staircase from the brazier room, the shadow flees upward, squeezing through the secret door to the chamberlain’s office and concealing itself within one of the drawers of [[Non-Player Characters/Castle Ravenloft/Rahadin|Rahadin]]’s desk. (The shadow isn’t very good at hiding, allowing part of its ephemeral, shroud-like body to extrude through the drawer’s keyhole.)
 
 If the players enter the staircase via the secret door in the chamberlain’s office, the shadow flees downward, concealing itself behind the western **iron golem** in the brazier room. While the players remain in the brazier room, the shadow amuses itself by pretending to be a player’s shadow. A player with a passive Wisdom (Perception) score of 14 or greater notices that the chosen player has an extra shadow.
 
@@ -2479,7 +2479,7 @@ This row of crypts contains the following:
 * ***Crypt 2.*** "Artista DeSlop—Court Ceiling Painter." The domed ceiling of this crypt is painted with an image of imps holding bouquets of colorful flowers. A skeleton draped in rags lies atop a marble slab. A wooden box tucked under one bony hand contains seven wood-handled paintbrushes and seven small gourds of dried-up paint.
 * ***Crypt 3.*** "Lady Isolde Yunk (Isolde the Incredible): Purveyor of antiques and imports." A skeleton draped in rags lies atop a marble slab, surrounded by heaps of old baskets, braziers, bundled tapestries, candlesticks, chairs, chests, cooking utensils, and other junk. None of the junk looks valuable.
 * ***Crypt 4.*** "Prince Ariel du Plumette (Ariel the Heavy)." If opened, the apparition of a large, rotund man forms within the dark crypt, its eyes wild with insanity. Large, artificial wings unfold from its back. Prince Ariel's evil **ghost** attacks the characters on sight. If Ariel succeeds in possessing a character, his host climbs the high tower until it reaches the peak, then hurls itself down the tower's central shaft, screaming, "I can fly!"
-* ***Crypt 5.*** "Artank Swilovich: Friend and member of the Barovian Wine Distillers Guild." A skeleton draped in rags lies atop a marble slab, surrounded by thousands of empty wine bottles from the Wizard of Wines winery.
+* ***Crypt 5.*** "Artank Swilovich: Friend and member of the Barovian Wine Distillers Guild." A skeleton draped in rags lies atop a marble slab, surrounded by thousands of empty wine bottles from the [[Act III - The Broken Land/Arc J - The Stolen Gem|Wizard of Wines]] winery.
 * ***Crypt 6.*** "Tatsaul Eris—Last of the Line." A skeleton draped in rags lies atop a marble slab. Mounted on the north, east, and south walls are three unlit torches in iron brackets. When a creature enters this tomb for the first time, the torches burst into flame. Examination of the skull and bones reveals that they are plaster facsimiles.
 
 Players who exit the tunnel via Crypt 1, or who approach the intersection between Crypts 2, 7, and 8 observe a human corpse lying on the stone floor just south of Crypt 2. (The corpse is a **zombie. See below for more information.**)
@@ -2490,7 +2490,7 @@ This row of crypts contains the following:
 * ***Crypt 8.*** "Duchess Dorfniya Dilisnya." A skeleton draped in rags lies atop a marble slab. Hanging on the back wall is a handsome quilt depicting a royal feast. The quilt is magically preserved but not valuable.
 * ***Crypt 9.*** "Pidlwick—Fool of Dorfniya." If the characters explore this crypt after summoning the ghost of Pidlwick in area K36, they find a small, flat wooden box on the marble slab next to Pidlwick’s bones containing a full *deck of illusions*.
 * ***Crypt 10.*** "Sir Leonid Krushkin (Sir Lee the Crusher): Bigger than life, he loved his jewelry." An oversized skeleton draped in jewelry and rags lies atop an elongated marble slab. A bloodstained maul leans against the slab. The maul is harmless and nonmagical. Three jeweled necklaces (worth 750 gp each) lie across the skeleton.
-* ***Crypt 11.*** "Tasha Petrovna—Healer of Kings, Light unto the West, Servant, Companion." A skeleton wearing tattered priestly vestments lies atop a marble slab. The domed ceiling is painted with a glorious sun mural. Creatures that would take damage from sunlight have disadvantage on all ability checks, attack rolls, and saving throws while inside this crypt. However, Tasha Petrovna’s holy symbol is not present; instead, it is currently worn by Father Lucian in Vallaki.
+* ***Crypt 11.*** "Tasha Petrovna—Healer of Kings, Light unto the West, Servant, Companion." A skeleton wearing tattered priestly vestments lies atop a marble slab. The domed ceiling is painted with a glorious sun mural. Creatures that would take damage from sunlight have disadvantage on all ability checks, attack rolls, and saving throws while inside this crypt. However, Tasha Petrovna’s holy symbol is not present; instead, it is currently worn by Father Lucian in [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]].
 
 In addition, a human corpse lies sprawled across the floor immediately south of Crypt 2. If approached, the corpse rises as a **zombie** and attacks.
 
@@ -2502,7 +2502,7 @@ Players who fight the **zombie** south of Crypt 2, or who attempt to avoid the z
 
 The vampire attempts to remain hidden from the players by clinging to the ceiling, remaining within the shadows, and staying constantly on the move. If able to do so without detection, the vampire opens the stone door to Crypt 14 and clings to the edge of the shaft, waiting for a character to investigate; when a creature comes within reach, the vampire attacks with its ***unarmed strike*** and attempts to drag its prey down into the shaft before dropping it down into the vault below. If the players avoid the open door to Crypt 14, the vampire spawn exits the crypt and continues to skulk through the catacombs.
 
-The vampire also attacks the players if cornered, or if it finds a character isolated from the rest of the party. (Like all of Strahd’s minions, however, the vampire never attacks Ireena.) No matter the case, once the vampire has isolated and attacked its prey, it attempts to grapple them with its ***unarmed strike***, then hungrily drains them of blood using its ***bite.***
+The vampire also attacks the players if cornered, or if it finds a character isolated from the rest of the party. (Like all of Strahd’s minions, however, the vampire never attacks [[Non-Player Characters/Village of Barovia/Ireena Kolyana|Ireena]].) No matter the case, once the vampire has isolated and attacked its prey, it attempts to grapple them with its ***unarmed strike***, then hungrily drains them of blood using its ***bite.***
 
 Players with a passive Wisdom (Perception) score of 16 or more occasionally hear distant rustling or catch glimpses of the vampire’s shadow out of the corner of their eye, indicating its current location.
 #### North Crypts, Third Row
@@ -2561,13 +2561,13 @@ Raising the lever lifts the portcullis at the top of the stairs. Pulling it down
 #### Central Crypts, North Row
 This row of crypts contains the following:
 
-* ***Crypt 18.*** "Ireena Kolyana: Wife." The stone door has been carefully laid to one side. The crypt is empty and has been swept clean. This is where Strahd intends to keep Ireena once he turns her into a vampire spawn.
+* ***Crypt 18.*** "[[Non-Player Characters/Village of Barovia/Ireena Kolyana|Ireena Kolyana]]: Wife." The stone door has been carefully laid to one side. The crypt is empty and has been swept clean. This is where Strahd intends to keep Ireena once he turns her into a vampire spawn.
 * ***Crypt 19.*** "Artimus (Builder of the Keep): Thou standest amidst the monument to his life." A skeleton draped in rags lies atop a marble slab. This crypt contains nothing of interest.
 * ***Crypt 20.*** "Sasha Ivliskova—Wife." Webs as thick and pale as linen cover a shapely female form lying atop a marble slab. A voice issues from the darkness: "My love, have you come to set me free?" This **vampire spawn** is an old wife of Strahd's. However, Sasha does not attack the players if encountered in her crypt. (Strahd has ordered her to remain here, and she cannot depart her crypt if asked.)
 #### Central Crypts, South Row
 This row of crypts contains the following:
 
-* ***Crypt 21.*** "Patrina Velikovna—Bride." However, Crypt 21 does not contain Patrina’s **banshee**. (Patrina’s spirit instead resides in the Amber Temple.) The crypt contains a skeleton draped in rags lying atop a marble slab, surrounded by 250 pp, 1,100 gp, 2,300 ep, 5,200 sp, and 8,000 cp. Buried under the coins is Patrina’s spellbook, which has carved wooden covers.
+* ***Crypt 21.*** "Patrina Velikovna—Bride." However, Crypt 21 does not contain Patrina’s **banshee**. (Patrina’s spirit instead resides in the [[Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight|Amber Temple]].) The crypt contains a skeleton draped in rags lying atop a marble slab, surrounded by 250 pp, 1,100 gp, 2,300 ep, 5,200 sp, and 8,000 cp. Buried under the coins is Patrina’s spellbook, which has carved wooden covers.
 * ***Crypt 22.*** "Sir Erik Vonderbucks." A gilded man lies atop a marble slab. The thin layer of gold, if peeled from Sir Erik’s desiccated corpse, is worth 500 gp.
 * ***Crypt 23.*** The epigraph on Crypt 23 bears the name of the character whose skill, arrogance, and power have impressed Strahd the most. Opening the crypt releases a horrid stench of decay and reveals a corpse lying on the marble slab that looks like the named character. Touching the corpse causes it to melt away, and the inscription fades.
 ### King & Queen’s Tomb
@@ -2614,7 +2614,7 @@ This row of crypts contains the following:
 * ***Crypt 39.*** "Beucephalus, the Wonder Horse: May the flowers grow ever brighter where he trods." The door to this crypt is larger than all the others, 6 feet wide by 8 feet tall. However, Beucephalus cannot be found in Crypt 39 at this time.
 * ***Crypt 40.*** See below for the modified contents of this crypt.
 
-Finally, move the invisible teleport traps described in the castle's teleport traps—magical effects that transport creatures to specific locations within Castle Ravenloft to the base of the stairs in Strahd’s tomb (see below).
+Finally, move the invisible teleport traps described in the castle's teleport traps—magical effects that transport creatures to specific locations within [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]] to the base of the stairs in Strahd’s tomb (see below).
 
 > [!combat]- **Combat - The Thirty-Fifth Crypt**  
 > **Combat Level**: Bruising
@@ -2834,7 +2834,7 @@ A heavy portcullis stands closed in the archway leading to this tomb. Lifting it
 
 Raising the lever lifts the portcullis at the top of the stairs. Pulling it down lowers the portcullis. Creatures that enter the western alcove are instantly teleported to the western alcove of Crypt 32. Stepping into the eastern alcove has no effect, but any creature that teleports from the eastern alcove of Crypt 32 appears here. The central alcove is nonmagical.
 
-The castle's teleport traps—magical effects that transport creatures to specific locations within Castle Ravenloft—form a protective ring around the base of the staircase that descends into the tomb. Three anonymous **vampire spawn**, created from ordinary Barovians, lie buried in the earth near the east wall.
+The castle's teleport traps—magical effects that transport creatures to specific locations within [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]]—form a protective ring around the base of the staircase that descends into the tomb. Three anonymous **vampire spawn**, created from ordinary Barovians, lie buried in the earth near the east wall.
   
 > [!combat]- **Combat - The Tomb of the Darklord**  
 > **Combat Level**: Mild

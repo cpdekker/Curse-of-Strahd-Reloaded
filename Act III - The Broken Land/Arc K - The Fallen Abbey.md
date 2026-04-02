@@ -1,12 +1,12 @@
 _An adventure for five 5th- or 6th-level characters._
 
-In this arc, upon gaining entry to Krezk, the players must ascend to the Abbey of Saint Markovia, where they are destined to meet their foretold ally against Strahd.
+In this arc, upon gaining entry to [[Act II - The Shadowed Town/Arc I - The Walls of Krezk|Krezk]], the players must ascend to the Abbey of Saint Markovia, where they are destined to meet their foretold ally against Strahd.
 
-Upon their arrival, the Abbot can provide the players with a brief tour and history of the Abbey, as well as inform them that the Vistana monster-hunter Ezmerelda d’Avenir has been a guest of the Abbey in recent days. 
+Upon their arrival, the Abbot can provide the players with a brief tour and history of the Abbey, as well as inform them that the Vistana monster-hunter [[Non-Player Characters/Abbey of St. Markovia/Ezmerelda dAvenir|Ezmerelda]] d’Avenir has been a guest of the Abbey in recent days. 
 
 If the players have arrived before the second night after the full moon, the Abbot informs the players that Ezmerelda is away and will return soon. If the players have arrived on or after the second night after the full moon, the Abbot leads them to Ezmerelda, who is glad to join their efforts—on the condition that they help her save Krezk from the Abbot’s madness.
 # K1. The Village of Krezk
-The players’ first journey to Krezk is as described in [[Arc I - The Walls of Krezk]]. However, if the players have already completed [[Arc J - The Stolen Gem]] and the Martikovs have delivered a shipment of wine to the village, Baron Krezkov has already heard of the players’ exploits and gladly allows them entry. (The Krezkov and Martikov families have long been close, ever since an heir of the Martikov clan married a member of the Krezkov family and inherited ownership of the Wizard of Wines winery. If the players have aided the Martikovs, Baron Krezkov feels he owes them a debt of personal gratitude.)
+The players’ first journey to Krezk is as described in [[Arc I - The Walls of Krezk]]. However, if the players have already completed [[Arc J - The Stolen Gem]] and the Martikovs have delivered a shipment of wine to the village, Baron Krezkov has already heard of the players’ exploits and gladly allows them entry. (The Krezkov and Martikov families have long been close, ever since an heir of the Martikov clan married a member of the Krezkov family and inherited ownership of the [[Act III - The Broken Land/Arc J - The Stolen Gem|Wizard of Wines]] winery. If the players have aided the Martikovs, Baron Krezkov feels he owes them a debt of personal gratitude.)
 
 > [!profile]+ **Profile: Baron Dmitri Krezkov**
 > **Roleplaying Information.**
@@ -32,7 +32,7 @@ Once the players are within the village walls, Baron Krezkov is glad to share an
 * Residents never leave the village for fear of being attacked by wolves, dire wolves, and werewolves.
 * About once a month, a wagonload of wine arrives from the Wizard of Wines, the winery and vineyard to the south, owned and operated by the Martikov family.
 * A pool at the north end of the village provides fresh water throughout the year. Next to the pool, the village's ancestors built a shrine to the Morninglord in a gazebo, known as the Shrine of the White Sun.
-* The Abbey of Saint Markovia is named after a priest of the Morninglord who took a stand against the devil Strahd. After a fierce uprising, Markovia and her most loyal followers stormed Castle Ravenloft, only to be destroyed.
+* The Abbey of Saint Markovia is named after a priest of the Morninglord who took a stand against the devil Strahd. After a fierce uprising, Markovia and her most loyal followers stormed [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]], only to be destroyed.
 * The abbey was once a hospital and a convent, but it fell on hard times after the land was swallowed up by the mists.
 
 However, modify this information with the following changes:
@@ -220,7 +220,7 @@ The Abbot greets Dmitri, Anna, and the players cordially, and notes with mild in
 
 Dmitri nervously asks to know why the Abbot has come to visit them. In response, as he steps toward the shelves above the hearth to inspect the whittled statues there, the Abbot asks whether it is a sin to visit the home of his friends and neighbors—"especially," he notes, with a glance toward Anna, “friends and neighbors who may soon be family?"
 
-As the conversation continues, the Abbot asks the players the following questions—ostensibly to ask their thoughts about Krezk, but meant in truth to deliver an ominous warning to the Krezkovs regarding the consequences of betrayal:
+As the conversation continues, the Abbot asks the players the following questions—ostensibly to ask their thoughts about [[Act II - The Shadowed Town/Arc I - The Walls of Krezk|Krezk]], but meant in truth to deliver an ominous warning to the Krezkovs regarding the consequences of betrayal:
 
 * "How do you like the village? A quaint and quiet settlement, no?" (*The village is safe and quiet—for now.*)
 * "The children of Krezk have always seemed healthy and well-protected. The Krezkovs have been good stewards of this land, haven't they?" (*I gave you your child’s health. She and your neighbors will keep their lives and livelihoods—if you uphold your end of our bargain.*)
@@ -243,7 +243,7 @@ Dmitri and Anna then collapse onto their knees, holding one another and crying q
 * The Krezkovs’ son, Ilya, vanished in the chaos, and hasn’t been seen in days. (If the players located Ilya in [[Arc I - The Walls of Krezk]], Dmitri adds that, until recently, they feared him to be dead as well.)
 * The Krezkovs prayed to the Morninglord for guidance and deliverance, begging for mercy and salvation—and the Abbot answered.
 * The following morning, the Abbot’s bestial servants—a pair of creatures who called themselves Otto and Zygfrek—invited the mourning Krezkovs to the Abbey. There, the Abbot offered a bargain, promising to resurrect Kala in full health if Anna promised to sacrifice her heart to the Abbot’s foul creation: the **flesh golem** he calls Vasilka. To Dmitri’s horror, Anna accepted—and the Abbot brought Kala back to life.
-* The Abbot gave Anna one month’s time to make peace with her family and neighbors—an act he called “the Morninglord’s mercy." The Krezkovs don’t have much time left. (The Abbot’s deadline expires two weeks and one day after the players’ first full moon in Vallaki.)
+* The Abbot gave Anna one month’s time to make peace with her family and neighbors—an act he called “the Morninglord’s mercy." The Krezkovs don’t have much time left. (The Abbot’s deadline expires two weeks and one day after the players’ first full moon in [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]].)
 * Kala hasn’t been the same since her resurrection. Dmitri and Anna haven’t asked, but they’re terrified that she remembers the experience of dying—and that what she saw beyond the veil of mortality scarred her forever. The life and laughter have gone out of her, and she spends much of her time staring at the grave her parents once prepared for her.
 ### Kala’s Bedroom
 If the players enter this area, read:
@@ -274,7 +274,7 @@ When the players enter this area, read:
 <p>The bed in this modest bedroom is neatly made, covered with a hand-stitched quilt. A wooden shelf above the desk holds an assortment of curios—a feather, a small rock crystal, and what appears to be a wolf's tooth. A small weapon rack hangs on the wall, currently holding a short sword and a hunting bow with a quiver of arrows beneath it. A round window with simple lace curtains lets in a sliver of natural light, illuminating a hand-drawn map tacked to the wall beside it.</p>
 </div>
 
-The map depicts the local woods around Krezk, extending as far south as the Wizard of Wines and as far east as Lake Baratok. (It doesn’t include the werewolf den or the tower on Lake Baratok.)
+The map depicts the local woods around [[Act II - The Shadowed Town/Arc I - The Walls of Krezk|Krezk]], extending as far south as the [[Act III - The Broken Land/Arc J - The Stolen Gem|Wizard of Wines]] and as far east as Lake Baratok. (It doesn’t include the werewolf den or the tower on Lake Baratok.)
 
 A player who inspects the map observes a small piece of parchment tucked away behind it. If removed, the parchment contains a charcoal sketch of a woman, described as follows:
 
@@ -365,7 +365,7 @@ The gravel road to the Abbey passes between two small, stone outbuildings, to ei
 
 If told that the players are seeking a Vistana who’s staying at the Abbey, Zygfrek responds as follows:
 
-* **If Ezmerelda has not yet returned**, Zygfrek informs the players that the Vistana called Ezmerelda d’Avenir is away on business, and is expected to return on the second day after the full moon. (Zygfrek doesn’t know where Ezmerelda is, and shrugs with a grunt when asked where she’s gone.)
+* **If [[Non-Player Characters/Abbey of St. Markovia/Ezmerelda dAvenir|Ezmerelda]] has not yet returned**, Zygfrek informs the players that the Vistana called Ezmerelda d’Avenir is away on business, and is expected to return on the second day after the full moon. (Zygfrek doesn’t know where Ezmerelda is, and shrugs with a grunt when asked where she’s gone.)
 * **If Ezmerelda has returned**, Zygfrek offers to lead the players to the Abbot, who knows where Ezmerelda is staying.
 
 > [!info]+ **Where's Ezmerelda?**
@@ -399,7 +399,7 @@ If the players appear disturbed or amused by the Belviews’ condition, Clovin a
 * Long ago, Clovin’s ancestors came to the Abbey seeking a cure for a strange and mysterious illness. The Abbot healed them by perfecting their bodies, giving them new parts and traits that elevated them beyond their former, pitiful condition.
 * The Abbot’s work, however, is not yet finished. The Belviews patiently await the day when their “blessed perfection" shall be complete—a day that Clovin believes is fast approaching. (If asked why, Clovin says only that his father, Cyrus, has only recently been perfected. Clovin shares that he is confident his turn shall come next, given his own long-standing loyalty and service to the Abbot.)
 
-If the players ask Clovin about the Vistana described in Madam Eva’s reading, he notes only (and with minor irritation) that the Abbot will answer their questions.
+If the players ask Clovin about the Vistana described in [[Non-Player Characters/Tser Pool Encampment/Madam Eva|Madam Eva]]’s reading, he notes only (and with minor irritation) that the Abbot will answer their questions.
 ## K2b. Main Hall
 The ground floor of the north wing is one large, fifty-foot-square room with arched, leaded glass windows. A cauldron sits on an iron rack above a fire in a hearth, while above the fireplace mantel hangs a golden disk engraved with the symbol of the sun. In one corner, a wooden staircase climbs to the upper level, while in another corner a stone staircase descends into darkness. Several chairs surround a wooden table that stretches nearly the length of the room, with wooden dishware and gold candelabras neatly arranged upon it. Standing behind the table is a young woman with alabaster skin dressed in a torn and soiled red gown, her auburn hair neatly bundled so as not to touch her soft shoulders. She seems lost in her own thoughts. If the Abbot is present, a handsome young man in a brown monk's robe gently takes the woman by her hand, a painted wooden holy symbol depicting the sun hanging from a chain around his neck. However, there is no music if Clovin is guiding the players. Additionally, Vasilka is a **flesh golem** with an Intelligence of 17, a Charisma of 8, proficiencies in Religion and Nature, and the ability to speak and understand Common and Celestial.
 
@@ -420,9 +420,9 @@ The ground floor of the north wing is one large, fifty-foot-square room with arc
 > 
 > ***Relationships.*** The Abbot, an angel of the Morninglord once called Ithuriel, is the master of the Abbey of Saint Markovia, including the **mongrelfolk** Otto, Zygfrek, and Clovin Belview. He is also the creator of the **flesh golem** Vasilka and the resurrector of Kala Krezkova.
 
-The Abbot greets the players with warmth, welcoming them to the Abbey of Saint Markovia. If asked about the Vistana described in Madam Eva’s reading, he can share the following information:
+The Abbot greets the players with warmth, welcoming them to the Abbey of Saint Markovia. If asked about the Vistana described in [[Non-Player Characters/Tser Pool Encampment/Madam Eva|Madam Eva]]’s reading, he can share the following information:
 
-* **If Ezmerelda has not yet returned**, the Abbot informs the players that the Vistana called Ezmerelda d’Avenir is away on business, and is expected to return two days after the full moon. (The Abbot doesn’t know where Ezmerelda is, and notes gently that her business is her own. “She is a free spirit, that one," he observes thoughtfully.)
+* **If [[Non-Player Characters/Abbey of St. Markovia/Ezmerelda dAvenir|Ezmerelda]] has not yet returned**, the Abbot informs the players that the Vistana called Ezmerelda d’Avenir is away on business, and is expected to return two days after the full moon. (The Abbot doesn’t know where Ezmerelda is, and notes gently that her business is her own. “She is a free spirit, that one," he observes thoughtfully.)
 * **If Ezmerelda has returned**, the Abbot offers to show the players to her room. However, he first asks the players to assist him with a particular task. (See **Vasilka’s Lesson** below.)
 
 ![[The Abbot.png]]
@@ -450,7 +450,7 @@ Finally, the Abbot can also share the following information about Saint Markovia
 * Saint Markovia was of the same generation as Strahd von Zarovich—but where Strahd lived a life of steel and blood, Saint Markovia walked in grace beneath the light of the Morninglord. 
 * As a youth, Markovia followed her heart and became a priest of the Morninglord soon after her eighteenth birthday. She proved to be a charismatic proselytizer and, before the age of thirty, had gained a reputation for allowing no evil to stand before her.
 * It was Tasha Petrovna, an oracle and cleric of the Morninglord, who, with the guidance of one of the Morninglord’s angels, elevated Saint Markovia as a new prophet of the Morninglord’s faith. Following internal strife with Saint Andral, the Most High Priest of the Morninglord’s church, however, Saint Markovia departed the Morninglord’s holy lands and built a new sanctuary in the quiet wilderness: the Abbey of Saint Markovia, which served as both a convent and hospital.
-* Shortly after Strahd’s curse fell upon the valley, Saint Markovia gathered her followers and marched upon Castle Ravenloft. Strahd destroyed them all, and those who remained at the Abbey soon fell into madness and despair. (“The darkness cannot be defeated by steel alone," the Abbot murmurs sorrowfully. “Only light can do that." If asked about the “sword of sunlight" Madam Eva mentioned, the Abbot shakes his head and laughs softly, insisting that no such thing dwells in Barovia.)
+* Shortly after Strahd’s curse fell upon the valley, Saint Markovia gathered her followers and marched upon [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]]. Strahd destroyed them all, and those who remained at the Abbey soon fell into madness and despair. (“The darkness cannot be defeated by steel alone," the Abbot murmurs sorrowfully. “Only light can do that." If asked about the “sword of sunlight" [[Non-Player Characters/Tser Pool Encampment/Madam Eva|Madam Eva]] mentioned, the Abbot shakes his head and laughs softly, insisting that no such thing dwells in Barovia.)
 
 > [!lore]+ **Who is the Abbot?**
 > The Abbot—in truth a **deva** named Ithuriel—was once an angelic emissary of the Morninglord. It was he who chose Markovia to be the Morninglord’s prophet, and he who guided the oracle Tasha Petrovna to find and sanctify her, bestowing upon Markovia the holy relic that would one day become the *Icon of Dawn's Grace*—a mark of office that contained a spark of the Abbot’s pure divinity. (It was on this occasion that the Abbot—by chance—first encountered Strahd von Zarovich, then a commanding officer in King Barov’s army.)
@@ -461,7 +461,7 @@ Finally, the Abbot can also share the following information about Saint Markovia
 > 
 > The Abbot has since descended into madness and quiet zealotry, wholly convinced of his own righteousness. Only by defeating him and unlocking his soul with the *Icon of Dawn's Grace* can the players cleanse the corruption that taints his heart and restore him to sanity.
 ### Vasilka’s Lesson
-Before escorting the players to Ezmerelda’s room, the Abbot first asks them to assist in Vasilka’s next lesson.
+Before escorting the players to [[Non-Player Characters/Abbey of St. Markovia/Ezmerelda dAvenir|Ezmerelda]]’s room, the Abbot first asks them to assist in Vasilka’s next lesson.
 
 Although the Abbot has much experience in love of the divine, he admits he is wholly ignorant in the ways of love between a man and a woman. He therefore asks the players to teach Vasilka their knowledge of romantic love, including any tales they may have of their experiences with it. "If she is to wed," he says, “she must first understand the complex and irrational ways of mortal love."
 
@@ -556,7 +556,7 @@ The barracks are a moldy, thirty-foot-square room where bunk beds that have disi
 <p>She wears a mud-stained longcoat of similar color, a well-oiled suit of studded leather armor catching the light just beneath it. She seems to be wearing boots of two different colors: one an ordinary brown, and the other colored a dull, metallic copper. She glares at a snapped piece of white chalk in her hand.</p>
 </div>
 
-This is Ezmerelda d’Avenir. Her statistics are given below.
+This is [[Non-Player Characters/Abbey of St. Markovia/Ezmerelda dAvenir|Ezmerelda]] d’Avenir. Her statistics are given below.
 
 <div class="statblock">
     <h2>Ezmerelda d'Avenir</h2>
@@ -642,7 +642,7 @@ A player who inspects Ezmerelda’s boots automatically notices that the copper-
 
 As the players enter the room, if they didn’t use stealth when approaching, Ezmerelda glances toward them with raised eyebrows. “Given the noise you made coming up here," she observes wryly, “I assume you’ve not come to kill me?"
 
-If the players indicate that they’ve come to recruit her or otherwise mention Madam Eva’s name, Ezmerelda is immediately intrigued. She stands up, dusts herself off, and introduces herself with a grin. She then invites them to enter and share “what sounds like a *very* interesting tale.*
+If the players indicate that they’ve come to recruit her or otherwise mention [[Non-Player Characters/Tser Pool Encampment/Madam Eva|Madam Eva]]’s name, Ezmerelda is immediately intrigued. She stands up, dusts herself off, and introduces herself with a grin. She then invites them to enter and share “what sounds like a *very* interesting tale.*
 
 Ezmerelda shares the following information freely if asked:
 
@@ -656,7 +656,7 @@ Ezmerelda invites the players to explain themselves and their presence before sh
 
 If the players share that they are newcomers to Barovia (“You certainly don’t *look* like you’re from around here," Ezmerelda observes), she is willing to share the following information:
 
-* She arrived in Barovia herself just under two weeks ago via wagon. Since then, she’s remained largely in and around Krezk, though she left her wagon near the shore of Lake Baratok as a mobile base. She’s been searching the nearby woods for Ilya Krezkov, the missing son of Burgomaster Dmitri Krezkov and his wife, Anna. (“They saved me from the brink of death, once," she says, quietly. “I owe them at least that much.")
+* She arrived in Barovia herself just under two weeks ago via wagon. Since then, she’s remained largely in and around [[Act II - The Shadowed Town/Arc I - The Walls of Krezk|Krezk]], though she left her wagon near the shore of Lake Baratok as a mobile base. She’s been searching the nearby woods for Ilya Krezkov, the missing son of Burgomaster Dmitri Krezkov and his wife, Anna. (“They saved me from the brink of death, once," she says, quietly. “I owe them at least that much.")
 * Since her arrival, she’s been disturbed by just how much Barovia has changed since she last visited—owing largely, it’s clear, to Strahd von Zarovich’s reawakening. (She narrows her eyes playfully, surveys the players, and notes, "With the lord of the castle up and about, I assume it's not difficult to fall under his sway. None of you have fangs or a thirst for my blood, I hope?")
 
 If the players share that they are enemies of Strahd von Zarovich (“Ah, so that makes us either allies or competitors!" she exclaims), she is willing to share the following information:
@@ -667,14 +667,14 @@ If the players share that they are enemies of Strahd von Zarovich (“Ah, so tha
 If the players share that they’ve come to recruit her to their cause, Ezmerelda raises an eyebrow and asks, amusedly, exactly *how* they found her. If the players share the words of Madam Eva’s Tarokka reading, Ezmerelda is willing to share the following information:
 
 * Her mentor is Dr. Rudolph van Richten, the legendary vampire hunter. Three months ago, she and his other former students received a letter he’d sent announcing his intention to travel to Barovia. 
-* As the sole Vistana among his students, only she was able to trace his path through the mists and track him to the valley. Upon her arrival, however, she learned from a traveling Vistani caravan that Dr. Van Richten was rumored to be dead, having fallen in battle in a failed rebellion at Castle Ravenloft.
+* As the sole Vistana among his students, only she was able to trace his path through the mists and track him to the valley. Upon her arrival, however, she learned from a traveling Vistani caravan that Dr. [[Non-Player Characters/Town of Vallaki/Dr. Rudolph van Richten|Van Richten]] was rumored to be dead, having fallen in battle in a failed rebellion at [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]].
 
 > [!abstract]+ **Ezmerelda & Van Richten**
 > If the players mention meeting Dr. Van Richten in [[Arc E - The Missing Vistana]], Ezmerelda is delighted and grateful to hear that her mentor is still alive. She asks the players, however, to refrain from telling her his location, at least for now. "Knowledge grows more dangerous the further it spreads," she says, "especially when a vampire can easily charm it out of you. If the old man wants to stay hidden, it's probably best that it stays that way."
 ### What Ezmerelda Knows
-Once she’s satisfied that the players are trustworthy, Ezmerelda is willing to share the following information:
+Once she’s satisfied that the players are trustworthy, [[Non-Player Characters/Abbey of St. Markovia/Ezmerelda dAvenir|Ezmerelda]] is willing to share the following information:
 
-* She has come to the Abbey because Burgomaster Dmitri Krezkov told her that the Abbot appeared to be growing increasingly unstable, and that he feared for Krezk’s safety as a result.
+* She has come to the Abbey because Burgomaster Dmitri Krezkov told her that the Abbot appeared to be growing increasingly unstable, and that he feared for [[Act II - The Shadowed Town/Arc I - The Walls of Krezk|Krezk]]’s safety as a result.
 * Upon first visiting the Abbey, Ezmerelda—a weak clairvoyant—swiftly sensed that unquiet spirits lingered within its shadowed halls. She has intended to return ever since, planning to contact those spirits to further investigate the Abbot’s identity and the cause of his growing madness. (The chalk circle is meant to provide the medium for a seance, focusing the energies Ezmerelda must call upon and acting as a protective barrier against malevolent spirits.)
 * Three nights ago, she successfully found what she believes to be Ilya’s location: a cavern at the base of a spur of Mount Baratok along the northwestern shore of Lake Baratok. There’s one catch, however: Barovia’s werewolf pack uses the cave as its den, making any effort to rescue Ilya tremendously risky.
 * After capturing and interrogating a werewolf with the Barovian pack, Ezmerelda learned that the bulk of the pack will soon be departing Barovia to range beyond the Mists with Strahd's permission. The pack's expedition, Ezmerelda shares, will take place at dusk the following night. "My source didn't know how long the pack would be away," she notes. "It might be anywhere from twelve hours until twelve days, so we'll want to get in and out before dawn."
@@ -688,7 +688,7 @@ Ezmerelda is tentatively willing to join the players in their fight against Stra
 
 If the players agree to do so, Ezmerelda invites them to assist her in completing her chalk circle and conducting the seance. (See [[Arc L - The Den of Wolves]] for more information about Ezmerelda's plan to investigate the werewolf den.)
 ### The Seance
-To begin the seance, Ezmerelda retrieves a deck of Tarokka cards from her coat and lays the entire deck out flat across the center of the chalk circle. She can inform the players that, like a spirit board, the cards will allow spirits to communicate with them from across the veil. 
+To begin the seance, [[Non-Player Characters/Abbey of St. Markovia/Ezmerelda dAvenir|Ezmerelda]] retrieves a deck of Tarokka cards from her coat and lays the entire deck out flat across the center of the chalk circle. She can inform the players that, like a spirit board, the cards will allow spirits to communicate with them from across the veil. 
 
 She warns the players, however, that they may ask only ten questions of the spirit that answers her call—and that once the seance has concluded, she won’t be able to conduct another one for a full three days.
 
@@ -775,7 +775,7 @@ Shortly after the seance ends, Ezmerelda and any player with a passive Wisdom (P
 
 A player who opens the door sees Clovin, Otto, and Zygfrek Belview lying in a tangled pile on the balcony beyond, each Belview cursing the others as they attempt to untangle themselves. When revealed, the Belviews look slightly abashed, with Clovin looking especially flushed at their discovery. (Clovin is not pleased that Otto or Zygfrek chose to join him in this eavesdropping expedition, and is further irritated that Otto’s clumsiness—while scratching an itch—caused them to get caught.)
 
-The Belviews can share that they began eavesdropping on the players because they wanted to know more of the world beyond the Abbey’s walls. Given the players’ evident interest in Castle Ravenloft, the three Belviews have decided that the players might be able to help them learn the fate of their family patriarch, Cyrus Belview, who they believe to have been “perfected" before immediately being spirited away to Castle Ravenloft.
+The Belviews can share that they began eavesdropping on the players because they wanted to know more of the world beyond the Abbey’s walls. Given the players’ evident interest in [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]], the three Belviews have decided that the players might be able to help them learn the fate of their family patriarch, Cyrus Belview, who they believe to have been “perfected" before immediately being spirited away to Castle Ravenloft.
 
 The Belviews ask the players to find and speak with Cyrus upon visiting Castle Ravenloft. They are clearly anxious to learn more of his experience with “perfection"—both the process that created it, and his life since attaining it. In exchange for news of Cyrus, Clovin promises to provide the players with a treasure hidden away somewhere in the Abbey.
 
@@ -794,7 +794,7 @@ If the players agree to carry out their request, the three Belviews are deeply g
 ### The Abbot’s Wrath
 When the players re-enter the East Wing to descend to the courtyard once more, they are met once again by the **flesh golem**. If given Vasilka’s flower garland before, the golem is now wearing it as a necklace around its neck.
 
-As the players exit the East Wing into the courtyard, they are greeted by the Abbot, who is accompanied by Vasilka. If Ezmerelda is present, the Abbot greets her warmly.
+As the players exit the East Wing into the courtyard, they are greeted by the Abbot, who is accompanied by Vasilka. If [[Non-Player Characters/Abbey of St. Markovia/Ezmerelda dAvenir|Ezmerelda]] is present, the Abbot greets her warmly.
 
 After he has made pleasantries with the players, if the **flesh golem** is wearing Vasilka’s necklace, the Abbot’s eyes fall upon it. His gaze tightens, and he asks the players how the golem came to possess such an ornament.
 

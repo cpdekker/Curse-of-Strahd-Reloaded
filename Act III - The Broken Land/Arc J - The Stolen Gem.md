@@ -1,8 +1,8 @@
 _An adventure for five 5th-level characters._
 
-In this arc, the first morning after the players' first full moon in Barovia, they are approached by Urwin Martikov, who asks them to investigate a mysterious shortage of wine deliveries from the Wizard of Wines winery to the southwest. If the players accept his mission, Urwin asks them to allow Muriel Vinshaw—an employee of the winery—to accompany them on the journey. (Muriel is, of course, a secret **wereraven** and a member of the Keepers of the Feather, tasked with delivering word of Strahd’s prophecy to Davian Martikov, the leader of the order.)
+In this arc, the first morning after the players' first full moon in Barovia, they are approached by Urwin Martikov, who asks them to investigate a mysterious shortage of wine deliveries from the Wizard of Wines winery to the southwest. If the players accept his mission, Urwin asks them to allow [[Non-Player Characters/Town of Vallaki/Muriel Vinshaw|Muriel]] Vinshaw—an employee of the winery—to accompany them on the journey. (Muriel is, of course, a secret **wereraven** and a member of the Keepers of the Feather, tasked with delivering word of Strahd’s prophecy to Davian Martikov, the leader of the order.)
 
-Before the players depart Vallaki, Ireena Kolyana—inspired by the players’ exploits there and filled with grim determination following her encounters with Izek Strazni—asks them to allow her to accompany them on their travels, forsaking the sanctuary of Vallaki for an opportunity to join the fight against Strahd. If the players accept her request, Ireena joins the party as a permanent companion for the remainder of the campaign.
+Before the players depart [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]], [[Non-Player Characters/Village of Barovia/Ireena Kolyana|Ireena Kolyana]]—inspired by the players’ exploits there and filled with grim determination following her encounters with [[Non-Player Characters/Town of Vallaki/Izek Strazni|Izek]] Strazni—asks them to allow her to accompany them on their travels, forsaking the sanctuary of Vallaki for an opportunity to join the fight against Strahd. If the players accept her request, Ireena joins the party as a permanent companion for the remainder of the campaign.
 
 Upon arriving at the Wizard of Wines, the players meet Davian Martikov—the patriarch of the Martikov family—and his assorted children and grandchildren, who have taken shelter in a hidden cavern beneath the nearby woods. Davian shares that the winery has been invaded by a group of druids known as the Forest Folk alongside a horde of twisted plant creatures called **blights**. Davian asks the players to defeat the Forest Folk and break the staff that their leader uses to control the blights, allowing the Martikovs to reclaim their home.
 
@@ -32,7 +32,7 @@ Urwin asks the players to travel to the Wizard of Wines and speak with the owner
 
 Urwin notes, however, that the Inn has sufficient wine stock to last at least a few days. If the players have more pressing business to attend to, he’s happy for them to take an additional day or two before departing.
 
-If the players accept Urwin’s mission, he asks them to join him in the Blue Water Inn's kitchen in one hour to meet with Muriel Vinshaw, a former employee of the Wizard of Wines who can take them to the winery. (If asked, Urwin shares that Muriel has business of her own at the winery and that she is similarly concerned for the winery’s safety, but declines to provide any further information.)
+If the players accept Urwin’s mission, he asks them to join him in the Blue Water Inn's kitchen in one hour to meet with [[Non-Player Characters/Town of Vallaki/Muriel Vinshaw|Muriel]] Vinshaw, a former employee of the Wizard of Wines who can take them to the winery. (If asked, Urwin shares that Muriel has business of her own at the winery and that she is similarly concerned for the winery’s safety, but declines to provide any further information.)
 
 > [!lore]+ **What Urwin Knows**
 > Urwin believes that something terrible has happened to the winery—though what, he isn't sure. Although he sent out a half-dozen ravens to investigate when the first delivery failed to appear, none returned.
@@ -40,7 +40,7 @@ If the players accept Urwin’s mission, he asks them to join him in the Blue Wa
 > Urwin knows, thanks to Muriel, that Baba Lysaga's **strix** have recently begun to patrol the valley in greater force and numbers. Although Muriel has volunteered to investigate, he and Muriel have decided that the skies are likely no longer safe, and that the best way for her to proceed is on foot, preferably with skilled bodyguards.
 ## J1b. Setting Off
 ### Meeting Muriel
-When the players meet Urwin in the Blue Water Inn's kitchen after accepting his mission, he introduces them to Muriel Vinshaw. Read:
+When the players meet Urwin in the Blue Water Inn's kitchen after accepting his mission, he introduces them to [[Non-Player Characters/Town of Vallaki/Muriel Vinshaw|Muriel]] Vinshaw. Read:
 
 <div class="description">
 <p>A young woman leans against the stove, her arms crossed. She is short and dusky-skinned, with jet-black hair and dark eyes.  A  mud-stained cloak hangs across her shoulders, and a small, dark feather hangs on a leather cord around her neck between two carved wooden beads. A wooden crossbow hangs from a mount on her back, and a shortsword rests sheathed at her hip.</p>
@@ -67,7 +67,7 @@ When the players meet Urwin in the Blue Water Inn's kitchen after accepting his 
 > 
 > ***Relationships.*** Muriel is an agent of the Keepers of the Feather under Davian Martikov, a contact and ally of Keeper spymaster Urwin Martikov, and the once-fiancé of Davian's deceased son, Elric Martikov, who was imprisoned while assisting Doru's rebellion against Castle Ravenloft.
 
-Muriel greets the players warmly and introduces herself, noting that Urwin has told her that she’ll be bringing them to the Wizard of Wines even as they make sure that she “doesn’t get killed." Following their reply, she then chides the players briefly, playfully suggesting that they “don’t seem like the adventuring type". If the players share any of their exploits in Vallaki or beyond, Muriel cheerfully concedes that they do indeed look well-equipped and well-prepared and thanks them for taking the job.
+Muriel greets the players warmly and introduces herself, noting that Urwin has told her that she’ll be bringing them to the Wizard of Wines even as they make sure that she “doesn’t get killed." Following their reply, she then chides the players briefly, playfully suggesting that they “don’t seem like the adventuring type". If the players share any of their exploits in [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]] or beyond, Muriel cheerfully concedes that they do indeed look well-equipped and well-prepared and thanks them for taking the job.
 
 > [!lore]+ **Muriel’s Secret Identity**
 > Muriel is, of course, a **wereraven** and a secret member of the Keepers of the Feather—the same blue-winged wereraven, in fact, that the players previously encountered in the village of Barovia and on the path to Tser Pool.
@@ -135,13 +135,13 @@ If the players provide undeniable evidence for their suggestion (such as Muriel�
 </div>
 
 ### Ireena's Request
-Before the players depart the Blue Water Inn, if they have previously treated Ireena Kolyana with kindness and respect, she enters the inn’s taproom to meet them—once again wearing her rapier and breastplate.
+Before the players depart the Blue Water Inn, if they have previously treated [[Non-Player Characters/Village of Barovia/Ireena Kolyana|Ireena Kolyana]] with kindness and respect, she enters the inn’s taproom to meet them—once again wearing her rapier and breastplate.
 
-Ireena, who has learned of the players’ destination from Danika, Father Petrovich, or another friendly Vallakian with connections to the Martikovs, first confirms that the players are leaving Vallaki to investigate the Wizard of Wines. Once she does, she asks the players for an opportunity to accompany them—to journey at their side in their fight to aid Barovia and defy Strahd’s will. She can share the following information to explain her decision:
+Ireena, who has learned of the players’ destination from Danika, Father Petrovich, or another friendly Vallakian with connections to the Martikovs, first confirms that the players are leaving [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]] to investigate the Wizard of Wines. Once she does, she asks the players for an opportunity to accompany them—to journey at their side in their fight to aid Barovia and defy Strahd’s will. She can share the following information to explain her decision:
 
 * Ireena shares that, after seeing the players’ exploits in Vallaki, she has realized the importance of fighting for others, rather than simply speaking for them. She wants to learn to be a warrior for her people, and to resist Strahd’s tyranny directly—without fear or hesitation.
-* If Ireena was stalked or kidnapped by Izek Strazni in ***Act H: The Strazni Siblings***, she shares that she is tired of hiding from those who seek to use her for their own ends, and finished with allowing others to be harmed in their efforts to protect her. She is determined to stand on her own two feet and to fight her own battles instead of allowing others to fight them for her.
-* Ireena notes that St. Andral’s Church has already been targeted by Strahd’s servants once—and that while Ismark sent her to Vallaki in the hopes that she would be beyond Strahd’s reach, her experiences there have shown her that nowhere in the valley is truly safe.
+* If Ireena was stalked or kidnapped by [[Non-Player Characters/Town of Vallaki/Izek Strazni|Izek]] Strazni in ***Act H: The Strazni Siblings***, she shares that she is tired of hiding from those who seek to use her for their own ends, and finished with allowing others to be harmed in their efforts to protect her. She is determined to stand on her own two feet and to fight her own battles instead of allowing others to fight them for her.
+* Ireena notes that St. Andral’s Church has already been targeted by Strahd’s servants once—and that while [[Non-Player Characters/Village of Barovia/Ismark Kolyanovich|Ismark]] sent her to Vallaki in the hopes that she would be beyond Strahd’s reach, her experiences there have shown her that nowhere in the valley is truly safe.
 
 If the players appear concerned for Ireena’s safety, she points out that, throughout their travels, none of Strahd’s servants or minions have dared attack her, suggesting that he has ordered them to leave her unharmed. 
 
@@ -158,7 +158,7 @@ As the players cross the bridge over the Luna River, read the following:
 <p>As you step onto the bridge, your boots echo against the old, damp wood. To the north, you can see the river meander upstream around the tree line before vanishing around a curve. To the south, the river winds like a ribbon between its banks, then gradually vanishes into mist.</p>
 </div>
 
-The road comes to an X intersection here, with branches to the northwest, northeast, southwest, and southeast. The lower half of a snapped wooden signpost thrusts upward at an angle near the eastern elbow of the intersection, the top half of the sign lying in the weeds nearby. When the two parts of the sign are aligned and rejoined, the arms indicate Krezk and Tsolenka Pass to the southwest, Lake Baratok to the northwest, Vallaki and Ravenloft to the northeast, and Berez to the southeast. Do not check for a random encounter when the players reach this area.
+The road comes to an X intersection here, with branches to the northwest, northeast, southwest, and southeast. The lower half of a snapped wooden signpost thrusts upward at an angle near the eastern elbow of the intersection, the top half of the sign lying in the weeds nearby. When the two parts of the sign are aligned and rejoined, the arms indicate [[Act II - The Shadowed Town/Arc I - The Walls of Krezk|Krezk]] and Tsolenka Pass to the southwest, Lake Baratok to the northwest, [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]] and Ravenloft to the northeast, and [[Act III - The Broken Land/Arc Q - A Shining Beacon|Berez]] to the southeast. Do not check for a random encounter when the players reach this area.
 
 As the players pass it, they can see a winding branch of the Old Svalich Road that meanders up the forested slope of a mountain spur to the south. Read:
 
@@ -185,13 +185,13 @@ If the players investigate, they can make a DC 11 Wisdom (Perception) check to d
 <p>You startle a broad-shouldered woman clad in thick, mud-caked furs and clutching a stone axe. Obsidian ornaments hang from her ears and neck, and a thin layer of gray mud is smeared across her face, blending with the dark trees around her.</p>
 </div>
 
-The woman immediately attempts to flee into the woods. If the players attempt to stop or attack her, Muriel warns them that the woman is one of the Mountain Folk—a tribe of hunter—gatherers that live amongst the Balinok Mountains—and that their people are neither servants of Strahd nor dangerous unless attacked. 
+The woman immediately attempts to flee into the woods. If the players attempt to stop or attack her, [[Non-Player Characters/Town of Vallaki/Muriel Vinshaw|Muriel]] warns them that the woman is one of the Mountain Folk—a tribe of hunter—gatherers that live amongst the Balinok Mountains—and that their people are neither servants of Strahd nor dangerous unless attacked. 
 
 Muriel doesn’t know why the woman was watching the road, but shares that the Mountain Folk have been more active lately, though no one is quite sure why. Reports suggest that they’re looking for something, however. (If asked how she knows so much about the Mountain Folk, Muriel laughs and claims only that she’s well-traveled and has “many friends" across the valley.)
 
 If the players ask Muriel about the druid of the Forest Folk that they saw on the Old Svalich Road in [[Arc H - The Lost Soul]] she shares that the Forest Folk are known to be loyal servants of Strahd, who they worship like a deity. She advises the players to steer clear of the druids’ lair: a terraced mound called Yester Hill in the southwest corner of the Svalich Woods, south of the Wizard of Wines.
 ## J2c. The Raven River Crossroads
-This stretch of the Old Svalich Road has multiple branches. One branch heads north, quickly turning into a dirt path that leads to Van Richten’s Tower on Lake Baratok. One branch heads south, becoming Tsolenka Pass as it winds through the lower mountains and clings to the side of Mount Ghakis. A third branch heads west toward the Wizard of Wines winery and vineyard, dipping south as it changes from a road into a gravel trail. A weatherworn signpost stands next to the road: the arm pointing north reads "Krezk," the arm pointing east reads "Vallaki," and the arm pointing southwest reads "The Wizard of Wines." Do not check for a random encounter when the players reach this area. Additionally, add the following text to the end of the area description:
+This stretch of the Old Svalich Road has multiple branches. One branch heads north, quickly turning into a dirt path that leads to [[Non-Player Characters/Town of Vallaki/Dr. Rudolph van Richten|Van Richten]]’s Tower on Lake Baratok. One branch heads south, becoming Tsolenka Pass as it winds through the lower mountains and clings to the side of Mount Ghakis. A third branch heads west toward the Wizard of Wines winery and vineyard, dipping south as it changes from a road into a gravel trail. A weatherworn signpost stands next to the road: the arm pointing north reads "[[Act II - The Shadowed Town/Arc I - The Walls of Krezk|Krezk]]," the arm pointing east reads "[[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]]," and the arm pointing southwest reads "The Wizard of Wines." Do not check for a random encounter when the players reach this area. Additionally, add the following text to the end of the area description:
 
 <div class="description">
 <p>A figure clad in rusty armor stands alone on the bridge, clutching a gleaming longsword in its pale hands.</p>
@@ -203,7 +203,7 @@ If the players tell the revenant that they are traveling to the Wizard of Wines,
 
 If the players ask the revenant about the Mountain Folk or Forest Folk, it shares only that the “First People" were split long ago in the face of tragedy and strife, and that their descendants remained apart ever since. It notes that the Forest Folk have embraced Strahd von Zarovich as their lord and ruler, but that the Mountain Folk still hold to the old ways, worshipping ancient goddesses that once dwelled in the valley. (The revenant doesn’t know where the Mountain Folk dwell, but has heard that their settlement is hidden somewhere in the mountains.)
 
-If the players' weapons are clearly visible, it asks the players if they oppose the lord of Castle Ravenloft. If the players claim to oppose Strahd, the revenant advises them to travel to Argynvostholt to the southeast, where Sir Godfrey Gwilym awaits those who would raise their swords against the darkness that lurks in the castle's depths. If the players ask for directions to Argynvostholt, the revenant advises them to travel "east, then south upon the ash-gray path."
+If the players' weapons are clearly visible, it asks the players if they oppose the lord of [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]]. If the players claim to oppose Strahd, the revenant advises them to travel to [[Act III - The Broken Land/Arc M - The Dragon's Manor|Argynvostholt]] to the southeast, where Sir Godfrey Gwilym awaits those who would raise their swords against the darkness that lurks in the castle's depths. If the players ask for directions to Argynvostholt, the revenant advises them to travel "east, then south upon the ash-gray path."
 
 The revenant will not leave its post on the bridge under any circumstances.
 ## J2d. The Spiked Pit Trap
@@ -214,7 +214,7 @@ As the players proceed south from the Raven River Crossroads, read:
 <p>The vegetation here is denser than the main road, and several low-hanging branches are draped with clumps of vines that weave a tangled tapestry across the undergrowth. A thick blanket of twigs and pine needles crunches beneath your boots, their low sounds the only noise amidst the silent path.</p>
 </div>
 
-As the players enter this area, Muriel whispers that something isn’t right, noting that the road “didn’t smell like death" the last time she passed through here.
+As the players enter this area, [[Non-Player Characters/Town of Vallaki/Muriel Vinshaw|Muriel]] whispers that something isn’t right, noting that the road “didn’t smell like death" the last time she passed through here.
 
 The road here hides a spiked pit trap (<span class="citation">Dungeon Master's Guide, p. 122</span>), concealed beneath a thin tarp made of twigs and pine needles, with the bottom of the pit lined with sharpened wooden stakes. The clumps of vines (and the source of the scent of decay) are five **vine blights**, concealed through the use of their ***false appearance*** feature.
 
@@ -256,7 +256,7 @@ If the players follow the trail west toward the vineyard, read:
 <p>A light drizzle begins to fall. Unpainted fences blindly follow the trail, which skirts north of a sprawling vineyard before bending south toward a stately building. The fog takes on ghostly forms as it swirls between the neatly tended rows of grapevines. Here and there, you see rope-handled half-barrels used for hauling grapes. North of the trail is a large stand of trees. A man wearing a dark cloak and cowl stands at the edge of the trees, beckoning you.</p>
 </div>
 
-If Muriel is with the party, she recognizes the man's cloak as Davian Martikov’s and urges the players to meet him.
+If [[Non-Player Characters/Town of Vallaki/Muriel Vinshaw|Muriel]] is with the party, she recognizes the man's cloak as Davian Martikov’s and urges the players to meet him.
 
 > [!lore]+ **History of the Winery**
 > Long ago, before Strahd von Zarovich first conquered the valley, the tribes of the First Folk were brutally united when Kavan the Blood-Drinker, a young chieftain, destroyed the hierarchy of the druidic caste and waged bloody war upon his neighbors.
@@ -324,14 +324,14 @@ The two men resembling Urwin Martikov are Adrian and Elvir Martikov, respectivel
 > * **Martin and Viggo** don’t know about Davian’s feud with Urwin, who they have never met. They don’t understand the full nature of Elric’s revolt against Castle Ravenloft, but know enough to understand that he died there. They most often feel playful, bored, fearful, intrigued, or excited, and should make the players feel flattered, amused, and endeared to them.
 > * **Davian** is the patriarch of the Martikov family and the widower of his late wife, Angelika Oraonova. Publicly, he avows that Elric was a fool, insubordinate, and disobedient for refusing Davian’s command to stay away from Castle Ravenloft. Deep down, Davian is shattered that the last words he spoke to his son before Elric’s death were, “*And don’t come back!*" Davian most often feels annoyed, irritated, satisfied, or grumpy, and should make the players feel insulted, grateful, and sympathetic to him.
 
-Davian greets Muriel with obvious familiarity, then gruffly asks the players to identify themselves and explain their presence. If informed that the players have been sent by Urwin Martikov, Davian snorts and scoffs at “the audacity of that lout." 
+Davian greets [[Non-Player Characters/Town of Vallaki/Muriel Vinshaw|Muriel]] with obvious familiarity, then gruffly asks the players to identify themselves and explain their presence. If informed that the players have been sent by Urwin Martikov, Davian snorts and scoffs at “the audacity of that lout." 
 
 Davian curtly introduces each member of the family if asked. He is also willing to tersely confirm that Urwin Martikov is his son, though refuses to speak further of their relationship.
 ### Davian’s Request
 Upon learning that the players have been sent to investigate the delayed wine shipments, Davian is glad to share the following information:
 
 * Three days before the players received Urwin’s request (see [[#J1a. Urwin’s Request]] above), four druids of the Forest Folk invaded the Wizard of Wines and drove the Martikovs out. Davian and his family have hidden themselves away in this hidden cavern ever since.
-* The druids are accompanied by several dozen blights, created by the Gulthias Tree upon Yester Hill, as well as three **greater strix** created by the swamp-witch, Baba Lysaga, who dwells in Berez. The strix have been patrolling the skies, preventing the Martikovs from escaping.
+* The druids are accompanied by several dozen blights, created by the Gulthias Tree upon Yester Hill, as well as three **greater strix** created by the swamp-witch, [[Non-Player Characters/Berez/Baba Lysaga|Baba Lysaga]], who dwells in [[Act III - The Broken Land/Arc Q - A Shining Beacon|Berez]]. The strix have been patrolling the skies, preventing the Martikovs from escaping.
 * Davian isn’t entirely sure why the druids attacked the winery, why they’re still inside, or why Baba Lysaga is assisting them. 
 
 A DC 12 Wisdom (Insight) check suggests that Davian might know more than he’s letting on, but he steadfastly refuses to explain further beyond noting that, “Yester Hill isn’t far from here. The Forest Folk have been terrible neighbors for years, and we haven’t been shy about letting them know that. Looks like this is their revenge." A second DC 12 Wisdom (Insight) check reveals that he’s not telling the entire truth; if challenged, Davian responds by irritatedly promising to give the players his family’s “whole damn ledger" if they get rid of the druids first.
@@ -355,14 +355,14 @@ Assuming the players do not intervene, the following sequence then unfolds:
 * Elvir snaps back, insisting that Davian “drove Elric away, just like he did Urwin." Davian’s face colors bright red, and he shouts, “*Enough!*"
 * Elvir snarls, turns, and sits cross-legged in a damp alcove away from the rest of the family, facing a wall. Stefania and Adrian move to flank Davian and engage him in hushed whispers, both looking stricken.
 
-The players can notice that Claudiu looks pale and vaguely guilty, and that Muriel’s complexion has taken on an ashen pallor, her face becoming a mask of unreadable stone.
+The players can notice that Claudiu looks pale and vaguely guilty, and that [[Non-Player Characters/Town of Vallaki/Muriel Vinshaw|Muriel]]’s complexion has taken on an ashen pallor, her face becoming a mask of unreadable stone.
 
 As the family splinters, Dag approaches the players and greets them with a sheepish grin. In a low voice, he apologizes for his in-laws’ behavior, and promises that they’re good people “once you get to know them."
 
 Dag can share the following information if asked:
 
-* Ten years ago, someone stole something valuable from the winery while Urwin Martikov was keeping watch. Davian blamed Urwin for the theft, convinced that he’d been fooling around with his betrothed, Danika Dorakova, instead of paying attention. Davian and Urwin had a furious fight the following morning, which ended with Urwin departing the winery for Vallaki. Urwin hasn’t returned since, and Davian never recovered the thing that was stolen, nor did he ever find the culprit. (If asked what was stolen, Dag says only that it was a gemstone—a prized family heirloom, and one of Davian’s most treasured possessions.)
-* Just over three months ago, Elric Martikov, Elvir’s twin brother and Muriel’s betrothed, joined a rebellion in the village of Barovia that marched on Castle Ravenloft. Elric had always been bright-eyed and optimistic—a dreamer who believed in a better future for his loved ones. Davian forebade him from going, and ordered Elric never to return when he disobeyed. Davian’s words came true—Elric died in the castle, and his death shattered the Martikov family once again.
+* Ten years ago, someone stole something valuable from the winery while Urwin Martikov was keeping watch. Davian blamed Urwin for the theft, convinced that he’d been fooling around with his betrothed, Danika Dorakova, instead of paying attention. Davian and Urwin had a furious fight the following morning, which ended with Urwin departing the winery for [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]]. Urwin hasn’t returned since, and Davian never recovered the thing that was stolen, nor did he ever find the culprit. (If asked what was stolen, Dag says only that it was a gemstone—a prized family heirloom, and one of Davian’s most treasured possessions.)
+* Just over three months ago, Elric Martikov, Elvir’s twin brother and Muriel’s betrothed, joined a rebellion in the village of Barovia that marched on [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]]. Elric had always been bright-eyed and optimistic—a dreamer who believed in a better future for his loved ones. Davian forebade him from going, and ordered Elric never to return when he disobeyed. Davian’s words came true—Elric died in the castle, and his death shattered the Martikov family once again.
 * Claudiu was especially close to his two youngest uncles, and Elric most of all. He and Elvir haven’t taken Elric’s death well, with both falling into a kind of melancholic despair and Elvir lashing out at anyone who gets on his bad side.
 
 If asked, Muriel confirms in a raw, quiet whisper that Elric “inspired us all," but that she—and Elric’s family—have had to learn to get by without him. She then excuses herself and moves to sit beside Elvir.
@@ -391,7 +391,7 @@ If the players are still willing to enter the winery to defeat the druids within
 Davian also informs the players of the existence of an emergency cache that he kept in the winery, but wasn’t able to retrieve before the druids drove them out. The cache, which is hidden in the barrel nearest the northwest corner in a storage room on the main floor of the winery, contains healing supplies and other items that the players might find useful. (Davian doesn’t remember exactly what he left in the cache, but invites the players to keep its full contents for themselves—assuming, of course, that the druids haven’t found and raided it already.)
 ### Brown Mold
 <span class="citation"><em>This scene takes place in Chapter 12, Area W15.</em></span>
-Once the players are ready to go, Muriel approaches them and wishes them luck. (She won’t be accompanying them into the winery, having decided to remain in the cavern to protect the Martikovs should any trouble arise.)
+Once the players are ready to go, [[Non-Player Characters/Town of Vallaki/Muriel Vinshaw|Muriel]] approaches them and wishes them luck. (She won’t be accompanying them into the winery, having decided to remain in the cavern to protect the Martikovs should any trouble arise.)
 
 As the players pass through the tunnel, read:
 
@@ -567,10 +567,10 @@ The woman is a **druid naturalist** (see statistics below) and is surrounded by 
 If the players reveal themselves without attacking, the druid tilts her head and asks, in a sing-song voice, how such “little mice" found their way into the winery. The druid, who is named Silvia, knows the following information, which she can share as a means of luring the players into a false sense of security:
 
 * The Forest Folk have come from Yester Hill to the south, which lies beside the Whispering Wall. (The Whispering Wall is largely as described in **Y5. Wall of Fog**, except that the ancient god that created the Wall was female.)
-* The Forest Folk have a long enmity with the ravens of the winery and their masters, the “feathered ones," whose ancient service to “the Shadowed Lord" (the Forest Folk’s name for Strahd) inspired the name and sigil of Castle Ravenloft. (This is a lie. A player who makes a DC 10 Wisdom (Insight) check identifies that Silvia sounds slightly too eager as she says it, her voice slightly too smooth.)
+* The Forest Folk have a long enmity with the ravens of the winery and their masters, the “feathered ones," whose ancient service to “the Shadowed Lord" (the Forest Folk’s name for Strahd) inspired the name and sigil of [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]]. (This is a lie. A player who makes a DC 10 Wisdom (Insight) check identifies that Silvia sounds slightly too eager as she says it, her voice slightly too smooth.)
 * The “feathered ones" have powerful magic here—magic that the Forest Folk seek to restore to its rightful place. (Silvia is referring to the Keepers of the Feather and the third enchanted gem, which she describes as “the seed of the pine tree, wrought in crystal stone.")
 * Silvia is torturing the raven because it is a servant of the “feathered ones," and therefore knows where the magic seed may be kept. (Silvia is mistaken.)
-* The Forest Folk have allied with the “witch of the swamp," whose flying servants are called “strix." (Silvia is referring to Baba Lysaga.) The witch despises ravens and resents the authority of Castle Ravenloft. (This is a lie. A player who makes a DC 10 Wisdom (Insight) check identifies that Silvia hesitates slightly in delivering her words.)
+* The Forest Folk have allied with the “witch of the swamp," whose flying servants are called “strix." (Silvia is referring to [[Non-Player Characters/Berez/Baba Lysaga|Baba Lysaga]].) The witch despises ravens and resents the authority of Castle Ravenloft. (This is a lie. A player who makes a DC 10 Wisdom (Insight) check identifies that Silvia hesitates slightly in delivering her words.)
 
 Silvia invites the players to approach the caged raven and see “the mark of the night" upon its chest, which brands all of Strahd’s servants. (This is a trick meant to lure the players into the open. A player who makes a DC 10 Wisdom (Insight) check notices Silvia’s eyes dart toward the twig blights around her as she asks the players to approach.)
 
@@ -869,7 +869,7 @@ Lorghoth greets the players with maddened cackling upon their arrival, inviting 
 If the players speak with him, Lorghoth is glad to share the following information:
 * The Forest Folk have come from Yester Hill to the south, which lies beside the Whispering Wall. (The Whispering Wall is largely as described in **Y5. Wall of Fog**, except that the ancient god that created the Wall was female.)
 * The Forest Folk worship Strahd von Zarovich as a god, whom they call “the Shadowed Lord." The ravens of the winery and their masters, whom the Forest Folk call “the feathered ones," are old enemies of Strahd and his servants.
-* The Forest Folk have come to “claim what is theirs"—ancient magic that the “feathered ones" stole from the druids’ ancestors long ago. To this end, they have allied with the “witch of the swamp," whose flying servants are called “strix," and whose children call her the “Mother of Darkness." They have also allied with a woman they call the “Child of Blood," whose mastery of magic has given them new power over the Gulthias tree and its spawn. (Lorghoth is referring to Baba Lysaga and Ludmilla Vilisevic, respectively.)
+* The Forest Folk have come to “claim what is theirs"—ancient magic that the “feathered ones" stole from the druids’ ancestors long ago. To this end, they have allied with the “witch of the swamp," whose flying servants are called “strix," and whose children call her the “Mother of Darkness." They have also allied with a woman they call the “Child of Blood," whose mastery of magic has given them new power over the Gulthias tree and its spawn. (Lorghoth is referring to [[Non-Player Characters/Berez/Baba Lysaga|Baba Lysaga]] and [[Non-Player Characters/Castle Ravenloft/Ludmilla Vilisevic|Ludmilla]] Vilisevic, respectively.)
 * The dead tree is a cutting of the Gulthias tree, which grows atop Yester Hill. Soon, nurtured by the *Gulthias staff*, it will grow to rival its parent, and give birth to blights of its own.
 * Tomorrow at dawn, the mighty Wintersplinter will march from Yester Hill and reduce the winery to rubble, turning it into mulch to feed the young Gulthias tree. (Lorghoth won’t say who or what Wintersplinter is, except to cackle “Wintersplinter comes, and all will crumble in his wake!")
 
@@ -920,7 +920,7 @@ When the players break Lorghoth’s staff, read:
 <p>At the center of the room, the bark of the dead, gnarled tree begins to boil and melt, the trunk collapsing in upon itself until there's nothing left but a pool of thick, grayish sludge. With a final, wheezing wail, the staff disintegrates, leaving behind a stream of fine, gray ash that wisps away on the wind.</p>
 </div>
 
-The three strix fight until two have been destroyed or until the players break the *Gulthias staff*, at which point any surviving strix retreat to Berez to report to Baba Lysaga.
+The three strix fight until two have been destroyed or until the players break the *Gulthias staff*, at which point any surviving strix retreat to [[Act III - The Broken Land/Arc Q - A Shining Beacon|Berez]] to report to Baba Lysaga.
 
 The thunderstorm subsides soon after Lorghoth’s defeat, though the rain lingers to wash away the sludge and blight. The rain stops completely when the players first descend to meet the Martikovs.
 ***Milestone.*** Reclaiming the winery completes a story milestone. When the players defeat Lorghoth and break his staff, award each player 2,000 XP.
@@ -932,9 +932,9 @@ Elvir and Claudiu are awed and slightly shaken at the players’ ability to defy
 After thanking and congratulating the players, Davian Martikov reveals that he has not been entirely forthright with the players. He then agrees to share the following information:
 
 * The Forest Folk didn’t attack merely because they are “bad neighbors." Davian and his family are members of the Keepers of the Feather—a secret society dedicated to aiding those who oppose Strahd von Zarovich and his servants. The Keepers of the Feather, which aim to guide and shelter others rather than fighting Strahd directly, uses ravens as their messengers and spies.
-* Davian is the leader of the organization, and all of his children are also members. (Davian can confirm that Muriel Vinshaw and Urwin Martikov are also members of the Keepers of the Feather, as well as a number of other Barovians scattered across the valley.)
-* Just over three months ago, one of Davian’s youngest sons—Elvir’s twin brother, Elric—planned to travel to Castle Ravenloft to join the revolt against Strahd. Davian forebade it, reminding Elric that the Keepers of the Feather were spies, not fighters, and that joining the rebellion openly could compromise the secret of their existence. Elric defied him and joined the revolt anyway.
-* Elric died in Castle Ravenloft. Not long thereafter, Baba Lysaga’s **scarecrows** and the druids of Yester Hill—often accompanied by a mysterious, dark-skinned woman—began staging attacks against the winery. 
+* Davian is the leader of the organization, and all of his children are also members. (Davian can confirm that [[Non-Player Characters/Town of Vallaki/Muriel Vinshaw|Muriel]] Vinshaw and Urwin Martikov are also members of the Keepers of the Feather, as well as a number of other Barovians scattered across the valley.)
+* Just over three months ago, one of Davian’s youngest sons—Elvir’s twin brother, Elric—planned to travel to [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]] to join the revolt against Strahd. Davian forebade it, reminding Elric that the Keepers of the Feather were spies, not fighters, and that joining the rebellion openly could compromise the secret of their existence. Elric defied him and joined the revolt anyway.
+* Elric died in Castle Ravenloft. Not long thereafter, [[Non-Player Characters/Berez/Baba Lysaga|Baba Lysaga]]’s **scarecrows** and the druids of Yester Hill—often accompanied by a mysterious, dark-skinned woman—began staging attacks against the winery. 
 * The Winery’s best-kept secret is the source of its wine: three green gemstones the size and shape of pinecones enchanted with plant-growing magic. Since its founding, the Martikovs have used these gemstones to grow three vintages of wine: Champagne du le Stompe, Red Dragon Crush, and Purple Grapemash No. 3. 
 * However, ten years ago, the gemstone producing the Champagne du le Stompe was stolen. Davian doesn’t know who stole it, but blames Urwin for failing to keep watch. Although Urwin claimed to have seen an old woman in the fog with a raven perched upon her shoulder, and the same raven carrying the gem away shortly thereafter, Davian has never believed his story—largely because the Keepers of the Feather know all of the ravens in the valley.
 * Three weeks ago, Baba Lysaga’s **scarecrows** uncovered and stole the second gem, depriving the winery of the means of producing Red Dragon Crush. Five days ago, the Forest Folk attacked and stole the third gem, preventing the Martikovs from producing Purple Grapemash No. 3. The Keepers staged an attack on Yester Hill in an attempt to reclaim it, but were easily driven back. (“We’re spies," Davian notes mournfully, “not warriors.")
@@ -971,7 +971,7 @@ As the players travel south, four **swarms of ravens** take off from a nearby tr
 
 While traveling along the path, Muriel notes wistfully that she used to walk it with a friend of hers not long ago. "It's so strange," she says quietly, "how quickly things can change for the worse." If asked, Muriel can share that her "friend" was Elric Martikov, Elvir's twin brother and her own betrothed, and that Elric proposed to her during a walk in the woods along this very path. If asked her "friend's" fate, Muriel replies curtly, "He died," and refuses to elaborate; if pushed, she shares only that his death is too fresh and painful in her mind to relive it.
 ## J4a. Kavan’s Cairn
-Three-quarters of a mile and fifteen minutes south of the winery, if she is with the players, Muriel briefly leads them off of the main path and onto an old and overgrown footpath. If the players follow, read:
+Three-quarters of a mile and fifteen minutes south of the winery, if she is with the players, [[Non-Player Characters/Town of Vallaki/Muriel Vinshaw|Muriel]] briefly leads them off of the main path and onto an old and overgrown footpath. If the players follow, read:
 
 <div class="description">
 <p>The footpath veers deeper into the undergrowth, the vines and underbrush clutching at your clothing like soft, grasping hands as you cut forward through the tangled flora. The trees grow close together here, and the air grows thick with heavy silence. </p>
@@ -1067,11 +1067,11 @@ A player with a passive Wisdom (Perception) score of 17 or higher sees a humanoi
 
 At Muriel’s request, Kavan can share the following information about the Forest Folk of Yester Hill:
 
-* The druids of the Forest Folk have been more active lately, gathering berserkers from the northern basin and leading blights of the Gulthias Tree down to the lands below. They appear to have obtained a new leader: a dark-skinned woman clad in a white gown and a golden tiara, with piercing eyes and a pair of sharp fangs. Kavan believes her to be a mage, having seen her conjure strange lights and sounds. (This is Ludmilla Vilisevic, one of Strahd’s vampiric brides.)
+* The druids of the Forest Folk have been more active lately, gathering berserkers from the northern basin and leading blights of the Gulthias Tree down to the lands below. They appear to have obtained a new leader: a dark-skinned woman clad in a white gown and a golden tiara, with piercing eyes and a pair of sharp fangs. Kavan believes her to be a mage, having seen her conjure strange lights and sounds. (This is [[Non-Player Characters/Castle Ravenloft/Ludmilla Vilisevic|Ludmilla]] Vilisevic, one of Strahd’s vampiric brides.)
 * Recently, the Forest Folk of Yester Hill—which Kavan’s people once called Sarmizeget—obtained something both new and yet incredibly old: an enchanted gemstone once belonging to Kavan's people that he thought lost long ago. The Forest Folk have constructed an enormous effigy of wood and earth atop the hill, within the great stone circle that serves as their meeting place, and placed the gemstone within the statue’s chest.
 * Some of the Forest Folk appear to be preparing to instill the power of the gemstone within the statue, which is woven from the roots of the Gulthias Tree that grows atop Yester Hill. The ritualists have bonded themselves to the tree’s bloodthirsty roots, and plan to harness the power of the eternal storm above Yester Hill to give life to the being within the statue.
 * The Gulthias Tree is a dark and corrupted entity, and an accomplice to the druids’ will. Kavan warns them that the tree might attempt to obstruct their efforts, but informs them that radiance burns it and slows its new growth. He notes that the tree thirsts especially for cursed blood, which strengthens and restores it.
-* There are more than a dozen druids and berserkers now atop Yester Hill, though more have been arriving every day. They appear to be waiting for the one they call the “Shadowed Lord"—the lord of the fortress to the east. (Kavan is referring to Strahd von Zarovich and Castle Ravenloft.)
+* There are more than a dozen druids and berserkers now atop Yester Hill, though more have been arriving every day. They appear to be waiting for the one they call the “Shadowed Lord"—the lord of the fortress to the east. (Kavan is referring to Strahd von Zarovich and [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]].)
 
 Kavan advises the players that the druids of the Forest Folk appear to be far less capable than their ancestors. Should the players succeed in disrupting their ritual — such as by removing the gemstone from the statue’s chest before the ritual is complete— the resulting backlash from the storm’s harnessed energy could kill any surviving ritualists.
 
@@ -1103,8 +1103,8 @@ The object in Beucephalus’ saddlebags is **Strahd’s animated armor** (as des
 ### Greeting Strahd
 Strahd greets the players with familiarity. He also addresses their companions as follows:
 
-* If Ireena is present, he bows lightly and greets her with a polite smile. "Lady Kolyana," he says. "A pleasure, as always."
-* If Muriel is present, he greets her with lazy, feigned surprise, asking the players to introduce him to their "new friend." His eyes then flicker to Muriel's hairline, and he suggests, quietly, that she appears familiar, before wondering aloud whether they have met before. (Muriel's eyes widen, and she swiftly denies it. Strahd knows, of course, that Muriel is the **wereraven** that eavesdropped on him at Tser Pool in [[Act I - Into the Mists/Arc C - Into the Valley]]. He allows her to live because he presumes she has already delivered her message, and because he has already accepted the need to sacrifice his *animated armor* in Arabelle's place.)
+* If [[Non-Player Characters/Village of Barovia/Ireena Kolyana|Ireena]] is present, he bows lightly and greets her with a polite smile. "Lady Kolyana," he says. "A pleasure, as always."
+* If [[Non-Player Characters/Town of Vallaki/Muriel Vinshaw|Muriel]] is present, he greets her with lazy, feigned surprise, asking the players to introduce him to their "new friend." His eyes then flicker to Muriel's hairline, and he suggests, quietly, that she appears familiar, before wondering aloud whether they have met before. (Muriel's eyes widen, and she swiftly denies it. Strahd knows, of course, that Muriel is the **wereraven** that eavesdropped on him at Tser Pool in [[Act I - Into the Mists/Arc C - Into the Valley]]. He allows her to live because he presumes she has already delivered her message, and because he has already accepted the need to sacrifice his *animated armor* in Arabelle's place.)
 
 Strahd then asks what business the players might have on the road to Yester Hill—especially at such a dark and forsaken time of night. “I find that it is always the final hours before dawn that I most enjoy," Strahd says, “but I confess I did not expect to find kindred spirits on such a lonely path this eve."
 
@@ -1112,11 +1112,11 @@ If the players attempt to conceal their purpose, Strahd guesses aloud that they 
 
 In either case, Strahd invites the players to walk alongside him as he rides to Yester Hill, “for the road is dark, and company always welcome." If they decline, he chides them for their rudeness and directs Beucephalus forward before vanishing amidst the shadows ahead. (This is Beucephalus’s ***ethereal stride*** feature, spiriting it and Strahd away to the Ethereal Plane.)
 ### Walking with Strahd
-If the players accept Strahd’s invitation and walk alongside him, he begins by asking them how they have enjoyed their time in Barovia following their last meeting. If the players drove off Volenta Popofsky in [[Arc D - St. Andral's Feast]], Strahd notes that she appears to have had *quite* the memorable encounter with them—a tale he quite enjoyed hearing upon her return to Castle Ravenloft. (“Like my other brides, she does always endeavor to please me—though I must abashedly confess that my favor can be a fickle one.")
+If the players accept Strahd’s invitation and walk alongside him, he begins by asking them how they have enjoyed their time in Barovia following their last meeting. If the players drove off [[Non-Player Characters/Castle Ravenloft/Volenta Popofsky|Volenta]] Popofsky in [[Arc D - St. Andral's Feast]], Strahd notes that she appears to have had *quite* the memorable encounter with them—a tale he quite enjoyed hearing upon her return to [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]]. (“Like my other brides, she does always endeavor to please me—though I must abashedly confess that my favor can be a fickle one.")
 
 If the players ask, Strahd is glad to introduce his **nightmare** steed, Beucephalus. “The Wonder-Horse, they called him in life," Strahd notes, tracing his hands through the flames of the nightmare’s mane. “He is a different sort of wonder now."
 
-If the players inquire as to the dinner at Ravenloft, or if the players previously rejected Rahadin’s invitation to dine with Strahd in [[Arc O - Dinner with the Devil]], Strahd shares that he is looking forward to dining with them at his castle, and that he hopes that they share his enthusiasm.
+If the players inquire as to the dinner at Ravenloft, or if the players previously rejected [[Non-Player Characters/Castle Ravenloft/Rahadin|Rahadin]]’s invitation to dine with Strahd in [[Arc O - Dinner with the Devil]], Strahd shares that he is looking forward to dining with them at his castle, and that he hopes that they share his enthusiasm.
 
 If the players inquire as to the contents of Strahd’s saddlebags, Strahd merely states that they are his personal belongings—an old possession that he has come to dispose of in exchange for something new. (Strahd won’t elaborate further.)
 
@@ -1133,7 +1133,7 @@ As he and the players approach Yester Hill, Strahd asks them—in a bored, disin
 
 As in his first encounter with the players, Strahd is glad to accept any reasonable argument that the players might make in support of Strahd’s neutrality, though he once again revels in playing Devil’s advocate throughout the conversation. Strahd might eventually accept the following arguments, among others:
 
-* As with Volenta, Strahd appears to enjoy seeing his servants tested and challenged. Allowing the players to fight the Forest Folk at Yester Hill will provide an additional opportunity to do so.
+* As with [[Non-Player Characters/Castle Ravenloft/Volenta Popofsky|Volenta]], Strahd appears to enjoy seeing his servants tested and challenged. Allowing the players to fight the Forest Folk at Yester Hill will provide an additional opportunity to do so.
 * Strahd appears to be interested enough in the players to have invited them to dine personally at his castle. Killing the players now, before they’ve had a chance to do so, would be a waste.
 * The Wizard of Wines is an economic pillar of the Barovian community. Depriving Strahd’s people of wine would do harm to an old and honorable family, and bring sadness and despair to the people they serve.
 
@@ -1179,7 +1179,7 @@ Just beside the entrance to the ring of black boulders that forms the **Druids�
 <p>He is mounted upon his fiery steed, which hovers nearly ten feet off of the ground above you. His cloak whips gently in the chill air, and a small, contemplative smile curves his lips as he turns a small object over in his hand. "Ludmilla was always one to put on a show."</p>
 </div>
 
-The thirteen figures around the statue’s base are thirteen **druid naturalists.** The four figures protecting them are two **druid assailants** and two **berserkers.** The woman is Ludmilla Vilisevic, one of Strahd’s vampiric brides.
+The thirteen figures around the statue’s base are thirteen **druid naturalists.** The four figures protecting them are two **druid assailants** and two **berserkers.** The woman is [[Non-Player Characters/Castle Ravenloft/Ludmilla Vilisevic|Ludmilla]] Vilisevic, one of Strahd’s vampiric brides.
 
 > [!combat]- **Combat - The Ritual's Guards**  
 > **Combat Level**: Bruising
@@ -1197,7 +1197,7 @@ The thirteen figures around the statue’s base are thirteen **druid naturalists
 
 A player who succeeds on a DC 14 Wisdom (Perception) check notices that the object in Strahd’s hand is an old, yet well-carved wooden chess piece: a pawn.
 ## J5b. Ludmilla's Challenge
-Shortly after the players enter the circle, any players still looking at the circle of chanting druids see Ludmilla turn, notice them, and vanish in a curl of mist. She then reappears before the players in similar fashion, standing just thirty feet away.
+Shortly after the players enter the circle, any players still looking at the circle of chanting druids see [[Non-Player Characters/Castle Ravenloft/Ludmilla Vilisevic|Ludmilla]] turn, notice them, and vanish in a curl of mist. She then reappears before the players in similar fashion, standing just thirty feet away.
 
 ![[Ludmilla.png]]
 <span class="credit">"Ludmilla Vilisevic" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -1226,7 +1226,7 @@ Unless the players intervene, the following scene then unfolds:
 * Ludmilla recognizes the pawn in Strahd’s hand and abruptly becomes stony-faced, her voice going sharp and cold. She then eyes the players with distaste, her lip curling, and notes, "Another one of your games, then. Very well, my Lord. I assure you, however, that you shall be disappointed."
 * Strahd gives Ludmilla a small smile, and says, “Perhaps. But I have always relished the opportunity for surprise." He and Beucephalus then vanish, disappearing into the Ethereal Plane through the use of Beucephalus’ ***ethereal stride***.
 
-Ludmilla then greets the players. If they have previously defeated Volenta in [[Arc D - St. Andral's Feast]], Ludmilla's eyes narrow and she adds, "I have heard tell of your encounter with my sister-bride. I imagine you thought you could rest easy atop your laurels. But Volenta has always been a halfwit, a hothead, and a fool. You will find me a far less pleasant adversary—as these pitiful ravens and their ilk have done."
+Ludmilla then greets the players. If they have previously defeated [[Non-Player Characters/Castle Ravenloft/Volenta Popofsky|Volenta]] in [[Arc D - St. Andral's Feast]], Ludmilla's eyes narrow and she adds, "I have heard tell of your encounter with my sister-bride. I imagine you thought you could rest easy atop your laurels. But Volenta has always been a halfwit, a hothead, and a fool. You will find me a far less pleasant adversary—as these pitiful ravens and their ilk have done."
 
 As this conversation unfolds, the two **berserkers** and two **druid assailants** split off from the protective ring around the circle of druids and approach the players, moving to flank Ludmilla. They arrive at Ludmilla's location two rounds after she first greets the players.
 
@@ -1236,14 +1236,14 @@ Otherwise, Ludmilla can share the following information if asked:
 
 * Three months ago, when Doru's rebellion awoke Strahd from his slumber, there was a raven among them—but no ordinary raven. It seemed to possess an intelligence far beyond any ordinary beast.
 * Strahd took the raven captive, and when Ludmilla returned to the castle—"to my Lord's service"—she was granted permission to investigate its properties. She soon found that the raven swiftly regenerated any wounds dealt to it, even those that seemed to be mortal—except those inflicted by silver or necrotic magic. She surmised that she had discovered a **wereraven**—a mythic counterpart to the wolfish lycanthropes that ranged in packs across the Barovian valley.
-* With her research completed, Ludmilla moved to vivisect the creature, aiming to uncover any final hidden attributes. "It shrieked and squealed like a pig," she notes coldly, "but fortunately, the silver of its restraints burned it too fiercely for it to even contemplate the possibility of escape." (If Muriel is with the players, she begins to tremble, her hand curling tightly around the hilt of her shortsword until her knuckles turn white.)
-* When the raven finally expired, it reverted to the form of a man—seemingly proving Ludmilla's theory. Ludmilla took the body to Baba Lysaga—an old colleague and mentor of hers—in Berez. Through Baba Lysaga's guidance, she tracked the wereraven to a seditious and traitorous family that dwelled in the Wizard of Wines winery—the Martikov clan.
+* With her research completed, Ludmilla moved to vivisect the creature, aiming to uncover any final hidden attributes. "It shrieked and squealed like a pig," she notes coldly, "but fortunately, the silver of its restraints burned it too fiercely for it to even contemplate the possibility of escape." (If [[Non-Player Characters/Town of Vallaki/Muriel Vinshaw|Muriel]] is with the players, she begins to tremble, her hand curling tightly around the hilt of her shortsword until her knuckles turn white.)
+* When the raven finally expired, it reverted to the form of a man—seemingly proving Ludmilla's theory. Ludmilla took the body to [[Non-Player Characters/Berez/Baba Lysaga|Baba Lysaga]]—an old colleague and mentor of hers—in [[Act III - The Broken Land/Arc Q - A Shining Beacon|Berez]]. Through Baba Lysaga's guidance, she tracked the wereraven to a seditious and traitorous family that dwelled in the Wizard of Wines winery—the Martikov clan.
 * Baba Lysaga vowed to see the wereravens dead, and Ludmilla brokered an alliance between her and the druids of Yester Hill, who were eager to bring the downfall of any who defied their "Shadowed Lord." 
 * It was sheer luck that Baba Lysaga's scarecrows uncovered the source of the winery's fecundity—a pair of enchanted gemstones that the Forest Folk recognized as heirlooms stolen from their ancestors. The druids were, understandably, eager to reclaim their heritage from the feathered usurpers.
 
 Ludmilla concludes by warning the players that, though they may view her as their enemy, their "raven friends" cannot be trusted. "What other secrets are they hiding from you, I wonder?" she asks, eyeing Muriel (if present) thoughtfully. "But a good specimen never holds its secrets for long."
 ## J5c. The Ritual Begins
-As the conversation winds down, or if the players attack or attempt to bypass Ludmilla, read:
+As the conversation winds down, or if the players attack or attempt to bypass [[Non-Player Characters/Castle Ravenloft/Ludmilla Vilisevic|Ludmilla]], read:
 
 <div class="description">
 <p>The dark storm roils overhead — and a single bolt of lightning lances down from the boiling clouds, surrounding the statue in a nimbus of white, blinding light. A deep groan seems to shudder through the very earth of the hill, and the wind around you whips up into a hot and heavy gale, tearing through the tall grass as it shrieks across the hilltop.</p>
@@ -1270,7 +1270,7 @@ The lightning strike signals the true beginning of the druids’ ritual. Once th
 > 
 > At the end of each hour that a player is infested by the tree’s roots, they must succeed on a DC 17 Constitution saving throw or take 1d6 necrotic damage. Their hit point maximum is reduced by an amount equal to the necrotic damage. This reduction lasts until the player finishes a long rest, and the player dies if this effect reduces their hit point maximum to 0.
 ## J5d. The Druidic Guards
-Immediately after the ritual begins, the two **druid assailants** and two **berserkers** work to prevent the players and Muriel from approaching the statue, by force if necessary. If she hasn’t already, Ludmilla retreats to the ritualists’ circle as soon as combat breaks out. As she does, she uses her action to create a *shroud of mist* with a 60-foot radius around the statue to cover her retreat. (See [[Arc J - The Stolen Gem#The Shroud of Mist|The Shroud of Mist]] below.) She then uses her bonus action to summon her **shroud of shadows** (see below).
+Immediately after the ritual begins, the two **druid assailants** and two **berserkers** work to prevent the players and [[Non-Player Characters/Town of Vallaki/Muriel Vinshaw|Muriel]] from approaching the statue, by force if necessary. If she hasn’t already, [[Non-Player Characters/Castle Ravenloft/Ludmilla Vilisevic|Ludmilla]] retreats to the ritualists’ circle as soon as combat breaks out. As she does, she uses her action to create a *shroud of mist* with a 60-foot radius around the statue to cover her retreat. (See [[Arc J - The Stolen Gem#The Shroud of Mist|The Shroud of Mist]] below.) She then uses her bonus action to summon her **shroud of shadows** (see below).
 <br>
 
 ![[Yester Hill Layout (Presentation) (1).png]]
@@ -1279,9 +1279,9 @@ Immediately after the ritual begins, the two **druid assailants** and two **bers
 > [!info]+ **The Size of the Hill**
 > The area encompassed by the druids' circle is approximately two hundred and fifty feet in diameter, or approximately one hundred and twenty-five feet in radius. The players must travel approximately sixty feet from their entry point in the circle—where the **berserkers** and **druid assailants** obstruct them—to reach the edge of Ludmilla's shroud of mist.
 ## J5e. Ludmilla's Barricade
-Once the players bypass or defeat the druids and berserkers guarding the entrance to the circle, Ludmilla and her allies create two barriers to obstruct them: a shroud of mist, followed by a wall of roots.
+Once the players bypass or defeat the druids and berserkers guarding the entrance to the circle, [[Non-Player Characters/Castle Ravenloft/Ludmilla Vilisevic|Ludmilla]] and her allies create two barriers to obstruct them: a shroud of mist, followed by a wall of roots.
 ### The Shroud of Mist
-This hollow cylinder of gray fog has a radius of 60 feet and is 150 feet high, with its opaque, six-inch-thick, "curtain"-like edges obscuring its interior, which is filled and lightly obscured by faint, harmless mist. The cylinder lasts for 10 minutes, or until Ludmilla dismisses it as a bonus action. (Maintaining the shroud doesn't require Ludmilla's concentration.) 
+This hollow cylinder of gray fog has a radius of 60 feet and is 150 feet high, with its opaque, six-inch-thick, "curtain"-like edges obscuring its interior, which is filled and lightly obscured by faint, harmless mist. The cylinder lasts for 10 minutes, or until [[Non-Player Characters/Castle Ravenloft/Ludmilla Vilisevic|Ludmilla]] dismisses it as a bonus action. (Maintaining the shroud doesn't require Ludmilla's concentration.) 
  
 A non-undead creature that comes into contact with the mist for the first time on a turn must succeed on a DC 15 Constitution saving throw or take 10 (3d6) necrotic damage and be slowed until the start of its next turn. (It must spend 1 extra foot of movement for every foot it moves using its speed, attack rolls against it have advantage, and it has disadvantage on Dexterity saving throws.)
 
@@ -1294,7 +1294,7 @@ A non-undead creature that comes into contact with the mist for the first time o
 > * Ludmilla’s thin ring of mist begins twenty feet away from the outer edge of the wall of roots.
 > * Ludmilla remains above the wall of roots and within the circle enclosed by the ring of mist.
 ### The Wall of Roots
-The first time that a player passes through Ludmilla’s shroud of mist, read:
+The first time that a player passes through [[Non-Player Characters/Castle Ravenloft/Ludmilla Vilisevic|Ludmilla]]’s shroud of mist, read:
 
 <div class="description">
 <p>A druid at the center of the circle lifts his hands high, clasping a thin, stone-gray wand in his pale, bony fingers. At his gesture, the ring of black roots pulsates as if alive, quivering and writhing as their blackened bark rises into the air.</p>
@@ -1303,7 +1303,7 @@ The first time that a player passes through Ludmilla’s shroud of mist, read:
 
 The druid is Svarog, and the wand that he wields is the one mentioned by Kavan. 
 
-If Muriel is with the players and takes the necrotic damage after passing through Ludmilla’s shroud of mist, a player watching her notices that she looks briefly surprised at the beginning of her turn the following round. (Muriel is disturbed that the necrotic damage dealt by the mist appears to be inhibiting her ***regeneration*** feature.)
+If [[Non-Player Characters/Town of Vallaki/Muriel Vinshaw|Muriel]] is with the players and takes the necrotic damage after passing through Ludmilla’s shroud of mist, a player watching her notices that she looks briefly surprised at the beginning of her turn the following round. (Muriel is disturbed that the necrotic damage dealt by the mist appears to be inhibiting her ***regeneration*** feature.)
 
 The statistics of the wall of roots are as follows:
 
@@ -1322,7 +1322,7 @@ The statistics of the wall of roots are as follows:
 > 
 > While grappled in this way, the creature takes 3 (1d6) bludgeoning damage plus 7 (2d6) piercing damage at the start of each of its turns. The roots have AC 15, 20 hit points, vulnerability to radiant damage, and immunity to piercing and psychic damage.
 ### Ludmilla's Provocations
-Once the players pass through the shroud of mist, Ludmilla also engages them in combat with her ***shroud of shadows*** activated. (Due to her automatic *contingency* feature, Ludmilla teleports away from the battlefield and flees if her first phase is reduced to 0 hit points.)
+Once the players pass through the shroud of mist, [[Non-Player Characters/Castle Ravenloft/Ludmilla Vilisevic|Ludmilla]] also engages them in combat with her ***shroud of shadows*** activated. (Due to her automatic *contingency* feature, Ludmilla teleports away from the battlefield and flees if her first phase is reduced to 0 hit points.)
 
 <div class="statblock">
     <h2>Ludmilla, First Form</h2>
@@ -1407,7 +1407,7 @@ In combat, Ludmilla prefers to begin by using ***entangling slime***, moving to 
 > [!abstract]+ **Hypnotic Pattern**
 > If any players fail their saving throws against Ludmilla's *hypnotic pattern*, one or more of the **swarms of ravens** descend to awaken them on initiative count 20 of the following round before returning to the skies.
 
-On Ludmilla's first turn in combat, if Muriel is present, Ludmilla also attempts to provoke her. The following sequence then unfolds, assuming the players do not intervene:[^1]
+On Ludmilla's first turn in combat, if [[Non-Player Characters/Town of Vallaki/Muriel Vinshaw|Muriel]] is present, Ludmilla also attempts to provoke her. The following sequence then unfolds, assuming the players do not intervene:[^1]
 
 [^1]: Inspired by *The Dark Knight*
 
@@ -1465,17 +1465,17 @@ In the three rounds following the ritual's disruption, the following events occu
 * On initiative count 10 of the following round, if any players remain within 30 feet of the statue, the **swarms of ravens** descend to carry them away, with a minimum of two swarms needed to carry a player of size Medium and a minimum of one swarm needed to carry a player of size Small or smaller.
 * On initiative count 0 of the following round, all creatures within 30 feet of the statue must make a DC 17 Constitution saving throw, taking 56 (16d6) lightning damage on a failure or half as much on a success.
 
-In addition, if still present on her next turn, Ludmilla uses her action to use her ***dimension door*** to escape, teleporting to the Gulthias grove to the south before returning to Castle Ravenloft.
+In addition, if still present on her next turn, [[Non-Player Characters/Castle Ravenloft/Ludmilla Vilisevic|Ludmilla]] uses her action to use her ***dimension door*** to escape, teleporting to the Gulthias grove to the south before returning to [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]].
 
 > [!abstract]+ **Strahd’s Wager**
 > If the players successfully stop the ritual, Strahd briefly reappears upon Beucephalus, hovering thirty feet above the ground on the northwest edge of the stone circle. Once noticed by the players, Strahd inclines his head toward the wall of fog to the west—through which the false image of a white fortress on a hill above a great city can be seen, quite distant, maybe a mile away—and nudges Beucephalus in its direction, and vanishes once again as the **nightmare** canters toward it.
 # J6. After the Ritual
 ## J6a. Muriel’s Confession
-If the players confront Muriel after the fight, she is willing to share the following information:
+If the players confront [[Non-Player Characters/Town of Vallaki/Muriel Vinshaw|Muriel]] after the fight, she is willing to share the following information:
 
 * She, like all of the members of the Keepers of the Feather, is a **wereraven**—a lycanthrope cursed to assume the form of a raven beneath the light of the full moon. (If asked, Muriel can confirm that Elric Martikov was the Keeper who bestowed the curse upon her, and who initiated her into the Keepers of the Feather.)
-* Her lycanthropy allows her to assume the form of a raven or a raven-humanoid hybrid, and provides her with regenerative abilities and flight, though silvered weapons are lethal to her. If she took damage from Ludmilla’s shroud of mist, she shares that certain kinds of dark magic appear to be lethal to her as well.
-* Her betrothed, Elric Martikov, was a wereraven who accompanied Doru’s rebellion in raven form, seeking to provide guidance to the ramshackle mob. He never returned from Castle Ravenloft—evidently, because Ludmilla killed him.
+* Her lycanthropy allows her to assume the form of a raven or a raven-humanoid hybrid, and provides her with regenerative abilities and flight, though silvered weapons are lethal to her. If she took damage from [[Non-Player Characters/Castle Ravenloft/Ludmilla Vilisevic|Ludmilla]]’s shroud of mist, she shares that certain kinds of dark magic appear to be lethal to her as well.
+* Her betrothed, Elric Martikov, was a wereraven who accompanied Doru’s rebellion in raven form, seeking to provide guidance to the ramshackle mob. He never returned from [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]]—evidently, because Ludmilla killed him.
 
 If she lost control and attacked Ludmilla, Muriel sincerely and shamefacedly apologizes for doing so. “Everything felt so far away," she says, quietly. “I thought I was going to lose myself, I was so angry." If the players brought her back to her senses, she is deeply grateful to them for doing so.
 
@@ -1495,7 +1495,7 @@ If the players recently defeated the druids and stopped their ritual, Strahd can
 
 As the players approach, Strahd rises and appears to pocket something in his cloak. (Strahd won't share what this is, amusedly chiding the players for asking gifts not given.) He welcomes the players warmly, and congratulates them on defeating the Forest Folk.
 
-If asked whether he regrets Ludmilla's defeat, Strahd smiles and claims that "a reminder of her place will be good for her" — although, he notes, she is unlikely to forget her humiliation, even after licking her wounds.
+If asked whether he regrets [[Non-Player Characters/Castle Ravenloft/Ludmilla Vilisevic|Ludmilla]]'s defeat, Strahd smiles and claims that "a reminder of her place will be good for her" — although, he notes, she is unlikely to forget her humiliation, even after licking her wounds.
 
 Strahd thanks the players for playing "his little game," and congratulates them on winning their wager. He welcomes them to the Whispering Wall, and shares that the ancestors of the Forest Folk believed it to be the corpse or tomb of an ancient god, whose last exhalation of divinity produced this mist.
 
@@ -1577,7 +1577,7 @@ Whether the players have betrayed or wounded anyone or not, once he is satisfied
 
 * Nearly one thousand years ago, Kavan came to power as chieftain of his tribe. Arrogant and proud, he defied his people’s strictures and ventured forth into the Whispering Wall, a wall of thick fog said to hold the corpse of the Devourer—an ancient monster that the Ladies killed long before.
 * While within the Wall, Kavan learned terrible secrets—including the means by which he could steal the Huntress’s sacred spear from the Forest Fane and claim its power for his own. Upon doing so, he waged war on the other tribes, reuniting them beneath his own banner. 
-* The servants of the Seeker, a clan of **wereravens**, hid away the life-giving gems that blessed the Fanes to conceal them from his ambitions, and vanished into the wilderness. (Upon saying this, Kavan gives Muriel a long, meaningful look, though he cannot confirm whether she is spiritually descended from one of the original wereravens that served the Seeker.)
+* The servants of the Seeker, a clan of **wereravens**, hid away the life-giving gems that blessed the Fanes to conceal them from his ambitions, and vanished into the wilderness. (Upon saying this, Kavan gives [[Non-Player Characters/Town of Vallaki/Muriel Vinshaw|Muriel]] a long, meaningful look, though he cannot confirm whether she is spiritually descended from one of the original wereravens that served the Seeker.)
 * The druids of the First Folk condemned Kavan for his hubris, and retreated to the village of Soldav in the Balinok Mountains, their people’s most sacred site and the center of their faith. They named Kavan “enemy," and banished him from Soldav for his crimes. When he died, instead of burying him in a place of honor upon Yester Hill with the great chieftains of the past, the druids buried him here, in a lonely cairn far from the graves of his forefathers. Kavan has been haunted by his isolation from his people as a result ever since his death.
 
 Before proceeding further, Kavan asks the players a question: What do they hold sacred, and why? Upon hearing their answers, Kavan challenges them with an additional question: If they were forced to choose whether to betray everything they hold sacred in exchange for a promise of safety and comfort, how would they decide? 
@@ -1604,14 +1604,14 @@ If asked, Davian now willingly shares the following information:
 * He is the leader of the Keepers of the Feather, a secret society of **wereravens** dedicated to aiding those who oppose Strahd von Zarovich and his servants. (Davian admits that he himself is a **wereraven**, as are all of his children and grandchildren.)
 * Despite the abilities bestowed by their curse, the Keepers are spies, not warriors. Many among them are untrained at combat, and fear the dark magic that Strahd wields.
 * The Keepers were first founded by Livius Martikov, Davian’s grandfather and a little-known accomplice of the paladin Lugdana, who rooted out nests of **vampire spawn** across the valley using the *Holy Symbol of Ravenkind* one hundred years ago.
-* As a younger man, Livius helped Lugdana and Burgomaster Ismark Antonovich steal the *Holy Symbol of Ravenkind*—then called the *Sigil of the Sun*—from Castle Ravenloft shortly after Strahd began his hibernation. (Livius stole it, as well as the *Tome of Strahd*, from the depths of the catacombs while Ismark and Lugdana distracted Strahd’s servants and children.)
+* As a younger man, Livius helped Lugdana and Burgomaster [[Non-Player Characters/Village of Barovia/Ismark Kolyanovich|Ismark]] Antonovich steal the *Holy Symbol of Ravenkind*—then called the *Sigil of the Sun*—from [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]] shortly after Strahd began his hibernation. (Livius stole it, as well as the *Tome of Strahd*, from the depths of the catacombs while Ismark and Lugdana distracted Strahd’s servants and children.)
 * It was Ismark the Great who proposed renaming the *Sigil* to be the *Holy Symbol of Ravenkind* in order to inspire the Barovian people and conceal its origins, crafting a tale in which an angel in the shape of a raven delivered the relic to Lugdana directly. (Livius always found the tale incredibly amusing.) Lugdana would continue to wield the *Holy Symbol* until her death fighting the Green God Chernovog, a greater demon conjured by the mad witch Baba Zelenna, atop Yester Hill. The *Holy Symbol* was thought lost when Lugdana fell—seemingly for good.
 
 Davian flatly refuses to infect any of the players with **wereraven** lycanthropy, noting with scorn that they would require months of training to master the ability. He refuses to speak further of the matter.
 
 In gratitude for the players’ efforts in recovering the gem from Yester Hill, Davian provides them with an obsidian whistle shaped like a raven. (Davian can share that it is one of several such whistles passed down through his family across the generations.)
 
-Davian also informs the players that Muriel, a key field operative with the Keepers of the Feather, recently overheard a troubling prophecy involving Strahd. Muriel can inform the players that the prophecy took the form of a Tarokka reading delivered by Madam Eva to Strahd on the day the players rescued Muriel from the **greater strix**.
+Davian also informs the players that [[Non-Player Characters/Town of Vallaki/Muriel Vinshaw|Muriel]], a key field operative with the Keepers of the Feather, recently overheard a troubling prophecy involving Strahd. Muriel can inform the players that the prophecy took the form of a Tarokka reading delivered by [[Non-Player Characters/Tser Pool Encampment/Madam Eva|Madam Eva]] to Strahd on the day the players rescued Muriel from the **greater strix**.
 
 Although Muriel was chased away before she could hear the end of the reading, she can share that the first part unfolded as follows:
 

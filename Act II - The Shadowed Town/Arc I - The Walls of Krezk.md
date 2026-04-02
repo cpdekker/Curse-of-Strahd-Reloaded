@@ -1,10 +1,10 @@
 _An adventure for five 4th- or 5th-level characters._
 
-In this arc, the players seek entry to the village of Krezk before defeating the druids occupying the Wizard of Wines winery, either to obtain a cure for cackle fever from the Abbot, to pick wolfsbane from the shores of the blessed pool, or to seek out their foretold ally against Strahd. 
+In this arc, the players seek entry to the village of Krezk before defeating the druids occupying the [[Act III - The Broken Land/Arc J - The Stolen Gem|Wizard of Wines]] winery, either to obtain a cure for cackle fever from the Abbot, to pick wolfsbane from the shores of the blessed pool, or to seek out their foretold ally against Strahd. 
 
 However, the village of Krezk is suspicious of outsiders, and won't allow the players to enter unless they first perform a task for their burgomaster, Baron Dmitri Krezkov.
 
-The players must travel to the ruins of Berez between Krezk and Vallaki, and there persuade the witch Baba Lysaga to scry the location of Baron Krezkov's son, Ilya, who vanished from Krezk in the wake of a recent werewolf attack. However, Baba Lysaga is a mad and fickle witch, and her methods of magic are twisted and dark. Can the players convince her to fulfill Baron Krezkov’s request, and so win them entry to the village of Krezk?
+The players must travel to the ruins of [[Act III - The Broken Land/Arc Q - A Shining Beacon|Berez]] between Krezk and [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]], and there persuade the witch [[Non-Player Characters/Berez/Baba Lysaga|Baba Lysaga]] to scry the location of Baron Krezkov's son, Ilya, who vanished from Krezk in the wake of a recent werewolf attack. However, Baba Lysaga is a mad and fickle witch, and her methods of magic are twisted and dark. Can the players convince her to fulfill Baron Krezkov’s request, and so win them entry to the village of Krezk?
 # I1. The Road to Krezk
 The journey from the town of Vallaki to the **Village of Krezk** is six-and-one-quarter miles long and takes two hours. 
 
@@ -23,7 +23,7 @@ As the players pass it, a winding branch of the Old Svalich Road meanders up the
 <p>A dirt path branches off from the Old Svalich Road here, winding its way south up a craggy mountain spur. The earth of the path is hard-packed, its color a pallid gray-brown reminiscent of cold ashes. The trees on either side stand silent and stoic, their leaves a faded green. As the path winds upward, it's eventually replaced by the deep shadows of the mountain's forested incline, vanishing into the gloom of the woods beyond.</p>
 </div>
 
-Just before the players reach the Raven River Crossroads, they come across the path to Lake Baratok and Van Richten’s Tower, not far from the path that leads to Tsolenka Pass. Read:
+Just before the players reach the Raven River Crossroads, they come across the path to Lake Baratok and [[Non-Player Characters/Town of Vallaki/Dr. Rudolph van Richten|Van Richten]]’s Tower, not far from the path that leads to Tsolenka Pass. Read:
 
 <div class="description">
 <p>An old hunting trail cuts away from the Old Svalich Road here, winding north between old, gnarled trees before vanishing into the underbrush. A hundred yards beyond it, an alpine path splits from the main road to travel south toward the mountains, rising in elevation until it disappears around a steep, tree-covered escarpment.</p>
@@ -39,14 +39,14 @@ The figure is recognizably similar to the **revenant** standing guard at Tser Fa
 
 If the players tell the revenant that they are traveling to Krezk, it warns them that the burgomaster of Krezk, Baron Dmitri Krezkov, has grown wary of the outside world, and that few things have passed between Krezk’s gates in recent weeks. However, the revenant notes that the Krezkov line has long been an honorable one, and that the players may be able to find a way to persuade Baron Krezkov to lend them hospitality.
 
-If the players tell the revenant that they are traveling to the Abbey of Saint Markovia to seek a cure for their disease, it rumbles, “You travel to a dark place, friends. But a being of great age and power indeed dwells there, and may aid you—if not offended.” The revenant is willing to share the following information if asked:
+If the players tell the revenant that they are traveling to [[Act III - The Broken Land/Arc K - The Fallen Abbey|the Abbey]] of Saint Markovia to seek a cure for their disease, it rumbles, “You travel to a dark place, friends. But a being of great age and power indeed dwells there, and may aid you—if not offended.” The revenant is willing to share the following information if asked:
 
 * Years before Strahd von Zarovich arrived in the valley, Saint Markovia, a cleric of the Morninglord, built the Abbey atop a spur of Mount Baratok as a sanctuary for those fleeing from war and devastation.
-* When the Mists surrounded the valley, Saint Markovia condemned Strahd as a tyrant, and raised a small army to march upon Castle Ravenloft. Her revolt was put down, however, and Markovia lost her life in single combat with Strahd.
+* When the Mists surrounded the valley, Saint Markovia condemned Strahd as a tyrant, and raised a small army to march upon [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]]. Her revolt was put down, however, and Markovia lost her life in single combat with Strahd.
 * With Markovia’s death, the monks and nuns of the Abbey withdrew in despair. Before long, paranoia and madness infiltrated their ranks, until none remained alive. Rumors of cannibalism abounded for decades afterward, and most folk shunned the Abbey altogether.
 * Just over a century ago, the Abbot arrived in the valley and reopened the Abbey. The revenant isn’t sure of the Abbot’s true nature or intentions, but is confident that he is far older—and far more powerful—than any of the knights of the Order of the Silver Dragon.
 
-If asked, the revenant can also provide directions to the mansion of Argynvostholt: The players must travel east toward the Luna River Crossroads, taking the ash-gray trail that splits south from the Old Svalich Road shortly before arriving.
+If asked, the revenant can also provide directions to the mansion of [[Act III - The Broken Land/Arc M - The Dragon's Manor|Argynvostholt]]: The players must travel east toward the Luna River Crossroads, taking the ash-gray trail that splits south from the Old Svalich Road shortly before arriving.
 
 As the players depart, the revenant warns them that the werewolf pack of Mount Baratok has expanded its territory—and its ferocity—as of late, and advises them to be cautious as they travel the roads.
 
@@ -90,7 +90,7 @@ If asked, Baron Krezkov confesses that the missing person is his son, Ilya Krezk
 # I3. The Road to Berez
 The journey from the village of Krezk to the **Ruins of Berez** is eight-and-three-quarter miles long and takes three hours. To get to Berez, the players must first retrace their steps to the Luna River Crossroads, then head south.
 ## I3a. The Needle Blight Horde
-Soon after the players depart the Raven River Crossroads, they cross paths with a horde of ten **needle blights** migrating toward the Wizard of Wines winery. Read:
+Soon after the players depart the Raven River Crossroads, they cross paths with a horde of ten **needle blights** migrating toward the [[Act III - The Broken Land/Arc J - The Stolen Gem|Wizard of Wines]] winery. Read:
 
 <div class="description">
 <p>The fresh corpse of an enormous wolf, easily the size of an elk, lies splayed across the center of the road. Its sides and face have been pierced with hundreds of needle-like thorns, and a pool of blood has gathered beneath its well-muscled neck.</p>
@@ -127,10 +127,10 @@ If the players choose to investigate the slab, they find that it bears a carving
 <p>An enormous bird crafted of burlap, wood, and animal skins sits atop the thickest branch, its gourd-shaped head peering at you with coal-black eyes. With a low, grating shriek, it spreads its wings and takes to the air, the mists swirling about its creaking wings as it heads to the south.</p>
 </div>
 
-The bird is a **greater strix**, and is leaving to alert Baba Lysaga that outsiders are approaching the swamp. If attacked, it attempts to gain elevation until it escapes the players’ range. As a sentry and scout, it has no desire to do battle.
+The bird is a **greater strix**, and is leaving to alert [[Non-Player Characters/Berez/Baba Lysaga|Baba Lysaga]] that outsiders are approaching the swamp. If attacked, it attempts to gain elevation until it escapes the players’ range. As a sentry and scout, it has no desire to do battle.
 # I4. The Ruins of Berez
 ## I4a. Approaching the Ruins
-As the players approach Berez, the river ranges in depth but is never more than 10 feet deep. A few sections of dirt road have survived, and these places are not difficult terrain; the marsh, however, is difficult terrain. Whenever the characters take a short or long rest in the marsh, even if they barricade themselves in a ruined building, they are accosted by 1d4 **swarms of insects** (wasps). Read the following as the players approach:
+As the players approach [[Act III - The Broken Land/Arc Q - A Shining Beacon|Berez]], the river ranges in depth but is never more than 10 feet deep. A few sections of dirt road have survived, and these places are not difficult terrain; the marsh, however, is difficult terrain. Whenever the characters take a short or long rest in the marsh, even if they barricade themselves in a ruined building, they are accosted by 1d4 **swarms of insects** (wasps). Read the following as the players approach:
 
 <div class="description">
 <p>The dirt and grass soon turn to marsh as the ground dissolves into spongy earth pockmarked with stands of tall reeds and pools of stagnant water. A thick shroud of fog covers all, though the fog is much thinner on the far side of the river, where a dark ring of standing stones stands amidst a copse of gnarled trees covered in thick, bluish webs.</p>
@@ -139,13 +139,13 @@ As the players approach Berez, the river ranges in depth but is never more than 
 <p>Two old scarecrows lashed to wooden posts flank the trail here, their burlap faces seeming to leer into the mists behind you.</p>
 </div>
 
-The two **scarecrows** appear to be ordinary, nonmagical scarecrows stuffed with raven feathers, but they animate and attack if one or more of them are attacked or if Baba Lysaga commands them to do so. If the **greater strix** successfully alerted Baba Lysaga to the players’ approach, add:
+The two **scarecrows** appear to be ordinary, nonmagical scarecrows stuffed with raven feathers, but they animate and attack if one or more of them are attacked or if [[Non-Player Characters/Berez/Baba Lysaga|Baba Lysaga]] commands them to do so. If the **greater strix** successfully alerted Baba Lysaga to the players’ approach, add:
 
 <div class="description">
 <p>A light flashes amid the fog beyond the scarecrows, a woman’s silhouette emerging from the swirling mist.</p>
 </div>
 
-The silhouette belongs to Wensencia, a shrill, mocking, and sharp-tongued **Barovian witch** from Vallaki who has been studying under Baba Lysaga for the past three months. (Wensencia, like Baba Lysaga’s four other current students, viewed Strahd’s revival as the coming of a dark messiah, and sought out the swamp witch at the advice of Strahd’s vampiric bride, Ludmilla Vilisevic.) 
+The silhouette belongs to Wensencia, a shrill, mocking, and sharp-tongued **Barovian witch** from [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]] who has been studying under Baba Lysaga for the past three months. (Wensencia, like Baba Lysaga’s four other current students, viewed Strahd’s revival as the coming of a dark messiah, and sought out the swamp witch at the advice of Strahd’s vampiric bride, [[Non-Player Characters/Castle Ravenloft/Ludmilla Vilisevic|Ludmilla]] Vilisevic.) 
 
 Wensencia curtly informs the players that “Mother Lysaga” has summoned them to her cottage, and that they must follow her if they wish to reach it safely. She asks no questions and answers none, except to tell the players that none come to Berez except to seek “Mother Lysaga’s” favor, and that Baba Lysaga alone will determine whether they may earn it.
 
@@ -177,11 +177,11 @@ Wensencia curtly informs the players that “Mother Lysaga” has summoned them 
 ## I4b. Baba Lysaga’s Hut
 <span class="citation"><em>This scene takes place in Chapter 10: Area U3.</em></span>
 
-A ramshackle wooden hut sits atop the stump of what was once an enormous tree, its rotting roots thrusting up from the mire like the legs of a gigantic spider. An open doorway is visible on one side of the hut, beneath which floats the upside-down, hollowed-out skull of a giant. Flanking the hut’s doorway are two iron cages that dangle like hideous ornaments from the eaves, with scores of ravens trapped in each one, squawking and fluttering their wings excitedly. The sound of a soft lullaby can be heard emanating from the hut’s open doorframe, muffled by the sound of the ravens’ squawks. If the **greater strix** warned Baba Lysaga of the players’ arrival, it is perched atop the hut, silently watching the players as they approach.
+A ramshackle wooden hut sits atop the stump of what was once an enormous tree, its rotting roots thrusting up from the mire like the legs of a gigantic spider. An open doorway is visible on one side of the hut, beneath which floats the upside-down, hollowed-out skull of a giant. Flanking the hut’s doorway are two iron cages that dangle like hideous ornaments from the eaves, with scores of ravens trapped in each one, squawking and fluttering their wings excitedly. The sound of a soft lullaby can be heard emanating from the hut’s open doorframe, muffled by the sound of the ravens’ squawks. If the **greater strix** warned [[Non-Player Characters/Berez/Baba Lysaga|Baba Lysaga]] of the players’ arrival, it is perched atop the hut, silently watching the players as they approach.
 
 The floating skull is a hill giant’s skull that Baba Lysaga has hollowed out and transformed into a vehicle (flying speed 40 ft., AC 15, 50 HP, immunity to poison and psychic damage). Each cage is held shut by one of Baba Lysaga’s *arcane lock* spells, and opening it requires a *knock* spell or a successful DC 20 Strength check (or DC 20 Dexterity check with thieves’ tools). Each cage contains a **swarm of ravens** that fiercely attacks Baba Lysaga and her scarecrows if released.
 
-The hut’s interior is fifteen feet on a side and packed with old furniture, including a wooden cot, a wicker cabinet, a slender wardrobe, a wooden table, a stool, a barrel-topped wooden chest reinforced with brass bands, and an iron tub stained with blood. In the middle of the room is a ghastly wooden crib with a small, angelic child sitting in it—an illusion created by Baba Lysaga’s *programmed illusion* spell. Beneath the hut’s rotting floorboards is a 3-foot-deep cavity containing a magic, green-glowing gem stolen from the Wizard of Wines winery, which animates the hut.
+The hut’s interior is fifteen feet on a side and packed with old furniture, including a wooden cot, a wicker cabinet, a slender wardrobe, a wooden table, a stool, a barrel-topped wooden chest reinforced with brass bands, and an iron tub stained with blood. In the middle of the room is a ghastly wooden crib with a small, angelic child sitting in it—an illusion created by Baba Lysaga’s *programmed illusion* spell. Beneath the hut’s rotting floorboards is a 3-foot-deep cavity containing a magic, green-glowing gem stolen from the [[Act III - The Broken Land/Arc J - The Stolen Gem|Wizard of Wines]] winery, which animates the hut.
 
 Upon arriving at the base of the stump on which the hut is perched, if Wensencia is present, she announces the players’ presence before turning to depart. (Note that, because the hut is built atop an enormous stump, the players must climb the roots of the stump to reach the hut’s entrance and front door.)
 
@@ -202,7 +202,7 @@ Upon accepting Baron Krezkov’s payment, Baba Lysaga directs the players to tra
 
 If asked about the strix, Lysaga gleefully explains that they are an artifact of her own creation—excellent for killing or capturing ravens, which she loathes.
 
-If asked about Lady Fiona Wachter, Lysaga’s mood plummets, and she darkly warns the players never to speak “that foolish girl’s” name again in her presence.
+If asked about Lady [[Non-Player Characters/Town of Vallaki/Lady Fiona Wachter|Fiona Wachter]], Lysaga’s mood plummets, and she darkly warns the players never to speak “that foolish girl’s” name again in her presence.
 
 > [!abstract]+ **Baba Lysaga’s Cure**
 >
@@ -210,7 +210,7 @@ If asked about Lady Fiona Wachter, Lysaga’s mood plummets, and she darkly warn
 ## I4c. The Scrying Spell
 East of the Ulrich Mansion's ruins, a crude wooden fence forms a circular yard in which several goats are penned. Fifty human skulls are mounted on the tops of the fence posts, spaced 10 feet apart. There is no gate in the fence. However, speaking the passphrase “Death to Ravenovia” while within 10 feet of the goat pen creates a gate in the wooden fence for one minute. The players can capture a goat by knocking one unconscious, by restraining or leading it with a rope, or by grappling it and pulling it directly to the hut. If conscious, a captured goat struggles and bleats pathetically while being led toward the hut.
 
-If the characters try to set the goats free by dismantling or damaging part of the fence, the skulls atop the fence posts begin howling and continue to howl for 1 minute. The racket attracts Baba Lysaga, who arrives in her flying skull on initiative count 20 in 2 rounds.
+If the characters try to set the goats free by dismantling or damaging part of the fence, the skulls atop the fence posts begin howling and continue to howl for 1 minute. The racket attracts [[Non-Player Characters/Berez/Baba Lysaga|Baba Lysaga]], who arrives in her flying skull on initiative count 20 in 2 rounds.
 
 If the players successfully retrieve a goat for Baba Lysaga, she retrieves a rusted, blood-stained dagger from her wicker cabinet and directs the players to orient the goat such that its neck is above the bathtub. Read:
 
@@ -233,12 +233,12 @@ If asked, Baba Lysaga can inform the players that the she-wolf was a **werewolf*
 
 Baba Lysaga cannot tell the players, however, *where* the cavern is actually located, noting scornfully that the *scrying* spell observes only a creature’s immediate surroundings. To rescue the boy she saw, the players will need to find the cave on their own.
 # I5. Return to Krezk
-The players' return to Krezk is eight and three-quarter miles long and takes three hours. Alternatively, if the players lack the time to return to Krezk, the journey to Vallaki is four and one-half miles long and takes an hour and a half.
+The players' return to Krezk is eight and three-quarter miles long and takes three hours. Alternatively, if the players lack the time to return to Krezk, the journey to [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]] is four and one-half miles long and takes an hour and a half.
 
 > [!info]+ **Forced March**
 > Remember that players who travel more than eight hours in one day risk exhaustion, as described in <span class="citation">Travel Pace (Player's Handbook, p. 181)</span>.
 
-Regardless of their destination, the players experience the *Lost Battlefield* event: the players hear sounds of battle as thick fog takes on the forms of soldiers on horseback charging across the field, colliding with armored pike-bearers wearing devil-horned helms. As each soldier falls, it turns to fading mist. Hundreds more soldiers collide in a storm of screams and clashing metal. The ghostly soldiers are not solid enough to discern emblems or insignia, but it is clear that both armies are human. If the players have not yet explored Argynvostholt, they also hear a thunderous roar as a huge dragon made of silver mist glides overhead, dispersing enemy soldiers with each flap of its mighty wings, affording a fleeting glimpse of a dark mansion overlooking the valley as they pass the point where the Luna River splits.
+Regardless of their destination, the players experience the *Lost Battlefield* event: the players hear sounds of battle as thick fog takes on the forms of soldiers on horseback charging across the field, colliding with armored pike-bearers wearing devil-horned helms. As each soldier falls, it turns to fading mist. Hundreds more soldiers collide in a storm of screams and clashing metal. The ghostly soldiers are not solid enough to discern emblems or insignia, but it is clear that both armies are human. If the players have not yet explored [[Act III - The Broken Land/Arc M - The Dragon's Manor|Argynvostholt]], they also hear a thunderous roar as a huge dragon made of silver mist glides overhead, dispersing enemy soldiers with each flap of its mighty wings, affording a fleeting glimpse of a dark mansion overlooking the valley as they pass the point where the Luna River splits.
 # I6. The Village of Krezk
 If the players return successfully to Krezk with information obtained from Baba Lysaga’s *scrying* spell and share it with Baron Krezkov, he gratefully grants them entry into the village.
 
@@ -253,9 +253,9 @@ The village operates as a commune, with no exports or moneymaking businesses. Vi
 Once the players are within the village walls, Baron Krezkov is glad to share any or all of the following information:
 
 * Residents never leave the village for fear of being attacked by wolves, dire wolves, and werewolves.
-* About once a month, a wagonload of wine arrives from the Wizard of Wines winery to the south, owned and operated by the Martikov family.
+* About once a month, a wagonload of wine arrives from the [[Act III - The Broken Land/Arc J - The Stolen Gem|Wizard of Wines]] winery to the south, owned and operated by the Martikov family.
 * A pool at the north end of the village provides fresh water throughout the year, next to which the village's ancestors built a shrine to the Morninglord known as the Shrine of the White Sun.
-* The Abbey of Saint Markovia is named after a priest of the Morninglord who took a stand against the devil Strahd. After a fierce uprising, Markovia and her most loyal followers stormed Castle Ravenloft, only to be destroyed.
+* The Abbey of Saint Markovia is named after a priest of the Morninglord who took a stand against the devil Strahd. After a fierce uprising, Markovia and her most loyal followers stormed [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]], only to be destroyed.
 * The abbey was once a hospital and a convent, but it fell on hard times after the land was swallowed up by the mists.
 
 Baron Krezkov can also share the following details about his family, with the following changes:
@@ -264,7 +264,7 @@ Baron Krezkov can also share the following details about his family, with the fo
 * Ilya, his elder son, is thirteen years old and went missing several days ago. (Although Baron Krezkov won't mention, Ilya went missing on the night of the full moon on Octyavr 22, exactly fourteen days before the most recent full moon on Neyavr 8.)
 * Kala, his younger daughter, is eight years old and alive.
 
-If the players mention their interest in the Abbey of Saint Markovia, Baron Krezkov warns them of the Abbey’s sordid history, as well as the strange rumors surrounding the Abbot. He is glad, however, to provide the players with directions if requested. Baron Krezkov doesn't yet mention his family's problem with the Abbot, described further in [[Arc K - The Fallen Abbey]], but a player who succeeds on a DC 12 Wisdom (Insight) check notices that a shadow crosses the Baron's face at the mention of the Abbot.
+If the players mention their interest in [[Act III - The Broken Land/Arc K - The Fallen Abbey|the Abbey]] of Saint Markovia, Baron Krezkov warns them of the Abbey’s sordid history, as well as the strange rumors surrounding the Abbot. He is glad, however, to provide the players with directions if requested. Baron Krezkov doesn't yet mention his family's problem with the Abbot, described further in [[Arc K - The Fallen Abbey]], but a player who succeeds on a DC 12 Wisdom (Insight) check notices that a shadow crosses the Baron's face at the mention of the Abbot.
 
 ***Milestone.*** Obtaining Baba Lysaga’s aid completes a story milestone. When the players first gain safe passage through Krezk’s village gates, award each player 750 XP.
 ## I6a. The Blessed Pool
@@ -281,7 +281,7 @@ The pool is fed by an underground spring and was blessed long ago by Saint Marko
 <p>A handsome young man in a brown monk's robe kneels before one of the flowers, cupping its petals delicately in his hand. A painted wooden holy symbol that depicts the sun hangs from a chain around his neck, and he gazes thoughtfully at the flower between his fingers.</p>
 </div>
 
-The flowers are *wolfsbane*. The young man is the Abbot of the Abbey of St. Markovia—a deva in disguise who has lived for millennia, typically assuming the form of a strikingly handsome human priest in his late twenties or early thirties. More than a hundred years ago, the deva was sent from the Upper Planes to honor the legacy of Saint Markovia, reopening the abbey and tending to the physically and mentally ill in hopes of bringing much-needed light to Barovia. However, the Dark Powers began to corrupt him—his fall from grace started when the Belviews, a family of sickly, inbred lepers, came to the abbey seeking salvation. He rid them of their diseases but could not cure certain human defects present since birth, becoming consumed with a prideful, obsessive desire to rid them of all imperfections.
+The flowers are *wolfsbane*. The young man is the Abbot of the [[Act III - The Broken Land/Arc K - The Fallen Abbey|Abbey of St. Markovia]]—a deva in disguise who has lived for millennia, typically assuming the form of a strikingly handsome human priest in his late twenties or early thirties. More than a hundred years ago, the deva was sent from the Upper Planes to honor the legacy of Saint Markovia, reopening the abbey and tending to the physically and mentally ill in hopes of bringing much-needed light to Barovia. However, the Dark Powers began to corrupt him—his fall from grace started when the Belviews, a family of sickly, inbred lepers, came to the abbey seeking salvation. He rid them of their diseases but could not cure certain human defects present since birth, becoming consumed with a prideful, obsessive desire to rid them of all imperfections.
 
 
 ![[The Abbot.png]]
@@ -312,4 +312,4 @@ If the players ask his identity, the Abbot introduces himself as the Abbot of th
 
 If asked the source of his power, the Abbot laughs softly, stating only: "Beneath the Morninglord's light, all things are possible."
 ## I6b. The Abbey of St. Markovia
-If the players have journeyed to Krezk to seek a cure for cackle fever or their foretold ally, they must ascend the switchback road to the Abbey of St. Markovia, where the Abbot is happy to cure any disease with his ***healing touch*** without payment. See [[Arc K - The Fallen Abbey]] for more information about visiting the Abbey.
+If the players have journeyed to Krezk to seek a cure for cackle fever or their foretold ally, they must ascend the switchback road to the [[Act III - The Broken Land/Arc K - The Fallen Abbey|Abbey of St. Markovia]], where the Abbot is happy to cure any disease with his ***healing touch*** without payment. See [[Arc K - The Fallen Abbey]] for more information about visiting the Abbey.

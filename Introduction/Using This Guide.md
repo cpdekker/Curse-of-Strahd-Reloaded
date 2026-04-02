@@ -27,7 +27,7 @@ As you read through this guide, make sure you have access to the following resou
 * the *Dungeon Master's Guide*
 * the *Monster Manual*,
 * *Xanathar's Guide to Everything*, and
-* *Van Richten's Guide to Ravenloft*.
+* *[[Non-Player Characters/Town of Vallaki/Dr. Rudolph van Richten|Van Richten]]'s Guide to Ravenloft*.
 
 When we reference one of these sourcebooks, you'll find the necessary citation in parentheses, formatted like this: <span class="citation"><em>Van Richten's Guide to Ravenloft</em>, p. 66</span>. If you lack the required sourcebook, you can make a homebrewed statblock or find a suitable replacement.
 

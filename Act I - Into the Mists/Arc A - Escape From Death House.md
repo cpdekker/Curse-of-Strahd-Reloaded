@@ -258,7 +258,7 @@ A few inches behind the empty spot on the shelf sits an antique copper pot, its 
 
 A player who opens the pot finds it to contain a bottle of wine, a folded piece of delicate lace, a vial of a brownish dried powder, and a bouquet of wilted sunflowers tied to a small scroll of parchment.
 
-* The wine's label shows that it is from the Wizard of Wines winery and provides the name of the wine: Champagne du le Stomp. (A player that drinks the wine finds it to have turned to vinegar, as though it has magically aged centuries in mere moments.)
+* The wine's label shows that it is from the [[Act III - The Broken Land/Arc J - The Stolen Gem|Wizard of Wines]] winery and provides the name of the wine: Champagne du le Stomp. (A player that drinks the wine finds it to have turned to vinegar, as though it has magically aged centuries in mere moments.)
 * The piece of lace bears the initial "K" sewn onto one corner. 
 * A successful DC 14 Intelligence (Nature) check identifies the brown powder as dried silphium, a contraceptive herb. 
 * The parchment scroll reads: "For the light of my life. —G."
@@ -1262,9 +1262,9 @@ The dog Lancelot, a popular community character, has been intentionally cut from
 
 ***The Attic.*** Clues have been added to convey the nursemaid's fate and the founding of Mrs. Durst's cult.
 
-***The Dungeon.*** Several of the encounters in this area have been changed to reduce the probability of a TPK and to teach the players to act cautiously and make wise decisions. In the ritual chamber, the cult is no longer willing to accept the sacrifice of a beast (e.g., Lancelot), foreshadowing that Strahd will not be content with Ireena alone. The **shambling mound** has been replaced by a two-stage **flesh mound**, whose statistics have been calibrated to provide a challenging fight without risking a TPK.
+***The Dungeon.*** Several of the encounters in this area have been changed to reduce the probability of a TPK and to teach the players to act cautiously and make wise decisions. In the ritual chamber, the cult is no longer willing to accept the sacrifice of a beast (e.g., Lancelot), foreshadowing that Strahd will not be content with [[Non-Player Characters/Village of Barovia/Ireena Kolyana|Ireena]] alone. The **shambling mound** has been replaced by a two-stage **flesh mound**, whose statistics have been calibrated to provide a challenging fight without risking a TPK.
 
-***Escape From Death House.*** The original "escape from Death House" sequence has been replaced with a pair of social encounters that reward the players for investigating the history of the house, and which serve to foreshadow the characterizations of Sergi von Zarovich, Lady Fiona Wachter, and Strahd's brides and servants in the adventure to come.
+***Escape From Death House.*** The original "escape from Death House" sequence has been replaced with a pair of social encounters that reward the players for investigating the history of the house, and which serve to foreshadow the characterizations of Sergi von Zarovich, Lady [[Non-Player Characters/Town of Vallaki/Lady Fiona Wachter|Fiona Wachter]], and Strahd's brides and servants in the adventure to come.
 
 The frequent community addition of a skill challenge to escape the house has been removed to ensure a smooth and simple transition from the flesh mound's death to the players' exit from the house, to remove any friction with players who may struggle to learn the mechanics of a new system of gameplay in the heat of the moment, and to preserve the players' immersion in the narrative of the escape, rather than its gameplay.
 

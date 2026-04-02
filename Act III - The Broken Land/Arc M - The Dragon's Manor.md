@@ -2,17 +2,17 @@ _An adventure for five 4th, 5th, or 6th-level characters._
 
 In this arc, upon arriving at the mansion of Argynvostholt as suggested by the revenants at Tser Falls or the Raven River Crossroads, the players encounter Sir Godfrey Gwilym, an ancient **revenant** knight of the Order of the Silver Dragon.
 
-Godfrey solemnly informs the players that, because he is bound to the will of his commander, Vladimir Horngaard, he can offer them no aid in their fight against Strahd. He can share, however, that the slumbering spirit of the silver dragon Argynvost—the deceased leader of their Order—has stirred in recent weeks, and that the dragon is seeking heroes willing to stand against Strahd, though Godfrey doesn't know for what purpose.
+Godfrey solemnly informs the players that, because he is bound to the will of his commander, Vladimir [[Non-Player Characters/Argynvostholt/Commander Vladimir Horngaard|Horngaard]], he can offer them no aid in their fight against Strahd. He can share, however, that the slumbering spirit of the silver dragon Argynvost—the deceased leader of their Order—has stirred in recent weeks, and that the dragon is seeking heroes willing to stand against Strahd, though Godfrey doesn't know for what purpose.
 
 Though Godfrey cannot hear the voice of Argynvost himself, he encourages the players to explore the mansion and seek out the clues left by the dragon’s spirit by speaking with the other ghosts of the mansion—though he warns them to avoid the audience hall of Commander Horngaard himself. 
 
-Godfrey also warns the players to be wary of the cursed spirits that still haunt the mansion’s halls: soldiers who fell defending the mansion from Strahd’s armies long ago, and who have never ceased their fight against invaders. Should the players wish to protect themselves from those spirits, Godfrey advises them to travel to a mass grave north of Berez, where the players can obtain paraphernalia bearing the insignia of the Order of the Silver Dragon.
+Godfrey also warns the players to be wary of the cursed spirits that still haunt the mansion’s halls: soldiers who fell defending the mansion from Strahd’s armies long ago, and who have never ceased their fight against invaders. Should the players wish to protect themselves from those spirits, Godfrey advises them to travel to a mass grave north of [[Act III - The Broken Land/Arc Q - A Shining Beacon|Berez]], where the players can obtain paraphernalia bearing the insignia of the Order of the Silver Dragon.
 
 As the players explore Argynvostholt, they can encounter Zorya, the spirit of Argynvost's late **pseudodragon** familiar; Minodora, the spirit of a former clerk of the Order of the Silver Dragon; and Brother Marek, the spirit of the Order's former chaplain. The spirits' guidance will bring the players to Argynvost's beacon, where Argynvost's spirit lurks within a silver dragon gargoyle.
 
 To invoke Argynvost's spirit, however, the players must obtain and speak aloud the oath of the Order of the Silver Dragon and light the gargoyle's brazier with silver flames obtained from Zorya or Argynvost's tomb. However, Vladimir Horngaard himself stands watch over the mansion's high beacon. If the players wish to learn Argynvost's will, they must first reassure Horngaard that they pose no threat to him or Strahd—or else defeat Horngaard in battle.
 
-From the gargoyle, the players can obtain a cryptic prophecy directing them to return Argynvost's bones to their rightful place in his crypt. To do so, however, they must first retrieve his remains from the depths of Castle Ravenloft.
+From the gargoyle, the players can obtain a cryptic prophecy directing them to return Argynvost's bones to their rightful place in his crypt. To do so, however, they must first retrieve his remains from the depths of [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]].
 
 If the players return to Argynvostholt after successfully retrieving Argynvost’s skull, they must fight their way past Vladimir and his **phantom warrior** bodyguards in order to return the dragon’s remains to their rightful place. Should they succeed, Argynvost’s spirit lights the beacon atop the darkened mansion, bringing light and hope to all corners of Barovia, and allowing the knights of the Order of the Silver Dragon to find rest and blessed peace.
 
@@ -169,9 +169,9 @@ At the players’ request, Godfrey can share the following information regarding
 
 Godfrey then asks the players whether they would seek to betray and abandon their comrades if forced to fight a hopeless battle, or if they would fight alongside them to the death. If he is satisfied that any of the players would choose loyalty over selfishness, he gently chides any who would do the opposite, then proceeds:
 
-* A great battle took place on the floodplain east of the mansion, and many of the knights of the Order were slaughtered. As Godfrey and his commander, Vladimir Horngaard, led a final sortie against the enemy general’s camp, both were killed as well—Commander Horngaard by Zarovich himself, and Godfrey by Zarovich’s second-in-command: a cruel-eyed dusk elf bearing twin scimitars. (If asked, Godfrey can confirm that the elf was Rahadin, the current chamberlain of Castle Ravenloft.)
+* A great battle took place on the floodplain east of the mansion, and many of the knights of the Order were slaughtered. As Godfrey and his commander, Vladimir [[Non-Player Characters/Argynvostholt/Commander Vladimir Horngaard|Horngaard]], led a final sortie against the enemy general’s camp, both were killed as well—Commander Horngaard by Zarovich himself, and Godfrey by Zarovich’s second-in-command: a cruel-eyed dusk elf bearing twin scimitars. (If asked, Godfrey can confirm that the elf was [[Non-Player Characters/Castle Ravenloft/Rahadin|Rahadin]], the current chamberlain of [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]].)
 * Several years thereafter, Godfrey felt Commander Horngaard’s rage pull his soul from beyond the grave, and found himself and the other knights of the Order returned to life as undead revenants. He learned that Zarovich had desecrated Argynvost’s remains, burning the dragon's bones and taking his skull as a trophy to the new Castle Ravenloft—an act so foul it had stirred Horngaard to vengeful hatred even in death.
-* The revenant knights renewed the fight against Strahd, waging war for months—until the Mists descended upon Barovia. The knights marched on Castle Ravenloft, where the Vistani crone Madam Eva met them at the castle gates. She told them Strahd had died and been reborn, and that he and all Barovia were now captives of the Mists.
+* The revenant knights renewed the fight against Strahd, waging war for months—until the Mists descended upon Barovia. The knights marched on Castle Ravenloft, where the Vistani crone [[Non-Player Characters/Tser Pool Encampment/Madam Eva|Madam Eva]] met them at the castle gates. She told them Strahd had died and been reborn, and that he and all Barovia were now captives of the Mists.
 
 Godfrey then asks the players if there is anyone that they hate—within or beyond the valley. He then asks if they would condemn all those they love to death and despair, if only to ensure that the one they hate would suffer the same fate for eternity. If he is satisfied that any of the players would choose love over vengeance, he informs them that they “stand amidst the ruin of one who made a different choice," then proceeds:
 
@@ -187,9 +187,9 @@ If asked why he has summoned the players to Argynvostholt, Godfrey can share the
 * Shortly after Strahd awoke from his hibernation, Argynvost’s spirit began to stir again, though Godfrey doesn’t know why. The dragon’s spirit is too old and weak to manifest directly, but several of the other ghosts that haunt the mansion’s halls claim to have heard him whispering in his ethereal slumber, murmuring of a new generation of heroes, and a new and final front in the fight against darkness. 
 * When the knights of the order were banished from Argynvostholt, Godfrey sent them to seek out those who Argynvost might be searching for, and direct them toward the manor.
 
-“Perhaps you are the ones who he has been waiting for," Godfrey says. If any of the players are carrying an amber shard, he pauses, then fixes his gaze on that player. (If no player is carrying an amber shard, he instead looks toward whichever player most recently touched an amber shard, such as the one belonging to Elisabeth Durst or the one worn by Izek Strazni.) Godfrey then frowns and rasps, “Or perhaps not. I feel the chill of amber upon you. If you are pilgrims to the Amber Temple, then begone—I shall have no dealings with those who seek out its corruption."
+“Perhaps you are the ones who he has been waiting for," Godfrey says. If any of the players are carrying an amber shard, he pauses, then fixes his gaze on that player. (If no player is carrying an amber shard, he instead looks toward whichever player most recently touched an amber shard, such as the one belonging to Elisabeth Durst or the one worn by [[Non-Player Characters/Town of Vallaki/Izek Strazni|Izek]] Strazni.) Godfrey then frowns and rasps, “Or perhaps not. I feel the chill of amber upon you. If you are pilgrims to the [[Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight|Amber Temple]], then begone—I shall have no dealings with those who seek out its corruption."
 ### Godfrey & the Amber Shards
-Godfrey is willing to continue dealing with the players if he is assured that they do not seek the dark gifts of the Amber Temple. The players can assure him as follows:
+Godfrey is willing to continue dealing with the players if he is assured that they do not seek the dark gifts of the [[Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight|Amber Temple]]. The players can assure him as follows:
 
 * A player without an amber shard can automatically convince Godfrey that they are free of any shard’s influence.
 * A player in Stage One or Two of an amber shard’s corruption (see the [[Amber Shards]] appendix) can convince Godfrey that they do not intend to pursue the vestige’s gifts with a successful DC 14 Charisma (Deception) check if they are lying, and automatically if not. 
@@ -209,7 +209,7 @@ Godfrey is willing to share no more information than that. However, should the p
 ### Godfrey’s Request
 Due to his restraints, Godfrey asks the players to explore the mansion of Argynvostholt on his behalf, investigating the spirits that lurk within to uncover their knowledge of Argynvost’s whispers.
 
-If the players accept his request, Godfrey warns them to be wary of Commander Vladimir Horngaard, who yet stands vigil among the upper halls of the manor. “You must not allow him to see or hear you, or incite his anger should he do so," he insists. “He does not take kindly to outsiders, and far less so to those he believes seek Zarovich’s destruction. In life, he was the best of us; in death, his strength has only waxed—and now, he cannot be killed by sword, claw, or spell. His undeath is eternal; even if Zarovich himself slew him, Horngaard would soon return to pursue his prey again—a dogged and inevitable hunter." 
+If the players accept his request, Godfrey warns them to be wary of Commander Vladimir [[Non-Player Characters/Argynvostholt/Commander Vladimir Horngaard|Horngaard]], who yet stands vigil among the upper halls of the manor. “You must not allow him to see or hear you, or incite his anger should he do so," he insists. “He does not take kindly to outsiders, and far less so to those he believes seek Zarovich’s destruction. In life, he was the best of us; in death, his strength has only waxed—and now, he cannot be killed by sword, claw, or spell. His undeath is eternal; even if Zarovich himself slew him, Horngaard would soon return to pursue his prey again—a dogged and inevitable hunter." 
 
 Godfrey warns the players to avoid mentioning his name should they meet with Commander Horngaard. "He does not look fondly upon me now, I fear," he mourns. "Should he believe I hold your sympathies, his suspicions shall only grow."
 
@@ -239,7 +239,7 @@ Should the players express interest in retrieving those garments, Godfrey asks o
 
 If the players ask about the origin of the buried remains, Godfrey solemnly informs them that the Order of the Silver Dragon made its final stand there.
 ### Obtaining the Garments
-If the players choose to recover the soldiers' garments from the mass grave on the Luna River, they will first need to obtain shovels to excavate the site, which they can purchase from Arasek Stockyard in Vallaki, borrow from the dusk elves of the Vistani camp outside Vallaki, or borrow from Burgomaster Dmitri Krezkov of Krezk.
+If the players choose to recover the soldiers' garments from the mass grave on the Luna River, they will first need to obtain shovels to excavate the site, which they can purchase from Arasek Stockyard in [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]], borrow from the dusk elves of the Vistani camp outside Vallaki, or borrow from Burgomaster Dmitri Krezkov of [[Act II - The Shadowed Town/Arc I - The Walls of Krezk|Krezk]].
 
 As the players head south from the Luna River Crossroads after obtaining one or more shovels, read:
 
@@ -301,7 +301,7 @@ If the players allow the figure to approach, read:
 <p>"I thought this one's wounds looked like a dire elk's antlers," the woman muses, peering over the wolf's ears toward the elk. "This is a lucky day indeed."</p>
 </div>
 
-The woman is Wensencia, a student of Baba Lysaga. (Players who previously encountered her in [[Arc I - The Walls of Krezk]] recognize her immediately.) The talisman is her arcane focus. If the rag is removed, it reveals a pile of a half-dozen mandrakes—thick, branched, upright roots with a faint, yet eerie resemblance toward a human form.
+The woman is Wensencia, a student of [[Non-Player Characters/Berez/Baba Lysaga|Baba Lysaga]]. (Players who previously encountered her in [[Arc I - The Walls of Krezk]] recognize her immediately.) The talisman is her arcane focus. If the rag is removed, it reveals a pile of a half-dozen mandrakes—thick, branched, upright roots with a faint, yet eerie resemblance toward a human form.
 
 > [!info]+ **Wensencia and Her Steed**
 > Wensencia is a **Barovian witch** with 33 hit points, a +3 proficiency bonus, and the following spells prepared:
@@ -318,7 +318,7 @@ The woman is Wensencia, a student of Baba Lysaga. (Players who previously encoun
 
 If the players previously encountered her in [[Arc I - The Walls of Krezk]], Wensencia greets them with muted surprise and annoyance. Wensencia can share the following information with the players, but only if specifically asked:
 
-* She is Wensencia, a student of Mother Lysaga of Berez. (If the players refer to Baba Lysaga as "the swamp witch," Wensencia sneers and instructs them to "refer to Mother Lysaga with respect").
+* She is Wensencia, a student of Mother Lysaga of [[Act III - The Broken Land/Arc Q - A Shining Beacon|Berez]]. (If the players refer to Baba Lysaga as "the swamp witch," Wensencia sneers and instructs them to "refer to Mother Lysaga with respect").
 * She was out by the eastern shore of the Luna River picking mandrake roots (as alchemical ingredients) when she found the corpse of a **dire wolf**, evidently killed by a dire elk. Fascinated by the rare prospect of finding a whole, fresh dire wolf corpse, she reanimated it and set off to track down its killer, hopeful that the elk might still be in the vicinity.
 
 Wensencia intends to harvest the dire elk's antlers, heart, and liver for use in Baba Lysaga's alchemical potions and spellwork. Upon arriving, she dismounts her undead dire wolf, grasps her rusted knife more firmly in her gloved hand, and approaches the elk, instructing the players to step away if they're standing in its vicinity. As she does, the raven caws desperately, fluttering its wings and clacking its beak in obvious distress.
@@ -598,7 +598,7 @@ When the players enter this area, read:
 <p>Five barrels lie in wooden braces along the walls of this dark, moldy storage room. An old purple stain covers much of the far half of the stone floor, faded and discolored with age. A rusted crowbar sits against the wall not far away.</p>
 </div>
 
-The wine in the barrels turned to vinegar and evaporated long ago. Emblazoned on the barrels' sides are the name of the winery, the Wizard of Wines, and the name of the wine, Champagne du le Stomp. A secret door at the north end of the west wall can be pulled open to reveal the den.
+The wine in the barrels turned to vinegar and evaporated long ago. Emblazoned on the barrels' sides are the name of the winery, the [[Act III - The Broken Land/Arc J - The Stolen Gem|Wizard of Wines]], and the name of the wine, Champagne du le Stomp. A secret door at the north end of the west wall can be pulled open to reveal the den.
 
 A player who inspects the stain and succeeds on a DC 12 Intelligence (Investigation) check determines that it appears to have originated from the northeastern barrel.
 
@@ -736,7 +736,7 @@ On initiative count 20 of the first round of combat, if the players freed any of
 
 * ***Spectral Spear.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) force damage.
 
-In battle, the **phantom warriors** shout “Death to the invaders!", “For Argynvost!", and “Remember Horngaard!" The phantom warriors are spirits of soldiers who fell defending the mansion against Strahd’s armies. Cursed to relive the memory of that day while Vladimir Horngaard’s hatred binds them to Barovia, they can’t be stopped or reasoned with.
+In battle, the **phantom warriors** shout “Death to the invaders!", “For Argynvost!", and “Remember [[Non-Player Characters/Argynvostholt/Commander Vladimir Horngaard|Horngaard]]!" The phantom warriors are spirits of soldiers who fell defending the mansion against Strahd’s armies. Cursed to relive the memory of that day while Vladimir Horngaard’s hatred binds them to Barovia, they can’t be stopped or reasoned with.
 
 When the **phantom warriors** are defeated, any surviving **specters** warmly nod to the players, then vanish. The temperature in the corridor then returns to normal.
 ### Knights’ Quarters
@@ -762,7 +762,7 @@ The words are a warning sent by Minodora. The players can convince her that they
 
 Minodora is a solemn, if black-humored spirit. If befriended by the players, she can share the following information via frost-shaped words on the eastern window:
 
-* In life, she served as a clerk to the Order of the Silver Dragon during the wars against Strahd. She died on the day Strahd’s forces broke into Argynvostholt, just a day after Commander Vladimir Horngaard and Sir Godfrey Gwilym perished in an assault on Strahd’s camp.
+* In life, she served as a clerk to the Order of the Silver Dragon during the wars against Strahd. She died on the day Strahd’s forces broke into Argynvostholt, just a day after Commander Vladimir [[Non-Player Characters/Argynvostholt/Commander Vladimir Horngaard|Horngaard]] and Sir Godfrey Gwilym perished in an assault on Strahd’s camp.
 * The **phantom warriors** in the mansion are the spirits of soldiers who died to Strahd’s attack, cursed to relive their memories of that day for eternity. (Minodora doesn’t know why they’re cursed.)
 * She doesn’t know anything about Argynvost’s whisperings. However, she knows that the spirit of Brother Marek, the Order’s former chaplain, keeps an ear and eye out for everything that happens in the spiritual realm of Argynvostholt.
 
@@ -849,7 +849,7 @@ When the players enter this area, read:
 <p>Light enters this circular room through five cracked windows. The light falls on a large, dust-covered bed in the center of the room, its posts topped with wood-carved dragons.</p>
 </div>
 
-This room once served as a bedchamber for Sir Vladimir Horngaard and Sir Godfrey Gwilym. Additionally, read:
+This room once served as a bedchamber for Sir Vladimir [[Non-Player Characters/Argynvostholt/Commander Vladimir Horngaard|Horngaard]] and Sir Godfrey Gwilym. Additionally, read:
 
 <div class="description">
 <p>An old portrait hangs on the wall above the bed.</p>
@@ -968,7 +968,7 @@ Argynvost preferred to sleep in his dragon form, and thus there is no furniture 
 
 ***Collapsed Ceiling.*** The roof over this part of the mansion has collapsed, creating a twenty-foot-diameter gaping hole with broken rafters bisecting it. Dark storm clouds roll across the sky overhead. The floor is piled with rocks, broken tiles, shattered beams, and other debris. Beneath the rubble lie a sagging floor and puddles of rainwater. The ceiling here is 20 feet high, and the rubble is difficult terrain.
 
-***Dragon’s Audience Hall.*** The west wall of this fifty-foot-long, thirty-foot-wide audience hall has crumbled, leaving a gaping hole and a pile of rubble. Weapons and shields that once hung from the walls have fallen to the floor and succumbed to rust. A large, wooden throne carved to resemble a dragon with unfolding wings faces three tall windows to the west. Vladimir Horngaard is not in the throne, and no **phantom warriors** linger here.
+***Dragon’s Audience Hall.*** The west wall of this fifty-foot-long, thirty-foot-wide audience hall has crumbled, leaving a gaping hole and a pile of rubble. Weapons and shields that once hung from the walls have fallen to the floor and succumbed to rust. A large, wooden throne carved to resemble a dragon with unfolding wings faces three tall windows to the west. Vladimir [[Non-Player Characters/Argynvostholt/Commander Vladimir Horngaard|Horngaard]] is not in the throne, and no **phantom warriors** linger here.
 ## M6c. Upstairs Gallery
 ### East Staircases
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q31.</em></span>
@@ -998,7 +998,7 @@ Additionally, read:
 <p>The left- and right-side windows depict two humans—an older man and a younger woman—kneeling in supplication, while the central window depicts a handsome male angel descending from the heavens between them. The man watches with reverent eyes as the angel bestows a small silver statuette upon the woman, whose eyes are closed in evident prayer. The statuette appears to glow with the same sunlight that encircles the angel’s head.</p>
 </div>
 
-Any player who’s previously met the Abbot of the Abbey of Saint Markovia recognizes an uncanny resemblance between the Abbot and the figure in the central window. A player with a passive Wisdom (Insight) score of 15 or greater notices that the man’s gaze appears to be envious, rather than reverent.
+Any player who’s previously met the Abbot of [[Act III - The Broken Land/Arc K - The Fallen Abbey|the Abbey]] of Saint Markovia recognizes an uncanny resemblance between the Abbot and the figure in the central window. A player with a passive Wisdom (Insight) score of 15 or greater notices that the man’s gaze appears to be envious, rather than reverent.
 
 > [!lore]+ **The Stained-Glass Windows**
 > The stained-glass windows portray the anointing of Saint Markovia as a prophet by Ithuriel, the **deva** of the Morninglord now known as the Abbot. The event was overseen by Saint Andral, the Moste High Priest of the Morninglord’s church at the time of Markovia’s selection, and Markovia’s envious competitor for the title of the Morninglord’s prophet.
@@ -1029,9 +1029,9 @@ Brother Marek is glad to share his belief that the Order’s fate is damnation f
 
 [^1]: Inspired by *Amnesia: A Machine for Pigs*
 
-If the players insist that they intend to destroy Strahd von Zarovich, Brother Marek barks a bitter laugh. “Better warriors than you have marched on Castle Ravenloft," he remarks, “and yet their work has only swelled the ranks of the dead, while the vampire still rules from his shadowed towers. When the Order’s dead marched on Castle Ravenloft four centuries ago, the seer Madam Eva told them that this land had become an eternal prison, forever bound in the Mists. What hope have you, where so many have failed?"
+If the players insist that they intend to destroy Strahd von Zarovich, Brother Marek barks a bitter laugh. “Better warriors than you have marched on [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]]," he remarks, “and yet their work has only swelled the ranks of the dead, while the vampire still rules from his shadowed towers. When the Order’s dead marched on Castle Ravenloft four centuries ago, the seer [[Non-Player Characters/Tser Pool Encampment/Madam Eva|Madam Eva]] told them that this land had become an eternal prison, forever bound in the Mists. What hope have you, where so many have failed?"
 
-The players can convince Brother Marek to give them an opportunity to speak with Argynvost by making a successful DC 15 Charisma (Persuasion) check, with advantage if they mention Godfrey's request or their defeat of Volenta Popofsky in [[Arc D - St. Andral's Feast]] or Ludmilla Vilisevic in [[Arc J - The Stolen Gem]]. The check also succeeds automatically if the players reference any part of Madam Eva’s Tarokka reading, such as their possession of the *Tome of Strahd* or Madam Eva’s foretelling of the *Sunsword* and its location.
+The players can convince Brother Marek to give them an opportunity to speak with Argynvost by making a successful DC 15 Charisma (Persuasion) check, with advantage if they mention Godfrey's request or their defeat of [[Non-Player Characters/Castle Ravenloft/Volenta Popofsky|Volenta]] Popofsky in [[Arc D - St. Andral's Feast]] or [[Non-Player Characters/Castle Ravenloft/Ludmilla Vilisevic|Ludmilla]] Vilisevic in [[Arc J - The Stolen Gem]]. The check also succeeds automatically if the players reference any part of Madam Eva’s Tarokka reading, such as their possession of the *Tome of Strahd* or Madam Eva’s foretelling of the *Sunsword* and its location.
 
 > [!abstract]+ **Legacy of the Sunsword**
 > If told of the *Sunsword*’s foretelling, Brother Marek stirs in shock. He can inform the players that he once heard of a similar sword—King Barov II’s *Brightblade*, an enchanted sword that glowed with the light of the sun. “Strahd von Zarovich never wielded it in battle against us," he says, thoughtfully. “I had heard rumors that it had been passed down to Barov’s younger son, then rumors it had been destroyed. If it still exists, it may be one of the only weapons capable of destroying the beast that Zarovich has become."
@@ -1091,7 +1091,7 @@ The tower is one of the two beacon turrets. The spectral figure is one of the tw
 
 ***Beacon Tower Door.*** The parapet narrows to a width of ten feet, ending before a sturdy wooden door set into the wall of the eastern tower. This door is barred from the inside.
 
-If the players, while all are wearing garments or gear bearing the insignia of the Order of the Silver Dragon, identify themselves as members or soldiers of the Order and succeed on a DC 11 Charisma (Deception) check, the two **phantom warriors** in the beacon turrets demand the players speak Commander Horngaard's password before allowing them to approach the beacon tower door. 
+If the players, while all are wearing garments or gear bearing the insignia of the Order of the Silver Dragon, identify themselves as members or soldiers of the Order and succeed on a DC 11 Charisma (Deception) check, the two **phantom warriors** in the beacon turrets demand the players speak Commander [[Non-Player Characters/Argynvostholt/Commander Vladimir Horngaard|Horngaard]]'s password before allowing them to approach the beacon tower door. 
 
 If the players fail to speak the password ("From this until the end of days"), or if any of the visible players aren't wearing garments or gear bearing the Order's insignia, the phantom warriors attack the players on sight, making ***spectral longbow*** attacks against any living character within their line of sight. (The **phantom warriors** have 16 (+3) Dexterity, and their ***spectral longbow*** attacks have +5 to hit and deal 7 (1d8 + 3) force damage on a hit.) A character can escape their line of sight by taking cover behind the mansion’s central roof or the turrets containing the east staircases and the roof turrets.
 
@@ -1123,7 +1123,7 @@ Additionally, read:
 <p>A small, silver-plated gargoyle, shaped like a dragon wyrmling and holding a tarnished brazier in its claws, crouches on the floor just beside the staircase landing, its wings curled tightly toward itself. Not far away, a knight in old, rusted armor stands by the western window, looking out across the misted landscape far beyond. The blade of a tall, gleaming greatsword rests on the ground beside him, with one of the knight’s rusted iron gauntlets resting upon its hilt.</p>
 </div>
 
-The gargoyle is half the size of the silver-plated dragon gargoyle on the rooftop below. The knight is Vladimir Horngaard, commander of the fallen Order of the Silver Dragon—a gaunt, armored figure with one gauntlet wrapped around the hilt of a greatsword.
+The gargoyle is half the size of the silver-plated dragon gargoyle on the rooftop below. The knight is Vladimir [[Non-Player Characters/Argynvostholt/Commander Vladimir Horngaard|Horngaard]], commander of the fallen Order of the Silver Dragon—a gaunt, armored figure with one gauntlet wrapped around the hilt of a greatsword.
 ### Meeting Vladimir Horngaard
 The players must succeed on a DC 14 Dexterity (Stealth) check to ascend the staircase without alerting Vladimir to their presence. If the players don’t approach stealthily, fail their Dexterity (Stealth) check, approach the dragon gargoyle, or fought the **phantom warriors** in the turrets below, Vladimir is alerted. Read:
 
@@ -1162,7 +1162,7 @@ If the players convince Vladimir that they are neither thieves nor assassins, Vl
 
 If asked, Vladimir can share the following information:
 
-* His name is Vladimir Horngaard. In life, he was the commander of the Order of the Silver Dragon, the “valiant order" to which he devoted his life. He perished defending this valley from evil over four centuries ago; because of his failure, he is forever doomed.
+* His name is Vladimir [[Non-Player Characters/Argynvostholt/Commander Vladimir Horngaard|Horngaard]]. In life, he was the commander of the Order of the Silver Dragon, the “valiant order" to which he devoted his life. He perished defending this valley from evil over four centuries ago; because of his failure, he is forever doomed.
 * There is no monster Vladimir hates more than Strahd von Zarovich, an invader and tyrant who slew Argynvost and destroyed the Order of the Silver Dragon.
 * Vladimir has forbidden his knights from killing Strahd or aiding his defeat because he believes Strahd must suffer eternally for his sins in a hell of his own creation, from which Strahd can never escape. “He sacrificed everything for his empire—faith, love, and youth," Vladimir growls. “Now, everything he ever wanted and everything he ever won is locked away beyond the mists, leaving him trapped in this land of ghosts." (Vladimir doesn’t know who or what the Dark Powers are, but believes that “dark powers" far greater than Strahd have seen fit to punish him for his crimes—a sentence that Vladimir is proud to uphold.)
 * Because Strahd, a conqueror, craves adversaries to overcome, Vladimir has also forbidden his knights from slaying Strahd’s minions and creatures, a decision he believes will drive Strahd mad with boredom and despair. (If challenged with the suffering of the Barovian people, Vladimir snarls:  “I would let a thousand nations burn if Strahd von Zarovich would choke on the ashes.")
@@ -1177,7 +1177,7 @@ If the players mention an interest in Argynvost’s spirit, Vladimir asks them c
 
 If the players share a convincing story that doesn’t involve Sir Godfrey or Argynvost and succeed on a DC 14 Charisma (Deception) check, Vladimir instructs the players to depart once they have satisfied their curiosities. He then descends the staircase to return to the dragon’s audience hall.
 ### Vladimir’s Anger
-If the players inform Vladimir that they came to Argynvostholt at Sir Godfrey’s invitation or have otherwise spoken with Sir Godfrey, he asks quietly whether they “seek to join that traitor in his accursed crusade against the lord of Castle Ravenloft." The players can convince Vladimir that they are no enemies of Strahd with a successful DC 14 Charisma (Deception) check. On a failure, or if the players confess to seeking Strahd’s destruction, read:
+If the players inform [[Non-Player Characters/Argynvostholt/Commander Vladimir Horngaard|Vladimir]] that they came to Argynvostholt at Sir Godfrey’s invitation or have otherwise spoken with Sir Godfrey, he asks quietly whether they “seek to join that traitor in his accursed crusade against the lord of [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]]." The players can convince Vladimir that they are no enemies of Strahd with a successful DC 14 Charisma (Deception) check. On a failure, or if the players confess to seeking Strahd’s destruction, read:
 
 <div class="description">
 <p>The knight’s face curls into a terrible snarl, and the greatsword’s sharpened edge grinds against the broken stone floor. The temperature in the room seems to plummet, even as his red eyes burn with a haunting intensity.</p>

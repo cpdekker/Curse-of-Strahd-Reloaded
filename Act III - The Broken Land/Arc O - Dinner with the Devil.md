@@ -1,8 +1,8 @@
 _An adventure for five 6th-level characters._
 
-In this arc, after receiving an invitation to dine with Strahd on Neyavr 14—the last night before the new moon—the players journey east to Castle Ravenloft. Along the way, they might re-encounter Arrigal, who directs them to locate a traitor in Strahd's court; Father Donavich and the **vampire spawn** Doru, who have journeyed to Vallaki to seek Doru's betrothed, Gertruda; and the skeletal rider, which can lead the players to a mysterious locket hidden away in the Svalich Woods.
+In this arc, after receiving an invitation to dine with Strahd on Neyavr 14—the last night before the new moon—the players journey east to Castle Ravenloft. Along the way, they might re-encounter Arrigal, who directs them to locate a traitor in Strahd's court; Father Donavich and the **vampire spawn** Doru, who have journeyed to [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]] to seek Doru's betrothed, Gertruda; and the skeletal rider, which can lead the players to a mysterious locket hidden away in the Svalich Woods.
 
-Upon reaching the castle crossroads, the players are met by Strahd's black carriage, which carries gifts and can escort them to the keep. At the castle, the players are met by Rahadin and Strahd's third favored bride, Anastrasya Karelova, as well as Strahd's additional vampiric consorts: Escher (Strahd's most recent consort) and Sasha Ivliskova (Strahd's eldest bride, and the traitor Arrigal referred to).
+Upon reaching the castle crossroads, the players are met by Strahd's black carriage, which carries gifts and can escort them to the keep. At the castle, the players are met by [[Non-Player Characters/Castle Ravenloft/Rahadin|Rahadin]] and Strahd's third favored bride, [[Non-Player Characters/Castle Ravenloft/Anastrasya Karelova|Anastrasya]] Karelova, as well as Strahd's additional vampiric consorts: [[Non-Player Characters/Castle Ravenloft/Escher|Escher]] (Strahd's most recent consort) and Sasha Ivliskova (Strahd's eldest bride, and the traitor Arrigal referred to).
 
 As they partake in the festivities, the players must investigate Sasha's true loyalties while avoiding conflicts with Strahd's other brides. After dining with Strahd himself, the players have an opportunity to interrogate Sasha regarding the castle's secrets—and learn that Strahd will be away from Castle Ravenloft the very next night.
 
@@ -13,7 +13,7 @@ At dusk on the night immediately after the full moon, Strahd—using information
 > [!info]+ **When Does the Invitation Arrive?**
 > Strahd sends the invitation on the night immediately after the full moon or as described in [[Arc D - St. Andral's Feast#D6a. The Invitation|Arc D - St. Andral's Feast]], whichever happens first.
 
-Rahadin, riding his _phantom steed_—an ash-gray horse with dull, shadowed eyes—makes the journey to Vallaki in a little over an hour. Whether Lady Wachter or the Baron rules in Vallaki, the guards at the gates are too terrified to bar entry to Strahd’s chamberlain and herald. 
+Rahadin, riding his _phantom steed_—an ash-gray horse with dull, shadowed eyes—makes the journey to Vallaki in a little over an hour. Whether [[Non-Player Characters/Town of Vallaki/Lady Fiona Wachter|Lady Wachter]] or the Baron rules in Vallaki, the guards at the gates are too terrified to bar entry to Strahd’s chamberlain and herald. 
 
 Rahadin then makes his way to the players’ current location before dismounting from his horse and entering. If the players are in the Blue Water Inn, the entire taproom falls silent upon his entrance.
 
@@ -50,7 +50,7 @@ Rahadin declines to depart until the players have read Strahd’s invitation and
 
 If the players ask or appear to be concerned as to whether Strahd truly means not to harm them, Rahadin coldly notes that Strahd is lord of the land, and his word of safe passage to and from the dinner is binding on both others and himself. “He has promised you guestright," Rahadin notes, glaring. “Do not presume to spit upon his honor or authority."
 
-If the players ask or appear to be concerned whether Ireena would be safe at the castle, Rahadin coldly notes that both the players and Ireena would be welcome guests and protected under guestright, so long as they have not committed any offense against Strahd personally—which, to Rahadin’s knowledge, neither Ireena nor the players have done. If the players appear doubtful, Rahadin notes coolly, “Had my master sought to take Lady Kolyana from you, he could have done so as it pleased him, without your permission. She is, of course, not obliged to attend—but I advise you not to question the strength of his word."
+If the players ask or appear to be concerned whether [[Non-Player Characters/Village of Barovia/Ireena Kolyana|Ireena]] would be safe at the castle, Rahadin coldly notes that both the players and Ireena would be welcome guests and protected under guestright, so long as they have not committed any offense against Strahd personally—which, to Rahadin’s knowledge, neither Ireena nor the players have done. If the players appear doubtful, Rahadin notes coolly, “Had my master sought to take Lady Kolyana from you, he could have done so as it pleased him, without your permission. She is, of course, not obliged to attend—but I advise you not to question the strength of his word."
 
 If the players ask to delay their response, Rahadin coolly notes that his “master" expects an answer upon his return. 
 
@@ -83,7 +83,7 @@ A player who checks their pocket finds a small, scribbled note. (A player who fa
 <span class="credit">"Arrigal's Note" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 
-If Ezmerelda learns of the note, she excitedly advises the players to use the dinner at Castle Ravenloft as an opportunity to subtly squirrel out the traitor’s identity—and coordinate a meeting if possible.
+If [[Non-Player Characters/Abbey of St. Markovia/Ezmerelda dAvenir|Ezmerelda]] learns of the note, she excitedly advises the players to use the dinner at Castle Ravenloft as an opportunity to subtly squirrel out the traitor’s identity—and coordinate a meeting if possible.
 
 > [!lore]+ **What Arrigal Knows**
 > While making a regular report to Anastrasya at Castle Ravenloft, Arrigal attempted to eavesdrop on a conversation she was having with Strahd in private. As he did, he encountered a female vampire spawn whose face was concealed behind a veil. 
@@ -94,7 +94,7 @@ If Ezmerelda learns of the note, she excitedly advises the players to use the di
 
 # O3. The Old Svalich Road
 ## O3a. Doru & Donavich
-As the players move to depart Vallaki for Castle Ravenloft on the day of the dinner, if they previously spared the **vampire spawn** Doru and aided him in overcoming his thirst for blood in [[Act I - Into the Mists/Arc B - Welcome to Barovia]], they encounter Doru and his father, the priest Donavich (using the statistics of an **acolyte**) at Vallaki’s eastern Morning Gate as they approach the Old Svalich Road. Read:
+As the players move to depart [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]] for Castle Ravenloft on the day of the dinner, if they previously spared the **vampire spawn** Doru and aided him in overcoming his thirst for blood in [[Act I - Into the Mists/Arc B - Welcome to Barovia]], they encounter Doru and his father, the priest Donavich (using the statistics of an **acolyte**) at Vallaki’s eastern Morning Gate as they approach the Old Svalich Road. Read:
 
 <div class="description">
 <p>As the closed eastern gate comes into view, you spot two guards speaking heatedly with a pair of cloaked figures through the bars of the gate. As one of the guards shifts her weight to brandish the spear at her side, you recognize the two figures on the opposite side of the gate: the Barovian priest, Father Donavich, and his son, Doru.</p>
@@ -102,7 +102,7 @@ As the players move to depart Vallaki for Castle Ravenloft on the day of the din
 
 If the players parted ways with him on good terms, Doru swiftly notices the players and waves excitedly, even as an unaware Father Donavich continues quietly negotiating with the guards before him.
 
-If the players make themselves known and previously assisted Lady Wachter in [[Arc F - Lady Wachter's Wish]] or [[Arc H - The Lost Soul]], the guards at the gate recognize them by their appearance and greet them with respect. The guards, who are named Gorek and Drilvia, are mistrustful of and annoyed with Doru and Donavich, and can share the following information:
+If the players make themselves known and previously assisted [[Non-Player Characters/Town of Vallaki/Lady Fiona Wachter|Lady Wachter]] in [[Arc F - Lady Wachter's Wish]] or [[Arc H - The Lost Soul]], the guards at the gate recognize them by their appearance and greet them with respect. The guards, who are named Gorek and Drilvia, are mistrustful of and annoyed with Doru and Donavich, and can share the following information:
 
 * The two men, who introduced themselves as Doru and Father Donavich, arrived outside the gates last night and “demanded" entry. (If able to hear this characterization, Doru rolls his eyes in obvious irritation.) 
 * Because of his red-tinted eyes and pointed ears, both Gorek and Drilvia and the previous shift’s guards believe Doru to be a vampire (which he and Donavich deny) and have therefore refused him entry. (If asked, they can explain uncomfortably that, while Vallaki officially recognizes the Devil as lord of Barovia, Lady Wachter has maintained Baron Vallakovich’s policy of barring entry to any undead—so long as those undead aren’t approved by the Devil himself.)
@@ -123,9 +123,9 @@ The players can convince Gorek and Drilvia to allow Donavich and Doru entry by v
 
 If the players aid them in securing entry to Vallaki, Doru and Donavich are deeply grateful for their assistance, as well as any directions the players can provide to the nearest inn.
 ## O3b. The Rider’s Guidance
-The journey from Vallaki to the black carriage is eight and one-quarter miles long and takes two hours and forty-five minutes.
+The journey from [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]] to the black carriage is eight and one-quarter miles long and takes two hours and forty-five minutes.
 
-As the players reach the stretch of road nearing Old Bonegrinder, a wolf pack emerges from the woods. True to Strahd's word, they show no aggression. Read:
+As the players reach the stretch of road nearing [[Act II - The Shadowed Town/Arc H - The Lost Soul|Old Bonegrinder]], a wolf pack emerges from the woods. True to Strahd's word, they show no aggression. Read:
 
 <div class="description">
 <p>The sound of howling ahead draws your attention. Further up the road, a pack of wolves emerges from the mist, their eyes gleaming. They pause, sniffing the air, noticing your presence on the path. Disinterested, they turn their heads away, before slinking nonchalantly into the forest.</p>
@@ -225,7 +225,7 @@ My crown yet sits upon my head for all to see with pride.</p>
 
 The poem is a hint as to the proper order of the panels: wolf, spider, raven; rat, butterfly, bat; bear, empty space, elk. If the panels are arranged in the proper order, the chest opens, allowing access to the extradimensional storage space within. When first opened in this way, the chest contains a number of neatly wrapped parcels equal to the number of players. Each parcel contains a set of fine black velvet gloves with silver trim and a fine black velvet cloak lined with wolf fur.
 
-The players can also open the chest by picking the lock and succeeding on a DC 20 Dexterity (Thieves’ Tools) check, or by forcing the chest open and succeeding on a DC 15 Strength check. If the players open the chest in this way, it has an ordinary interior and contains only a bottle of Red Dragon Crush wine, stamped with the name of the Wizard of Wines. If the players force open the chest, the bottle shatters and breaks, staining any nearby fingers and boots a faint, but noticeable shade of red.
+The players can also open the chest by picking the lock and succeeding on a DC 20 Dexterity (Thieves’ Tools) check, or by forcing the chest open and succeeding on a DC 15 Strength check. If the players open the chest in this way, it has an ordinary interior and contains only a bottle of Red Dragon Crush wine, stamped with the name of the [[Act III - The Broken Land/Arc J - The Stolen Gem|Wizard of Wines]]. If the players force open the chest, the bottle shatters and breaks, staining any nearby fingers and boots a faint, but noticeable shade of red.
 # O4. Arrival at Castle Ravenloft
 The journey from the black carriage to Castle Ravenloft is two-and-a-half miles long and takes fifty minutes to walk or forty minutes by carriage. 
 
@@ -257,7 +257,7 @@ As the players exit the carriage, read the following:
 <p>His companion, a woman, wears a striking red dress with a layered, ruffled frill. A black and crimson silk head scarf wraps around her head, its lush fabric sewn with precious jewels, and a black opal pendant glints from a silver necklace dangling loosely from her neck. Her red eyes glint in the flickering light, and you catch a glimpse of a gleaming-white fang behind her curved upper lip.</p>
 </div>
 
-The players recognize the man as Rahadin, Strahd’s chamberlain. The woman is Anastrasya Karelova, one of Strahd’s vampiric brides.
+The players recognize the man as [[Non-Player Characters/Castle Ravenloft/Rahadin|Rahadin]], Strahd’s chamberlain. The woman is [[Non-Player Characters/Castle Ravenloft/Anastrasya Karelova|Anastrasya]] Karelova, one of Strahd’s vampiric brides.
 
 > [!profile]+ **Profile: Anastrasya Karelova**
 > **Roleplaying Information**
@@ -320,14 +320,14 @@ As the players enter the keep, the castle drawbridge rises once more. Read:
 
 The castle foyer contains four dragon statues that glare down from the vaulted ceiling overhead, though only two are **red dragon wyrmlings**. (The other two are harmless statuary.) The dragon statues do not attack the players for as long as the players are here by invitation.
 
-As Rahadin leads the players through for the first time, read:
+As [[Non-Player Characters/Castle Ravenloft/Rahadin|Rahadin]] leads the players through for the first time, read:
 
 <div class="description">
 <p>You pass through the ornate outer doors into the castle's vaulted entry foyer, your footsteps echoing on the dark stone floor. Overhead, four statues of dragons glare down, their lifelike eyes flickering in the torchlight.</p>
 <p>Twenty feet inside the castle is a second set of doors, manned by two figures. To the left stands a handsome young man with long, blond hair, his soft features sharpened by a frozen smile. To the right, a pale-skinned woman in an old wedding gown stands stiffly. Her hair, as black as a raven’s feathers, cascades over her shoulders, and her lips are pulled daintily back to reveal two, fine-pointed fangs. As you approach, both bow deeply to Rahadin—the man with a cat’s mocking grace, the woman with a jerking, guarded motion—and step aside to pull open the doors for your passage.</p>
 </div>
 
-The players recognize the man as Escher, Strahd’s **vampire spawn** consort, who they previously met in [[Act I - Into the Mists/Arc C - Into the Valley]]. The woman is Sasha Ivliskova, a **vampire spawn** and Strahd’s eldest vampiric bride.
+The players recognize the man as [[Non-Player Characters/Castle Ravenloft/Escher|Escher]], Strahd’s **vampire spawn** consort, who they previously met in [[Act I - Into the Mists/Arc C - Into the Valley]]. The woman is Sasha Ivliskova, a **vampire spawn** and Strahd’s eldest vampiric bride.
 
 ![[Escher.png]]
 <span class="credit">"Escher" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -380,7 +380,7 @@ The players recognize the man as Escher, Strahd’s **vampire spawn** consort, w
 >
 > Sasha hates what she has become—and the only thing she hates more than that is Strahd. Though she isn’t sure why he awoke her, she desires nothing less than his complete and utter end—and her own opportunity to finally find rest at last.
 
-If Ireena is with the party, Sasha briefly startles upon glimpsing her—almost as though “she’s seen a ghost"—but swiftly regains her composure.
+If [[Non-Player Characters/Village of Barovia/Ireena Kolyana|Ireena]] is with the party, Sasha briefly startles upon glimpsing her—almost as though “she’s seen a ghost"—but swiftly regains her composure.
 
 > [!lore]+ **Sasha & Tatyana**
 > Although Sasha and Tatyana never met in life, Sasha is deeply familiar with Tatyana’s face, having spent many years studying the other woman’s features in the commissioned portrait Strahd placed in Strahd's study. Although Sasha once hated Tatyana for escaping Strahd’s clutches, age has matured her loathing to pity, and Sasha now mourns Tatyana as a woman not unlike herself: a victim of Strahd’s appetites and cruelty.
@@ -391,16 +391,16 @@ If Ireena is with the party, Sasha briefly startles upon glimpsing her—almost 
 
 Cobwebs stretch between the columns that support the vaulted ceiling of this great, dusty hall, dimly lit by sputtering torches in iron sconces. The torches cast odd shadows across the faces of four stone **gargoyles** squatting motionlessly on the rim of the domed ceiling. Cracked and faded ceiling frescoes are covered by decay. Double doors of bronze stand closed to the east, and to the north, a wide staircase climbs into darkness. A lit hallway to the south contains another set of bronze doors.
 
-The gargoyles don’t attack so long as the players are here by invitation. Read the following text, modifying it as necessary if Volenta Popofsky or Ludmilla Vilisevic have previously been killed:
+The gargoyles don’t attack so long as the players are here by invitation. Read the following text, modifying it as necessary if [[Non-Player Characters/Castle Ravenloft/Volenta Popofsky|Volenta]] Popofsky or [[Non-Player Characters/Castle Ravenloft/Ludmilla Vilisevic|Ludmilla]] Vilisevic have previously been killed:
 
 <div class="description">
 <p>A dainty woman, wearing a faded gold wedding gown and a platinum mask shaped like a skull, sloshes a wine glass filled with a deep, crimson liquid as she gestures wildly. Her companion, a tall, dark-skinned woman wearing a gold tiara and a simple white gown, instead disregards her, her cold gaze flickering toward you as her expression darkens. Her grip on her own wine glass tightens, and the corners of her mouth pull ever-slightly downwards.</p>
 </div>
 
 ### Introductions
-If they have previously encountered them in [[Arc D - St. Andral's Feast]] and [[Arc J - The Stolen Gem]], the players recognize the dainty woman as Volenta Popofsky and the tall woman as Ludmilla Vilisevic. Volenta and Ludmilla recognize the players—Ludmilla regarding them with an icy disdain, and Volenta draining her glass as she scowls at them below her mask.
+If they have previously encountered them in [[Arc D - St. Andral's Feast]] and [[Arc J - The Stolen Gem]], the players recognize the dainty woman as [[Non-Player Characters/Castle Ravenloft/Volenta Popofsky|Volenta]] Popofsky and the tall woman as [[Non-Player Characters/Castle Ravenloft/Ludmilla Vilisevic|Ludmilla]] Vilisevic. Volenta and Ludmilla recognize the players—Ludmilla regarding them with an icy disdain, and Volenta draining her glass as she scowls at them below her mask.
 
-Escher and Sasha then close the entry doors behind them, joining the players and other consorts in the great entry. If uninterrupted, Anastrasya attempts to introduce the players to Volenta and Ludmilla—though she adds, with an amused smile, that she “believes they may have already met." 
+[[Non-Player Characters/Castle Ravenloft/Escher|Escher]] and Sasha then close the entry doors behind them, joining the players and other consorts in the great entry. If uninterrupted, [[Non-Player Characters/Castle Ravenloft/Anastrasya Karelova|Anastrasya]] attempts to introduce the players to Volenta and Ludmilla—though she adds, with an amused smile, that she “believes they may have already met." 
 
 Anastrasya then attempts to introduce the players to Escher and Sasha, introducing them as “our Lord’s newest delight" and “our Lord’s eldest bride," respectively. “Dearest Sasha doesn’t look her years, of course," she adds, almost as an afterthought. “Why, our Lord recently told me she still looks as radiant as the first day he laid eyes on her." (A player with a passive Wisdom (Insight) of 13 or greater notices Sasha visibly tremble at Anastrasya’s backhanded “compliment," Sasha’s fingers tightening into fists as her vampiric claws draw blood from her own palms.)
 
@@ -408,7 +408,7 @@ Anastrasya then attempts to introduce the players to Escher and Sasha, introduci
 > If Ireena is not present, Escher is flamboyant, cheerful, and flirtatious with the players, determined to show Strahd’s other consorts that he won’t be cowed by their efforts to pull rank. If Ireena is present, Escher, though still flamboyant, is more withdrawn and even occasionally abrasive and quick-tempered. Too ashamed of the consequences of his decision to awaken Strahd—such as the death of Ireena’s father and the deaths of many of his friends and neighbors—he is unwilling to meet her eyes for the duration of the evening.
 
 ### Volenta’s Toy
-As introductions draw to a close, Rahadin moves into the guests' hall to guard the entrance to the south tower stair. As he does, a man emerges from the south tower stair and joins the players and brides in the great entry. Read:
+As introductions draw to a close, [[Non-Player Characters/Castle Ravenloft/Rahadin|Rahadin]] moves into the guests' hall to guard the entrance to the south tower stair. As he does, a man emerges from the south tower stair and joins the players and brides in the great entry. Read:
 
 <div class="description">
 <p>A thin man dressed in fine servant’s clothes exits the torchlit staircase, his face completely obscured by a pale white mask. He holds a tray with several wine glasses and two pitchers of liquid upon it—one deep purple, one bright crimson—and steps carefully across the stone floor toward you.</p>
@@ -428,9 +428,9 @@ Any player for whom the man pours a drink notices that each of his fingertips ha
 >
 > While Anton has been “permitted" to serve as an attendant to the evening’s festivities, Dezdrelda’s corpse has been strung up in the wine cellar and exsanguinated, her blood drained to feed the vampires’ appetites during the night’s festivities.
 
-As drinks are served, Anastrasya attempts to continue the conversation, noting her keen interest in “getting to know such exotic outsiders better," and asking about their interests, hobbies, and experiences. Anastrasya does all she can to show a keen and sincere interest in the players, asking follow-up questions, laughing at their jokes, and probing deeply into their stories and anecdotes.
+As drinks are served, [[Non-Player Characters/Castle Ravenloft/Anastrasya Karelova|Anastrasya]] attempts to continue the conversation, noting her keen interest in “getting to know such exotic outsiders better," and asking about their interests, hobbies, and experiences. Anastrasya does all she can to show a keen and sincere interest in the players, asking follow-up questions, laughing at their jokes, and probing deeply into their stories and anecdotes.
 
-After serving Anastrasya and Escher glasses of “wine" from the red pitcher—Sasha refuses one of her own, shaking her head with a curt, thin frown—Anton approaches Volenta and Ludmilla and attempts to refill their glasses. As he does, read:
+After serving Anastrasya and [[Non-Player Characters/Castle Ravenloft/Escher|Escher]] glasses of “wine" from the red pitcher—Sasha refuses one of her own, shaking her head with a curt, thin frown—Anton approaches [[Non-Player Characters/Castle Ravenloft/Volenta Popofsky|Volenta]] and [[Non-Player Characters/Castle Ravenloft/Ludmilla Vilisevic|Ludmilla]] and attempts to refill their glasses. As he does, read:
 
 <div class="description">
 <p>The masked man stumbles, losing his grip on the red pitcher—and a wave of crimson liquid soars through the air before splashing across Volenta’s golden gown. The other vampires abruptly fall silent as Volenta whirls toward him, her sodden dress hanging limply across her chest. Her eyes burn with frenzied rage behind her mask, and her hand tightens around her wine glass so hard it shatters.</p>
@@ -445,7 +445,7 @@ If the players indicate an interest in attacking Volenta, Rahadin swiftly moves 
 > [!abstract]+ **Dead Volenta**
 > If the players previously killed Volenta in [[Arc D - St. Andral's Feast]], Anton instead spills his wine on Ludmilla. Rather than shattering her wine glass, she instead summons a nimbus of crackling lightning around her free hand. “Perhaps Volenta broke you beyond repair," she murmurs coldly, lifting her hand toward his chest as he whimpers in fear. “I have long since grown used to cleaning up her messes." 
 ### The Lord of the Castle
-Whether the players successfully convince or distract Volenta or not, Strahd then immediately descends from the grand landing into the great entry.
+Whether the players successfully convince or distract [[Non-Player Characters/Castle Ravenloft/Volenta Popofsky|Volenta]] or not, Strahd then immediately descends from the grand landing into the great entry.
 
 If the players successfully convinced or distracted Volenta, read:
 
@@ -472,7 +472,7 @@ In either case, continue:
 ![[Strahd at Dinner.png]]
 <span class="credit">"Strahd at Dinner" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-Each vampire spawn immediately falls silent and turns to offer Strahd a deep curtsy or bow. As she curtsies, Anastrasya bows her head and closes her eyes, murmuring, “Good evening, my lord." She adds, her eyes flickering toward Volenta, “I hope the night’s revelry did not disturb your work."
+Each vampire spawn immediately falls silent and turns to offer Strahd a deep curtsy or bow. As she curtsies, [[Non-Player Characters/Castle Ravenloft/Anastrasya Karelova|Anastrasya]] bows her head and closes her eyes, murmuring, “Good evening, my lord." She adds, her eyes flickering toward Volenta, “I hope the night’s revelry did not disturb your work."
 
 After cordially dismissing Anastrasya’s concerns, Strahd greets the players, welcoming them to Castle Ravenloft and apologizing for Volenta’s behavior if necessary. (“She can be quite excitable at times," he notes crisply. “One of her most attractive qualities—and perhaps her greatest flaw.")
 
@@ -585,9 +585,9 @@ If convinced to speak freely, Sasha closes her eyes, takes a deep breath, and le
 
 Sasha won’t elaborate further. Instead, once her message has been received, she immediately moves to return upstairs.
 # O5. Dinner is Served
-As smalltalk concludes in the the great entry, Rahadin approaches the group, bows, and announces that dinner is served. Strahd thanks him, turns to the players, and asks, “Shall we?" If the players concur, Rahadin then leads them into the dining hall. 
+As smalltalk concludes in the the great entry, [[Non-Player Characters/Castle Ravenloft/Rahadin|Rahadin]] approaches the group, bows, and announces that dinner is served. Strahd thanks him, turns to the players, and asks, “Shall we?" If the players concur, Rahadin then leads them into the dining hall. 
 
-The brides and Escher then turn to depart via the south tower stair.
+The brides and [[Non-Player Characters/Castle Ravenloft/Escher|Escher]] then turn to depart via the south tower stair.
 ## O5a. Into the Dining Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K10.</em></span>
 
@@ -633,7 +633,7 @@ When the players answer his final question, Strahd notes that he has survived th
 
 He then sighs, looks briefly thoughtful, and adds, “Although I am loath to sully a night of fellowship and merriment with matters of business, I must confess I have suffered the attentions of one such assassin quite recently—a viper by the name of Rudolph van Richten." Strahd carefully surveys the players’ expressions, one eyebrow lifting as he asks, “To my regret, however, my servants were unable to apprehend him. I believe him to still be at large. Have you heard any whispering of his presence in your travels through my domain?"
 
-A player with knowledge of Van Richten’s whereabouts must succeed on a DC 19 Charisma (Deception) check to successfully deceive Strahd when replying to him. However, Strahd treats all responses as though they are truthful, though a player who fails the check notices a knowing glint in Strahd’s eye as he replies to their answer.
+A player with knowledge of [[Non-Player Characters/Town of Vallaki/Dr. Rudolph van Richten|Van Richten]]’s whereabouts must succeed on a DC 19 Charisma (Deception) check to successfully deceive Strahd when replying to him. However, Strahd treats all responses as though they are truthful, though a player who fails the check notices a knowing glint in Strahd’s eye as he replies to their answer.
 # O6. Touring the Castle
 As dinner concludes, Strahd thanks the players for dining with him and offers them a brief tour of the castle. “I fear it has fallen from its former glory since I first began my slumber," he notes somberly, “but I hope that those with vision can see it for the marvel it once was." If the players accept his offer, Strahd leads them from the dining hall. 
 
@@ -725,7 +725,7 @@ Sasha can share any or all of the following information about herself if asked:
 * She is Sasha Ivliskova, Strahd’s first and eldest bride. He wed her nearly four centuries ago, in the wake of the loss of his first love, Tatyana Federovna. He grew tired of her, however, and when she dared challenge him, he locked her away in a crypt for four hundred years, freeing her for unknown purposes shortly after his recent awakening. (If asked what the experience was like, Sasha says dully, “it was maddening—and a time that I wish to forget forever.")
 * She despises Strahd with every fiber of her being. “I am old, and I am tired," she hisses. “There are two things I wish to see before I die: the light of the rising sun, and the death of the monster Strahd von Zarovich."
 
-If the player doesn’t reveal their interest in infiltrating Castle Ravenloft, Sasha asks them outright if they approached her because they wish to steal from the castle. In either case, she is willing to share information about the castle’s contents, layout, and inhabitants—as well as a time when Strahd will be away from the keep—if the players agree to take a certain prisoner with them when they do. “Her name is Gertruda," Sasha says, her brows furrowed in worry. “She is a villager from Barovia, spirited away as she trod the road toward Vallaki. She is alive, for now, but I fear for her life should she linger any longer in the keep. She's asked me to help free her, if I can—a request that, until now, I had no hope of fulfilling."
+If the player doesn’t reveal their interest in infiltrating Castle Ravenloft, Sasha asks them outright if they approached her because they wish to steal from the castle. In either case, she is willing to share information about the castle’s contents, layout, and inhabitants—as well as a time when Strahd will be away from the keep—if the players agree to take a certain prisoner with them when they do. “Her name is Gertruda," Sasha says, her brows furrowed in worry. “She is a villager from Barovia, spirited away as she trod the road toward [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]]. She is alive, for now, but I fear for her life should she linger any longer in the keep. She's asked me to help free her, if I can—a request that, until now, I had no hope of fulfilling."
 
 > [!lore]+ **Strahd's Scheme**
 > Unbeknownst to Sasha, Gertruda has been charmed by Strahd since the day she first arrived in the castle. Although Gertruda's friendship with Sasha is real, it was Strahd who told Gertruda to seek Sasha's aid in escaping.
@@ -738,10 +738,10 @@ If the players agree to rescue Gertruda, Sasha can share the following informati
 * Gertruda is a prisoner on the third floor of the castle, in the king’s suites. The players can access the suites via the staircase in the foyer (the south tower stair).
 * Sasha doesn’t know any of the traps that Strahd or his servants might have set in the castle. She does know, however, that the inside of the keep is often patrolled by undead **wights**—the animated remains of those that once guarded the castle.
 * Strahd keeps prisoners in the dungeons, on the floor beneath the castle larders. The players can access the dungeons via the staircase in the foyer (the south tower stair).
-* Sasha has seen a dragon’s skull once—in a basement chamber that Volenta has more recently transformed into an ossuary. The chamber (the Hall of Bones) is behind the closed wooden doors to the west of the kitchen.
+* Sasha has seen a dragon’s skull once—in a basement chamber that [[Non-Player Characters/Castle Ravenloft/Volenta Popofsky|Volenta]] has more recently transformed into an ossuary. The chamber (the Hall of Bones) is behind the closed wooden doors to the west of the kitchen.
 * Although she hasn’t descended there since Strahd freed her from her crypt, the castle catacombs are accessible via the high tower staircase.
 * Strahd has commanded his spawn to report the presence of any intruders into the castle, and Sasha therefore can’t help the players enter the keep herself. However, she can share the existence of a second, rear servants’ entrance (the servants’ entrance into the castle via the servants’ courtyard, which allows access to the servants’ quarters and kitchens.
-* Should the players require it while navigating the castle, Sasha recalls that Strahd's oldest password is "I come in Dostron's memory." She isn't sure who Dostron is, or whether Strahd still uses it as a password, but believes him arrogant enough to believe that none in the castle—other than Rahadin—is old enough to remember it. (Sasha doesn't know it, but the players can use this password to open both the *Tome of Strahd*, as described in [[Arc H - The Lost Soul]], and the *Daern's Instant Fortress* located in the treasury).
+* Should the players require it while navigating the castle, Sasha recalls that Strahd's oldest password is "I come in Dostron's memory." She isn't sure who Dostron is, or whether Strahd still uses it as a password, but believes him arrogant enough to believe that none in the castle—other than [[Non-Player Characters/Castle Ravenloft/Rahadin|Rahadin]]—is old enough to remember it. (Sasha doesn't know it, but the players can use this password to open both the *Tome of Strahd*, as described in [[Arc H - The Lost Soul]], and the *Daern's Instant Fortress* located in the treasury).
 
 Sasha warns the players that they likely won't be able to depart the castle without facing Rahadin, the castle chamberlain. "The master of the castle may be gone," she tells them, "but his right hand stalks the shadows of any who enter."
 
@@ -749,9 +749,9 @@ Sasha’s memory and knowledge of the castle is limited beyond this information,
 
 When the player has exhausted her knowledge, Sasha informs them curtly that they both must return to the castle’s halls before they are missed, and bids them luck as they depart. Before she leaves, the player notices her cast a final, mournful glance at the mirrors on the floor—none of which bear her reflection—then sigh and step away into the turret post.
 
-Shortly after the player returns to the dining hall and closes the secret door, Escher enters the chamber to collect them and escort them upstairs through the great entry, up the stairs of the grand landing, and into the audience hall to meet the other players.
+Shortly after the player returns to the dining hall and closes the secret door, [[Non-Player Characters/Castle Ravenloft/Escher|Escher]] enters the chamber to collect them and escort them upstairs through the great entry, up the stairs of the grand landing, and into the audience hall to meet the other players.
 ## O6f. The Prisoner
-Shortly after all of the players have reunited in the Audience Hall, Rahadin ascends the grand landing and enters the room accompanied by another figure. Read:
+Shortly after all of the players have reunited in the Audience Hall, [[Non-Player Characters/Castle Ravenloft/Rahadin|Rahadin]] ascends the grand landing and enters the room accompanied by another figure. Read:
 
 <div class="description">
 <p>Rahadin holds a chain in his right hand, its links connected to a steel collar clamped tightly around the neck of the stumbling figure he drags forward behind him. The figure’s features are obscured by the sack they wear over their head, their clothes torn away and replaced by a threadbare, shapeless robe.</p>
@@ -781,7 +781,7 @@ If the players ask Strahd why the man’s body is disfigured, he notes gravely t
 
 Strahd defers to the players to decide how the man should be executed. If the players are able to settle on a decision, Strahd then invites them to carry out the sentence themselves—"if they have the stomach for it."
 
-If the players fail to decide upon a sentence, or if they fail to carry it out themselves, Strahd shakes his head in disappointment and gestures for Rahadin to replace the sack over the man’s head. “A pity," he mourns. “I’d hoped for a better showing from you. Ludmilla shall have him instead, then. I expect she’ll enjoy inspecting his numerous deformities."
+If the players fail to decide upon a sentence, or if they fail to carry it out themselves, Strahd shakes his head in disappointment and gestures for Rahadin to replace the sack over the man’s head. “A pity," he mourns. “I’d hoped for a better showing from you. [[Non-Player Characters/Castle Ravenloft/Ludmilla Vilisevic|Ludmilla]] shall have him instead, then. I expect she’ll enjoy inspecting his numerous deformities."
 
 If the players move to kill him, the man begins to laugh as he dies. “I smell amber," he wheezes, his voice gravelly. “You think yourselves above me, but you carry its stink as well." He gasps for breath, then rasps, “Does it whisper to you as well, I wonder?" before dying.
 
@@ -795,9 +795,9 @@ Following the events of [[#O6f. The Prisoner]], Strahd thanks the players for an
 
 If necessary, Strahd reassures the players that they are in no danger, and that it simply appears that a stray bolt of lightning has struck a part of the keep.
 
-Shortly after the lightning strike, Ludmilla enters the chamber from the grand landing, her expression stony. She bows deeply before Strahd, then informs him that it appears a bolt of lightning has struck the south gate tower. She shares that she has dispatched Diavola, one of her apprentices, to inspect the tower mechanism and determine whether any repairs are required.
+Shortly after the lightning strike, [[Non-Player Characters/Castle Ravenloft/Ludmilla Vilisevic|Ludmilla]] enters the chamber from the grand landing, her expression stony. She bows deeply before Strahd, then informs him that it appears a bolt of lightning has struck the south gate tower. She shares that she has dispatched Diavola, one of her apprentices, to inspect the tower mechanism and determine whether any repairs are required.
 
-Strahd then invites the players to join him in the the great entry for refreshments as they wait for Diavola’s report. If Escher is present (i.e., because one of the players met with Sasha in [[#O6e. Sasha’s Rendezvous]]), Strahd directs him to send for wine and tea from the kitchens. Otherwise, Strahd clicks his tongue, summoning a lone **bat** hanging from the ceiling, and directs it to do the same. The bat chirps a single time, then flutters down through the grand landing.
+Strahd then invites the players to join him in the the great entry for refreshments as they wait for Diavola’s report. If [[Non-Player Characters/Castle Ravenloft/Escher|Escher]] is present (i.e., because one of the players met with Sasha in [[#O6e. Sasha’s Rendezvous]]), Strahd directs him to send for wine and tea from the kitchens. Otherwise, Strahd clicks his tongue, summoning a lone **bat** hanging from the ceiling, and directs it to do the same. The bat chirps a single time, then flutters down through the grand landing.
 
 Shortly after the players descend to the Great Entry, if Strahd sent Escher to the kitchens, he ascends the south tower stair bearing a tray containing mugs of spiced wine and herbal tea. (If Strahd sent the bat, Sasha delivers the drinks instead.) As they enjoy their refreshments, Strahd apologizes to the players for the delay and inconvenience, but notes, “I have full faith in Ludmilla and her associates to remedy any problem."
 
@@ -923,7 +923,7 @@ If Escher is the players' guide, he is curt and visibly slouching as he shows th
 
 The landing at the top of the south tower stair is a dark space ten feet wide and twenty feet long. A cold draft of wind rushes down the spiral staircase at the north end of the east wall and whistles mournfully through the room. An ornate, square rug covers the floor to the south, and set into the west wall is an ironbound wooden door with a wooden trapdoor set into the floor in front of it. Hanging on the north wall above the trapdoor is a framed portrait of a handsome, well-dressed man with a serene yet penetrating gaze. Neither the **rug of smothering** nor the **guardian portrait** attacks the players for the duration of their stay at Ravenloft.
 ### Escher's Jealousy
-If Escher escorted the players to their rooms, he steps into the lounge and sweeps his arm dramatically across the room. "I hope everything is to your liking," he says icily, his eyes narrowing. "Is there anything else of mine you'd like to take?"
+If [[Non-Player Characters/Castle Ravenloft/Escher|Escher]] escorted the players to their rooms, he steps into the lounge and sweeps his arm dramatically across the room. "I hope everything is to your liking," he says icily, his eyes narrowing. "Is there anything else of mine you'd like to take?"
 
 Escher, who is jealous of the players, anxious about losing Strahd's favor, and desperate to justify his betrayal of Doru's rebellion, is hungry for a confrontation with Strahd's new "playthings." Unless forced to depart, he attempts to needle the players, insulting their appearances, lack of culture, or "disappointing intelligence." "I can't imagine why he's kept you around this long," Escher hisses. "Perhaps he just thinks you'll squeal particularly loudly when he inevitably tires of you."
 
@@ -931,7 +931,7 @@ If challenged regarding his position in Strahd's court, Escher angrily insists t
 
 If confronted regarding his betrayal of Doru's rebellion, Escher is taken aback, then angrily denies playing any role in Doru's downfall. "His end was inevitable," he insists. "Such is the fate of any who defies Lord Strahd's will." (A player who succeeds on a DC 13 Wisdom (Insight) check learns that Escher appears to be attempting to convince himself as much as the players.)
 
-As Escher's confrontation with the players comes to a close, Rahadin appears silently at the door and clears his throat, startling Escher. Rahadin warns the players that they are not to leave their chambers until morning, noting with a stern glower that “dark things” roam the castle at night—and that undue curiosity, in the home of his master, can be a fatal flaw. “To ensure your safety, Escher shall stand guard at your door through the night,” he adds, much to Escher’s obvious surprise and resentment.
+As Escher's confrontation with the players comes to a close, [[Non-Player Characters/Castle Ravenloft/Rahadin|Rahadin]] appears silently at the door and clears his throat, startling Escher. Rahadin warns the players that they are not to leave their chambers until morning, noting with a stern glower that “dark things” roam the castle at night—and that undue curiosity, in the home of his master, can be a fatal flaw. “To ensure your safety, Escher shall stand guard at your door through the night,” he adds, much to Escher’s obvious surprise and resentment.
 
 Before departing, Rahadin also produces a key from his pocket, which he uses to lock the players in the guest suite—again, “for their safety.” He will return to unlock the door, he promises, at the first light of morning.
 ### Sasha's Insight
@@ -944,7 +944,7 @@ Once inside the lounge, Sasha can share any or all of the following information 
 * She is Sasha Ivliskova, Strahd’s first and eldest bride. He wed her nearly four centuries ago, in the wake of the loss of his first love, Tatyana Federovna. He grew tired of her, however, and when she dared challenge him, he locked her away in a crypt for four hundred years, freeing her for unknown purposes shortly after his recent awakening. (If asked what the experience was like, Sasha says dully, “it was maddening—and a time that I wish to forget forever.”)
 * She despises Strahd with every fiber of her being. “I am old, and I am tired,” she hisses. “There are two things I wish to see before I die: the light of the rising sun, and the death of the monster Strahd von Zarovich.”
 
-If the players don't reveal their interest in infiltrating Castle Ravenloft, Sasha asks them outright if they approached her because they wish to steal from the castle. In either case, she is willing to share information about the castle’s contents, layout, and inhabitants—as well as a time when Strahd will be away from the keep—if the players agree to take a certain prisoner with them when they do. “Her name is Gertruda,” Sasha says, her brows furrowed in worry. “She is a villager from Barovia, spirited away as she trod the road toward Vallaki. She is alive, for now, but I fear for her life should she linger any longer in the keep. She's asked me to help free her, if I can—a request that, until now, I had no hope of fulfilling."
+If the players don't reveal their interest in infiltrating Castle Ravenloft, Sasha asks them outright if they approached her because they wish to steal from the castle. In either case, she is willing to share information about the castle’s contents, layout, and inhabitants—as well as a time when Strahd will be away from the keep—if the players agree to take a certain prisoner with them when they do. “Her name is Gertruda,” Sasha says, her brows furrowed in worry. “She is a villager from Barovia, spirited away as she trod the road toward [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]]. She is alive, for now, but I fear for her life should she linger any longer in the keep. She's asked me to help free her, if I can—a request that, until now, I had no hope of fulfilling."
 
 If the players agree to rescue Gertruda, Sasha can share the following information about Castle Ravenloft:
 
@@ -952,16 +952,16 @@ If the players agree to rescue Gertruda, Sasha can share the following informati
 * Gertruda is a prisoner on the third floor of the castle, in the king’s suites. The players can access the suites via the staircase in the foyer (the south tower stair).
 * Sasha doesn’t know any of the traps that Strahd or his servants might have set in the castle. She does know, however, that the inside of the keep is often patrolled by undead **wights**—the animated remains of those that once guarded the castle.
 * Strahd keeps prisoners in the dungeons, on the floor beneath the castle larders. The players can access the dungeons via the staircase in the foyer (the south tower stair).
-* Sasha has seen a dragon’s skull once—in a basement chamber that Volenta has more recently transformed into an ossuary. The chamber is behind the closed wooden doors to the west of the kitchen.
+* Sasha has seen a dragon’s skull once—in a basement chamber that [[Non-Player Characters/Castle Ravenloft/Volenta Popofsky|Volenta]] has more recently transformed into an ossuary. The chamber is behind the closed wooden doors to the west of the kitchen.
 * Although she hasn’t descended there since Strahd freed her from her crypt, the castle catacombs are accessible via the high tower staircase.
 * Strahd has commanded his spawn to report the presence of any intruders into the castle, and Sasha therefore can’t help the players enter the keep herself. However, she can share the existence of a second, rear servants’ entrance (the servants’ entrance into the castle via the servants’ courtyard, which allows access to the servants’ quarters and kitchens.
-* Should the players require it while navigating the castle, Sasha recalls that Strahd's oldest password is "I come in Dostron's memory." She isn't sure who Dostron is, or whether Strahd still uses it as a password, but believes him arrogant enough to believe that none in the castle—other than Rahadin—is old enough to remember it. (Sasha doesn't know it, but the players can use this password to open both the *Tome of Strahd*, as described in [[Arc H - The Lost Soul]], and the *Daern's Instant Fortress* located in the treasury).
+* Should the players require it while navigating the castle, Sasha recalls that Strahd's oldest password is "I come in Dostron's memory." She isn't sure who Dostron is, or whether Strahd still uses it as a password, but believes him arrogant enough to believe that none in the castle—other than [[Non-Player Characters/Castle Ravenloft/Rahadin|Rahadin]]—is old enough to remember it. (Sasha doesn't know it, but the players can use this password to open both the *Tome of Strahd*, as described in [[Arc H - The Lost Soul]], and the *Daern's Instant Fortress* located in the treasury).
 
 Sasha warns the players that they likely won't be able to depart the castle without facing Rahadin, the castle chamberlain. "The master of the castle may be gone," she tells them, "but his right-hand man stalks the shadows of any who enter."
 
 Sasha’s memory and knowledge of the castle is limited beyond this information, and she apologizes for any inability to answer the players’ additional questions.
 
-As Sasha's conversation with the players comes to a close, there comes a knock at the door. Upon opening the door, the players are greeted by Rahadin, accompanied by Escher.
+As Sasha's conversation with the players comes to a close, there comes a knock at the door. Upon opening the door, the players are greeted by Rahadin, accompanied by [[Non-Player Characters/Castle Ravenloft/Escher|Escher]].
 
 After dismissing Sasha, Rahadin warns the players that they are not to leave their chambers until morning, noting with a stern glower that “dark things” roam the castle at night—and that undue curiosity, in the home of his master, can be a fatal flaw. “To ensure your safety, Escher shall stand guard at your door through the night,” he adds, much to Escher's obvious resentment.
 
@@ -1065,7 +1065,7 @@ Shortly after the players emerge into the portrait of Strahd landing, a man emer
 
 <span class="credit">"Ismark the Great" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-The man is a memory of Ismark Antonovich (Ismark the Great), and appears strangely familiar to any player who’s previously seen the statue of Ismark the Great in the Barovian village square. The raven on his shoulder is a memory of the **wereraven** Livius Martikov, the founder of the Keepers of the Feather.
+The man is a memory of [[Non-Player Characters/Village of Barovia/Ismark Kolyanovich|Ismark]] Antonovich (Ismark the Great), and appears strangely familiar to any player who’s previously seen the statue of Ismark the Great in the Barovian village square. The raven on his shoulder is a memory of the **wereraven** Livius Martikov, the founder of the Keepers of the Feather.
 
 Ismark is startled, but “gladly surprised" to see other living mortals in the castle. He introduces himself as Ismark Antonovich, and the raven on his shoulder as Livius. As introductions proceed, he notes that the players “don’t look like they’re from around here," but thinks aloud that it’s not uncommon for outsiders to be swept away into Barovia by the Mists.
 
@@ -1132,7 +1132,7 @@ On initiative count 20 of the first round after the **swarms of bats** descend, 
 <p>Something enormous thuds against the stone of the landing outside of the guest suite. As you watch, a massive, clawed, reptilian hand curls slowly around the doorframe, the wood splintering as the stone crumbles beneath it.</p>
 </div>
 
-The dragon is a symbolic representation of Rahadin, who served as the warden to the women Strahd lured to and trapped in the castle. Any creature that has previously heard Rahadin's ***deathly chorus*** recognizes that the screams resemble the same manifestation.
+The dragon is a symbolic representation of [[Non-Player Characters/Castle Ravenloft/Rahadin|Rahadin]], who served as the warden to the women Strahd lured to and trapped in the castle. Any creature that has previously heard Rahadin's ***deathly chorus*** recognizes that the screams resemble the same manifestation.
 
 Make the following changes to the dragon's statistics:
 
@@ -1181,7 +1181,7 @@ If asked, Varushka can share the following information:
 
 * She is Varushka, a servant of Castle Ravenloft. Until recently, she enjoyed her work. However, that changed ten days ago, "the day the sky turned red, and the mists rose around the valley." That morning, she saw "a great darkness" appear in King von Zarovich's chambers and speak to him. "He didn't see me, but I saw him as I cleaned," Varushka whispers. "Before I fled, I heard the whispering of a thousand voices—and saw a glimmer of amber in the air before him." 
 * Since then, the lord of the castle has begun visiting her in private. “He has become a monster," Varushka chokes, clutching her knees tighter to her chest. While he hasn’t taken any physical liberties with her—a small grace she is thankful for—he has fed upon her multiple times like a bat, draining the blood from her neck. (If asked, Varushka can confirm that the lord of the castle is Strahd, though she’s too fearful to speak his name aloud.)
-* When the lord first fed upon her, Varushka attempted to flee the keep, terrified for her life. Instead, however, she was apprehended and locked in the guest suite. “Rahadin, the chamberlain, keeps the key locked in his office desk, in the cellars far below us," she mourns. “There’s no chance I’ll ever escape." If asked, Varushka can inform the players that Rahadin’s office is close to the kitchens and servants’ hall, just past the guards’ meeting room and the kingsmen hall. (Varushka is referring to the chambers described in the Hall of Bones and the Kingsmen Hall.)
+* When the lord first fed upon her, Varushka attempted to flee the keep, terrified for her life. Instead, however, she was apprehended and locked in the guest suite. “[[Non-Player Characters/Castle Ravenloft/Rahadin|Rahadin]], the chamberlain, keeps the key locked in his office desk, in the cellars far below us," she mourns. “There’s no chance I’ll ever escape." If asked, Varushka can inform the players that Rahadin’s office is close to the kitchens and servants’ hall, just past the guards’ meeting room and the kingsmen hall. (Varushka is referring to the chambers described in the Hall of Bones and the Kingsmen Hall.)
 * Since Varushka’s imprisonment, the lord has visited her nightly to drink his fill. She now believes that there is no escape from her ultimate fate—but is determined to deny him the opportunity to turn her into a monster like him.
 * The half-locket was a gift from a "dear friend" of hers, named Katarina. ("I don't think I'll ever see her again, though," Varushka hiccups.) If asked about Katarina, Varushka looks sad, and shares only that she was someone with whom Varushka once thought she might share a future, though she knows that now to be impossible.
 
@@ -1320,7 +1320,7 @@ If the players haven’t previously encountered Strahd, add:
 
 The voice is recognizable as Strahd’s, but more full of emotion and life.
 #### Chamberlain’s Office
-Rahadin’s office is a shadowy room in perfect order. A great table stands here with its chair, inkwell, and quill set carefully in place. Lances, swords, and shields that bear the Barovian crest are hung neatly on the dark, oak-paneled walls. Rahadin and the **shadow demon** are not present, and players who uncover the secret door in the north end of the west wall find that it has been bricked up.
+[[Non-Player Characters/Castle Ravenloft/Rahadin|Rahadin]]’s office is a shadowy room in perfect order. A great table stands here with its chair, inkwell, and quill set carefully in place. Lances, swords, and shields that bear the Barovian crest are hung neatly on the dark, oak-paneled walls. Rahadin and the **shadow demon** are not present, and players who uncover the secret door in the north end of the west wall find that it has been bricked up.
 
 In addition, an ornate golden key that matches the pattern of the guest room keyhole lies upon the table. The key unlocks the locked door to the lounge in [[#O8a. The First Level]].
 ## O8g. Escaping the Nightmare
@@ -1624,7 +1624,7 @@ The trapdoor exits into the Element Room. Heavy beams support the ceiling of thi
 
 The Familiar Room has a low ceiling pressing down on a twenty-foot-square room filled with torn and broken couches lying in heaps, the hardwood furniture covered in deep claw marks and the upholstery sliced to shreds. The room currently contains no **cats**.
 
-The players can either ascend or descend the offstair. Players who descend the staircase encounter the **vampire spawn** Escher, who remains stationed outside of the guest suite door. Players who successfully bypass Escher can continue to explore the castle as described in **Wandering Players** in [[#O6g. The Broken Drawbridge]] above.
+The players can either ascend or descend the offstair. Players who descend the staircase encounter the **vampire spawn** [[Non-Player Characters/Castle Ravenloft/Escher|Escher]], who remains stationed outside of the guest suite door. Players who successfully bypass Escher can continue to explore the castle as described in **Wandering Players** in [[#O6g. The Broken Drawbridge]] above.
 
 Players who ascend the offstair emerge onto the tower roof. Players who do so can see a faint, crimson glow pulsating across the bridge from the interior of the Heart of Sorrow, though the Heart itself isn’t visible from this angle.
 
@@ -1677,7 +1677,7 @@ If appeased, Strahd is intrigued to know what drove the players to exit their ch
 > [!info]+ **Confronting Strahd**
 > If confronted regarding Varushka’s nightmare, Strahd raises an eyebrow and notes that the players appear wholly unharmed. “It is not uncommon for rich food to cause ill dreams, after all," he adds serenely. If the players continue to argue that Strahd placed them in danger, Strahd shrugs, adding, “I’m sure you believe what you thought you saw was real. This castle is host to things that have led many a mind astray."
 
-Once appeased, Strahd directs the players to return to their suite, noting he shall send Rahadin to retrieve them shortly. He then adds, “And do try to avoid straying from the path again. It would be most unpleasant to need to revisit this conversation—wouldn’t you agree?" Once the players agree, Strahd departs, assuming his mist form through the use of his ***shapechange*** feature and vanishing into the darkness below.
+Once appeased, Strahd directs the players to return to their suite, noting he shall send [[Non-Player Characters/Castle Ravenloft/Rahadin|Rahadin]] to retrieve them shortly. He then adds, “And do try to avoid straying from the path again. It would be most unpleasant to need to revisit this conversation—wouldn’t you agree?" Once the players agree, Strahd departs, assuming his mist form through the use of his ***shapechange*** feature and vanishing into the darkness below.
 # O11. Morning at Ravenloft
 Approximately an hour after dawn, Rahadin knocks on the door of the guest suite. Once the players open the door to greet him, Rahadin coldly informs the players that the drawbridge has been repaired, and that they are to dress and prepare themselves for their departure. If the players are ready to depart, Rahadin leads them downstairs; otherwise, he instructs them to be ready within the next ten minutes.
 
@@ -1687,9 +1687,9 @@ Strahd thanks the players for joining him for dinner and informs them that his c
 
 As the players move to depart, Strahd claps one of them on the shoulder and smiles, though no warmth reaches his eyes. “I hope you have learned from our time together that I can be a most gracious host." He briefly pauses, then adds, with a dangerous glint in his eyes, “Shall our paths cross less fortuitously, however, be warned that my benevolence, like all things, has its eventual and inevitable end."
 
-As Rahadin escorts the players into the front courtyard of Castle Ravenloft, they find that the rain has stopped, leaving only a grey and dreary morning behind. Strahd’s black carriage is waiting for the players, the carriage door opening silently at their approach. (The players can command the horses drawing the carriage to take them to Barovia, Vallaki, or Krezk.)
+As Rahadin escorts the players into the front courtyard of Castle Ravenloft, they find that the rain has stopped, leaving only a grey and dreary morning behind. Strahd’s black carriage is waiting for the players, the carriage door opening silently at their approach. (The players can command the horses drawing the carriage to take them to Barovia, [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]], or [[Act II - The Shadowed Town/Arc I - The Walls of Krezk|Krezk]].)
 
-As the carriage pulls away from the courtyard, the players can catch a final glimpse of Strahd’s brides watching them from the large, shattered, moon-shaped window in the audience hall. Read the following, modifying it if either Ludmilla or Volenta are dead:
+As the carriage pulls away from the courtyard, the players can catch a final glimpse of Strahd’s brides watching them from the large, shattered, moon-shaped window in the audience hall. Read the following, modifying it if either [[Non-Player Characters/Castle Ravenloft/Ludmilla Vilisevic|Ludmilla]] or [[Non-Player Characters/Castle Ravenloft/Volenta Popofsky|Volenta]] are dead:
 
 <div class="description">
 <p>As the horses begin to move, your gaze falls upon the great, round window that looks down upon the courtyard. The gaunt figures of Strahd’s three vampiric brides stand beyond it, their visages distorted beneath jagged fingers of broken glass as they watch the carriage slowly pull away.</p>

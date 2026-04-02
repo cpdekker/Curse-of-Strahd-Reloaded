@@ -1,7 +1,7 @@
 # Adventure Organization
 While *Curse of Strahd*, like most official campaign modules, is organized around specific areas and locations, *Curse of Strahd: Reloaded* is organized around **narratives**:
 
-* **Acts.** An **act** is a collection of adventures with similar settings and stakes that are meant to be completed in approximately the same timeframe (e.g., "adventures in Vallaki").
+* **Acts.** An **act** is a collection of adventures with similar settings and stakes that are meant to be completed in approximately the same timeframe (e.g., "adventures in [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]]").
 * **Arcs.** An **arc** is a high-concept adventure within an act that has a particular goal (e.g., "restore the bones of Saint Andral").
 * **Chapters.** A **chapter** is a portion of an arc that takes place within a particular location (e.g., "the coffin-maker's shop").
 * **Scenes.** A **scene** is a particular scene that unfolds at a particular time and place within a chapter (e.g., "battling the vampire spawn").
@@ -38,7 +38,7 @@ One or more of Strahd's spies check in on the players once each day and once eac
 | Village of Barovia |        1 Vistani **bandit**        |        1d4 **swarms of bats**        |
 |   Svalich Woods    |      1 **wolf** or **druid**       | 1 **wolf** or 1d4 **swarms of bats** |
 |  Town of Vallaki   |        1 **swarm of rats**         |         1 **swarm of bats**          |
-|  Village of Krezk  |        1 **swarm of rats**         |         1 **swarm of bats**          |
+|  Village of [[Act II - The Shadowed Town/Arc I - The Walls of Krezk|Krezk]]  |        1 **swarm of rats**         |         1 **swarm of bats**          |
 |    Mount Ghakis    | 1 **dire wolf** or 1 **berserker** |         1 **swarm of bats**          |
 
 Strahd's spies, which all understand Common, report the following information, which you should track using the [**Strahd's Espionage** handout](https://publish-01.obsidian.md/access/7db64b11c71d88572ddc6cd06b888976/Strahd's%20Espionage.pdf):
@@ -47,9 +47,9 @@ Strahd's spies, which all understand Common, report the following information, w
 * any spells, weapons, or abilities that the players are seen using; and
 * any locations or NPCs that the players are seen visiting.
 # Encounters with Strahd
-Throughout the adventure, the players will have numerous encounters with Strahd von Zarovich. After meeting Strahd for the first time at the River Ivlis Crossroads (see [[Act I - Into the Mists/Arc C - Into the Valley]]), the players may later speak with him at Yester Hill (see [[Arc J - The Stolen Gem]]) and dine with him at Castle Ravenloft (see [[Arc O - Dinner with the Devil]]).
+Throughout the adventure, the players will have numerous encounters with Strahd von Zarovich. After meeting Strahd for the first time at the River Ivlis Crossroads (see [[Act I - Into the Mists/Arc C - Into the Valley]]), the players may later speak with him at [[Act III - The Broken Land/Arc J - The Stolen Gem|Yester Hill]] (see [[Arc J - The Stolen Gem]]) and dine with him at [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]] (see [[Arc O - Dinner with the Devil]]).
 
-Once Strahd learns that the players have obtained the *Holy Symbol of Ravenkind* or relit the beacon of Argynvostholt, he refocuses his efforts toward determining whether any of them are worthy to serve as generals or consorts in his court. See ***Arc R: The Tyrant's Trials*** for more information.
+Once Strahd learns that the players have obtained the *Holy Symbol of Ravenkind* or relit the beacon of [[Act III - The Broken Land/Arc M - The Dragon's Manor|Argynvostholt]], he refocuses his efforts toward determining whether any of them are worthy to serve as generals or consorts in his court. See ***Arc R: The Tyrant's Trials*** for more information.
 
 > [!warning]+ **Combat Tactics**
 > Combat encounters in this guide have been designed using [Challenge Ratings 2.0](https://www.gmbinder.com/share/-N4m46K77hpMVnh7upYa), a system that calibrates encounter difficulty to ensure challenging, balanced encounters. Unless specifically provided in this guide, or unless necessary to compete with players using similar tactics, enemies (including Strahd) should not need to use any tactics (e.g., targeting weak players or focus-firing) in order to provide a challenging experience.
@@ -74,9 +74,9 @@ The *Sunsword* cannot be attuned when the players first obtain it. Instead, the 
 
 Note that the *Sunsword* is a sentient magic item; as described in **Conflict** (*Dungeon Master's Guide*, p. 216), it may make demands of its wielder or attempt to seize control of them if they act contrary to its will. (This is especially likely to occur if, for example, its wielder is charmed by Strahd von Zarovich.)
 ## Strahd’s Enemy
-Strahd's enemy no longer possesses the ***Inspire*** action (**Strahd's Enemy**, p. 15). Instead, if she confronts the Dark Powers at Marina's Monument in Berez (see ***Arc X: Whispers of the Mists***), Ireena Kolyana gains this ability as a bonus action. See ***Arc B: Welcome to Barovia*** for more information about Ireena's statistics.
+Strahd's enemy no longer possesses the ***Inspire*** action (**Strahd's Enemy**, p. 15). Instead, if she confronts the Dark Powers at Marina's Monument in [[Act III - The Broken Land/Arc Q - A Shining Beacon|Berez]] (see ***Arc X: Whispers of the Mists***), [[Non-Player Characters/Village of Barovia/Ireena Kolyana|Ireena Kolyana]] gains this ability as a bonus action. See ***Arc B: Welcome to Barovia*** for more information about Ireena's statistics.
 ## The Card Reading
-Immediately before the scene in which the players meet Madam Eva, if you are using a physical Tarokka deck for the reading, choose which five cards Madam Eva will draw and stack them on top of the deck in the order described in <strong>Card Reading</strong> (p. 11).
+Immediately before the scene in which the players meet [[Non-Player Characters/Tser Pool Encampment/Madam Eva|Madam Eva]], if you are using a physical Tarokka deck for the reading, choose which five cards Madam Eva will draw and stack them on top of the deck in the order described in <strong>Card Reading</strong> (p. 11).
 
 When choosing which card(s) to use for which part of the reading, select the following.
 ### The Tome of Strahd
@@ -84,40 +84,40 @@ The Tome of Strahd is not present in the Material Plane of Barovia. Instead, the
 ### The Holy Symbol of Ravenkind
 Place the *Holy Symbol of Ravenkind* in the shrine of Mother Night in the werewolf den (***Five of Swords—Myrmidon***).
 ### The Sunsword
-Place the *Sunsword* in the Vampyr's sarcophagus in the Amber Temple (***Eight of Glyphs—Bishop***).
+Place the *Sunsword* in the Vampyr's sarcophagus in the [[Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight|Amber Temple]] (***Eight of Glyphs—Bishop***).
 ### Strahd's Enemy
-Assign the role of Strahd's Enemy to Ezmerelda d'Avenir (***Mists—Queen of Spades***).
+Assign the role of Strahd's Enemy to [[Non-Player Characters/Abbey of St. Markovia/Ezmerelda dAvenir|Ezmerelda]] d'Avenir (***Mists—Queen of Spades***).
 ### Strahd's Location
-Assign Strahd's location in Castle Ravenloft to **K20. Heart of Sorrow**, represented by the ***Marionette (Jack of Hearts).*** 
+Assign Strahd's location in [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]] to **K20. Heart of Sorrow**, represented by the ***Marionette (Jack of Hearts).*** 
 # Design Notes: Running the Adventure
 ## The Tarokka Reading
-***The Tome of Strahd.*** The *Tome of Strahd* has been expanded to provide the players with secret information about Strahd's ultimate plan, as well as additional hooks to the Fanes of Barovia and the Amber Temple. (If the players restore his memory and show him the *Tome*, the **lich** Exethanter can interpret Strahd's ciphers and notes at their request.) 
+***The Tome of Strahd.*** The *Tome of Strahd* has been expanded to provide the players with secret information about Strahd's ultimate plan, as well as additional hooks to the Fanes of Barovia and the [[Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight|Amber Temple]]. (If the players restore his memory and show him the *Tome*, the **lich** Exethanter can interpret Strahd's ciphers and notes at their request.) 
 
-The *Tome* has been intentionally placed in Vallaki to ensure that the players find it (and are intrigued by its mysteries) as early as possible. Because they tie strongly into other quests, Rictavio's wagon (***Seven of Stars—Illusionist***) and the attic of the Blue Water Inn (***Master of Coins—Rogue***) have been removed as possible locations.
+The *Tome* has been intentionally placed in [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]] to ensure that the players find it (and are intrigued by its mysteries) as early as possible. Because they tie strongly into other quests, [[Non-Player Characters/Town of Vallaki/Dr. Rudolph van Richten|Rictavio]]'s wagon (***Seven of Stars—Illusionist***) and the attic of the Blue Water Inn (***Master of Coins—Rogue***) have been removed as possible locations.
 
 ***The Holy Symbol of Ravenkind.*** The statistics of the *Holy Symbol* have been revised in order to ensure that its utility is not overshadowed by the *Sunsword* once the latter is obtained and to replace its nonstrategic *Hold Vampires* and *Turn Undead* features with tactical, engaging abilities. Its class restrictions for attunement have been removed to ensure that any party can use it—with or without a cleric or paladin.
 
-The *Holy Symbol* has been intentionally placed in the Werewolf Den to ensure that the players find it after they have already confronted Strahd's brides (in Vallaki and at Yester Hill), but before they invade any truly dangerous locations (e.g., Castle Ravenloft, the Amber Temple, or the ruins of Berez). 
+The *Holy Symbol* has been intentionally placed in the Werewolf Den to ensure that the players find it after they have already confronted Strahd's brides (in Vallaki and at [[Act III - The Broken Land/Arc J - The Stolen Gem|Yester Hill]]), but before they invade any truly dangerous locations (e.g., [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]], the Amber Temple, or the ruins of [[Act III - The Broken Land/Arc Q - A Shining Beacon|Berez]]). 
 
-The four foretellings leading to Krezk—the scarecrow in the garden of the Abbey of Saint Markovia (***Two of Glyphs—Missionary***), the main hall of the Abbey (***One of Glyphs—Monk***), the nursery of the Abbey (***Two of Coins—Philanthropist***), and the gazebo in the Shrine of the White Sun (***Three of Glyphs—Healer***)—have been removed to ensure that the players do not fulfill two of their Tarokka readings (i.e., both the *Holy Symbol* and Strahd's Enemy) while within the same relative area.
+The four foretellings leading to [[Act II - The Shadowed Town/Arc I - The Walls of Krezk|Krezk]]—the scarecrow in the garden of [[Act III - The Broken Land/Arc K - The Fallen Abbey|the Abbey]] of Saint Markovia (***Two of Glyphs—Missionary***), the main hall of the Abbey (***One of Glyphs—Monk***), the nursery of the Abbey (***Two of Coins—Philanthropist***), and the gazebo in the Shrine of the White Sun (***Three of Glyphs—Healer***)—have been removed to ensure that the players do not fulfill two of their Tarokka readings (i.e., both the *Holy Symbol* and Strahd's Enemy) while within the same relative area.
 
-***The Sunsword.*** The *Sunsword*'s radiant blade has been withheld from the players to create a more organic opportunity to meet the spirit of Sergei von Zarovich, to manufacture a late-game interaction between Sergei and Ireena, and to create a more climactic and engaging narrative. 
+***The Sunsword.*** The *Sunsword*'s radiant blade has been withheld from the players to create a more organic opportunity to meet the spirit of Sergei von Zarovich, to manufacture a late-game interaction between Sergei and [[Non-Player Characters/Village of Barovia/Ireena Kolyana|Ireena]], and to create a more climactic and engaging narrative. 
 
 Due to its power in combat against Strahd, the *Sunsword* has been intentionally placed in the Amber Temple—the most dangerous and isolated location in the game—to ensure that the players do not obtain it too early. This placement also ensures that the players have a reliable hook to the Temple and a rewarding goal to achieve while there.
 
-***Strahd's Enemy.*** All possible allies other than the Vistana monster hunter Ezmerelda d'Avenir have intentionally been removed from the Tarokka reading. 
+***Strahd's Enemy.*** All possible allies other than the Vistana monster hunter [[Non-Player Characters/Abbey of St. Markovia/Ezmerelda dAvenir|Ezmerelda]] d'Avenir have intentionally been removed from the Tarokka reading. 
 
 Several of these allies, such as Sir Godfrey Gwilym or the (now nonexistent) archmage Mordenkainen are too powerful and unbalance the scales in favor of the party. Others, such as Nikolai Wachter or Clovin Belview, are far too weak to provide meaningful aid. Others still, such as Vasilka, Pidlwick II, Sir Klutz, or Parriwimple, lack sufficient character depth to serve a meaningful narrative role.
 
-Many of the remaining possible allies—including Davian Martikov, Victor Vallakovich, or Ismark Kolyanovich—have been removed as possibilities because their revised character arcs tie them more strongly to their families, friends, or homes. The final alternative ally, Kasimir Velikov, has been removed to ensure that the players do not seek him out—and receive the deadly Amber Temple questline—until they are strong enough to do so.
+Many of the remaining possible allies—including Davian Martikov, [[Non-Player Characters/Town of Vallaki/Victor Vallakovich|Victor]] Vallakovich, or [[Non-Player Characters/Village of Barovia/Ismark Kolyanovich|Ismark]] Kolyanovich—have been removed as possibilities because their revised character arcs tie them more strongly to their families, friends, or homes. The final alternative ally, [[Non-Player Characters/Town of Vallaki/Kasimir Velikov|Kasimir]] Velikov, has been removed to ensure that the players do not seek him out—and receive the deadly Amber Temple questline—until they are strong enough to do so.
 
 That leaves Ezmerelda d'Avenir. Selecting Ezmerelda as Strahd's Enemy reduces the number of NPC allies that the players can recruit, keeping the party to a more manageable size; provides the players with a clear hook to Krezk and the Abbey of Saint Markovia, which unlocks several additional quests; and ensures that the players are neither outmatched by nor overpowered compared to their ally at any point in the game.
 
 ***Strahd's Location.*** The location of the final battle with Strahd has been intentionally limited to **K20. Heart of Sorrow**. As the new centerpiece of Strahd's power and schemes, a perfect arena for tactical combat, and an area with clear views of the post-battle sunrise, the Heart—including its adjoining bridge and rooftop—is the ideal (and expected) place for the finale to unfold.
 ## Adventure Hooks
 
-The original module's four adventure hooks are fundamentally flawed: *Plea for Help* tends to make players to resent Ireena Kolyana; *Mysterious Visitors* tends to make players feel deceived (and therefore regret accepting Stanimir's mission); *Werewolves in the Mist* reaches its climax too early; and *Creeping Fog* offers little setup or emotional investment. Most significantly, aside from *Mysterious Visitors*, no adventure hook leads the players directly and inevitably to a final confrontation with Strahd.
+The original module's four adventure hooks are fundamentally flawed: *Plea for Help* tends to make players to resent [[Non-Player Characters/Village of Barovia/Ireena Kolyana|Ireena Kolyana]]; *Mysterious Visitors* tends to make players feel deceived (and therefore regret accepting Stanimir's mission); *Werewolves in the Mist* reaches its climax too early; and *Creeping Fog* offers little setup or emotional investment. Most significantly, aside from *Mysterious Visitors*, no adventure hook leads the players directly and inevitably to a final confrontation with Strahd.
 
-Custom adventure hooks that tie player backstories directly to Barovia (e.g., by allowing players to rescue a lost loved one) tend to fall flat for three reasons: they lack a direct tie to Strahd; they distract the players from the fight with Strahd; and they violate principles of verisimilitude (i.e., by making Barovia a far busier place than it deserves to be). Importantly, players receiving such hooks may struggle to understand the importance of Madam Eva's Tarokka reading, especially while they retain unfinished business in the valley.
+Custom adventure hooks that tie player backstories directly to Barovia (e.g., by allowing players to rescue a lost loved one) tend to fall flat for three reasons: they lack a direct tie to Strahd; they distract the players from the fight with Strahd; and they violate principles of verisimilitude (i.e., by making Barovia a far busier place than it deserves to be). Importantly, players receiving such hooks may struggle to understand the importance of [[Non-Player Characters/Tser Pool Encampment/Madam Eva|Madam Eva]]'s Tarokka reading, especially while they retain unfinished business in the valley.
 
 However, a large subset of *Curse of Strahd* DMs nonetheless prefer tying player backstories to Barovia in order to promote player engagement and emotional investment in the campaign itself. To this end, the ***Barovian Relics*** hook provides players with reasons to journey to Barovia that will inevitably lead them to a direct confrontation with Strahd. Meanwhile, ***Lost in the Mists*** serves as a fleshed-out substitute for ***Creeping Fog***, aiding DMs who would prefer to keep Barovia as an eerie and alienating location.

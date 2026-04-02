@@ -1,8 +1,8 @@
 Strahd von Zarovich is dead, and the Sun has risen over the Balinok Mountains for the first time in centuries. But for the people of Barovia, this ending is only a new beginning.
 
-In Vallaki, a grateful town prepares a celebration for the party of returning heroes. In Krezk, the cursed Belviews face a choice between humanity and peace. At Argynvostholt, a silver egg waits amidst the ashes of its forebear.
+In [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]], a grateful town prepares a celebration for the party of returning heroes. In [[Act II - The Shadowed Town/Arc I - The Walls of Krezk|Krezk]], the cursed Belviews face a choice between humanity and peace. At [[Act III - The Broken Land/Arc M - The Dragon's Manor|Argynvostholt]], a silver egg waits amidst the ashes of its forebear.
 
-Meanwhile, the Ladies Three have been reborn, but a fourth sister dreads their judgment. Lady Fiona Wachter must lead her people to a new future, but fears her past has left her unworthy. Victor Vallakovich must decide whether his feelings for Stella Wachter are worth fighting for. Rudolph van Richten and Doru must find a way to live where once dwelled only death. And, in the wilds of Barovia, bereft of his master, Escher must decide whether to seek redemption—or revenge.
+Meanwhile, the Ladies Three have been reborn, but a fourth sister dreads their judgment. Lady [[Non-Player Characters/Town of Vallaki/Lady Fiona Wachter|Fiona Wachter]] must lead her people to a new future, but fears her past has left her unworthy. [[Non-Player Characters/Town of Vallaki/Victor Vallakovich|Victor]] Vallakovich must decide whether his feelings for Stella Wachter are worth fighting for. Rudolph van Richten and Doru must find a way to live where once dwelled only death. And, in the wilds of Barovia, bereft of his master, [[Non-Player Characters/Castle Ravenloft/Escher|Escher]] must decide whether to seek redemption—or revenge.
 
 Will the players help Barovia find its first steps in this brave new world? Will they leave a legacy strong enough to endure the uncertain paths ahead? And—when the call to adventure comes once again—will they answer it or refuse?
 ## 1. Return From the Castle
@@ -12,7 +12,7 @@ Since escaping Strahd’s armies, the three deserters have lingered by **I. Blac
 
 When the players arrive at the crossroads following their return from Ravenloft, will they find the deserters lingering nearby? If so, will they help Cyrus find new hope in the wake of Strahd’s broken promise, help Lief find new purpose in the destruction of Strahd’s power, and help Pidlwick II find a new home?
 
-***The Town of Vallaki***. When the players departed Vallaki in [[Arc U - Dreams of Dawn]], they left their friends to face an oncoming horde of undead. Through the visions of the Heart of Sorrow, they beheld flashes of Vallaki’s fight against Strahd’s army—visions of death and life alike. Now, as they return to Vallaki, how much of the town will they find standing—and how will the town greet them?
+***The Town of [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]]***. When the players departed Vallaki in [[Arc U - Dreams of Dawn]], they left their friends to face an oncoming horde of undead. Through the visions of the Heart of Sorrow, they beheld flashes of Vallaki’s fight against Strahd’s army—visions of death and life alike. Now, as they return to Vallaki, how much of the town will they find standing—and how will the town greet them?
 ### 1a. The Odd Couple
 **When the players first return to I. Black Carriage (p. 37) after completing [[Arc U - Dreams of Dawn]], read:
 
@@ -23,7 +23,7 @@ When the players arrive at the crossroads following their return from Ravenloft,
 
 The squat silhouette is Cyrus Belview, who is hiding behind the tree.  Cyrus is joined by the **wight** Lief Lipsiege.
 
-**If the players didn’t retrieve Pidlwick II from Castle Ravenloft in [[Arc P - Ravenloft Heist]], add:
+**If the players didn’t retrieve Pidlwick II from [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]] in [[Arc P - Ravenloft Heist]], add:
 
 <div class="description">
 <p>A moment later, something clinks and whirs faintly from the underbrush nearby.</p>
@@ -35,7 +35,7 @@ The whirring is Pidlwick II, who is crouching in the bushes near Cyrus and Lief.
 
 **During this interaction,** Cyrus, Lief, and Pidlwick have the following perspectives:
 
-* **Cyrus.** Cyrus is terrified of lingering undead, determined to return to his family at the Abbey of St. Markovia, and grimly ready to defend himself.  
+* **Cyrus.** Cyrus is terrified of lingering undead, determined to return to his family at the [[Act III - The Broken Land/Arc K - The Fallen Abbey|Abbey of St. Markovia]], and grimly ready to defend himself.  
 * **Lief.** Lief is despondent following his apparent dismissal from service, irritated at the pains from exerting “old, aching bones," and disgusted at and fearful of the “big, ugly yellow thing" (the Sun).  
 * **Pidlwick II**. Pidlwick is simultaneously suspicious of the world outside of the castle (including the players) and delighted to be able to explore beyond Castle Ravenloft’s walls.
 
@@ -68,13 +68,13 @@ The whirring is Pidlwick II, who is crouching in the bushes near Cyrus and Lief.
 
 **If the conversation turns to the lurkers’ intentions after Strahd’s death**, it might unfold as follows:
 
-* **Lief’s Intent.** Lief bemoans the loss of his career. “With my lord gone, there is surely no place in this valley for a learned man as me," he murmurs, dabbing at a bloody tear with his handkerchief. **(If the players offer to introduce Lief to Lady Wachter or another employer**, Lief is skeptical, but cautiously grateful.)  
+* **Lief’s Intent.** Lief bemoans the loss of his career. “With my lord gone, there is surely no place in this valley for a learned man as me," he murmurs, dabbing at a bloody tear with his handkerchief. **(If the players offer to introduce Lief to [[Non-Player Characters/Town of Vallaki/Lady Fiona Wachter|Lady Wachter]] or another employer**, Lief is skeptical, but cautiously grateful.)  
 * **Cyrus’s Intent.** Cyrus shares his intent to reunite with his family. “I don’t know how we’ll fix things, with *him* gone," he adds, bowing his head and slumping his shoulders. “I only went to the castle to help them—but if he’s gone, I guess it was all for nothing."  
 * **Pidlwick’s Intent.** **If present**, Pidlwick is curious about the players, and eager for any opportunities to explore Barovia further.
 
 **If the players invite the lurkers to join them**, Lief, Cyrus, and Pidlwick II are glad to do so.
 ### 1b. The New Svalich Road
-**If the players depart the crossroads** for Vallaki, read:
+**If the players depart the crossroads** for [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]], read:
 
 <div class="description">  
 <p>The crumbling Barovian gates hang open, their rusted hinges too old and tired to bar the way ahead. Beyond them, the road winds north through a familiar wood—but a wood that seems fresh and new again.</p>  
@@ -85,7 +85,7 @@ The whirring is Pidlwick II, who is crouching in the bushes near Cyrus and Lief.
 
 The wolf, raven, and spider are messengers of the Ladies Three. Regardless of the players’ response, they vanish into the woods shortly after paying their respects.
 ### 1c. The Gates of Vallaki
-**When the players return to Vallaki**, read:
+**When the players return to [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]]**, read:
 
 <div class="description">  
 <p>Death surrounds the walls of Vallaki—piles of bodies, heaped a dozen high.</p>  
@@ -105,7 +105,7 @@ Continue, modifying the text as necessary to reflect each character’s current 
 </div>
 
 * **Milivoj** is grateful and humbled to see the players, and regrets ever doubting them. **If the players sanctified St. Andral’s Church**, he can gladly share that his siblings are safe in the church with Yeska, which sheltered the town’s children and elderly during the fighting.  
-* **Victor and Stella** are joyous to see the players, having missed them since their departure and having anxiously awaited their return. Victor, in particular, quietly feared that the players would never return, but has loudly proclaimed to any others who doubted that the players were guaranteed to “put the bloodsucker back in the dirt."  
+* **[[Non-Player Characters/Town of Vallaki/Victor Vallakovich|Victor]] and Stella** are joyous to see the players, having missed them since their departure and having anxiously awaited their return. Victor, in particular, quietly feared that the players would never return, but has loudly proclaimed to any others who doubted that the players were guaranteed to “put the bloodsucker back in the dirt."  
 * **Arrigal** is quietly awed by the players and impressed by their strength. Although still slightly tense regarding his suspicion that the Vallakians might reject his people, he is deeply grateful to Lady Wachter and the rest of Vallaki for accepting the Vistani and dusk elves when they came to the town’s gates seeking shelter and allies against the oncoming horde.  
 * **Luvash and Arabelle** are delighted to see the players, with Luvash loudly congratulating them and offering an enormous bear hug to any player who will accept it. Arabelle welcomes the players back, and can quietly share that her foresight extended no further than the Eternal Night. “I wanted you to succeed," she says, hugging them tightly. “But I didn’t know for sure."
 
@@ -115,7 +115,7 @@ Continue, modifying the text as necessary to reflect each character’s current 
 * **The Siege.** Strahd’s undead breached the eastern gates and nearly tore down the western gates, but Vallaki’s defenders initially held them from taking any further ground. As the town’s forces seemed about to break, the beacon to the west flashed with silver light, and they rallied. Less than a minute later, the undead army fell as one, the crimson sigils on their foreheads vanishing and life leaving them.  
 * **The Dawn.** Soon after Strahd’s army fell, shouts came from the east that a new light had appeared on the horizon—a red-golden glow from beyond the eastern rim of the Balinok Mountains. Slowly, then rapidly, the townsfolk opened their windows, flooded into the streets, and looked up at the skies at a sight that Barovia had not seen for centuries: the rising Sun. (“This lad cried a bit at that," Luvash says, teasingly jostling Victor with an elbow. “Hey!" Victor retorts. “As if you didn’t too." “Aye," Luvash adds, chuckling. “That I did.")  
 * **The Rebuild.** Since the battle ended, the townsfolk have come together to identify and gather their dead, to repair fallen structures, and to remove and burn the remains of those they felled. (“They didn’t choose to fight for him," Milivoj says quietly. “They deserved that much.") Since then, many have waited anxiously for the players to return—not only for the players’ sake, but out of fear that their victory might be Strahd’s last trick: a trap to lower their guards.  
-* **The Others.** Lady Fiona Wachter is directing the rebuild from the town square, aided by the Martikovs (providing food and drink) and Father Petrovich (providing healing to the wounded and counsel to the grieving). The Vistani and dusk elves, led by Kasimir, have taken up residence in the town square as well, and are aiding in the recovery efforts.
+* **The Others.** Lady [[Non-Player Characters/Town of Vallaki/Lady Fiona Wachter|Fiona Wachter]] is directing the rebuild from the town square, aided by the Martikovs (providing food and drink) and Father Petrovich (providing healing to the wounded and counsel to the grieving). The Vistani and dusk elves, led by [[Non-Player Characters/Town of Vallaki/Kasimir Velikov|Kasimir]], have taken up residence in the town square as well, and are aiding in the recovery efforts.
 ### 1d. The Town Square
 **If the players travel to the town square,** read the following, modifying the text as necessary:
 
@@ -125,12 +125,12 @@ Continue, modifying the text as necessary to reflect each character’s current 
 </div>
 
 * **Urwin and Danika** are tired after a long night of aiding in the town’s defense, but relieved and grateful for the safety of their children. They’re delighted to see that the players are safe (and Danika is even happier to put them to work bringing deliveries of bread to some of the elderly and wounded in the square—though she and Urwin insist that the players eat their own fill first).  
-* **Lady Wachter** is heartened and deeply grateful to see the players. Although she does her best to remain polite and refined, she is sincerely and genuinely glad for their return and company. (“Thank you," she shares, earnestly, the tension leaving her shoulders. “I—*we*—would have been lost without you.")   
-* **Father Lucian** is overjoyed to see the players, and embraces them on sight. Although he’s eager to discuss the Sun’s return and the fate of Castle Ravenloft, he insists on seeing to the players’ needs first. (“You’ve returned!" he proclaims, looking them up and down. “Are you harmed? Have you had a chance to rest?")   
-* **Blinsky** is doing his best to distract and delight Vallaki’s children, especially those whose family members were wounded in the fighting. Although the children were initially intimidated by Blinsky’s macabre toys, he accidentally made them laugh by accidentally locking himself in the stocks—and for the past hour or so has been keeping them entertained by putting on a self-deprecating “silly" slapstick show with some of his toys and puppets.  
+* **[[Non-Player Characters/Town of Vallaki/Lady Fiona Wachter|Lady Wachter]]** is heartened and deeply grateful to see the players. Although she does her best to remain polite and refined, she is sincerely and genuinely glad for their return and company. (“Thank you," she shares, earnestly, the tension leaving her shoulders. “I—*we*—would have been lost without you.")   
+* **Father Lucian** is overjoyed to see the players, and embraces them on sight. Although he’s eager to discuss the Sun’s return and the fate of [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]], he insists on seeing to the players’ needs first. (“You’ve returned!" he proclaims, looking them up and down. “Are you harmed? Have you had a chance to rest?")   
+* **[[Non-Player Characters/Town of Vallaki/Gadof Blinsky|Blinsky]]** is doing his best to distract and delight [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]]’s children, especially those whose family members were wounded in the fighting. Although the children were initially intimidated by Blinsky’s macabre toys, he accidentally made them laugh by accidentally locking himself in the stocks—and for the past hour or so has been keeping them entertained by putting on a self-deprecating “silly" slapstick show with some of his toys and puppets.  
 * **Yeska, Brom, and Bray** are watching Blinsky’s show by the stocks alongside Milivoj’s siblings and several other Vallakian children. All are glad to see the players’ return.
 
-If the players ask after Kasimir, any Vistani, dusk elf, or Martikov can share that he departed the town a short while ago to return home. (“He said he needed to see something.")
+If the players ask after [[Non-Player Characters/Town of Vallaki/Kasimir Velikov|Kasimir]], any Vistani, dusk elf, or Martikov can share that he departed the town a short while ago to return home. (“He said he needed to see something.")
 ### 1e. The Vistani Camp
 **If the players travel to the Vistani encampment**, read:
 
@@ -138,28 +138,28 @@ If the players ask after Kasimir, any Vistani, dusk elf, or Martikov can share t
 <p>The hilltop stands bare, bereft of the great tent and many wagons that once stood here. Below it, the dusk elves’ small cottages stand silent and empty around the hilltop. A lone silhouette lies on the hillside, the grasses swaying in a sweet and gentle breeze.</p>  
 </div>
 
-The silhouette is **Kasimir**, who is watching the sky and thinking. 
+The silhouette is **[[Non-Player Characters/Town of Vallaki/Kasimir Velikov|Kasimir]]**, who is watching the sky and thinking. 
 
 Kasimir is glad to see the players, though thoughtful and somber. He can share that he came here to escape the noise and bustle and think. (“I felt I had more I could do," he says, “but Miss Dorakova insisted that I rest—and so I came here.") 
 
 Kasimir has come to the hill to reflect on everything—his people, his sister, his regrets, and his future. (“For five hundred years, my people’s fates have been dictated by the whims of House Von Zarovich," he says. “To think of what might come after—I struggle to grapple with it, I admit.")
 
-Kasimir welcomes any thoughts or guidance the players may be willing to provide. Although he is grateful if the players join him on the hill for a little while, he is glad to accompany them back to Vallaki.
+Kasimir welcomes any thoughts or guidance the players may be willing to provide. Although he is grateful if the players join him on the hill for a little while, he is glad to accompany them back to [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]].
 ## 2. The Festival of the Dawn
-When the players return to Vallaki, Urwin, Danika, Victor, and Stella urge Lady Wachter to organize a festival to celebrate their victory and Barovia’s freedom from Strahd. Publicly reluctant, but quietly pleased, Lady Wachter makes the necessary arrangements, with the Martikovs providing food and drink, Blinsky providing decorations and games, the Vistani providing music, the dusk elves providing stories, and the town’s resident mages—Victor and Kasimir—providing colorful displays of magic.
+When the players return to [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]], Urwin, Danika, [[Non-Player Characters/Town of Vallaki/Victor Vallakovich|Victor]], and Stella urge [[Non-Player Characters/Town of Vallaki/Lady Fiona Wachter|Lady Wachter]] to organize a festival to celebrate their victory and Barovia’s freedom from Strahd. Publicly reluctant, but quietly pleased, Lady Wachter makes the necessary arrangements, with the Martikovs providing food and drink, [[Non-Player Characters/Town of Vallaki/Gadof Blinsky|Blinsky]] providing decorations and games, the Vistani providing music, the dusk elves providing stories, and the town’s resident mages—Victor and [[Non-Player Characters/Town of Vallaki/Kasimir Velikov|Kasimir]]—providing colorful displays of magic.
 
-But behind the festival lurks a collage of uncertainties. Lady Wachter, from the high table, wonders if her lack of faith leaves her unworthy to lead Vallaki into a new dawn. Victor, from the mages’ stage, wonders if he can muster up the courage to tell Stella how he feels. Escher, sulking in the darkened alleys, wonders if he can escape the sins of his past. And the Dreamer, cloaked and disguised, wonders if she can mend her relationship with her sisters, the Ladies Three. Will the players help each of these lost attendees find their path forward?
+But behind the festival lurks a collage of uncertainties. Lady Wachter, from the high table, wonders if her lack of faith leaves her unworthy to lead Vallaki into a new dawn. Victor, from the mages’ stage, wonders if he can muster up the courage to tell Stella how he feels. [[Non-Player Characters/Castle Ravenloft/Escher|Escher]], sulking in the darkened alleys, wonders if he can escape the sins of his past. And the Dreamer, cloaked and disguised, wonders if she can mend her relationship with her sisters, the Ladies Three. Will the players help each of these lost attendees find their path forward?
 ### 2a. The Flickering Beacon
-Shortly after the players return to Vallaki, Lady Wachter visits them personally to request their aid.
+Shortly after the players return to [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]], [[Non-Player Characters/Town of Vallaki/Lady Fiona Wachter|Lady Wachter]] visits them personally to request their aid.
 
-Lady Wachter shares that the beacon of Argynvostholt, which shone brightly through Strahd’s unending night, fell dark when the Sun rose over Barovia. Since then, however, she’s received reports that the beacon has lit again—but that, this time, it’s begun to flicker strangely with an odd, irregular pattern.
+Lady Wachter shares that the beacon of [[Act III - The Broken Land/Arc M - The Dragon's Manor|Argynvostholt]], which shone brightly through Strahd’s unending night, fell dark when the Sun rose over Barovia. Since then, however, she’s received reports that the beacon has lit again—but that, this time, it’s begun to flicker strangely with an odd, irregular pattern.
 
 Lady Wachter isn’t sure what the relit beacon means, but shares her concern that it may be some kind of message or distress signal. If the players are willing, she asks them to travel to Argynvostholt swiftly to uncover the truth. However, she also shares that traces of undead have been seen in the woods, and insists that the players return by dusk in case any return.
 
 > [!info]+ **Lady Wachter’s Scheme**  
 > Lady Wachter is telling only half the truth: Argynvost’s beacon *has* relit, and has been seen to flicker oddly. However, her request is merely a pretext to get the players out of Vallaki while she oversees the necessary preparations for the celebration of their victory. Moreover, while her scouts have seen “traces" of undead in the nearby woods, those traces have been limited to undead *remains*; Lady Wachter’s true motivation is to ensure that the players return in time for the festival.
 ### 2b. The Empty Mansion
-If the players return to Argynvostholt, read the following when they arrive:
+If the players return to [[Act III - The Broken Land/Arc M - The Dragon's Manor|Argynvostholt]], read the following when they arrive:
 
 <div class="description">
 <p>The once-grand manor stands silently before you. Where once a cold shadow dwelled, there is now only emptiness—save for a faint silver light that pulses from the top of the mansion’s tallest tower.</p>
@@ -178,7 +178,7 @@ The light fades permanently if the egg is touched.
 >   
 > A player who succeeds on a DC 15 Intelligence (Arcana or Nature) check recalls that the egg of a silver dragon can only incubate in a suitable environment—typically, ice or snow—and might take months to years to hatch.
 ### 2c. Let the Festivities Commence!
-When the players return to Vallaki, the guards at the western gate inform them that Lady Wachter has requested their presence in the town square. (The guards refuse to divulge further information, insisting only that they were told that the players were needed on “urgent business.")
+When the players return to [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]], the guards at the western gate inform them that [[Non-Player Characters/Town of Vallaki/Lady Fiona Wachter|Lady Wachter]] has requested their presence in the town square. (The guards refuse to divulge further information, insisting only that they were told that the players were needed on “urgent business.")
 
 As the players traverse Vallaki’s streets, read:
 
@@ -207,13 +207,13 @@ Lady Wachter invites the players to relax and celebrate, and encourages them to 
 ### 2d. Festival Games
 If the players explore the festival, they can find the following attractions:
 
-* A game of “pin-the-tail-on-the-nightmare," run by Blinsky outside his shop. (To play, a character must make a Wisdom check. On a result of 20 or more, the character pins the tail on the nightmare and wins a free toy from Blinsky Toy or Blinsky Toys  
-* A wine stand run by any Martikovs still in Vallaki, at which Davian Martikov is loudly telling the tale of the players’ defeat of Baba Lysaga to anyone who will listen. (If asked, Urwin or Danika can share that the Vistani had several barrels of wine in their wagons and tent and gladly donated them to the festivities.) Davian’s audience includes Nikolai and Karl Wachter, who gleefully challenge the players to a drinking competition—soon joined by Arrigal, who asks slyly if the players would mind “an additional competitor." (To play, a character must make a Constitution saving throw each time they drink a glass. The DC begins at 4 and increases by 2 with each successive glass. The first time a character fails a saving throw, they become ****poisoned****—i.e., drunk—and the DC resets to 4. The second time a character fails a saving throw, they fall unconscious.)  
+* A game of “pin-the-tail-on-the-nightmare," run by [[Non-Player Characters/Town of Vallaki/Gadof Blinsky|Blinsky]] outside his shop. (To play, a character must make a Wisdom check. On a result of 20 or more, the character pins the tail on the nightmare and wins a free toy from Blinsky Toy or Blinsky Toys  
+* A wine stand run by any Martikovs still in [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]], at which Davian Martikov is loudly telling the tale of the players’ defeat of [[Non-Player Characters/Berez/Baba Lysaga|Baba Lysaga]] to anyone who will listen. (If asked, Urwin or Danika can share that the Vistani had several barrels of wine in their wagons and tent and gladly donated them to the festivities.) Davian’s audience includes Nikolai and Karl Wachter, who gleefully challenge the players to a drinking competition—soon joined by Arrigal, who asks slyly if the players would mind “an additional competitor." (To play, a character must make a Constitution saving throw each time they drink a glass. The DC begins at 4 and increases by 2 with each successive glass. The first time a character fails a saving throw, they become ****poisoned****—i.e., drunk—and the DC resets to 4. The second time a character fails a saving throw, they fall unconscious.)  
 * A fortunetelling stand run by Sofiya Zalken, a young Vistani woman with a tabby cat named Joie (pronounced “Zhwah") curled up around her neck. Sofiya is glad to offer Tarokka readings for a silver piece, but insists that the players don’t pay if she learns their identities. (Although Sofiya plays up her “inner eye" for children and onlookers, she freely admits that she is no true seer. “Nevertheless," she says, with a gleam in her eye and a grin on her face, “I’ve always thought that the future one sees in the cards is often the future that one *needed* to see—or at least, that’s what my mother always told me.")
 
 Other attendees of the festival include Milivoj (with his siblings and Yeska), Luvash (with Arabelle), and Szoldar and Yevgeni.
 ### 2e. Tales of Faith & Victory
-Once the players have had an opportunity to enjoy the festival, they’re approached by Lady Wachter and Father Lucian, who can share the following information:
+Once the players have had an opportunity to enjoy the festival, they’re approached by [[Non-Player Characters/Town of Vallaki/Lady Fiona Wachter|Lady Wachter]] and Father Lucian, who can share the following information:
 
 * Lady Wachter intends to officially dedicate the festival in a ceremony later this evening, and would be honored if one or more of the players would tell the tale of Strahd’s defeat to the festivalgoers.  
 * Father Lucian intends to open the ceremony with an invocation, but is uncertain how to properly acknowledge the “nature goddesses" he’s heard about from Lady Wachter. He would appreciate the players’ help or guidance in doing so.
@@ -228,15 +228,15 @@ Once the players have had an opportunity to enjoy the festival, they’re approa
 
 At a suitable time after speaking with Lady Wachter and Father Lucian, Lady Wachter invites the players to speak on stage as parts of the ceremony. Unless the players intervene or otherwise alter the agenda, the ceremony unfolds as follows:
 
-* Lady Wachter stands atop the wooden platform and welcomes the attendees to the Festival of the Dawn, “the day when Vallaki—and all of Barovia—celebrates our freedom from the neverending night."  
+* Lady Wachter stands atop the wooden platform and welcomes the attendees to the Festival of the Dawn, “the day when [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]]—and all of Barovia—celebrates our freedom from the neverending night."  
 * Lady Wachter shares her hope that the attendees are enjoying the festival—receiving a hearty cheer in response—and thanks them for their “spirited defense of our home, at a time when all seemed lost."  
-* Lady Wachter invites the following “exceptional individuals" to the stage to receive “tokens of Vallaki’s gratitude": the Vistana Arabelle, for “courageous and timely foresight"; the mages Kasimir Velikov and Victor Vallakovich, for “igniting a fire in the dark"; and the players, for “returning sunlight to a land that had long forgotten it." She then affixes a golden pin in the shape of a sunburst to each character’s chest, proclaiming them a “friend of Vallaki" and guest of honor of the festival.  
+* Lady Wachter invites the following “exceptional individuals" to the stage to receive “tokens of Vallaki’s gratitude": the Vistana Arabelle, for “courageous and timely foresight"; the mages [[Non-Player Characters/Town of Vallaki/Kasimir Velikov|Kasimir]] Velikov and [[Non-Player Characters/Town of Vallaki/Victor Vallakovich|Victor]] Vallakovich, for “igniting a fire in the dark"; and the players, for “returning sunlight to a land that had long forgotten it." She then affixes a golden pin in the shape of a sunburst to each character’s chest, proclaiming them a “friend of Vallaki" and guest of honor of the festival.  
 * While the guests of honor linger on the stage, Father Lucian delivers an invocation to the Morninglord and Ladies Three, thanking the Morninglord for “lighting the way" to dawn and thanking the Ladies for “restoring a land long-lost to darkness and decay." He concludes by asking the gods to bless Vallaki, the valley of Barovia, and all their people, for “this night and all the nights to come."  
 * Lady Wachter then invites one or more of the players to deliver the tale of Strahd’s defeat, which the attendees receive with enraptured delight. (The players are welcome to make this tale as long and inclusive as they would like.)
 ### 2f. Tales of Fear and Forgiveness
 Shortly after the ceremony, the players are prompted to action by one or both of the following events:
 
-***Victor’s Hesitation.*** Kasimir asks the players to help him find Victor, who has gone missing shortly before their fireworks “grand finale." A player who succeeds on a DC 10 Wisdom (Perception) or Intelligence (Investigation) check, or who finds and asks a suitable witness, can track Victor to the stone fountain at the center of the square, where he’s sitting slumped on the ground with his head in his hands.
+***[[Non-Player Characters/Town of Vallaki/Victor Vallakovich|Victor]]’s Hesitation.*** [[Non-Player Characters/Town of Vallaki/Kasimir Velikov|Kasimir]] asks the players to help him find Victor, who has gone missing shortly before their fireworks “grand finale." A player who succeeds on a DC 10 Wisdom (Perception) or Intelligence (Investigation) check, or who finds and asks a suitable witness, can track Victor to the stone fountain at the center of the square, where he’s sitting slumped on the ground with his head in his hands.
 
 A player who treats Victor kindly can convince him to share that he nearly asked Stella to dance with him by the fire after the ceremony, but lost his nerve at the last minute and offered to fetch them honey cakes instead. Victor is uncomfortable with the romantic feelings he’s developed for Stella, and terrified of losing her friendship if he shares them with her. He is grateful for any guidance or counsel the players can provide.
 
@@ -296,7 +296,7 @@ The Dreamer is grateful for any guidance or counsel the players can provide. Whe
 > [!abstract]+ **Cyrus’s Request**  
 > If the players escorted Cyrus to Vallaki, he approaches them following the [[#Festival of the Dawn]] to request their escort to Krezk and the Abbey of St. Markovia. “I will return a failure," he says mournfully, “but better to be a failure with family than a failure without. They deserve to know the truth, if nothing else."
 ### 3a. Arrival at the Walls
-If the players return to the village of Krezk after defeating Strahd, they find the gate guarded by Zygfrek and Otto Belview.
+If the players return to the village of [[Act II - The Shadowed Town/Arc I - The Walls of Krezk|Krezk]] after defeating Strahd, they find the gate guarded by Zygfrek and Otto Belview.
 
 Zygfrek and Otto are glad to welcome the players back to Krezk, and can share the following information:
 
@@ -313,7 +313,7 @@ If the players visit the burgomaster’s cottage, they can find the following ch
 * **Zuleika** is assisting Ithuriel with healing and tending to the wounded, and discussing lore of the Morninglord and Mother Night (while engaging in friendly debate about the merits of serving either).  
 * **Emil** is helping to deliver fresh blankets and food where needed.
 
-**If the players ascend to the Abbey of St. Markovia,** they find that some of the Belviews have been released from their cells or sheds to play, bicker, weed, and bask in the garden beneath the warm light of the sun, beneath the watchful eye of Clovin Belview and the flesh golem.
+**If the players ascend to the [[Act III - The Broken Land/Arc K - The Fallen Abbey|Abbey of St. Markovia]],** they find that some of the Belviews have been released from their cells or sheds to play, bicker, weed, and bask in the garden beneath the warm light of the sun, beneath the watchful eye of Clovin Belview and the flesh golem.
 
 **If the players reunite Ithuriel and Cyrus Belview**, Ithuriel prostrates himself before Cyrus and begs his forgiveness for his lies and sins against him—specifically, his offering of Cyrus to Strahd as a servant and failing to dispute Strahd’s implication that he could help “cure" Cyrus’s family. Cyrus, surprised to see the “new" Abbot, looks to the players for guidance before responding.
 
@@ -321,7 +321,7 @@ Although Cyrus still hopes for an opportunity to cure his family of their madnes
 
 Ithuriel is grimly determined to continue doing what he can to help the Belviews—by making them comfortable, if nothing else. If the players suggest seeking the help of the Huntress at the Forest Fane, he is surprised, but more than willing to assist them.
 ### 3c. Return to the Forest Fane
-If the players return to Yester Hill, they are greeted by a gray-brown **wolf** where the path emerges from the trees—the same wolf they encountered in [[#1b. The New Svalich Road]]. The wolf, a servant of the Huntress, can guide them to the Forest Fane atop Yester Hill. The Fane is largely as the players left it in [[Arc T - The Three Fanes]], except that the oak sapling has grown into a young, sturdy tree, approximately ten feet in height.
+If the players return to [[Act III - The Broken Land/Arc J - The Stolen Gem|Yester Hill]], they are greeted by a gray-brown **wolf** where the path emerges from the trees—the same wolf they encountered in [[#1b. The New Svalich Road]]. The wolf, a servant of the Huntress, can guide them to the Forest Fane atop Yester Hill. The Fane is largely as the players left it in [[Arc T - The Three Fanes]], except that the oak sapling has grown into a young, sturdy tree, approximately ten feet in height.
 
 If the players attempt to commune with the Huntress at the Forest Fane, read:
 
@@ -360,7 +360,7 @@ The pile of bones are the remains of the skeletal rider—Dalvan Olensky and his
 
 The raven is an ordinary raven and servant of the Seeker, come to honor Dalvan’s remains for his service to the Seeker.
 ### 4b. Return to Tser Pool
-If the players return to G. Tser Pool Encampment, they find that only two tents remain: Stanimir’s tent and Madam Eva’s. (The other Vistani have traveled to the village of Barovia to assist in the rebuilding efforts. Only Stanimir and his family—who are currently out hunting—have remained to tend to the encampment and Madam Eva.)
+If the players return to G. Tser Pool Encampment, they find that only two tents remain: Stanimir’s tent and [[Non-Player Characters/Tser Pool Encampment/Madam Eva|Madam Eva]]’s. (The other Vistani have traveled to the village of Barovia to assist in the rebuilding efforts. Only Stanimir and his family—who are currently out hunting—have remained to tend to the encampment and Madam Eva.)
 
 Stanimir is delighted to see the players, whom he assumes are responsible for the return of the Sun and Strahd’s evident defeat. However, while he believes that Strahd’s defeat was necessary for the good of all Barovia, he quietly mourns the future and legacy of the young soldier his ancestors once aided on the battlefield, as described in Mysterious Visitors. “I know not how darkness came to consume him," he says sorrowfully. “If only a man of such power and ambition had put his spark to good, instead of ill, what might he have accomplished?"
 
@@ -390,8 +390,8 @@ After the players depart Tser Pool, if they helped the Dreamer in [[#2f. Tales o
 If the players return to the village of Barovia, they can find:
 
 * **Four of the five Vistani families** from Tser Pool recamped to tents at the foot of Lugdana’s Knoll, just outside the village, assisting the villagers with the rebuilding efforts.  
-* **Ismark** at the Blood of the Vine tavern, having established a small “office" in the taproom from which to manage and oversee the rebuilding efforts.  
-* **Father Donavich**, **Van Richten**, **Erasmus**, and **Parriwimple** at the village church, tending to the wounded and grieving.  
+* **[[Non-Player Characters/Village of Barovia/Ismark Kolyanovich|Ismark]]** at the Blood of the Vine tavern, having established a small “office" in the taproom from which to manage and oversee the rebuilding efforts.  
+* **Father Donavich**, **[[Non-Player Characters/Town of Vallaki/Dr. Rudolph van Richten|Van Richten]]**, **Erasmus**, and **Parriwimple** at the village church, tending to the wounded and grieving.  
 * **Gertruda** and **Mary** in their home, preparing stew and bread for the wounded in the church, and to be distributed to those whose homes were damaged or destroyed in the fighting.  
 * **Doru** in a soil-filled crate in his room during the day, helping Mary and Gertruda distribute food at dusk and evening, and in Gertruda’s room or on her rooftop at night.
 
@@ -403,38 +403,38 @@ Before the players depart, if the players helped Doru overcome his bloodthirst i
 
 * Following Strahd’s defeat at the players’ hands and Van Richten’s reunion with his son, Van Richten believes that the time has come for him to retire.  
 * However, upon seeing the evidence of Doru’s ability to resist his bloodthirst, and following Van Richten’s experience with his own curse and redemption, Van Richten believes that he can still do good as a *rehabilitator* of monsters and the accursed, rather than as a slayer of monsters. Doru intends to join him in this venture, as his apprentice and partner.  
-* Van Richten has heard that the Abbey of Saint Markovia was once a holy place of healing and refuge, and that the Abbot there is a holy man of great stature. “If it would not be too great an imposition," he says, “I would most appreciate an introduction."
+* Van Richten has heard that [[Act III - The Broken Land/Arc K - The Fallen Abbey|the Abbey]] of Saint Markovia was once a holy place of healing and refuge, and that the Abbot there is a holy man of great stature. “If it would not be too great an imposition," he says, “I would most appreciate an introduction."
 ## 5. Escher’s Fate
-Escher’s ultimate fate depends on the players’ choices and actions earlier in the campaign:
+[[Non-Player Characters/Castle Ravenloft/Escher|Escher]]’s ultimate fate depends on the players’ choices and actions earlier in the campaign:
 
 * If the players (1) reunited Escher with Doru (e.g., during [[Arc P - Ravenloft Heist]], (2) treated Escher with respect and compassion, and (3) encouraged Escher to seek redemption, run [[#5a. Escher’s Quest]].  
 * If the players achieved only two of these three prerequisites, run [[#5b. Escher’s Isolation]].  
 * If the players achieved only one of these three prerequisites, run [[#5c. Escher’s Temptation]].  
 * If the players achieved none of these three prerequisites, run [[#5d. Escher’s Fall]].
 ### 5a. Escher’s Quest
-Shortly after Strahd’s defeat, Escher seeks out the players in Vallaki, traveling by night and presenting himself openly at the gates. 
+Shortly after Strahd’s defeat, [[Non-Player Characters/Castle Ravenloft/Escher|Escher]] seeks out the players in [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]], traveling by night and presenting himself openly at the gates. 
 
 * ***If the players are known to be present in Vallaki,*** one of the town guards fetches them and asks them to come to the gate, where “one of the Devil’s spawn" is asking for them.  
-* ***If the players aren’t known to be present in Vallaki***, Escher insists that he be allowed to meet them and requests an audience with Lady Wachter. Upon her arrival, he surrenders to her and insists that he be granted an opportunity to speak with the players. At Lady Wachter’s direction, Escher is bound in manacles and imprisoned in Cult Headquarters, whose secret door is locked and guarded by two **guards** until the players return to Vallaki.
+* ***If the players aren’t known to be present in Vallaki***, Escher insists that he be allowed to meet them and requests an audience with [[Non-Player Characters/Town of Vallaki/Lady Fiona Wachter|Lady Wachter]]. Upon her arrival, he surrenders to her and insists that he be granted an opportunity to speak with the players. At Lady Wachter’s direction, Escher is bound in manacles and imprisoned in Cult Headquarters, whose secret door is locked and guarded by two **guards** until the players return to Vallaki.
 
 If the players subsequently speak with Escher, he surrenders to them and asks them to decide his fate. “I can’t atone for the things I did or the people I hurt," he says, his voice choked with tears. “Every time I sleep, I see their faces in my dreams. Please—I just want it to stop."
 
 Escher is willing to accept any decision the players make.
 ### 5b. Escher’s Isolation
-One to two weeks after Strahd’s defeat, local hunters report sightings of dead livestock and wildlife in the woods around Vallaki, with two puncture wounds in each victim’s neck. Fearing a new kind of bestial vampire, Lady Wachter asks the players to investigate and deal with any threat.
+One to two weeks after Strahd’s defeat, local hunters report sightings of dead livestock and wildlife in the woods around [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]], with two puncture wounds in each victim’s neck. Fearing a new kind of bestial vampire, [[Non-Player Characters/Town of Vallaki/Lady Fiona Wachter|Lady Wachter]] asks the players to investigate and deal with any threat.
 
 Szoldar Szoldarovich and Yevgeni Krushkin can lead the players to Jander’s Hollow, a small valley in the Svalich Woods where the most recent victims have been found. Upon their arrival, the players can find a dead stag with two puncture wounds along its throat. A DC 15 Wisdom (Medicine) check reveals that the puncture wounds were likely made by sharp humanoid teeth—not a beast.
 
-* If the players investigate the area during the day, they can also find a trail of fresh footprints leading around the edge of the hollow into a small cavern below an ancient oak tree. Within the cavern, the players can find Escher, asleep in a small depression in the ground and covered with pine boughs. Escher swiftly surrenders if awakened.  
+* If the players investigate the area during the day, they can also find a trail of fresh footprints leading around the edge of the hollow into a small cavern below an ancient oak tree. Within the cavern, the players can find [[Non-Player Characters/Castle Ravenloft/Escher|Escher]], asleep in a small depression in the ground and covered with pine boughs. Escher swiftly surrenders if awakened.  
 * If the players investigate the area at night, they are watched by Escher from the trees, who attempts to conceal himself in the shadows. If a player’s Wisdom (Perception) check or passive Wisdom (Perception) score exceeds Escher’s Dexterity (Stealth) check, they automatically detect his silhouette crouched in the canopy. Escher attempts to flee if detected, but swiftly surrenders if caught.
 
-If caught, Escher can share that he fled Strahd’s army shortly after its departure from Castle Ravenloft, and sought refuge in the woods following the rise of the Sun. Since then, he has done his best to live off the blood of beasts instead of human blood, hoping to “avoid any more trouble."
+If caught, Escher can share that he fled Strahd’s army shortly after its departure from [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]], and sought refuge in the woods following the rise of the Sun. Since then, he has done his best to live off the blood of beasts instead of human blood, hoping to “avoid any more trouble."
 
-Players who show Escher compassion and respect and succeed on a DC 10 Charisma (Persuasion) check can convince him to seek rehabilitation, rolling with advantage if they mention Doru or Van Richten’s goal of rehabilitating “monsters." 
+Players who show Escher compassion and respect and succeed on a DC 10 Charisma (Persuasion) check can convince him to seek rehabilitation, rolling with advantage if they mention Doru or [[Non-Player Characters/Town of Vallaki/Dr. Rudolph van Richten|Van Richten]]’s goal of rehabilitating “monsters." 
 
 Escher fights only in self-defense, but prefers to flee if attacked.
 ### 5c. Escher’s Temptation
-Shortly after Strahd’s downfall, Escher searches the ruins of Castle Ravenloft in search of the secret to becoming a vampire lord, determined not to let his immortality be in vain. After multiple nights of searching, he unearths Strahd’s teleportation brazier and uses it to teleport to the Amber Temple, where he’s driven out of the amber vault by the ghost of Exethanter. 
+Shortly after Strahd’s downfall, [[Non-Player Characters/Castle Ravenloft/Escher|Escher]] searches the ruins of [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]] in search of the secret to becoming a vampire lord, determined not to let his immortality be in vain. After multiple nights of searching, he unearths Strahd’s teleportation brazier and uses it to teleport to the [[Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight|Amber Temple]], where he’s driven out of the amber vault by the ghost of Exethanter. 
 
 Before fleeing the temple, Escher accepts the dark gift of Zrin-Hala, hungry to exact revenge on the players for “destroying his life." He then proceeds to fight his way down Mount Ghakis, defeating or escaping multiple amber-cursed demons and slaughtering a group of Mountain Folk hunters before entering the valley and tracking the players down.
 
@@ -447,7 +447,7 @@ Approximately two weeks after Strahd’s downfall, Escher attacks the players on
 
 Escher fights to the death, fleeing only if he successfully kills one of the players.
 ### 5d. Escher’s Fall
-Three weeks after Strahd’s downfall, an isolated and blood-starved Escher journeys to Vallaki, where he takes up residence in an abandoned house and begins preying upon townsfolk in the streets. After a Vallakian woman named Miruna Swilova narrowly escapes death at his hands, Lady Wachter directs the players to find the “vampire" still haunting Vallaki’s streets.
+Three weeks after Strahd’s downfall, an isolated and blood-starved [[Non-Player Characters/Castle Ravenloft/Escher|Escher]] journeys to [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]], where he takes up residence in an abandoned house and begins preying upon townsfolk in the streets. After a Vallakian woman named Miruna Swilova narrowly escapes death at his hands, [[Non-Player Characters/Town of Vallaki/Lady Fiona Wachter|Lady Wachter]] directs the players to find the “vampire" still haunting Vallaki’s streets.
 
 Miruna can direct the players to an abandoned house three doors down from Milivoj’s home in northern Vallaki, where she first saw the vampire’s silhouette crouched upon the roof. If asked, Milivoj can confirm that, although the home’s residents died in Strahd’s siege, he’s had a strange feeling of being *watched* whenever he’s passed by that home on recent nights.
 
@@ -457,9 +457,9 @@ Miruna can direct the players to an abandoned house three doors down from Milivo
 Escher’s anger, isolation, and hunger have driven him to forsake his humanity altogether, reducing him to an enraged, near-feral state. He refuses to listen to reason and fights to the death.
 ## 6. Endings & Beginnings
 ### 6a. The Council
-Within two weeks of Strahd’s defeat, Lady Fiona Wachter invites the players—either by a letter, messenger, or personal invitation—to a meeting at Wachterhaus to discuss Barovia’s future.
+Within two weeks of Strahd’s defeat, Lady [[Non-Player Characters/Town of Vallaki/Lady Fiona Wachter|Fiona Wachter]] invites the players—either by a letter, messenger, or personal invitation—to a meeting at Wachterhaus to discuss Barovia’s future.
 
-The meeting, which takes place in **N4j. Dining Room (p. 112)**, is attended by Lady Wachter, Kasimir Velikov, Ismark Kolyanovich, Dmitri Krezkov, Urwin Martikov, Luvash, and Stanimir (or their replacements, if any are deceased).
+The meeting, which takes place in **N4j. Dining Room (p. 112)**, is attended by Lady Wachter, [[Non-Player Characters/Town of Vallaki/Kasimir Velikov|Kasimir]] Velikov, [[Non-Player Characters/Village of Barovia/Ismark Kolyanovich|Ismark]] Kolyanovich, Dmitri Krezkov, Urwin Martikov, Luvash, and Stanimir (or their replacements, if any are deceased).
 
 The purpose of this meeting, Lady Wachter explains, is as follows:
 
@@ -471,21 +471,21 @@ The purpose of this meeting, Lady Wachter explains, is as follows:
 
 The meeting’s attendees have the following goals and interests, though they can be swayed from these interests with suitable arguments and a Charisma (Persuasion) check:
 
-* **Lady Wachter** hopes to create a defensive and trade alliance between the three settlements, with Vallaki as a senior partner due to its size and resources, and to provide for the centralized (or at least coordinated) government of the valley to ensure shared prosperity, facilitate reintegration with the outside world, and provide for defense against external threats.  
+* **Lady Wachter** hopes to create a defensive and trade alliance between the three settlements, with [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]] as a senior partner due to its size and resources, and to provide for the centralized (or at least coordinated) government of the valley to ensure shared prosperity, facilitate reintegration with the outside world, and provide for defense against external threats.  
 * **Kasimir** hopes to preserve the culture, dignity, and independence of the dusk elves while allowing them to reintegrate with Barovia’s population. (“Perhaps we have lingered too long in the shadows of the past," he muses, “unwilling to let go of memories and grief.")  
 * **Ismark** hopes to bolster and fund the village of Barovia’s restoration efforts, especially following Strahd’s second siege, to facilitate the return of the refugees to Barovia, and to ensure the village’s prosperity and defense in the future (especially due to its exposure to the valley’s eastern pass and lack of walls).  
-* **Dmitri** (still somewhat suspicious of outsiders, and faithful of his village’s high walls and self-sufficiency) hopes to preserve Krezk’s independence and autonomy.  
+* **Dmitri** (still somewhat suspicious of outsiders, and faithful of his village’s high walls and self-sufficiency) hopes to preserve [[Act II - The Shadowed Town/Arc I - The Walls of Krezk|Krezk]]’s independence and autonomy.  
 * **Urwin** (who has assumed command of the Keepers of the Feather following Davian’s recent retirement) hopes to preserve the Keepers’ independence and to avoid allowing any political leader to control them for martial use or surveillance.  
 * **Luvash** has no strong opinions on politics or government, but wants to ensure the freedom of Vistani caravans (and traders) to come and go as they please while preserving Vistani culture and providing a safe, permanent, place for the Vallakian encampment to remain.  
-* **Stanimir** is present merely to inform the other attendees that, following Madam Eva’s death, the Tser Pool encampment will be disbanding, with some caravans relocating to the Vallakian encampment and others (including Stanimir) departing for distant lands. 
+* **Stanimir** is present merely to inform the other attendees that, following [[Non-Player Characters/Tser Pool Encampment/Madam Eva|Madam Eva]]’s death, the Tser Pool encampment will be disbanding, with some caravans relocating to the Vallakian encampment and others (including Stanimir) departing for distant lands. 
 
 The attendees welcome the players’ input and assistance as mediators. However, none are willing to live beneath the rule of a monarch again.
 ### 6b. Into the Mists
-Shortly after Lady Wachter’s council, Muriel Vinshaw approaches the players alongside Ezmerelda and Elvir Martikov. (If Ireena entered a romantic relationship with Ezmerelda, Ireena accompanies them as well.) All carry heavy packs containing supplies for several days’ travel.
+Shortly after [[Non-Player Characters/Town of Vallaki/Lady Fiona Wachter|Lady Wachter]]’s council, [[Non-Player Characters/Town of Vallaki/Muriel Vinshaw|Muriel]] Vinshaw approaches the players alongside [[Non-Player Characters/Abbey of St. Markovia/Ezmerelda dAvenir|Ezmerelda]] and Elvir Martikov. (If [[Non-Player Characters/Village of Barovia/Ireena Kolyana|Ireena]] entered a romantic relationship with Ezmerelda, Ireena accompanies them as well.) All carry heavy packs containing supplies for several days’ travel.
 
 Muriel and Ezmerelda have learned, both from migrating flocks of ravens and traveling Vistani caravans, that—although Strahd has been defeated and Barovia freed—the Mists (or a near-identical phenomenon) still survive elsewhere, and that the Powers that entrapped Barovia may have ensnared other innocent settlements within them. (“It seems Barovia may not have been the only victim of the Mists," Ezmerelda says grimly. “I’ve heard tales of far-off lands spirited away—desert kingdoms, jungle temples, and sprawling cities where the living sleep forever.")
 
-Muriel, Ezmerelda, Elvir, and Ireena intend to travel to these lands with the aid of an item called a *mist talisman* that Ezmerelda obtained from a Vistani merchant. (See **Domains of Ravenloft (*Van Richten’s Guide to Ravenloft*, p. 61)** for a list of mist talismans that Ezmerelda might have obtained.) Upon their arrival in each land, Muriel intends to found new chapters of the Keepers of the Feather—and will need new members to help do so.
+Muriel, Ezmerelda, Elvir, and Ireena intend to travel to these lands with the aid of an item called a *mist talisman* that Ezmerelda obtained from a Vistani merchant. (See **Domains of Ravenloft (*[[Non-Player Characters/Town of Vallaki/Dr. Rudolph van Richten|Van Richten]]’s Guide to Ravenloft*, p. 61)** for a list of mist talismans that Ezmerelda might have obtained.) Upon their arrival in each land, Muriel intends to found new chapters of the Keepers of the Feather—and will need new members to help do so.
 
 The four have come to bid the players farewell—and, if they’re interested, to invite any of them to join their venture. (“So long as any of us are trapped in the Mists," Ireena says, with steely determination, “all of us are.")
 

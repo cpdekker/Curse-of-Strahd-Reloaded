@@ -1,20 +1,20 @@
 *An adventure for five 10th-level characters.*
 
-In this arc, after reconsecrating the Fanes, the players are invited to a Vallakian war council with a simple goal: overthrow Strahd, and return freedom to Barovia. That night, however, as the players sleep, the Dark Powers spirit them away into a dream of Barovia’s future and offer them a terrible choice: sacrifice Ireena’s soul, and secure peace for the valley once more.
+In this arc, after reconsecrating the Fanes, the players are invited to a Vallakian war council with a simple goal: overthrow Strahd, and return freedom to Barovia. That night, however, as the players sleep, the Dark Powers spirit them away into a dream of Barovia’s future and offer them a terrible choice: sacrifice [[Non-Player Characters/Village of Barovia/Ireena Kolyana|Ireena]]’s soul, and secure peace for the valley once more.
 
-If the players reject the Dark Powers’ choice, they awaken to find that Strahd has used the power of the Heart of Sorrow to plunge Barovia into eternal night—and Vallaki is under siege. The Whispering Wall has devoured Vallaki’s western half, while a horde of undead fast approaches from the east. To defend the town—and themselves—the players must halt the Whispering Wall’s inexorable advance and defend Vallaki’s walls from the oncoming dead.
+If the players reject the Dark Powers’ choice, they awaken to find that Strahd has used the power of the Heart of Sorrow to plunge Barovia into eternal night—and [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]] is under siege. The Whispering Wall has devoured Vallaki’s western half, while a horde of undead fast approaches from the east. To defend the town—and themselves—the players must halt the Whispering Wall’s inexorable advance and defend Vallaki’s walls from the oncoming dead.
 
-With Vallaki saved, however, the players soon learn a grimmer truth: hordes of the dead have risen all across the valley, and an army of thousands more undead is headed toward Vallaki. To stop them, the players must journey to Castle Ravenloft and defeat Strahd—once and for all.
+With Vallaki saved, however, the players soon learn a grimmer truth: hordes of the dead have risen all across the valley, and an army of thousands more undead is headed toward Vallaki. To stop them, the players must journey to [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]] and defeat Strahd—once and for all.
 # U1. The War Council
 ## U1a. The Invitation
 Shortly after the players reconsecrate the final Fane in [[Arc T - The Three Fanes]], they receive an urgent invitation from Lady Wachter asking them to meet with her at Wachterhaus:
 
-* If the players are in Vallaki, they receive a personal invitation from Stella Wachter, who informs them that her mother has summoned them to Wachterhaus for an urgent meeting. (Stella doesn’t know what the meeting is about.)
-* If the players are in Krezk, they receive a parchment scroll sent via raven, which reads: “I must speak with you tonight. I await you at Wachterhaus. —Burgomistress Fiona Wachter."
+* If the players are in [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]], they receive a personal invitation from Stella Wachter, who informs them that her mother has summoned them to Wachterhaus for an urgent meeting. (Stella doesn’t know what the meeting is about.)
+* If the players are in [[Act II - The Shadowed Town/Arc I - The Walls of Krezk|Krezk]], they receive a parchment scroll sent via raven, which reads: “I must speak with you tonight. I await you at Wachterhaus. —Burgomistress [[Non-Player Characters/Town of Vallaki/Lady Fiona Wachter|Fiona Wachter]]."
 ## U1b. Wachterhaus
-When the players arrive at Wachterhaus, they are shown to Dining Room and Parlor. There, they are met by Lady Fiona Wachter, Father Lucian Petrovich, Victor Vallakovich, and Urwin Martikov.
+When the players arrive at Wachterhaus, they are shown to Dining Room and Parlor. There, they are met by Lady [[Non-Player Characters/Town of Vallaki/Lady Fiona Wachter|Fiona Wachter]], Father Lucian Petrovich, [[Non-Player Characters/Town of Vallaki/Victor Vallakovich|Victor]] Vallakovich, and Urwin Martikov.
 
-Lady Wachter welcomes the players to Wachterhaus and thanks them for arriving on short notice. She then informs them of the purpose of the meeting: to determine whether and when Vallaki shall march on Castle Ravenloft and defeat Strahd von Zarovich—once and for all.
+Lady Wachter welcomes the players to Wachterhaus and thanks them for arriving on short notice. She then informs them of the purpose of the meeting: to determine whether and when [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]] shall march on [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]] and defeat Strahd von Zarovich—once and for all.
 
 Lady Wachter can share the following information:
 
@@ -31,7 +31,7 @@ The meeting’s attendees have thus far taken the following positions regarding 
 Although any individual attendee may require convincing or argument, the attendees of the war council welcome any insight, guidance, and leadership the players are able to provide.
 # U2. The Dream
 ## U2a. The Dream Begins
-The first time the players take a long rest in Vallaki after [[#U1. The War Council]], if Ireena Kolyana and Ezmerelda d’Avenir are still alive and traveling with them, the players—along with Ireena and Ezmerelda—are drawn into a dream created by the Dark Powers. Read:
+The first time the players take a long rest in [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]] after [[#U1. The War Council]], if [[Non-Player Characters/Village of Barovia/Ireena Kolyana|Ireena Kolyana]] and [[Non-Player Characters/Abbey of St. Markovia/Ezmerelda dAvenir|Ezmerelda]] d’Avenir are still alive and traveling with them, the players—along with Ireena and Ezmerelda—are drawn into a dream created by the Dark Powers. Read:
 
 <div class="description">
 <p>You feel yourselves sinking into a warm, soft darkness as sleep draws its arms around you. There’s a sensation of falling, of the tide of unconsciousness washing over you. You don’t notice the moment you fall asleep, but you notice when, a heartbeat later, your eyes snap open again—only to find yourselves somewhere else.</p>
@@ -87,10 +87,10 @@ The players immediately recognize the square as Town Square check can confirm th
 
 * The men wearing priests’ robes are an older Father Lucian Petrovich and Yeska
 * The older man and matronly woman are an older Urwin Martikov and Danika Dorakova.
-* The portly man with the jester’s cap is an older Gadof Blinsky.
+* The portly man with the jester’s cap is an older Gadof [[Non-Player Characters/Town of Vallaki/Gadof Blinsky|Blinsky]].
 * The golden-haired youth is Ithuriel.
-* The greasy-haired man is an older Victor Vallakovich.
-* The woman’s statue resembles Ireena Kolyana.
+* The greasy-haired man is an older [[Non-Player Characters/Town of Vallaki/Victor Vallakovich|Victor]] Vallakovich.
+* The woman’s statue resembles [[Non-Player Characters/Village of Barovia/Ireena Kolyana|Ireena Kolyana]].
 
 Shortly after the players first arrive, a nondescript Vallakian hand-delivers them a note that they received from a “hooded figure." (The Vallakian doesn’t know who the figure is, or remember any other details about them, and is confused as to why the figure asked them to deliver the message, instead of doing so themselves.) The note, which bears a silver-gray seal shaped like a sprig of belladonna upon a silver shield, reads: “The masks we wear open many doors. To find mine, follow yours."
 
@@ -113,7 +113,7 @@ Shortly after the players first arrive, a nondescript Vallakian hand-delivers th
 > [!info]+ **The Players’ Role**
 > To all characters except themselves, the players and Ireena appear as ordinary Vallakian guards and are expected to behave as such. Lady Wachter, Nikolai Wachter, Stella Wachter, and Urwin Martikov may know one or more of them by any of the following names: Velimir, Blazh, Rostislav, Borislav, Chedomir, Dobroslav, Nikola, Zoria, Zaria, Miroslava, Yelena, Darya, Rada, Boleslava, or Slavitsa.
 ### Interacting with the Townsfolk
-The people in the town square are waiting for Burgomaster Nikolai Wachter, Burgomaster Ismark Kolyanovich, and Burgomaster Ilya Krezkov to begin the Festival of Peace—an annual celebration honoring the sacrifice of Ireena Kolyana and commemorating Strahd’s withdrawal following the Grand Conjunction. 
+The people in the town square are waiting for Burgomaster Nikolai Wachter, Burgomaster [[Non-Player Characters/Village of Barovia/Ismark Kolyanovich|Ismark]] Kolyanovich, and Burgomaster Ilya Krezkov to begin the Festival of Peace—an annual celebration honoring the sacrifice of [[Non-Player Characters/Village of Barovia/Ireena Kolyana|Ireena Kolyana]] and commemorating Strahd’s withdrawal following the Grand Conjunction. 
 
 Although the players might recognize them, the characters in the dream don’t recognize them, and instead see them as ordinary Vallakian guards. Accordingly, dream characters might rebuff or rebuke players who act overly familiar with them, and express surprise if an “ordinary guard" (whom they may or may not recognize) acts with such familiarity. Dream characters may also be confused by, amused by, suspicious of, and/or uncomfortable with players who show or profess ignorance of Barovia’s “future history."
 
@@ -143,8 +143,8 @@ Shortly after the players arrive in the dream—preferably after they have had a
 Players who approach the figures on the platform, who successfully guess their identifies, or who succeed on a DC 12 Wisdom (Perception) check can confirm the following:
 
 * The bearded man is an older Nikolai Wachter, Jr. 
-* The elderly woman is an older Fiona Wachter. 
-* The golden-haired man is an older Ismark Kolyanovich. 
+* The elderly woman is an older [[Non-Player Characters/Town of Vallaki/Lady Fiona Wachter|Fiona Wachter]]. 
+* The golden-haired man is an older [[Non-Player Characters/Village of Barovia/Ismark Kolyanovich|Ismark]] Kolyanovich. 
 * The young man with the axe is an older Ilya Krezkov. 
 
 Continue, pausing occasionally to allow the players an opportunity to interject or speak amongst themselves:
@@ -162,9 +162,9 @@ Continue, pausing occasionally to allow the players an opportunity to interject 
 </div>
 
 ### The Burgomasters’ Request
-Shortly after the ceremony concludes—preferably after the players have had an opportunity to react to and discuss it—they are approached by Burgomaster Nikolai Wachter, Burgomaster Ismark Kolyanovich, and Burgomaster Ilya Krezkov, flanked by six **guards**—two Vallakian guards bearing chain shirts and spears, two Barovian guards wearing leather armor and longswords, and two Krezkian guards wearing leather armor, shortbows, and shortswords.
+Shortly after the ceremony concludes—preferably after the players have had an opportunity to react to and discuss it—they are approached by Burgomaster Nikolai Wachter, Burgomaster [[Non-Player Characters/Village of Barovia/Ismark Kolyanovich|Ismark]] Kolyanovich, and Burgomaster Ilya Krezkov, flanked by six **guards**—two Vallakian guards bearing chain shirts and spears, two Barovian guards wearing leather armor and longswords, and two Krezkian guards wearing leather armor, shortbows, and shortswords.
 
-Nikolai greets the players with a salute, and informs them that Burgomaster Krezkov has been unable to find his wife, Lady Stella Wachter, whom they missed at the ceremony. He notes, in a low voice, that he and the other Burgomasters must return to Wachterhaus to discuss “the Ulmist project," but asks the players to find Stella and bring her to Wachterhaus. (Nikolai is referring to the Ulmist Inquisition, which Vallaki’s guards have been briefed on, but which has not yet been formally announced. Nikolai is reluctant to announce the Inquisition before its framework has been agreed upon, both to avoid alerting the Priests of Osybus and to avoid frightening the townsfolk.)
+Nikolai greets the players with a salute, and informs them that Burgomaster Krezkov has been unable to find his wife, Lady Stella Wachter, whom they missed at the ceremony. He notes, in a low voice, that he and the other Burgomasters must return to Wachterhaus to discuss “the Ulmist project," but asks the players to find Stella and bring her to Wachterhaus. (Nikolai is referring to the Ulmist Inquisition, which [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]]’s guards have been briefed on, but which has not yet been formally announced. Nikolai is reluctant to announce the Inquisition before its framework has been agreed upon, both to avoid alerting the Priests of Osybus and to avoid frightening the townsfolk.)
 
 Neither Ilya nor Nikolai is certain where Stella has gone, but Nikolai suggests the players ask around the town square to find her. “It’s rare that my sister has an opportunity to catch up with old friends," he says. “Doubtlessly, she merely lost track of time while socializing or visiting old haunts."
 
@@ -183,9 +183,9 @@ If the players accept their mission, the burgomasters and their guards depart fr
 
 The players can uncover the following information by asking around the town square:
 
-* **Father Lucian Petrovich & Brother Yeska Petrovich.** Stella visited St. Andral’s Church earlier that morning, and mentioned that she might stop by Blinsky Toys immediately afterward.
+* **Father Lucian Petrovich & Brother Yeska Petrovich.** Stella visited St. Andral’s Church earlier that morning, and mentioned that she might stop by [[Non-Player Characters/Town of Vallaki/Gadof Blinsky|Blinsky]] Toys immediately afterward.
 * **Gadof Blinsky.** Stella stopped by Blinsky Toys late that morning and purchased one of his toys, then mentioned she intended to catch up with “an old friend" before departing. (If asked, Blinsky recalls that Stella purchased an old toy, one which—curiously, he notes, chuckling awkwardly—he had made shortly after the Grand Conjunction ten years ago: a spinning wheel depicting the phases of the moon.)
-* **Urwin Martikov & Danika Dorakova.** Danika saw Stella speaking with Victor Vallakovich shortly before the ceremony, at the west end of the square.
+* **Urwin Martikov & Danika Dorakova.** Danika saw Stella speaking with [[Non-Player Characters/Town of Vallaki/Victor Vallakovich|Victor]] Vallakovich shortly before the ceremony, at the west end of the square.
 * **Ithuriel.** Ithuriel hasn’t seen Stella, but observed an unfamiliar cloaked man standing in an alley on the west side of the square during the ceremony; unlike the rest of the crowd, he didn’t seem to be paying attention to the ceremony. (Ithuriel can point the players toward Victor’s alley.)
 * **Victor Vallakovich.** Although initially irate and reluctant to speak with “Lord Wachter’s" guards, Victor can be easily convinced to share that, in their brief conversation shortly before the ceremony, Stella suggested that she intended to visit Lake Zarovich while the festival unfolded. 
 
@@ -200,7 +200,7 @@ Lake Zarovich has the following description:
 <p>At the foot of a mountain, nestled in the misty forest, is a large lake. The water is perfectly still and dark, reflecting the black clouds overhead like a monstrous mirror.</p>
 </div>
 
-If the characters arrive along the shore north of Vallaki in the daytime, add: Pulled up along the south shore are three small row boats. A fourth boat can be seen in the middle of the lake, with a lone figure sitting in it, fishing pole in hand. Each rowboat can safely hold five people. The person fishing on the lake is Bluto Krogarov (NE male human commoner), a resident ofVallaki. He is in a trance and doesn't respond to anything or anyone unless attacked. His boat is 400 feet from the nearest shore. Tied up in the boat is a seven-year-old Vistana named Arabelle (LN female human commoner with 2 hit points and no effec tive attacks). She is bound with hempen rope, wrapped in a burlap sack, and lying prone so that she can't be seen or heard from the shore.
+If the characters arrive along the shore north of [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]] in the daytime, add: Pulled up along the south shore are three small row boats. A fourth boat can be seen in the middle of the lake, with a lone figure sitting in it, fishing pole in hand. Each rowboat can safely hold five people. The person fishing on the lake is Bluto Krogarov (NE male human commoner), a resident ofVallaki. He is in a trance and doesn't respond to anything or anyone unless attacked. His boat is 400 feet from the nearest shore. Tied up in the boat is a seven-year-old Vistana named Arabelle (LN female human commoner with 2 hit points and no effec tive attacks). She is bound with hempen rope, wrapped in a burlap sack, and lying prone so that she can't be seen or heard from the shore.
 
 When the players first see the lake, read:
 
@@ -216,18 +216,18 @@ The woman resembles Stella from behind. If the players approach or interact with
 <p>"At long last," she says, smiling warmly. “I’ve truly looked forward to meeting you."</p>
 </div>
 
-The woman is Ezra, the goddess of the Mists, and the mask of the Dark Powers. After the players have had an opportunity to react, she asks whether the players know who she is; if they fail to guess either identity, she taps her brooch and asks, with a knowing smile, whether they’ve seen “dear Fiona" wearing anything like it. (Players who have previously seen Lady Wachter’s holy symbol, either in [[Arc T - The Three Fanes]] or otherwise, immediately recognize it as bearing the same iconography.)
+The woman is Ezra, the goddess of the Mists, and the mask of the Dark Powers. After the players have had an opportunity to react, she asks whether the players know who she is; if they fail to guess either identity, she taps her brooch and asks, with a knowing smile, whether they’ve seen “dear Fiona" wearing anything like it. (Players who have previously seen [[Non-Player Characters/Town of Vallaki/Lady Fiona Wachter|Lady Wachter]]’s holy symbol, either in [[Arc T - The Three Fanes]] or otherwise, immediately recognize it as bearing the same iconography.)
 
 Ezra notes that she is “sure the players have so many questions," and that she is glad to answer them. Before she does, however, she asks only that they “listen to a story"—a tale of how this time came to be. If the players agree, Ezra shares the following information:
 
 * Ten years ago, a great darkness fell upon the land. At Strahd’s command, the dead rose from their graves, and night extinguished day. All seemed lost—until a lone Barovian sacrificed her life to stop Strahd’s madness.
-* When she did, Strahd’s “greatest desire" again slipped through his fingers. Upon learning this, he departed Castle Ravenloft and confronted the players to learn what had occurred. When he did, Strahd gave them an offer: he would bring no harm to their friends, and allow them to depart Barovia freely, if they did so together.
+* When she did, Strahd’s “greatest desire" again slipped through his fingers. Upon learning this, he departed [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]] and confronted the players to learn what had occurred. When he did, Strahd gave them an offer: he would bring no harm to their friends, and allow them to depart Barovia freely, if they did so together.
 * Strahd did this because, with this loss, he no longer intended to use the Grand Conjunction to escape this cycle, preferring to linger within the Mists until he could find a way to recapture the object of his desire. 
 * The players accepted Strahd’s armistice, and departed the valley—though not before sharing the tale of their friend’s heroic sacrifice, and the peace her life had bought for the valley. Lady Wachter declared that day a Vallakian holiday, an occasion for remembrance and celebration.
 * Strahd made good on his promises, and brought no harm to the people of the valley, even in the players’ absence. He soon returned to hibernation within his crypt, awaiting the day when his desire would again return to his grasp. As he slumbered, his creatures—wolves, bats, and undead—retreated from civilization once more.
 * The Barovians rejoiced in their peace; for the past ten years, the valley has once again flourished, free of Strahd’s tyranny and the darkness he once brought upon them.
 
-Ezra asks the players whether they know what “desire" escaped Strahd’s clutches, on that night ten years ago. If the players suggest that this desire was Ireena, Ezra knowingly smiles. If the players ask to know what this “desire" is, Ezra glances furtively toward Ireena and notes, smiling, “Surely you have not forgotten the one who first spurred his fall."
+Ezra asks the players whether they know what “desire" escaped Strahd’s clutches, on that night ten years ago. If the players suggest that this desire was [[Non-Player Characters/Village of Barovia/Ireena Kolyana|Ireena]], Ezra knowingly smiles. If the players ask to know what this “desire" is, Ezra glances furtively toward Ireena and notes, smiling, “Surely you have not forgotten the one who first spurred his fall."
 
 At a suitable time in their conversation, Ezra shares the following additional information:
 
@@ -305,14 +305,14 @@ Shortly after the players awaken, one of the following occurs, depending on wher
 * **Wachterhaus.** A horde of six **zombies** from the cemetery of St. Andral’s Church breaks down the manor’s doors, with three entering Front Door and Vestibule and three entering Back Vestibule.
 * **St. Andral’s Church.** A horde of six **zombies** from the cemetery of St. Andral’s Church breaks down the doors of a house across the street, spurring cries of terror and pleas for help from the family inside (two Vallakian **commoners** and two noncombatant children with 1 hit point each).
 
-Each zombie bears a glowing crimson symbol on its forehead: the raven-and-keep shield crest of Castle Ravenloft. Each zombie’s symbol and eyes glow with the same color as the pillar of bloody light that rises in the eastern mountains.
+Each zombie bears a glowing crimson symbol on its forehead: the raven-and-keep shield crest of [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]]. Each zombie’s symbol and eyes glow with the same color as the pillar of bloody light that rises in the eastern mountains.
 ### Vallaki’s Dilemma
 The following events may occur in any order and at any time shortly after the players defeat the zombies, either separately or concurrently:
 
-* ***The Wall’s Pain.*** To the east, in the mountains where Castle Ravenloft lies, a pulse of crimson light briefly fills the skies—and the winged shadow within the Whispering Wall writhes, a deep, angry rumble echoing through the earth. The wall then moves several dozen feet forward.
+* ***The Wall’s Pain.*** To the east, in the mountains where [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]] lies, a pulse of crimson light briefly fills the skies—and the winged shadow within the Whispering Wall writhes, a deep, angry rumble echoing through the earth. The wall then moves several dozen feet forward.
 * ***The Dreamer’s Remannts.*** As the players exit onto the streets or look toward the Whispering Wall, if they are in possession of the butterfly statuette from [[Arc J - The Stolen Gem#J4a. Kavan’s Cairn|J4a. Kavan’s Cairn]], or the twilight crest from [[Arc J - The Stolen Gem#J6b. The Whispering Wall|J6b. The Whispering Wall]], the item glows a brilliant purple and emits a high-pitched, keening hum. The light and hum increase in intensity if brought closer to the Whispering Wall.
-* ***Urwin’s Warning.*** After conferring with his raven spies, a pale-faced Urwin Martikov confirms to the players that the Whispering Wall fills the entire sky, from Mount Baratok to Mount Ghakis, appears to have swallowed up the entire western half of the valley, including Krezk, the Wizard of Wines, and the western edge of Vallaki. He also shares that the wall is expanding eastward rapidly, and that the entirety of Vallaki may be swallowed up in less than an hour. He further shares that strange winged apparitions have been seen emerging from the wall and dragging Vallakians into it. (If asked, Urwin confirms that the winged apparitions resemble butterflies or moths, though he’s startled at how the players made such a guess.)
-* ***Fiona’s Plea.*** Lady Fiona Wachter, flanked by two **cult fanatics** and four **guards** covered in blood and gore, approaches the players with a bloodstained *mace* in hand. She informs the players that the dead have risen from the cemetery of St. Andral’s Church; while they have been largely cleared from the eastern half of the town, many more may still linger to the west. She also shares that a vast host of undead has been spotted approaching the town from the east, led by a pale, white-fleshed undead that emits great clouds of reddish smoke, and will arrive within a quarter-hour. Lady Wachter then kneels before the players, begs them to help defend her town, and informs them that all of Vallaki’s resources are at their disposal. If any of the players accept, Lady Wachter accompanies them to [[#U3j. The Morning Gate]].
+* ***Urwin’s Warning.*** After conferring with his raven spies, a pale-faced Urwin Martikov confirms to the players that the Whispering Wall fills the entire sky, from Mount Baratok to Mount Ghakis, appears to have swallowed up the entire western half of the valley, including [[Act II - The Shadowed Town/Arc I - The Walls of Krezk|Krezk]], the [[Act III - The Broken Land/Arc J - The Stolen Gem|Wizard of Wines]], and the western edge of [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]]. He also shares that the wall is expanding eastward rapidly, and that the entirety of Vallaki may be swallowed up in less than an hour. He further shares that strange winged apparitions have been seen emerging from the wall and dragging Vallakians into it. (If asked, Urwin confirms that the winged apparitions resemble butterflies or moths, though he’s startled at how the players made such a guess.)
+* ***Fiona’s Plea.*** Lady [[Non-Player Characters/Town of Vallaki/Lady Fiona Wachter|Fiona Wachter]], flanked by two **cult fanatics** and four **guards** covered in blood and gore, approaches the players with a bloodstained *mace* in hand. She informs the players that the dead have risen from the cemetery of St. Andral’s Church; while they have been largely cleared from the eastern half of the town, many more may still linger to the west. She also shares that a vast host of undead has been spotted approaching the town from the east, led by a pale, white-fleshed undead that emits great clouds of reddish smoke, and will arrive within a quarter-hour. Lady Wachter then kneels before the players, begs them to help defend her town, and informs them that all of Vallaki’s resources are at their disposal. If any of the players accept, Lady Wachter accompanies them to [[#U3j. The Morning Gate]].
 * ***Night Everlasting.*** Any Vallakian can inform the players that, although morning should have come by now, the Moon remains high in the sky, and no daylight has appeared over the horizon.
 
 > [!info]+ **Running This Sequence**
@@ -525,7 +525,7 @@ If the players investigate the slab, they find that it bears a carving of a butt
 
 If the players investigate the shack, they find that it contains hunter’s gear and assorted animal pelts, but is otherwise empty.
 
-The butterfly is the heart of the Dreamer. Although the Dreamer’s vestige was taken from her corpse and sealed in the Amber Temple millenia ago, the butterfly still retains some of the Dreamer’s power, especially now that Strahd is using the Dreamer’s vestige to channel the power stores within the Heart of Sorrow.
+The butterfly is the heart of the Dreamer. Although the Dreamer’s vestige was taken from her corpse and sealed in the [[Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight|Amber Temple]] millenia ago, the butterfly still retains some of the Dreamer’s power, especially now that Strahd is using the Dreamer’s vestige to channel the power stores within the Heart of Sorrow.
 
 The Dreamer’s heart has the statistics of an **aboleth** (2024), with the following changes:
 
@@ -579,7 +579,7 @@ If the players defeat the Dreamer’s Heart, read:
 When the wall of fog recedes, all Barovians consumed by it are returned to their original locations, awake and unharmed.
 ## U3j. The Morning Gate
 ### Arrival at the Gate
-If any players join Lady Wachter to aid in Vallaki’s defense against the undead horde, read the following when they arrive at the eastern Morning Gate:
+If any players join [[Non-Player Characters/Town of Vallaki/Lady Fiona Wachter|Lady Wachter]] to aid in [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]]’s defense against the undead horde, read the following when they arrive at the eastern Morning Gate:
 
 <div class="description">
 <p>A small sea of grim- and anxious-looking Vallakians stands by the eastern gate. Some are familiar. All are armed.</p>
@@ -598,11 +598,11 @@ Shortly after Lady Wachter’s announcement, she and the players are approached 
 * According to Szoldar and Yevgeni, who have just returned from scouting the eastern woods, several dozen more undead are fast approaching, but have split into three groups. One group appears to be headed for the eastern Morning Gate, another is headed for the northern Zarovich Gate, and another is headed for the southeastern wall of Vallaki, by Arasek Stockyard.  All undead bear the same crimson red eyes, and the same glowing insignia on their foreheads.
 * According to Szoldar and Yevgeni, the horde as a whole is led by a pale-fleshed zombie breathing red smoke (a **zombie plague spreader**). This zombie appears to be headed for the Morning Gate.
 * According to Szoldar and Yevgeni, several of the zombies appear to be mutated in strange ways, with hulking, bloated frames or long, spindly limbs.
-* According to Andrej, he’s gathered the following force to aid in the town’s defense: six **guards**, six **cultists** (whom Andrej calls “members of Lady Wachter’s militia"), two other **cult fanatics** (Boris and Miruna, whom Andrej calls “Lady Wachter’s associates"), twelve **commoners** (whom Andrej calls “citizens"), and assorted others, including Nikolai and Karl Wachter (**nobles**), Victor Vallakovich, Father Lucian Petrovich, Urwin Martikov, Danika Dorakova, Gadof Blinsky, and (if they’re still alive and in Vallaki) Milivoj and Henrik van der Voort.
+* According to Andrej, he’s gathered the following force to aid in the town’s defense: six **guards**, six **cultists** (whom Andrej calls “members of Lady Wachter’s militia"), two other **cult fanatics** (Boris and Miruna, whom Andrej calls “Lady Wachter’s associates"), twelve **commoners** (whom Andrej calls “citizens"), and assorted others, including Nikolai and Karl Wachter (**nobles**), [[Non-Player Characters/Town of Vallaki/Victor Vallakovich|Victor]] Vallakovich, Father Lucian Petrovich, Urwin Martikov, Danika Dorakova, Gadof [[Non-Player Characters/Town of Vallaki/Gadof Blinsky|Blinsky]], and (if they’re still alive and in Vallaki) Milivoj and Henrik van der Voort.
 ### Organizing the Defense
-After Andrej, Szoldar, and Yevgeni have delivered their reports, Lady Wachter invites the players to divide the Vallakians in any way they choose. Once they’ve done so, Lady Wachter invites the players to lead or direct the groups they’ve made to the three points where the undead are expected to attack: the Morning Gate, the Zarovich Gate, and the southeastern wall.
+After Andrej, Szoldar, and Yevgeni have delivered their reports, [[Non-Player Characters/Town of Vallaki/Lady Fiona Wachter|Lady Wachter]] invites the players to divide the Vallakians in any way they choose. Once they’ve done so, Lady Wachter invites the players to lead or direct the groups they’ve made to the three points where the undead are expected to attack: the Morning Gate, the Zarovich Gate, and the southeastern wall.
 
-Before the players depart, Lady Wachter warns them that, while Vallaki’s immediate defense is of the utmost importance, they may wish to preserve the bulk of their strength for any battles that may follow. “I may be wrong," she says softly. “But this fights feels like a harbinger of horrors to come."
+Before the players depart, Lady Wachter warns them that, while [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]]’s immediate defense is of the utmost importance, they may wish to preserve the bulk of their strength for any battles that may follow. “I may be wrong," she says softly. “But this fights feels like a harbinger of horrors to come."
 
 > [!info]+ **Vallakians at War**
 > Use the following names and descriptions for the unnamed members of Vallaki’s defense force:
@@ -650,7 +650,7 @@ In combat, the hulks attempt to batter down the gate, while the ordinary zombies
 
 
 ### The Southern Wall
-Vallaki’s southeastern wall is attacked by the following undead:
+[[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]]’s southeastern wall is attacked by the following undead:
 
 * Twenty **zombies**
 * Three **zombie leapers** (use the statistics of **chokers** (<span class="citation">Monsters of the Multiverse, p. 76)</span>
@@ -696,9 +696,9 @@ In combat, the zombies attempt to mass around the gates and walls, drawing fire 
 ## U3k. Aftermath
 Shortly after the players reunite following [[#U3i. Lake Zarovich]] and [[#U3j. The Morning Gate]], after they and their companions have had an opportunity to celebrate, a grim Urwin Martikov—or Danika Dorakova, if Urwin is dead—visits the players and shares the following information, as relayed by his raven scouts:
 
-* An undead army one hundred times the size of the last one—or larger—is approaching Vallaki from the east, traveling along the Old Svalich Road.
-* Other hordes of undead have arisen across Barovia, from the terraces of Yester Hill to the cliffs of Mount Ghakis, the depths of Lake Zarovich, and the base of Tser Falls. Several of the other hordes appear to be shambling toward the villages of Krezk and Barovia.
-* Each army is led by at least one **zombie plague spreader**—a pale-fleshed undead exhaling crimson mist—and all of the undead bear red eyes and the same glowing crimson symbol on their foreheads: the crest of Castle Ravenloft.
+* An undead army one hundred times the size of the last one—or larger—is approaching [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]] from the east, traveling along the Old Svalich Road.
+* Other hordes of undead have arisen across Barovia, from the terraces of [[Act III - The Broken Land/Arc J - The Stolen Gem|Yester Hill]] to the cliffs of Mount Ghakis, the depths of Lake Zarovich, and the base of Tser Falls. Several of the other hordes appear to be shambling toward the villages of [[Act II - The Shadowed Town/Arc I - The Walls of Krezk|Krezk]] and Barovia.
+* Each army is led by at least one **zombie plague spreader**—a pale-fleshed undead exhaling crimson mist—and all of the undead bear red eyes and the same glowing crimson symbol on their foreheads: the crest of [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]].
 * By Urwin’s estimates, the slow-moving eastern army will arrive in approximately five hours, though its forerunners will arrive earlier and its reserves will arrive last. (The journey to Castle Ravenloft is just under four hours on foot, giving the players just over an hour to rest before the bulk of the army arrives.)
 
 > [!abstract]+ **The Walking Dead**
@@ -711,14 +711,14 @@ Shortly after the players reunite following [[#U3i. Lake Zarovich]] and [[#U3j. 
 > The players can recruit no allies other than Ireena Kolyana and Ezmerelda d’Avenir for their journey to Castle Ravenloft. All other characters, though grateful and honored for the invitation, insist on remaining behind to defend their homes, families, friends, and neighbors from the undead incursion. (As Victor Vallakovich says if asked—pale, but determined—“If we all went with you to Castle Ravenloft, who would be left to protect everyone else while you fight? Go—we’ll stay here to make sure everyone is still alive when you get back.")
 # U4. The Old Svalich Road
 ## U4a. Old Bonegrinder
-At the time Urwin first notifies the players of its existence, the eastern undead army is located at I. Black Carriage. If the players take a short rest before departing Vallaki, they and the undead army cross paths at or near Old Bonegrinder.
+At the time Urwin first notifies the players of its existence, the eastern undead army is located at I. Black Carriage. If the players take a short rest before departing [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]], they and the undead army cross paths at or near [[Act II - The Shadowed Town/Arc H - The Lost Soul|Old Bonegrinder]].
 The eastern army contains the following creatures:
 
 * Three thousand **zombies**
 * Twenty-five **zombie clots** (<span class="citation">Van Richten’s Guide to Ravenloft (p. 255)</span>
 * Four **zombie plague spreaders**
 
-The undead are under strict orders to ignore the players unless attacked. If the players attack them, the zombies fight to knock them unconscious, then bring their unconscious bodies to Castle Ravenloft. (The zombies cease their attack if the players retreat.)
+The undead are under strict orders to ignore the players unless attacked. If the players attack them, the zombies fight to knock them unconscious, then bring their unconscious bodies to [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]]. (The zombies cease their attack if the players retreat.)
 ## U4b. The Svalich Wood
 If the players attempt to circumvent the army by cutting through the Svalich Wood instead, they encounter a pack of thirteen **dire wolves**. If they do, read:
 
@@ -732,15 +732,15 @@ The players can attempt to sneak past the dire wolves by succeeding on a DC 16 D
 <p>The wolf at the head of the pack—a hulking brute a head taller than a warhorse—glances in your direction. For a moment, its eyes narrow—and then a glimmer of recognition alights in its eyes. It tilts its head, regarding you briefly with mild fascination—and then turns and continues on its path, leading its companions away into the shadows of the wood.</p>
 </div>
 
-The wolves, like the zombies, attack only in self-defense, and cease their attacks if the players retreat. In combat, the wolves fight to knock the players unconscious, then bring their unconscious bodies to Castle Ravenloft.
+The wolves, like the zombies, attack only in self-defense, and cease their attacks if the players retreat. In combat, the wolves fight to knock the players unconscious, then bring their unconscious bodies to [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]].
 ## U4c. The Black Carriage
-As the players pass through the crossroads to Castle Ravenloft, the area has the following description:
+As the players pass through the crossroads to [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]], the area has the following description:
 
 <div class="description">
 <p>Even here, in the mountains, the forest and the fog are inescapable. Ahead, the dirt road splits in two, widening toward the east. There you see patches of cobblestone, suggesting that the eastern branch was once an import ant thoroughfare.</p>
 </div> , including Strahd’s black carriage.
 
-Shortly after the players depart the crossroads, whether the players take the carriage or not, they are passed overhead by a small army of several dozen **swarms of ravens** sent by Muriel Vinshaw to reinforce Vallaki. Read:
+Shortly after the players depart the crossroads, whether the players take the carriage or not, they are passed overhead by a small army of several dozen **swarms of ravens** sent by [[Non-Player Characters/Town of Vallaki/Muriel Vinshaw|Muriel]] Vinshaw to reinforce [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]]. Read:
 
 <div class="description">
 <p>The Moon’s silvery light is briefly blotted from view as a cloud of small, feathered black forms fills the sky above. Hundreds, if not thousands of ravens cross overhead toward the west, their whooping cries echoing through the chill air like the sound of an army gathering for war.</p>
@@ -764,9 +764,9 @@ The gates of Ravenloft has the following description:
 
 Each time a creature other than Strahd or a horse that draws his carriage crosses the drawbridge, there is a 5 percent chance of one of its boards breaking under the creature. If a board breaks, the creature must succeed on a DC 10 Dexterity saving throw or fall to the bottom of the cliffs, 1,000 feet below. If a companion is within 5 feet of the creature and reaches out to grab it, the creature has advantage on the save.
 
-The players’ approach is largely as described in [[Arc O - Dinner with the Devil#O4. Arrival at Castle Ravenloft|O4. Arrival at Castle Ravenloft]], except Rahadin and Anastrasya are not waiting in the courtyard to greet them. In addition, thirteen **swarms of bats** fill the skies around Castle Ravenloft, with a trio of **bats** reporting to Strahd each time a swarm observes the players’ location.
+The players’ approach is largely as described in [[Arc O - Dinner with the Devil#O4. Arrival at Castle Ravenloft|O4. Arrival at Castle Ravenloft]], except [[Non-Player Characters/Castle Ravenloft/Rahadin|Rahadin]] and [[Non-Player Characters/Castle Ravenloft/Anastrasya Karelova|Anastrasya]] are not waiting in the courtyard to greet them. In addition, thirteen **swarms of bats** fill the skies around [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]], with a trio of **bats** reporting to Strahd each time a swarm observes the players’ location.
 
-Whether the players arrive via Strahd’s black carriage or on foot, the main doors to the castle are guarded by four **wights**, while two **vampire spawn** cling to the inner walls of the keep. If Volenta Popofsky, Anastraya Karelova, or Ludmilla Vilisevic still live, they are also present, leading and commanding the wights and other spawn.
+Whether the players arrive via Strahd’s black carriage or on foot, the main doors to the castle are guarded by four **wights**, while two **vampire spawn** cling to the inner walls of the keep. If [[Non-Player Characters/Castle Ravenloft/Volenta Popofsky|Volenta]] Popofsky, Anastraya Karelova, or [[Non-Player Characters/Castle Ravenloft/Ludmilla Vilisevic|Ludmilla]] Vilisevic still live, they are also present, leading and commanding the wights and other spawn.
 
 The wights and vampires attack any players who enter the courtyard. In combat, the undead aim to knock all of the players unconscious, then bring their unconscious bodies to Strahd.
 ## U5b. Ascending the Keep
@@ -844,20 +844,20 @@ Upon descending the stairs fully, Strahd presents Sasha the pillow to hold, whic
 
 Strahd greets the players with a small, hollow smile, with no emotion coloring his voice. If the players do not immediately attack him, their conversation may proceed as follows:
 
-* Strahd welcomes the players back to Castle Ravenloft, and congratulates them on their “exploits" across the valley. “You’ve certainly been busy," he notes, raising an eyebrow slightly. 
+* Strahd welcomes the players back to [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]], and congratulates them on their “exploits" across the valley. “You’ve certainly been busy," he notes, raising an eyebrow slightly. 
 * If the players bear the *Sunsword*, Strahd bares his teeth in a cold, mirthless smile. “I see you’ve found half of my brother’s old sword," he says. “I had thought it destroyed long ago, but no matter. Do you mean to enchant me with nostalgia for the past, or do you truly believe that this trinket poses some threat to me?"
 
 If the players ask about Beucephalus’s corpse, inquire into Strahd’s plans, or inquire about the crown, he can share any or all of the following information, pausing occasionally to invite the players to “fill in the gaps" and amuse him with their deductions:
 
 * Once, Strahd was a conqueror—a man who razed kingdoms and forged an empire of blood and steel. So long as the Mists surround him, however, he can conquer no new lands, nor can he restore the empire he once lost. To escape the Mists, he needed three things: a pacified kingdom, a host of loyal servants, and—most importantly—an escape plan.
-* When Strahd awoke from his century-long slumber, he found that much had changed. The people of Barovia had forgotten why they feared him, and their burgomasters no longer served him faithfully. His servants and consorts had dispersed across the valley in pursuit of their own schemes and whims, and the Fane of Yester Hill had been stolen by “a mewling witch that believed herself the harbinger of a god." “These things, I knew," he said, “must be addressed."
-* He moved quickly to reclaim the Forest Fane as his own, restoring its bond to the Heart of Sorrow once more. He bade Rahadin to find staff and attendants for Castle Ravenloft, and to ensure that each of the keep’s occupants served their master’s will. And he summoned his brides and spawn to Castle Ravenloft, commanding them to spread his shadow across the valley once more. He broke the village of Barovia, brought the werewolf pack to heel, and brought his forces to bear against the settlements of Barovia.
-* Before his slumber, through the reluctant aid of the Vistani seer Madam Eva, Strahd learned of the Grand Conjunction—a time when the barriers between worlds would be thinned, and the energies of the stars aligned. “She is bound to read the fortunes of all who seek them," Strahd says amusedly. “When I awoke, I returned to her to find what Fate required of me to fulfill her ancient foretelling. It must have been Fate, however, that brought me there that day—for it was then that I first encountered a group of strange outsiders to my lands—newcomers whom the old woman had said foretold “the dusk of an era": the end of my imprisonment."
+* When Strahd awoke from his century-long slumber, he found that much had changed. The people of Barovia had forgotten why they feared him, and their burgomasters no longer served him faithfully. His servants and consorts had dispersed across the valley in pursuit of their own schemes and whims, and the Fane of [[Act III - The Broken Land/Arc J - The Stolen Gem|Yester Hill]] had been stolen by “a mewling witch that believed herself the harbinger of a god." “These things, I knew," he said, “must be addressed."
+* He moved quickly to reclaim the Forest Fane as his own, restoring its bond to the Heart of Sorrow once more. He bade [[Non-Player Characters/Castle Ravenloft/Rahadin|Rahadin]] to find staff and attendants for Castle Ravenloft, and to ensure that each of the keep’s occupants served their master’s will. And he summoned his brides and spawn to Castle Ravenloft, commanding them to spread his shadow across the valley once more. He broke the village of Barovia, brought the werewolf pack to heel, and brought his forces to bear against the settlements of Barovia.
+* Before his slumber, through the reluctant aid of the Vistani seer [[Non-Player Characters/Tser Pool Encampment/Madam Eva|Madam Eva]], Strahd learned of the Grand Conjunction—a time when the barriers between worlds would be thinned, and the energies of the stars aligned. “She is bound to read the fortunes of all who seek them," Strahd says amusedly. “When I awoke, I returned to her to find what Fate required of me to fulfill her ancient foretelling. It must have been Fate, however, that brought me there that day—for it was then that I first encountered a group of strange outsiders to my lands—newcomers whom the old woman had said foretold “the dusk of an era": the end of my imprisonment."
 * To this end, Strahd crafted an ambitious and dangerous ritual to escape the Mists, using the Heart of Sorrow as its conduit and anchor. (“A curious relic," Strahd observes, eyeing the floating Heart. “It appeared on the day of my resurrection, seemingly forged from the blood I had spilled. I do not doubt it was placed here by my would-be jailers, but it is most ironic that it should become my greatest weapon against them.") Strahd’s ritual has four necessary components: a power source, a control mechanism, a catalyst, and a sacrifice.
 * Regarding the power source: Strahd’s plan requires a substantial amount of power—far more than he can supply himself. So long as he remains bonded to the Fanes of Barovia, however, he can channel their power directly into the Heart of Sorrow for use in the ritual. Using the Fanes in the ritual will also allow Strahd to bring the valley itself—and all of its inhabitants—along with him to the Material Plane. Given that Barovia was his final conquest and the centerpiece of his power, Strahd will not relinquish it so easily.
 * Regarding the control mechanism: The raw power of the leylines beneath the Fanes is wild and near-impossible to control. Even as their master, only a token of the Ladies’ divinity can allow Strahd to direct them. Although he initially learned that a child with the blood of the Seeker resided somewhere within the valley, his spies proved unable to locate them in [[Arc E - The Missing Vistana]]—and thus, he was forced to obtain a token of divinity from the Whispering Wall instead in [[Arc J - The Stolen Gem]], sacrificing his **animated armor**—his royal armor, the symbol of his early conquests and might, which he had once enchanted with the aid of the archmage Khazan himself—exchanging a piece of his past for a promise of his future.
 * Regarding the catalyst: While power and control are all well and good, in order to break through a wall, all good conquerors need a point of attack. To this end, Strahd plans to forge a battering ram capable of piercing through the Mists—a siege weapon forged from the souls of the Barovians themselves. The Mists, as creations of the Dark Powers, are born of apathy, fear, and despair. To escape the Mists without drawing their ire, therefore, Strahd intends to surround the Heart of Sorrow with a shell of wailing, hopeless souls. He believes that, by brutally reasserting his dominion over Barovia, his subjects will lose themselves to fear and despair, darkening their souls to meet his needs. (By consuming the Barovians’ souls, Strahd can also use the energies of his escape to repurpose their soulless husks as undead soldiers, forging a new army for his conquests to come.)
-* To manipulate the Barovians’ souls, Strahd needed a master in the ways of soul magic—and found one in an innocuous sarcophagus tucked away in the Amber Temple. He extracted the vestige from its prison, containing it in the Heart’s crystalline depths, and extracted the knowledge of soul bondage from its mind. (“It resisted," Strahd remarks, “though not for long.")
+* To manipulate the Barovians’ souls, Strahd needed a master in the ways of soul magic—and found one in an innocuous sarcophagus tucked away in the [[Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight|Amber Temple]]. He extracted the vestige from its prison, containing it in the Heart’s crystalline depths, and extracted the knowledge of soul bondage from its mind. (“It resisted," Strahd remarks, “though not for long.")
 * Regarding the sacrifice: The energies of the Mists are attuned to darkness. To escape their clutches, Strahd needed to find a suitable replacement—an accursed creature, whose soul is stained with evil—and sacrifice them as his scapegoat, their soul offered to the Dark Powers as bait as Strahd makes his escape. Although Strahd had intended to use Dr. Rudolph van Richten as a sacrifice, he proved similarly unable to locate the vampire hunter, and so sacrificed Beuceaphalus, his **nightmare**, instead. (“Ah, Beucephalus," Strahd croons softly, without a touch of regret to his voice. “The ever-loyal steed. Even into death, he serves me.")
 
 Strahd can further share that he did not expect the players to discover the secret of the Fanes, let alone reclaim them from him. “Nevertheless," he says, smiling, “it is fortunate that—how does the saying go? Ah: Each cloud has its silver lining." By becoming the champions of the Fanes, Strahd shares, the players made themselves into conduits for the Fanes’ power—thereby allowing Strahd to access their energies once more. 
@@ -1015,7 +1015,7 @@ If any players remain on Tower Roof or Bridge, add:
 <p>The sound of wings draws your eye to the east, where, in the distance, a black cloud steadily grows on the horizon. It’s only as it approaches that you realize that it’s a flock of hundreds of ravens—led by a single, blue-winged raven at their head.</p>
 </div>
 
-The blue-winged raven is Muriel Vinshaw, joined by twenty **swarms of ravens**.
+The blue-winged raven is [[Non-Player Characters/Town of Vallaki/Muriel Vinshaw|Muriel]] Vinshaw, joined by twenty **swarms of ravens**.
 
 In the rounds after the castle begins to fall, the following events occur:
 
@@ -1026,10 +1026,10 @@ In the rounds after the castle begins to fall, the following events occur:
 
 If the players beckon to Muriel or otherwise catch the flock’s attention, the ravens arrive on initiative count 0 of the second round of combat, descending to carry the players—and any other characters they designate—away. (Although initially reluctant to take Sasha, Muriel is easily convinced to do so.)
 # U6. The Sun Rises
-The players and Muriel’s ravens can most safely land on the cliff that once held the western edge of Castle Ravenloft’s drawbridge, which has now fallen into the chasm between the cliff and the Pillarstone of Ravenloft. After returning to her human form, Muriel can share the following information:
+The players and Muriel’s ravens can most safely land on the cliff that once held the western edge of [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]]’s drawbridge, which has now fallen into the chasm between the cliff and the Pillarstone of Ravenloft. After returning to her human form, Muriel can share the following information:
 
 * Urwin sent her to gather raven allies in the eastern Svalich Woods, anticipating that “something bad" might happen soon.
-* After sending her first wave of ravens to Vallaki, Muriel received a report of undead massing on the western road, and immediately led the second wave westward herself, hoping to arrive before any fighting occurred.
+* After sending her first wave of ravens to [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]], Muriel received a report of undead massing on the western road, and immediately led the second wave westward herself, hoping to arrive before any fighting occurred.
 * Upon seeing the castle floating in the sky, she guided the flock toward it, concerned about what it might mean. (“I may not know much," she says, chuckling tiredly. “But I *do* know that castles aren’t supposed to fly.")
 
 If rescued, Sasha is deeply grateful to the players for doing so.

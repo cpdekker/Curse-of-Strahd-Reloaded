@@ -193,18 +193,18 @@ Once a player has chosen their core motivation, use the relevant section below t
 ![[Amber Shard.png]]
 A player seeking **knowledge** begins the campaign with the *amber shard*, a small chunk of amber resin mounted on a chain-link cord. The shard is inset with complex, three-dimensional arcane runes. When viewed under the *detect magic* spell, it exudes a strong aura of abjuration magic.
 
-Unbeknownst to the player, the *amber shard* was formerly a part of a dark vestige's amber sarcophagus in the Amber Temple in Barovia. When it senses the presence of Death House, it glows with amber light and tugs its cord in the direction of the house.
+Unbeknownst to the player, the *amber shard* was formerly a part of a dark vestige's amber sarcophagus in the [[Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight|Amber Temple]] in Barovia. When it senses the presence of Death House, it glows with amber light and tugs its cord in the direction of the house.
 
 The player who possesses the *amber shard* should have strong, vivid reasons to want to unlock its secrets and the magic that it possesses.
 
-***Developments.*** In [[Arc A - Escape From Death House]], the player recognizes Elisabeth Durst's *amber shard* as similar in appearance to their own. In [[Arc G - The Strazni Siblings]], the player recognizes Izek Strazni's *amber shard* in a similar way. In [[Arc R - Trials of the Mountain]], Elder Burebis of Soldav can recognize the *amber shard* as a shard of evil taken from the Amber Temple, and the player can recognize the *amber shards* kept by the **shoosuva** and **bodaks** as resembling their own. 
+***Developments.*** In [[Arc A - Escape From Death House]], the player recognizes Elisabeth Durst's *amber shard* as similar in appearance to their own. In [[Arc G - The Strazni Siblings]], the player recognizes [[Non-Player Characters/Town of Vallaki/Izek Strazni|Izek]] Strazni's *amber shard* in a similar way. In [[Arc R - Trials of the Mountain]], Elder Burebis of Soldav can recognize the *amber shard* as a shard of evil taken from the Amber Temple, and the player can recognize the *amber shards* kept by the **shoosuva** and **bodaks** as resembling their own. 
 
 If the player character is reduced to 0 hit points in Barovia while in possession of their *amber shard*, it behaves as described in [[Amber Shards]] offering the player an opportunity to forge a pact with a vestige of the Amber Temple that fits the player character's personality, flaws, and temptations. Upon entering the Amber Temple, the player's *amber shard* glows and tugs in the same way that it did upon sensing Death House, guiding the player toward a suitable amber sarcophagus.
 ## Redemption—The Angel's Feather
 ![[Angel's Feather.png]]
 A player seeking **redemption** begins the campaign with the *angel's feather*, a large, snow-white feather. When viewed beneath the light of the morning sun, the feather's barbs glimmer like gold.
 
-Unbeknownst to the player, the *angel's feather* formerly belonged to Ithuriel, a **deva** that serves the god Lathander, who is known to his followers as the Morninglord. Ithuriel is the true name of the Abbot, who dwells in the Abbey of Saint Markovia in Barovia. When it senses the presence of Death House, the feather is swept away by an unseen wind, its barbs glimmering with golden light, before eventually landing on the house's threshold.
+Unbeknownst to the player, the *angel's feather* formerly belonged to Ithuriel, a **deva** that serves the god Lathander, who is known to his followers as the Morninglord. Ithuriel is the true name of the Abbot, who dwells in [[Act III - The Broken Land/Arc K - The Fallen Abbey|the Abbey]] of Saint Markovia in Barovia. When it senses the presence of Death House, the feather is swept away by an unseen wind, its barbs glimmering with golden light, before eventually landing on the house's threshold.
 
 The player who possesses the *angel's feather* should have strong, vivid reasons to believe that the feather will one day lead them to redemption for the sins that they have committed.
 
@@ -217,12 +217,12 @@ Unbeknownst to the player, the *wanderer's scarf* once belonged to a Vistana who
 
 The player who possesses the *wanderer's scarf* should have received the scarf from a beloved family member, and should have strong, vivid reasons to long for a sense of family and belonging.
 
-***Developments.*** When the players first encounter Ezmerelda in [[Arc K - The Fallen Abbey]], the *wanderer's scarf* shimmers and is carried away in the same way that it did upon sensing Death House, landing at Ezmerelda's feet. Ezmerelda recognizes the scarf and, upon confirming how the player came to inherit it, greets the player as family, calling them "cousin."
+***Developments.*** When the players first encounter [[Non-Player Characters/Abbey of St. Markovia/Ezmerelda dAvenir|Ezmerelda]] in [[Arc K - The Fallen Abbey]], the *wanderer's scarf* shimmers and is carried away in the same way that it did upon sensing Death House, landing at Ezmerelda's feet. Ezmerelda recognizes the scarf and, upon confirming how the player came to inherit it, greets the player as family, calling them "cousin."
 ## Inheritance—The Dragon's Scale
 ![[Dragon's Scale.png]]
 A player seeking **inheritance** begins the campaign with the *dragon's scale*, a large silver scale that always feels cold to the touch. A Good-aligned creature that touches the scale feels a fleeting sense of safety, protection, and comfort.
 
-Unbeknownst to the player, the *dragon's scale* formerly belonged to Argynvost, the **adult silver dragon** who founded the Order of the Silver Dragon. The order's headquarters, the mansion of Argynvostholt, can be found in Barovia. When it senses the presence of Death House, the scale burns with an icy cold, one end glowing with a bright, silver light in the direction of the house. While the scale glows in this way, a Good-aligned creature that touches it feels a deep sense of longing, loss, and hope.
+Unbeknownst to the player, the *dragon's scale* formerly belonged to Argynvost, the **adult silver dragon** who founded the Order of the Silver Dragon. The order's headquarters, the mansion of [[Act III - The Broken Land/Arc M - The Dragon's Manor|Argynvostholt]], can be found in Barovia. When it senses the presence of Death House, the scale burns with an icy cold, one end glowing with a bright, silver light in the direction of the house. While the scale glows in this way, a Good-aligned creature that touches it feels a deep sense of longing, loss, and hope.
 
 The player who possesses the *dragon's scale* should have received the scale from a family member, and should have strong, vivid reasons to believe that the scale will one day unlock the secrets of their heritage.
 
@@ -237,7 +237,7 @@ Unbeknownst to the player, the visage stamped upon the *electrum coin* is the fa
 
 The player who possesses the *electrum coin* should have strong, vivid reasons to believe that the coin first came from a wondrous vault of treasure—a conqueror's hoard—and that, one day, it will lead them to claim riches beyond imagining.
 
-***Developments.*** Any Barovian immediately recognizes the visage stamped upon the coin as Strahd's. If the player shares the coin's story with one of the Vistani of Madam Eva's camp in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]], Sir Godfrey Gwilym in [[Arc M - The Dragon's Manor]], or Kasimir Velikov in [[Arc E - The Missing Vistana]], they can learn of Strahd's vast hoard of treasure, collected in his days as a conqueror and hidden away in Castle Ravenloft. 
+***Developments.*** Any Barovian immediately recognizes the visage stamped upon the coin as Strahd's. If the player shares the coin's story with one of the Vistani of [[Non-Player Characters/Tser Pool Encampment/Madam Eva|Madam Eva]]'s camp in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]], Sir Godfrey Gwilym in [[Arc M - The Dragon's Manor]], or [[Non-Player Characters/Town of Vallaki/Kasimir Velikov|Kasimir]] Velikov in [[Arc E - The Missing Vistana]], they can learn of Strahd's vast hoard of treasure, collected in his days as a conqueror and hidden away in [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]]. 
 
 When the player first approaches Strahd's treasury, the coin lands on its edge and rolls as far as it can toward the treasury's entrance, in the same way that it did upon sensing Death House.
 ## Healing—The Wolf's Tooth
@@ -257,14 +257,14 @@ Unbeknownst to the player, the feather once belonged to the **roc** of Mount Gha
 
 The player who possesses the *raven's feather* should have strong, vivid reasons to believe that the feather will always guide them to those who need aid, protection, and comfort.
 
-***Developments.*** If the player shows the *raven's feather* to Madam Eva in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]], she inspects it reverently and returns it to the player, claiming mysteriously that she once knew the bird that shed it.  If the player shows the feather to Urwin Martikov, Danika Dorakova, Muriel Vinshaw, or any other member of the Keepers of the Feather, that member grows warmer and friendlier toward that player. 
+***Developments.*** If the player shows the *raven's feather* to [[Non-Player Characters/Tser Pool Encampment/Madam Eva|Madam Eva]] in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]], she inspects it reverently and returns it to the player, claiming mysteriously that she once knew the bird that shed it.  If the player shows the feather to Urwin Martikov, Danika Dorakova, [[Non-Player Characters/Town of Vallaki/Muriel Vinshaw|Muriel]] Vinshaw, or any other member of the Keepers of the Feather, that member grows warmer and friendlier toward that player. 
 
 When the player first enters the circle of standing stones at the Mountain Fane in [[Arc T - The Three Fanes]], the feather trembles and the air around it briefly grows thick with the scent of rain and ozone as it did upon sensing Death House. If the player shows the feather to the Roc of Mount Ghakis after consecrating the Mountain Fane in the same arc, the roc places the tip of its beak against the player's forehead as a sign of gratitude and approval before departing.
 ## Power—The Crumpled Page
 ![[Crumpled Page.png]]
 A player seeking **power** begins the campaign with the *crumpled page*, an old, yellowed page that was torn from its book long ago. The page is written in strange and cryptic arcane runes; those few runes that can be decoded speak of a path that leads to immortality and untold power.
 
-Unbeknownst to the player, the page was taken from the library of Exethanter, a **lich** who dwells in the deepest sanctum of the Amber Temple in Barovia. When it senses the presence of Death House, the ink on the page glows with amber light, the runes reshaping themselves into a map that leads to the house.
+Unbeknownst to the player, the page was taken from the library of Exethanter, a **lich** who dwells in the deepest sanctum of the [[Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight|Amber Temple]] in Barovia. When it senses the presence of Death House, the ink on the page glows with amber light, the runes reshaping themselves into a map that leads to the house.
 
 The player who possesses the *crumpled page* should have strong, vivid reasons to want to find and claim the power that the page promises.
 
@@ -277,11 +277,11 @@ Unbeknownst to the player, the banner was once flown by the warlord Strahd von Z
 
 The player who possesses the *tattered banner* should have strong, vivid reasons to believe that the banner was once the sigil of a mighty conqueror—and that, by following in that conqueror's steps, they will one day achieve greatness, glory, and the right to rule.
 
-***Developments.*** When the player first experiences the haunted battlefield north of Berez in [[Arc I - The Walls of Krezk]], the banner flaps in the wind, which echoes with the sound of war-drums. 
+***Developments.*** When the player first experiences the haunted battlefield north of [[Act III - The Broken Land/Arc Q - A Shining Beacon|Berez]] in [[Arc I - The Walls of Krezk]], the banner flaps in the wind, which echoes with the sound of war-drums. 
 
-If the player shows the banner to the revenant at Tser Falls in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]], Sir Godfrey Gwilym or Sir Vladimir Horngaard in [[Arc M - The Dragon's Manor]], or Kasimir Velikov in either [[Arc E - The Missing Vistana]] or [[Arc S - A Sword of Sunlight]], its appearance is met with revulsion and bitter disgust. 
+If the player shows the banner to the revenant at Tser Falls in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]], Sir Godfrey Gwilym or Sir Vladimir [[Non-Player Characters/Argynvostholt/Commander Vladimir Horngaard|Horngaard]] in [[Arc M - The Dragon's Manor]], or [[Non-Player Characters/Town of Vallaki/Kasimir Velikov|Kasimir]] Velikov in either [[Arc E - The Missing Vistana]] or [[Arc S - A Sword of Sunlight]], its appearance is met with revulsion and bitter disgust. 
 
-If the player shows the banner to Strahd, he regards it with fond thoughtfulness, but declines to elaborate on its significance. If the player shows the banner to Dr. Rudolph van Richten in **Arc M: Strahd's Enemy** or any Vistani, they immediately recognize it as the heraldry of Castle Ravenloft.
+If the player shows the banner to Strahd, he regards it with fond thoughtfulness, but declines to elaborate on its significance. If the player shows the banner to Dr. Rudolph van Richten in **Arc M: Strahd's Enemy** or any Vistani, they immediately recognize it as the heraldry of [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]].
 ## Faith—The Sunrise Medallion
 ![[Sunrise Medallion.png]]
 A player seeking **faith** begins the campaign with the *sunrise medallion*, a bronze disc engraved with the image of a rising sun. The disc glitters like gold when exposed to the light of the sunrise, and a Good-aligned creature that touches it feels a fleeting sense of reverence, righteousness, and peace.
@@ -308,10 +308,10 @@ A player seeking **justice** begins the campaign with the *broken blade*, the sh
 
 Unbeknownst to the player, the blade once belonged to Erevan, a dusk elf prince. Erevan, a master bladesinger, practiced the style of the lion, which he also used as his personal sigil. However, Erevan refused to pay tribute to King Barov von Zarovich, a powerful warlord and the father of Strahd von Zarovich. 
 
-Rahadin, a dusk elf who had spurned Erevan's rule, helped King Barov conquer the dusk elf kingdom. Rahadin then broke Erevan's blade and personally executed Erevan and his family as punishment for his defiance. When it senses the presence of Death House, the blade emits a high-pitched hum and begins to tremble violently, spinning like a compass needle in the direction of the house.
+[[Non-Player Characters/Castle Ravenloft/Rahadin|Rahadin]], a dusk elf who had spurned Erevan's rule, helped King Barov conquer the dusk elf kingdom. Rahadin then broke Erevan's blade and personally executed Erevan and his family as punishment for his defiance. When it senses the presence of Death House, the blade emits a high-pitched hum and begins to tremble violently, spinning like a compass needle in the direction of the house.
 
 The player who possesses the *broken blade* should have strong, vivid reasons to believe that their ancestors were refugees, driven forth from their ancestral lands and persecuted, and that the blade will one day deliver justice to the traitor who destroyed them.
 
-***Developments.*** If the player shows the *broken blade* to Kasimir Velikov in [[Arc E - The Missing Vistana]], he mournfully recalls its history and asks the player how they came to possess it. If the player informs Kasimir of how they came to inherit it, Kasimir greets them as family, wondering aloud if more of the dusk elves may have escaped Strahd's slaughter outside of Barovia.
+***Developments.*** If the player shows the *broken blade* to [[Non-Player Characters/Town of Vallaki/Kasimir Velikov|Kasimir]] Velikov in [[Arc E - The Missing Vistana]], he mournfully recalls its history and asks the player how they came to possess it. If the player informs Kasimir of how they came to inherit it, Kasimir greets them as family, wondering aloud if more of the dusk elves may have escaped Strahd's slaughter outside of Barovia.
 
 If the *broken blade* is ever in close proximity to Rahadin, Strahd's chamberlain, it emits a high-pitched hum and trembles violently, spinning like a compass needle in his direction just as it did upon sensing Death House. If the player shows the *broken blade* to Rahadin, he at first claims to have no memory of it, noting dispassionately the thousands that he has slaughtered. However, in combat, Rahadin eventually comes to remember the blade's origins, dismissing it as "the shattered toy of a weak and worthless man."

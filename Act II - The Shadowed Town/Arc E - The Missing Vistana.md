@@ -1,16 +1,16 @@
 _An adventure for five 4th-level characters._
 
-In this arc, at Madam Eva’s request, the players visit Blinsky Toys, the home of Vallaki's resident toymaker, to purchase a nameday gift for Eva’s great grand-niece, Arabelle. There, the players learn new information about the traveling ringmaster Rictavio, and the Baron's brutish enforcer, Izek Strazni.
+In this arc, at [[Non-Player Characters/Tser Pool Encampment/Madam Eva|Madam Eva]]’s request, the players visit [[Non-Player Characters/Town of Vallaki/Gadof Blinsky|Blinsky]] Toys, the home of [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]]'s resident toymaker, to purchase a nameday gift for Eva’s great grand-niece, Arabelle. There, the players learn new information about the traveling ringmaster [[Non-Player Characters/Town of Vallaki/Dr. Rudolph van Richten|Rictavio]], and the Baron's brutish enforcer, [[Non-Player Characters/Town of Vallaki/Izek Strazni|Izek]] Strazni.
 
 After obtaining a toy for Arabelle, the players visit the Vistani encampment located a short distance away from Vallaki's walls. There, the players can meet the camp’s leaders: Luvash and Arrigal, Arabelle’s father and uncle, respectively. 
 
-When the players learn that Arabelle has recently disappeared, Luvash asks them to retrieve a clue from the scene of her disappearance—a strange platinum signet ring—from Kasimir Velikov, one of the dusk elves whose hovels circle the encampment. Luvash believes that the ring may hold the key to finding his daughter, and promises the players a wealth of treasure if they research its secrets in the Baron’s personal library in Vallaki and uncover Arabelle’s location.
+When the players learn that Arabelle has recently disappeared, Luvash asks them to retrieve a clue from the scene of her disappearance—a strange platinum signet ring—from [[Non-Player Characters/Town of Vallaki/Kasimir Velikov|Kasimir]] Velikov, one of the dusk elves whose hovels circle the encampment. Luvash believes that the ring may hold the key to finding his daughter, and promises the players a wealth of treasure if they research its secrets in the Baron’s personal library in Vallaki and uncover Arabelle’s location.
 
-Upon obtaining the ring from Kasimir and returning to Vallaki, the players must gain access to Baron Vargas Vallakovich’s personal library—either by cunning, diplomacy, or subterfuge. Once inside, they are soon met by the Baron’s son, Victor Vallakovich, whose spellbook bears the same sigil as the signet ring. 
+Upon obtaining the ring from Kasimir and returning to Vallaki, the players must gain access to Baron Vargas Vallakovich’s personal library—either by cunning, diplomacy, or subterfuge. Once inside, they are soon met by the Baron’s son, [[Non-Player Characters/Town of Vallaki/Victor Vallakovich|Victor]] Vallakovich, whose spellbook bears the same sigil as the signet ring. 
 
 In exchange for the players’ promise to bring back any relics found therein—including, if possible, a proper wizard’s staff—Victor tells them that the sigil was the personal symbol of the archmage Khazan, whose abandoned tower sits on the shores of Lake Baratok. Though Victor doesn’t know how to get there, he can direct the players to Szoldar Szoldarovich, a Vallakian wolf-hunter who knows the Svalich Woods well.
 
-The players can hire Szoldar as a guide, or simply buy him a drink to get directions to Lake Baratok. Upon arriving at the lake, the players can find the trapped wagon of the Vistana monster hunter Ezmerelda d’Avenir, as well as the ancient mage’s tower of Khazan himself. After bypassing the tower’s magically locked door, the players can find clues revealing Arabelle’s fate—and suggesting that the ringmaster Rictavio is not all he appears. 
+The players can hire Szoldar as a guide, or simply buy him a drink to get directions to Lake Baratok. Upon arriving at the lake, the players can find the trapped wagon of the Vistana monster hunter [[Non-Player Characters/Abbey of St. Markovia/Ezmerelda dAvenir|Ezmerelda]] d’Avenir, as well as the ancient mage’s tower of Khazan himself. After bypassing the tower’s magically locked door, the players can find clues revealing Arabelle’s fate—and suggesting that the ringmaster Rictavio is not all he appears. 
 
 If the players return to Vallaki, confront Rictavio, and persuade him that they’re friends, rather than foes, he reluctantly reveals his identity and leads them to Arabelle’s hiding place: the carnival wagon stored in the Arasek Stockyard. Unbeknownst to the players, however, Arabelle’s uncle, Arrigal, has followed them into Vallaki—and when Arrigal reveals himself and demands her return, the players must decide which man to trust. And even once the tension has settled, Arabelle delivers a dark and cryptic prophecy . . .
 
@@ -80,9 +80,9 @@ After receiving Madam Eva’s request in [[Act I - Into the Mists/Arc C - Into t
 >
 > ***Relationships.*** Blinsky owns Piccolo, a pet monkey that was given to him by "Alanik Ray", a traveling scholar (and one of Rudolph van Richten's disguises) shortly after Doru's rebellion. Blinsky also makes dolls resembling Ireena Kolyana for Izek Strazni, and receives a humble stipend to craft decorations for Baron Vallakovich’s weekly festivals. In addition, Blinsky is the creator of Ezmerelda d'Avenir's prosthetic leg.
 
-Blinsky Toys is a cramped shop with a dark entrance portico, above which hangs a wooden sign shaped like a rocking horse with a "B" engraved on both sides. Flanking the entrance are two arched, lead-framed windows; through the dirty glass, the players can see jumbled displays of toys and hanging placards bearing the slogan "Is No Fun, Is No Blinsky!" As the characters explore the shop, Blinsky cheerfully tells them about his inspiration for making toys: the legendary toymaker Fritz von Weerg, and his greatest invention that was lost to the ages: a clockwork man said to lie somewhere in Castle Ravenloft.
+Blinsky Toys is a cramped shop with a dark entrance portico, above which hangs a wooden sign shaped like a rocking horse with a "B" engraved on both sides. Flanking the entrance are two arched, lead-framed windows; through the dirty glass, the players can see jumbled displays of toys and hanging placards bearing the slogan "Is No Fun, Is No Blinsky!" As the characters explore the shop, Blinsky cheerfully tells them about his inspiration for making toys: the legendary toymaker Fritz von Weerg, and his greatest invention that was lost to the ages: a clockwork man said to lie somewhere in [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]].
 
-If the players ask Blinsky about the doll resembling Ireena Kolyana, he anxiously insists that it is not for sale and asks them to choose another toy. (Blinsky makes special dolls for the burgomaster's henchman, Izek Strazni, who doesn't pay for the dolls but threatens to kill Blinsky if he doesn't make them. The doll resembles Ireena Kolyana, though neither Blinsky nor Izek knows who the doll looks like.) If the players demand an explanation for its eerie resemblance, they can coax a fearful Blinsky to share what he knows with a successful DC 10 Charisma (Persuasion or Intimidation) check or by taking the doll for themselves. Blinsky is clearly terrified of Izek’s wrath, and will do anything to ensure that the doll is delivered on time.
+If the players ask Blinsky about the doll resembling [[Non-Player Characters/Village of Barovia/Ireena Kolyana|Ireena Kolyana]], he anxiously insists that it is not for sale and asks them to choose another toy. (Blinsky makes special dolls for the burgomaster's henchman, Izek Strazni, who doesn't pay for the dolls but threatens to kill Blinsky if he doesn't make them. The doll resembles Ireena Kolyana, though neither Blinsky nor Izek knows who the doll looks like.) If the players demand an explanation for its eerie resemblance, they can coax a fearful Blinsky to share what he knows with a successful DC 10 Charisma (Persuasion or Intimidation) check or by taking the doll for themselves. Blinsky is clearly terrified of Izek’s wrath, and will do anything to ensure that the doll is delivered on time.
 
 If the players ask Blinsky about Piccolo, he can inform them that he received the monkey just over three months ago, from a traveling scholar named Alanik Ray.
 
@@ -114,7 +114,7 @@ When the players first enter the tent, read:
 
 The shirtless man is Alexei. The larger man is Luvash. The man with the goatee is Arrigal.
 
-If the players do not respond first, Luvash hails them warily and—leaning back on his crutch to conceal any weakness—asks them their business. If the players share that they have come to deliver Madam Eva’s gift, Luvash tells them that Arabelle—his daughter—has recently gone missing.
+If the players do not respond first, Luvash hails them warily and—leaning back on his crutch to conceal any weakness—asks them their business. If the players share that they have come to deliver [[Non-Player Characters/Tser Pool Encampment/Madam Eva|Madam Eva]]’s gift, Luvash tells them that Arabelle—his daughter—has recently gone missing.
 
 > [!profile]+ **Profile: Luvash**
 >
@@ -154,12 +154,12 @@ If the players do not respond first, Luvash hails them warily and—leaning back
 
 Luvash can share the following information with the players:
 
-* One day before the players’ arrival in Vallaki, Luvash’s nephew, Alexei, was tasked with watching Arabelle play in the nearby woods while Luvash mediated a dispute between two Vistani families.
+* One day before the players’ arrival in [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]], Luvash’s nephew, Alexei, was tasked with watching Arabelle play in the nearby woods while Luvash mediated a dispute between two Vistani families.
 * Instead of watching Arabelle, Alexei got drunk on wine. When he woke up, Arabelle was gone.
 * Alexei claims that Yan, a long-time member of the encampment, gave him the wine and had vanished when Alexei awoke.
 * Luvash led the search for Arabelle, joining more than a dozen Vistani and nearly that many dusk elf scouts from the hovels below the hill. Luvash himself had to return to the encampment after his right leg was caught in a wolf trap, leaving him too wounded to walk.
 * The search parties haven’t yet found Arabelle. However, a dusk elf named Savid found Yan’s decapitated body lying in bloody grass near the Luna River, surrounded by signs of a fight.
-* Savid also found a strange signet ring lying in the grass, which seemed to have been dropped in the struggle. Luvash gave it to Kasimir, the dusk elves’ leader and foremost scholar, to identify, but hasn’t received any useful news or information.
+* Savid also found a strange signet ring lying in the grass, which seemed to have been dropped in the struggle. Luvash gave it to [[Non-Player Characters/Town of Vallaki/Kasimir Velikov|Kasimir]], the dusk elves’ leader and foremost scholar, to identify, but hasn’t received any useful news or information.
 
 Luvash believes that the sigil on the signet ring may lead him to Arabelle’s location. Though Kasimir has been unable to make sense of it, Baron Vargas Vallakovich of Vallaki is rumored to own an impressive library of books, which could hold the key to identifying the ring. However, the Vistani and dusk elves are forbidden from entering the town.
 
@@ -176,20 +176,20 @@ If the players accept Luvash’s mission, he directs them to **E2b. Dusk Elf Hov
 > 
 > Because the river has washed any traces away, the third individual's trail can't be followed any further. (Searching the entire length of the Luna River for the third individual's precise exit point is a fool's errand, and an impossible task.)
 ## E2b. Dusk Elf Hovels
-Six simple houses ring the base of the hill, three protruding from the north side and three from the south side. A grim, gray-cloaked dusk elf guard stands in front of each hovel, and each hovel is configured similarly to Kasimir's hovel (see [[#E2c. Kasimir's Hovel]]). All are currently unoccupied; except for the guards left behind to watch the homes, the dusk elves are out searching for Arabelle. The dusk elf race is all but forgotten, and the few survivors live in secret places such as this. They have dark skin and hair, but otherwise are similar to wood elves. The dusk elves reside in small homes built into the hillside and are mostly self-sufficient. If the players approach one of the guards and inquire about the Vistani, the guard directs them to the ring of wagons at the top of the hill.
+Six simple houses ring the base of the hill, three protruding from the north side and three from the south side. A grim, gray-cloaked dusk elf guard stands in front of each hovel, and each hovel is configured similarly to [[Non-Player Characters/Town of Vallaki/Kasimir Velikov|Kasimir]]'s hovel (see [[#E2c. Kasimir's Hovel]]). All are currently unoccupied; except for the guards left behind to watch the homes, the dusk elves are out searching for Arabelle. The dusk elf race is all but forgotten, and the few survivors live in secret places such as this. They have dark skin and hair, but otherwise are similar to wood elves. The dusk elves reside in small homes built into the hillside and are mostly self-sufficient. If the players approach one of the guards and inquire about the Vistani, the guard directs them to the ring of wagons at the top of the hill.
 
 If the players inquire about Luvash’s mission, the guard directs them to Kasimir's hovel. The guard notes, however, that Kasimir has recently returned from a long and arduous journey and that the players must not disturb him beyond what is reasonably necessary.
 ## E2c. Kasimir’s Hovel
 <span class="citation"><em>This scene takes place in Chapter 5: Area N9a.</em></span>
 
-Three sullen, gray-cloaked dusk elf guards stand quietly in front of Kasimir’s hovel, bathed in the warm light of its lanterns. If the characters seem friendly, the guards direct them inside to Kasimir. If the players enter the hovel, read:
+Three sullen, gray-cloaked dusk elf guards stand quietly in front of [[Non-Player Characters/Town of Vallaki/Kasimir Velikov|Kasimir]]’s hovel, bathed in the warm light of its lanterns. If the characters seem friendly, the guards direct them inside to Kasimir. If the players enter the hovel, read:
 
 <div class="description">
 <p>You enter into a small, cozy vestibule several degrees warmer than the chill mists outside. The walls of this small chamber are decorated with hanging sketches and portraits of proud and wise-looking elves with dark skin, tree-borne spires carved of dark wood, and artistic depictions of constellations and celestial bodies. Two curtains of dark brown fabric obscure the entrance to another chamber beyond.</p>
 <p>Beyond the curtains lie a larger chamber, lit and heated by a fireplace at the north end. An old green rug sits facing the fire, just beside an old wooden table flanked by several chairs. The left-side wall of this comfortable room bears a dozen cubbyholes bearing leather-bound books and small wooden statuettes of elven figures, while the wall to the right bears a faded tapestry of a lush and beautiful forest beneath a noonday sun.</p>
 </div>
 
-The players can find Kasimir sitting on the green rug facing the fire, meditating. Kasimir is a mutilated and grief-stricken dusk elf who has been trapped in Barovia for centuries. His people were on the verge of being annihilated by Strahd's armies when they surrendered, and the few survivors were borne by the Vistani to the valley of Barovia. Kasimir's allegiance to the Vistani is so strong that he adopted the name of the Vistana who welcomed him into his clan. His sister, Patrina Velikovna, is sealed in the catacombs below Castle Ravenloft; Kasimir and his fellow dusk elves stoned her to death after she became the concubine of Strahd, and as punishment, Strahd butchered all the women in the dusk elf tribe and had Kasimir's ears cut off. He has also recently sustained a black eye and several cuts across his cheek.
+The players can find Kasimir sitting on the green rug facing the fire, meditating. Kasimir is a mutilated and grief-stricken dusk elf who has been trapped in Barovia for centuries. His people were on the verge of being annihilated by Strahd's armies when they surrendered, and the few survivors were borne by the Vistani to the valley of Barovia. Kasimir's allegiance to the Vistani is so strong that he adopted the name of the Vistana who welcomed him into his clan. His sister, Patrina Velikovna, is sealed in the catacombs below [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]]; Kasimir and his fellow dusk elves stoned her to death after she became the concubine of Strahd, and as punishment, Strahd butchered all the women in the dusk elf tribe and had Kasimir's ears cut off. He has also recently sustained a black eye and several cuts across his cheek.
 
 ![[Kasimir Velikov 1.png]]
 <span class="credit">"Kasimir Velikov" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -246,17 +246,17 @@ If the players ask Kasimir about the history of the dusk elves, Kasimir shares t
 # E3. Burgomaster’s Mansion
 <span class="citation"><em>This scene takes place in Chapter 5: Area N3.</em></span>
 
-The burgomaster's mansion has walls of plastered stone that display many scars where the plaster has fallen away from age and neglect. Drapes cover every window, including a large, arched opening above the mansion's double entrance doors. People come and go from the mansion at all hours during the day—guards bring criminals cited for "malicious unhappiness," and men and women arrive carrying bundles of twigs, which are piled about the mansion's grand foyer. However, the magic mirror has been moved to Victor's workroom in the attic of the burgomaster's mansion. See [[#E3c. Speaking with Victor]] below, or [[Arc H - The Lost Soul]] for more information about the mirror.
+The burgomaster's mansion has walls of plastered stone that display many scars where the plaster has fallen away from age and neglect. Drapes cover every window, including a large, arched opening above the mansion's double entrance doors. People come and go from the mansion at all hours during the day—guards bring criminals cited for "malicious unhappiness," and men and women arrive carrying bundles of twigs, which are piled about the mansion's grand foyer. However, the magic mirror has been moved to [[Non-Player Characters/Town of Vallaki/Victor Vallakovich|Victor]]'s workroom in the attic of the burgomaster's mansion. See [[#E3c. Speaking with Victor]] below, or [[Arc H - The Lost Soul]] for more information about the mirror.
 
 If the players visit the burgomaster’s mansion openly, they are greeted by Clavdia, the Baron’s maid, and led to the den—a cozy, carpeted room with padded chairs and couches lining the walls, reeking of pipe smoke, with the head of an angry-looking brown bear mounted on the east wall. The Baron arrives to speak with them a few minutes later, joined by his twin **mastiffs** named Fang and Claw.
 ## E3a. Entering the Mansion
-If Ireena Kolyana has already visited the mansion alone and obtained an audience with the Baron regarding the Barovian refugees, [[Non-Player Characters#Baron Vargas Vallakovich|the Baron]] is glad to grant her and her companions access to his library. Otherwise, the players can attempt to persuade the Baron to grant them entry, or try to gain access by subterfuge if all else fails. 
+If [[Non-Player Characters/Village of Barovia/Ireena Kolyana|Ireena Kolyana]] has already visited the mansion alone and obtained an audience with the Baron regarding the Barovian refugees, [[Non-Player Characters#Baron Vargas Vallakovich|the Baron]] is glad to grant her and her companions access to his library. Otherwise, the players can attempt to persuade the Baron to grant them entry, or try to gain access by subterfuge if all else fails. 
 
 If the players visit the library, proceed to [[#E3b. Searching the Library]] below.
 ### 1. Persuading the Baron
 Upon first greeting the players, the Baron inquires as to their excitement for the upcoming Festival of the Blazing Sun. After pointing out the bundles of twigs piled about the mansion's grand foyer, he boasts of his plan to make burned offerings to the Morninglord in a giant wicker sun—cured meats, incense, jewelry, and so on. "The heavens will see our joy and wealth and look favorably upon us," he crows. "Through our good spirits, we shall move ever-closer to our freedom from this fell darkness."
 
-If the players then ask [[Non-Player Characters#Baron Vargas Vallakovich|Baron Vallakovich]] for access to the library without Ireena’s aid, he demands to know their background, their purpose in Vallaki, and their intentions for using his library. 
+If the players then ask [[Non-Player Characters#Baron Vargas Vallakovich|Baron Vallakovich]] for access to the library without [[Non-Player Characters/Village of Barovia/Ireena Kolyana|Ireena]]’s aid, he demands to know their background, their purpose in [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]], and their intentions for using his library. 
 
 While he is not generally inclined to grant their request, if the players indicate that they are adventurers, mages, clerics, scholars, or otherwise up to the task, Vargas is willing to allow them entry into the library if they agree to resolve a problem his household has been facing. He can share with them the following information:
 
@@ -278,18 +278,18 @@ The kitchen is a warm, well-appointed room with a staircase in one corner that c
 * Tereska experienced one particularly bad haunting while retrieving an old pot from the attic last week—an eerie presence, coupled with a cold draft and the unmistakable sound of breathing—which nearly pushed her to quit her job.
 * The Baroness’s lady-in-waiting, a quiet woman named Valentina, reported seeing the spirit in the Baroness’s mirror on multiple occasions. The Baroness hid the mirror away in the attic shortly thereafter.
 * Valentina described the spirit’s appearance as the distorted silhouette of a young woman. All of the servants agree that its hauntings universally carry a sense of sorrow, loneliness, and longing.
-* Few members of the household enter the attic anymore, though the Baron’s son, Victor Vallakovich, has been known to disappear into it for hours or even days at a time. When he does, Tereska usually leaves his meals on a table by the entrance to the attic and knocks on the trapdoor to alert him. 
-* If the players ask about Victor, Tereska notes that he eats too little and seems strangely isolated and terse for a young man his age, especially since the strange illness that struck “that Wachter girl” just over two months ago. (Tereska doesn’t remember her name, but knows that the girl was Lady Fiona Wachter’s daughter, and that she and Victor got along well.) Tereska declines to elaborate, insisting that the Baron’s family matters are none of her business.
+* Few members of the household enter the attic anymore, though the Baron’s son, [[Non-Player Characters/Town of Vallaki/Victor Vallakovich|Victor]] Vallakovich, has been known to disappear into it for hours or even days at a time. When he does, Tereska usually leaves his meals on a table by the entrance to the attic and knocks on the trapdoor to alert him. 
+* If the players ask about Victor, Tereska notes that he eats too little and seems strangely isolated and terse for a young man his age, especially since the strange illness that struck “that Wachter girl” just over two months ago. (Tereska doesn’t remember her name, but knows that the girl was Lady [[Non-Player Characters/Town of Vallaki/Lady Fiona Wachter|Fiona Wachter]]’s daughter, and that she and Victor got along well.) Tereska declines to elaborate, insisting that the Baron’s family matters are none of her business.
 
 If the players express an interest in investigating the attic, Tereska provides them with directions to the entrance in the master bedroom, where a short pull-rope hangs from a wooden trapdoor in the ceiling that opens to reveal the attic room, with an unfolding wooden ladder allowing easy access. She also prepares a small plate of bread and cheese, which she asks them to bring to Victor. Proceed to [[#E3c. Speaking with Victor]] below.
 ### 2. Infiltrating the Mansion
-The players may choose to infiltrate the mansion rather than obtain Baron Vallakovich’s permission. If they are found, however, one or more NPCs can raise the alarm by shouting for aid. If the alarm is raised, twelve **guards** arrive at the mansion two minutes later, followed by Izek Strazni one minute afterward. 
+The players may choose to infiltrate the mansion rather than obtain Baron Vallakovich’s permission. If they are found, however, one or more NPCs can raise the alarm by shouting for aid. If the alarm is raised, twelve **guards** arrive at the mansion two minutes later, followed by [[Non-Player Characters/Town of Vallaki/Izek Strazni|Izek]] Strazni one minute afterward. 
 
 The NPCs in the mansion behave as follows:
 
 * [[Non-Player Characters#Baron Vargas Vallakovich|Baron Vallakovich]] can generally be found in the library—a windowless room with floor-to-ceiling shelves, a brass oil lamp atop a large desk, and a comfortably padded chair with a roaring bear stitched into its back cushion—during the day, and in the master bedroom at night. He is accompanied by his two **mastiffs**, Fang and Claw, at all times. If he finds the players trespassing, he sets Fang and Claw to attack them, but raises the alarm if the dogs are defeated.
 * Baroness Lydia Petrovna can generally be found in the dining room during the day and in the master bedroom at night. If she finds the players trespassing during the day, she assumes that they are guests of her husband, Vargas, and greets them accordingly; otherwise, she screams, then faints. 
-* Victor Vallakovich can generally be found in his workroom in the attic both day and night. If he finds the players trespassing, he greets them warily and demands to know their names and business. (He won’t raise the alarm if his curiosity is satisfied.)
+* [[Non-Player Characters/Town of Vallaki/Victor Vallakovich|Victor]] Vallakovich can generally be found in his workroom in the attic both day and night. If he finds the players trespassing, he greets them warily and demands to know their names and business. (He won’t raise the alarm if his curiosity is satisfied.)
 * Tereska, the cook, can generally be found in the kitchen during the day, and in the servants' quarters—which contains four simple beds and an equal number of plain wooden trunks—at night. If she finds the players trespassing, she gives them an opportunity to leave, but raises the alarm if they refuse.
 * Clavdia, the maid, can generally be found on the second floor during the morning, on the first floor during the afternoon, and in the servants’ quarters at night. If she finds the players trespassing, she immediately raises the alarm.
 
@@ -302,9 +302,9 @@ The NPCs in the mansion behave as follows:
 
 If the players gain access to the baron's library, they can attempt to search the shelves for information regarding the platinum signet ring. With a full hour spent searching, the players can confirm that no books contain any information about the ring. 
 
-In the course of the players’ search, one of the players identifies a familiar name in a genealogical tome archiving births and deaths to Vallakian families: Ireena Strazni, the younger sister of Izek Strazni and the daughter of Grygori and Fatima Strazni. According to the records, however, Ireena Strazni died more than eighteen years ago at the age of four, with Grygori and Fatima dying shortly thereafter. Grygori and Fatima’s deaths are marked as *Suicide by hanging*, while Ireena’s cause of death is marked as *Unknown (presumed devoured by wolves).*
+In the course of the players’ search, one of the players identifies a familiar name in a genealogical tome archiving births and deaths to Vallakian families: [[Non-Player Characters/Village of Barovia/Ireena Kolyana|Ireena]] Strazni, the younger sister of [[Non-Player Characters/Town of Vallaki/Izek Strazni|Izek]] Strazni and the daughter of Grygori and Fatima Strazni. According to the records, however, Ireena Strazni died more than eighteen years ago at the age of four, with Grygori and Fatima dying shortly thereafter. Grygori and Fatima’s deaths are marked as *Suicide by hanging*, while Ireena’s cause of death is marked as *Unknown (presumed devoured by wolves).*
 
-Shortly after the players discover these records, however, they are interrupted by the arrival of Victor Vallakovich, who has come to the library in search of a particular book: *Ethereal Entities: Denizens of the Unseen Realm,* written by the archmage Mordenkainen. 
+Shortly after the players discover these records, however, they are interrupted by the arrival of [[Non-Player Characters/Town of Vallaki/Victor Vallakovich|Victor]] Vallakovich, who has come to the library in search of a particular book: *Ethereal Entities: Denizens of the Unseen Realm,* written by the archmage Mordenkainen. 
 ![[Victor Vallakovich.png]]
 <span class="credit">"Victor Vallakovich" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
@@ -372,7 +372,7 @@ If Victor agrees to aid the players by sharing information about his spellbook, 
 ## E3c. Speaking with Victor
 <span class="citation"><em>This scene takes place in Chapter 5: Area N3t.</em></span>
 
-Someone has carved a large skull into the door to Victor’s workroom. Hanging from the doorknob is a wooden sign that reads "ALL IS NOT WELL!" Anyone who inspects the carving and succeeds on a DC 14 Intelligence (Investigation) check notices a small, nearly invisible *glyph of warding* etched into the skull’s forehead. Rather than dealing lightning damage, the glyph casts _fear_ in a 30-foot cone away from the door when activated.
+Someone has carved a large skull into the door to [[Non-Player Characters/Town of Vallaki/Victor Vallakovich|Victor]]’s workroom. Hanging from the doorknob is a wooden sign that reads "ALL IS NOT WELL!" Anyone who inspects the carving and succeeds on a DC 14 Intelligence (Investigation) check notices a small, nearly invisible *glyph of warding* etched into the skull’s forehead. Rather than dealing lightning damage, the glyph casts _fear_ in a 30-foot cone away from the door when activated.
 
 Beyond the door, old, mismatched furniture has been arranged into a makeshift study in this dusty, lamplit chamber. Tables are strewn with pieces of parchment bearing strange diagrams, and a freestanding bookshelf holds a collection of tomes and trinkets. A dusty rug covers the floor in front of a pine box, on which lounges a skeletal cat. Additionally, Victor’s spellbook contains the *sending* and *fear* spells.
 
@@ -405,7 +405,7 @@ If the players agree to investigate Khazan’s tower and give Victor any artifac
 > If asked about the different factions and locations throughout Barovia, Victor can provide the following information:
 > * ***The Amber Temple.*** Victor flips through his spellbook, then shares that, according to its pages, Khazan once sought out the secrets of power at a temple "forged of amber." "According to his notes, it was previously guarded by an order of knights in the service of a dragon," he adds curiously. "But when Strahd conquered the valley, he slaughtered them all."
 
-Victor isn’t sure how to get to Lake Baratok from Vallaki. However, he does know someone who will: Szoldar Szoldarovich, one of the town’s most skilled hunters. (Last year, in an effort to encourage Victor to develop more masculine hobbies and traits, Vargas forced him to accompany Szoldar on a hunting trip in the woods by Vallaki’s walls. Victor detested the experience, but came away with a healthy respect for Szoldar’s knowledge of Barovia’s wilderness.)
+Victor isn’t sure how to get to Lake Baratok from [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]]. However, he does know someone who will: Szoldar Szoldarovich, one of the town’s most skilled hunters. (Last year, in an effort to encourage Victor to develop more masculine hobbies and traits, Vargas forced him to accompany Szoldar on a hunting trip in the woods by Vallaki’s walls. Victor detested the experience, but came away with a healthy respect for Szoldar’s knowledge of Barovia’s wilderness.)
 
 If the players are interested in speaking with Szoldar, Victor directs them to a ramshackle hut at the mouth of the Luna River to the west, which Szoldar and his partner, Yevgeni Krushkin, have turned into a dressing shack for skinning, gutting, and butchering their kills. To get there, the players should travel north, past Vallaki’s Zarovich Gate, and then travel west along the shores of Lake Zarovich.
 
@@ -469,7 +469,7 @@ As the players exit Szoldar’s shack, any characters with a passive Wisdom (Per
 
 The silhouette is Arrigal, who has decided to spy on the players on Strahd’s behalf and to ensure that Arabelle is safely returned should the players find her. Though he remains out of sight for the remainder of the journey, Arrigal continues to track the players from afar.
 ## E5a. Luna River Bridge
-The journey from Vallaki to the Luna River Crossroads is one mile long and takes twenty minutes. As the players cross the bridge over the Luna River, read the following:
+The journey from [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]] to the Luna River Crossroads is one mile long and takes twenty minutes. As the players cross the bridge over the Luna River, read the following:
 
 <div class="description">
 <p>The path narrows, flanked by dense, towering trees. Up ahead, you can see an old wooden bridge come into view, its age-worn planks spanning the rushing river below. As you approach, you can see the dark river tumbling over the smooth stones of the riverbed, bordered on either side by gnarled bushes and trees.</p>
@@ -477,7 +477,7 @@ The journey from Vallaki to the Luna River Crossroads is one mile long and takes
 <p>Halfway across the bridge, you notice something odd: a small scrap of white material fluttering on the surface of the far side of the river, caught on a tree root a dozen yards downstream.</p>
 </div>
 
-If the players retrieve the scrap of material, they find it to be a small, soaked white handkerchief, monogrammed with the embroidered red initials “R.V.R.” (Arabelle left this clue while travelling to Vallaki with Van Richten.)
+If the players retrieve the scrap of material, they find it to be a small, soaked white handkerchief, monogrammed with the embroidered red initials “R.V.R.” (Arabelle left this clue while travelling to Vallaki with [[Non-Player Characters/Town of Vallaki/Dr. Rudolph van Richten|Van Richten]].)
 ## E5b. Luna River Crossroads
 <span class="citation"><em>This scene takes place in Chapter 2: Area P.</em></span>
 
@@ -490,7 +490,7 @@ If this is the first time that the players have visited the Luna River Crossroad
 <p>The lower half of a snapped wooden signpost thrusts upward at an angle near the eastern elbow of the intersection. The top half of the sign, featuring arms pointing in four directions, lies in the weeds nearby.</p>
 </div>
 
-The players can easily figure out how the top half of the signpost connects to the lower half. When the two parts are aligned and rejoined, the arms indicate Krezk and Tsolenka Pass to the southwest, Lake Baratok to the northwest, Vallaki and Ravenloft to the northeast, and Berez to the southeast.
+The players can easily figure out how the top half of the signpost connects to the lower half. When the two parts are aligned and rejoined, the arms indicate [[Act II - The Shadowed Town/Arc I - The Walls of Krezk|Krezk]] and Tsolenka Pass to the southwest, Lake Baratok to the northwest, [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]] and Ravenloft to the northeast, and [[Act III - The Broken Land/Arc Q - A Shining Beacon|Berez]] to the southeast.
 
 If Szoldar is accompanying the players, he warns them that the saplings and scarecrows are new additions to the crossroads, and that recent rumors have reported sightings of scarecrows moving of their own volition through the woods.
 
@@ -519,7 +519,7 @@ Khazan warded his tower so that he alone could cast spells near or within it. Th
 <span class="citation"><em>This scene takes place in Chapter 11: Area V1.</em></span>
 
 ### Outside the Wagon
-Under layers of mud, Ezmerelda’s wagon sports a fresh coat of purple paint, and its wheels have fancy gold trim. A brass lantern hangs from each corner, and red drapes cover a tombstone-shaped window on each side. The wagon radiates an aura of conjuration magic if scrutinized with a *detect magic* spell; a character who casts *identify* on the wagon learns the command words needed to operate it ("Drovash" to summon a pair of quasi-real draft horses, and "Arvesh" to dismiss them). The wagon also has a hidden trapdoor in its underbelly that can be detected with a successful DC 13 Wisdom (Perception) check; the trapdoor opens into the wagon and is the only safe way inside. The back door is locked with a padlock, and can be opened with a successful DC 20 Dexterity (Thieves’ Tools) check or a successful DC 20 Strength check.
+Under layers of mud, [[Non-Player Characters/Abbey of St. Markovia/Ezmerelda dAvenir|Ezmerelda]]’s wagon sports a fresh coat of purple paint, and its wheels have fancy gold trim. A brass lantern hangs from each corner, and red drapes cover a tombstone-shaped window on each side. The wagon radiates an aura of conjuration magic if scrutinized with a *detect magic* spell; a character who casts *identify* on the wagon learns the command words needed to operate it ("Drovash" to summon a pair of quasi-real draft horses, and "Arvesh" to dismiss them). The wagon also has a hidden trapdoor in its underbelly that can be detected with a successful DC 13 Wisdom (Perception) check; the trapdoor opens into the wagon and is the only safe way inside. The back door is locked with a padlock, and can be opened with a successful DC 20 Dexterity (Thieves’ Tools) check or a successful DC 20 Strength check.
 
 In addition, rather than a single wooden sign, a trio of wooden signs has been arranged in a haphazard diagonal across the back door. The signs read, in order: “Keep out!”, “Home & Property of Ezmerelda d’Avenir,” and “Trespassers will be immediately incinerated.” Beneath the warning on the third sign, someone has drawn a small frowning face with crossed-out eyes, surrounded by a stylized flame.
 
@@ -533,18 +533,18 @@ A player who approaches the wagon detects a faint scent of sulfur, and notices t
 >
 > If so, have all involved players roll initiative. (The first player is, of course, free to change their mind and cease their original action at any time.)
 
-**Inspecting the Wagon.** A player that inspects Ezmerelda’s wagon also learns that it was not the only one that has parked here recently. A second set of wagon tracks lies nearby, leading from the eastern woods to a spot nearby Ezmerelda’s wagon, then south along the path away from the lake. A player who follows the tracks south finds that they reach the Old Svalich Road then turn east, toward Vallaki. A player who makes a successful DC 14 Wisdom (Survival) check can ascertain that the second set of tracks was made the same day the players first arrived in Vallaki.
+**Inspecting the Wagon.** A player that inspects Ezmerelda’s wagon also learns that it was not the only one that has parked here recently. A second set of wagon tracks lies nearby, leading from the eastern woods to a spot nearby Ezmerelda’s wagon, then south along the path away from the lake. A player who follows the tracks south finds that they reach the Old Svalich Road then turn east, toward [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]]. A player who makes a successful DC 14 Wisdom (Survival) check can ascertain that the second set of tracks was made the same day the players first arrived in Vallaki.
 
 A player who makes a successful DC 10 Wisdom (Survival) check can follow the second set of tracks into the woods, where they end in a dark, sheltered hollow. Much of the forest floor around the hollow is stained with bright yellow and white paint. A successful DC 14 Intelligence (Investigation) check reveals that the paint was left fairly recently—approximately one day before the players first arrived in Vallaki. 
 
-If the player has previously seen Rictavio’s wagon in Arasek Stockyard, they recognize the paint as the same shade as yellow as the sign on the wagon.
+If the player has previously seen [[Non-Player Characters/Town of Vallaki/Dr. Rudolph van Richten|Rictavio]]’s wagon in Arasek Stockyard, they recognize the paint as the same shade as yellow as the sign on the wagon.
 ### Inside the Wagon
 **Double-Barreled Traps.** The vials of alchemists fire have been removed from the wagon's interior. Instead, if a player opens the door after breaking or picking the lock, two heavy crossbow traps mounted at the far side of the cabin fire, targeting the player immediately in front of the door:
 
 * ***Silver Barbed Net***: *Ranged Weapon Attack:* +8 to hit. *Hit:* 5 (2d4) piercing damage and the target is restrained until it is freed. The target can use its action to make a DC 15 Strength check, freeing itself or another creature within its reach on a success. A creature that attempts to do so must also succeed on a DC 15 Dexterity saving throw or take 5 (2d4) piercing damage in the process. Dealing 15 slashing damage to the net (AC 15) also frees the creature without harming it, ending the effect and destroying the net.
 * ***Bottle of Concentrated Alchemist's Fire***. *Ranged Weapon Attack:* +8 to hit. *Hit:* 21 (6d6) fire damage. On a hit, the target is also set ablaze and takes the damage again at the start of each of its turns until the fire is put out. A creature within reach of the blaze can take an action to smother the flames using a blanket or carpet, reducing the fire damage by 2d6. Three such actions are needed to fully put out the fire.
 
-**Ezmerelda’s Belongings.** If the players successfully enter Ezmerelda’s wagon, the following items are contained in a false bottom of the wooden trunk, which requires a DC 15 Intelligence (Investigation) check to find:
+**[[Non-Player Characters/Abbey of St. Markovia/Ezmerelda dAvenir|Ezmerelda]]’s Belongings.** If the players successfully enter Ezmerelda’s wagon, the following items are contained in a false bottom of the wooden trunk, which requires a DC 15 Intelligence (Investigation) check to find:
 
 * The climber's kit, disguise kit, healer's kit, and poisoner's kit
 * The wooden box containing the Tarokka cards
@@ -684,7 +684,7 @@ If able, a gargoyle that has grappled a player flies 15 feet up on its turn and 
 A successful DC 15 Intelligence (Investigation) check or a ten-minute search of the fourth floor reveals two clues:
 
 * A colorful beaded bracelet with several wooden charms sized for a child, wrapped around a silvered dagger and a Tarokka card (the **Hooded One**). (A player who makes a successful DC 13 Intelligence (History or Arcana) check recalls that the Hooded One represents mysteries, newcomers, and hidden identities.)
-* Two burned pieces of parchment amidst a pile of charred ashes in the stove, including a burned page from Van Richten's journal and a singed sketch of a sign proclaiming *Rictavio’s Carnival of Wonders.* (The sketch appears to have been made far more recently than the journal entry.)
+* Two burned pieces of parchment amidst a pile of charred ashes in the stove, including a burned page from [[Non-Player Characters/Town of Vallaki/Dr. Rudolph van Richten|Van Richten]]'s journal and a singed sketch of a sign proclaiming *Rictavio’s Carnival of Wonders.* (The sketch appears to have been made far more recently than the journal entry.)
 ![[Carnival Poster.png]]
 <span class="credit">"Rictavio's Carnival Poster" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
@@ -707,14 +707,14 @@ The handwriting matches the handwriting of the excerpt of *Van Richten's Guide t
 # E7. The Road Back
 The players’ activities at Lake Baratok attract the attention of a pair of **werewolves**, who lurk in the woods east of the lake, silently waiting for the players to return to the road.
 
-When the players begin the trek back to Vallaki—either by the northern path or the Old Svalich Road to the south—the werewolves follow. Fifteen minutes after the players depart the lake, they encounter the two werewolves in human form, pretending to be trappers. Read the following:
+When the players begin the trek back to [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]]—either by the northern path or the Old Svalich Road to the south—the werewolves follow. Fifteen minutes after the players depart the lake, they encounter the two werewolves in human form, pretending to be trappers. Read the following:
 
 <div class="description">
 <p>A deep voice calls out, "Who goes there?" Through the chill mist you see a large man in drab clothing wearing a tattered gray cloak. He has shaggy, black hair and thick mutton chops. He leans heavily on a spear and has a small bundle of animal pelts slung over his shoulder.</p>
 <p>Just behind him, barely visible in the gloom, stands a grim-faced woman, her long, dark hair loosely braided. She holds a spear of her own, the tip glinting in the scarce light, and wears a cloak wrapped tightly around her chest.</p>
 </div> 
 
-The two **werewolves** introduce themselves as Zsolt and Mathilda, trappers from Krezk. (If Szoldar is with the players, he whispers warily that he recognizes neither "trapper's" name.) Zsolt is warm and friendly, while Mathilda is sullen and quiet. 
+The two **werewolves** introduce themselves as Zsolt and Mathilda, trappers from [[Act II - The Shadowed Town/Arc I - The Walls of Krezk|Krezk]]. (If Szoldar is with the players, he whispers warily that he recognizes neither "trapper's" name.) Zsolt is warm and friendly, while Mathilda is sullen and quiet. 
 
 Zsolt warns the players that the road has become dangerous for travelers, and suggests traveling together. Whether the players accept or reject his offer, Zsolt then shares the following story:
 
@@ -727,7 +727,7 @@ Zsolt warns the players that the road has become dangerous for travelers, and su
 
 When his story is complete, Zsolt playfully asks the players whether they have good steel to defend themselves, should the murderess find them upon the road. 
 
-If at least two characters show that they’re carrying silvered weapons or ammunition, the playful light fades from Zsolt’s eyes, replaced by a momentary glint of wariness. His grip tightens around his spear, and his gaze meets Mathilda's for a brief, near-imperceptible moment. He congratulates the players on entering the woods well-prepared, but the joviality in his voice has become hollow. Unless stopped or provided with a suitable excuse, Zsolt and Mathilda accompany the players in silence as far as the Luna River Crossroads, then depart south toward Berez.
+If at least two characters show that they’re carrying silvered weapons or ammunition, the playful light fades from Zsolt’s eyes, replaced by a momentary glint of wariness. His grip tightens around his spear, and his gaze meets Mathilda's for a brief, near-imperceptible moment. He congratulates the players on entering the woods well-prepared, but the joviality in his voice has become hollow. Unless stopped or provided with a suitable excuse, Zsolt and Mathilda accompany the players in silence as far as the Luna River Crossroads, then depart south toward [[Act III - The Broken Land/Arc Q - A Shining Beacon|Berez]].
 
 Otherwise, if no characters show that they’re carrying silvered weapons or ammunition, a mocking smirk creeps onto Zsolt's face, and he says, "You seem to be mighty warriors indeed! But it seems you've forgotten something important." If the players ask what they've forgotten, Zsolt's eyes flash with hunger, and he hisses, "Silver." He and Mathilda then assume their hybrid forms and attack.
 
@@ -909,14 +909,14 @@ Once he and the players are alone in his guest suite, Rictavio draws his sword-c
 <p><strong><em>Uncanny Dodge.</em></strong> <em>Trigger:</em> An attacker hits Van Richten with an attack roll. <Em>Effect:</em> Van Richten halves the attack’s damage against him (rounding down).</p>
 </div>
 
-Van Richten can share the following information:
+[[Non-Player Characters/Town of Vallaki/Dr. Rudolph van Richten|Van Richten]] can share the following information:
 
-* Until recently, he had been laying low in the tower at Lake Baratok. However, that changed when he saw a Vistana man bringing a wriggling sack to a golden-haired vampire spawn on the banks of the Luna River. (Van Richten recognized the vampire as a man named Escher, a bard from Barovia who had joined the Barovians’ revolt.)
+* Until recently, he had been laying low in the tower at Lake Baratok. However, that changed when he saw a Vistana man bringing a wriggling sack to a golden-haired vampire spawn on the banks of the Luna River. (Van Richten recognized the vampire as a man named [[Non-Player Characters/Castle Ravenloft/Escher|Escher]], a bard from Barovia who had joined the Barovians’ revolt.)
 * Van Richten attacked the pair, killing the Vistana and scarring the vampire, who fled. Upon opening the sack, he found a young Vistana girl within.
 * The girl, who introduced herself as Arabelle, was uncertain of why she had been kidnapped. Van Richten used his *talisman of echoes* to interrogate the dead Vistana’s severed head, and learned that Strahd had issued a bounty on young girls matching Arabelle’s precise and unique description: dark-haired and olive-skinned, with lavender irises. Van Richten and Arabelle agreed that returning her to the Vistani camp would leave her exposed to Strahd, and was therefore too dangerous.
-* The two returned to the tower at Lake Baratok, where Van Richten had previously hidden his horse, Drusilla, and a covered Vistani wagon that he had first used to enter Barovia. Using his *hat of disguise*, Van Richten adopted the dead Vistana’s guise and snuck into the Vistani camp by Vallaki to steal three pots of paint, which he used to disguise his wagon as “Rictavio’s Carnival of Wonders.”
+* The two returned to the tower at Lake Baratok, where Van Richten had previously hidden his horse, Drusilla, and a covered Vistani wagon that he had first used to enter Barovia. Using his *hat of disguise*, Van Richten adopted the dead Vistana’s guise and snuck into the Vistani camp by [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]] to steal three pots of paint, which he used to disguise his wagon as “Rictavio’s Carnival of Wonders.”
 * Van Richten and Arabelle then traveled to Vallaki, with Van Richten adopting the identity of Rictavio to hide in plain sight. Arabelle has remained concealed in his wagon ever since.
-* While the tower at Lake Baratok contains a permanent *antimagic field* that would block Strahd’s scrying, Van Richten believed that Strahd would be well-aware of this fact, and that the tower would therefore be among the first places he looked. As such, Van Richten, who already wore one such amulet, gave Arabelle a spare *amulet of proof against detection and location* that he had once given to—and then received from—one of his students. (If pressed, Van Richten admits that the amulet once belonged to Ezmerelda d’Avenir, but does not discuss the matter in further detail.)
+* While the tower at Lake Baratok contains a permanent *antimagic field* that would block Strahd’s scrying, Van Richten believed that Strahd would be well-aware of this fact, and that the tower would therefore be among the first places he looked. As such, Van Richten, who already wore one such amulet, gave Arabelle a spare *amulet of proof against detection and location* that he had once given to—and then received from—one of his students. (If pressed, Van Richten admits that the amulet once belonged to [[Non-Player Characters/Abbey of St. Markovia/Ezmerelda dAvenir|Ezmerelda]] d’Avenir, but does not discuss the matter in further detail.)
 
 If the players ask Van Richten about his arrival in Barovia or the revolt against Strahd, he can also share the following information:
 
@@ -924,14 +924,14 @@ If the players ask Van Richten about his arrival in Barovia or the revolt agains
 * His plans were foiled when an undead dire wolf attacked a trio of Barovia children, and the resulting battle revealed his identity to the onlooking Doru.
 * Doru blackmailed Van Richten into leading a full-scale revolt on the castle, threatening to bring an untrained mob to Ravenloft’s doors if Van Richten didn’t lead them there. Van Richten, fearful that such a mob could awaken Strahd and destroy his own plans, reluctantly agreed.
 * Shortly after entering the castle, however, they were betrayed. Escher, Doru’s “lieutenant,” vanished from the group as they explored the catacombs. Not long thereafter, the mob found Strahd’s coffin empty—and Strahd himself attacked shortly thereafter. Van Richten fled, knowing from his long studies of Strahd that victory was impossible. 
-* Upon escaping Castle Ravenloft and recovering his horse, Van Richten began the journey to warn the Barovians of the vampire’s awakening. However, he was stopped by the Vistani seer Madam Eva, who warned him: “The message you bring shall be borne by another. Should you return to the village while light lingers in the valley, you shall surely meet your grave.” 
+* Upon escaping [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]] and recovering his horse, Van Richten began the journey to warn the Barovians of the vampire’s awakening. However, he was stopped by the Vistani seer [[Non-Player Characters/Tser Pool Encampment/Madam Eva|Madam Eva]], who warned him: “The message you bring shall be borne by another. Should you return to the village while light lingers in the valley, you shall surely meet your grave.” 
 * Knowing full well of Eva’s reputation, Van Richten reluctantly set forth for Lake Baratok instead, weeping bitter tears for the sons and daughters of Barovia. 
 
 If the players demand it, Van Richten agrees to bring them to his wagon at Arasek Stockyard to see Arabelle for themselves. Proceed to [[#E8b. Following Rictavio]] below.
 ## E8b. Following Rictavio
 <span class="citation"><em>This scene takes place in Chapter 5: Area N5.</em></span>
 
-If the players follow [[Non-Player Characters#Disguised (as Rictavio)|Rictavio]] to Arasek Stockyard instead of waiting for him at the Blue Water Inn, they can find him kneeling by the wagon, where he appears to be adjusting the spokes of the wagon’s rear left wooden wheel. A player with a passive Wisdom (Perception) score of 16 or higher notices that Rictavio is repeatedly adjusting and re-adjusting the same spoke, and that Rictavio’s lips are moving, as if he is speaking with someone. If the players watch him, he continues his task for a full five minutes—far longer than such a task should ordinarily take—before standing and moving to depart.
+If the players follow [[Non-Player Characters#Disguised (as Rictavio)|Rictavio]] to Arasek Stockyard instead of waiting for him at the Blue Water Inn, they can find him kneeling by the wagon, where he appears to be adjusting the spokes of the wagon’s rear left wooden wheel. A player with a passive Wisdom (Perception) score of 16 or higher notices that [[Non-Player Characters/Town of Vallaki/Dr. Rudolph van Richten|Rictavio]] is repeatedly adjusting and re-adjusting the same spoke, and that Rictavio’s lips are moving, as if he is speaking with someone. If the players watch him, he continues his task for a full five minutes—far longer than such a task should ordinarily take—before standing and moving to depart.
 
 If the players confront him, Rictavio greets them warmly, but feigns ignorance of their allegations and claims. If the players insist that they wish to help Arabelle, show him the burned journal page, or otherwise threaten to blow his cover, Rictavio’s gaze hardens, his fist tightens around his cane, and his voice lowers to a near-whisper. He demands to know if they are spies of Strahd, and calmly threatens to “dispatch” them if they serve the Devil’s will.
 
@@ -948,22 +948,22 @@ Once the players or Arabelle have convinced him to do so, [[Non-Player Character
 Unless diverted by the players, the conversation unfolds as follows:
 
 * Arabelle greets the players warmly, thanks them for their efforts to find her, and shares her regret for the wounds they have sustained along the way. 
-* Van Richten is surprised to learn that Arabelle was expecting them, and Arabelle admits that she had a premonition that someone would follow in their tracks and that she left multiple clues—the Tarokka card, the bracelet, the handkerchief, and the ring—to guide the players in their path.
+* [[Non-Player Characters/Town of Vallaki/Dr. Rudolph van Richten|Van Richten]] is surprised to learn that Arabelle was expecting them, and Arabelle admits that she had a premonition that someone would follow in their tracks and that she left multiple clues—the Tarokka card, the bracelet, the handkerchief, and the ring—to guide the players in their path.
 * Arabelle thanks Van Richten for his efforts to keep her safe, but gently reminds him that they both knew that their plan could not last forever—and that, with the players present, a long-term solution is more likely within reach.
 
 During this conversation, Van Richten can also reveal the following information if he hasn't already:
 
-* Until recently, Van Richten had been laying low in the tower at Lake Baratok. However, that changed when he saw a Vistana man bringing a wriggling sack to a golden-haired vampire spawn on the banks of the Luna River. (Van Richten recognized the vampire as a man named Escher, a bard from Barovia who had joined the Barovians’ revolt.)
+* Until recently, Van Richten had been laying low in the tower at Lake Baratok. However, that changed when he saw a Vistana man bringing a wriggling sack to a golden-haired vampire spawn on the banks of the Luna River. (Van Richten recognized the vampire as a man named [[Non-Player Characters/Castle Ravenloft/Escher|Escher]], a bard from Barovia who had joined the Barovians’ revolt.)
 * Van Richten attacked the pair, killing the Vistana and scarring the vampire, who fled. Upon opening the sack, he found a young Vistana girl within.
 * The girl, who introduced herself as Arabelle, was uncertain of why she had been kidnapped. Van Richten used his *talisman of echoes* to interrogate the dead Vistana’s severed head, and learned that Strahd had issued a bounty on young girls matching Arabelle’s precise and unique description: dark-haired and olive-skinned, with lavender irises. Van Richten and Arabelle agreed that returning her to the Vistani camp would leave her exposed to Strahd, and was therefore too dangerous.
-* The two returned to the tower at Lake Baratok, where Van Richten had previously hidden his horse, Drusilla, and a covered Vistani wagon that he had first used to enter Barovia. Using his *hat of disguise*, Van Richten adopted the dead Vistana’s guise and snuck into the Vistani camp by Vallaki to steal three pots of paint, which he used to disguise his wagon as “Rictavio’s Carnival of Wonders.”
+* The two returned to the tower at Lake Baratok, where Van Richten had previously hidden his horse, Drusilla, and a covered Vistani wagon that he had first used to enter Barovia. Using his *hat of disguise*, Van Richten adopted the dead Vistana’s guise and snuck into the Vistani camp by [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]] to steal three pots of paint, which he used to disguise his wagon as “Rictavio’s Carnival of Wonders.”
 * Van Richten and Arabelle then traveled to Vallaki, with Van Richten adopting the identity of Rictavio to hide in plain sight. Arabelle has remained concealed in his wagon ever since.
 * While the tower at Lake Baratok contains a permanent *antimagic field* that would block Strahd’s scrying, Van Richten believed that Strahd would be well-aware of this fact, and that the tower would therefore be among the first places he looked. 
-* As such, Van Richten, who already wore one such amulet, gave Arabelle a spare *amulet of proof against detection and location* that he had once given to—and then received from—one of his students. (If pressed, Van Richten admits that the amulet once belonged to Ezmerelda d’Avenir, but does not discuss the matter in further detail.)
+* As such, Van Richten, who already wore one such amulet, gave Arabelle a spare *amulet of proof against detection and location* that he had once given to—and then received from—one of his students. (If pressed, Van Richten admits that the amulet once belonged to [[Non-Player Characters/Abbey of St. Markovia/Ezmerelda dAvenir|Ezmerelda]] d’Avenir, but does not discuss the matter in further detail.)
 ### Arrigal's Arrival
 As the conversation draws to a close, [[Non-Player Characters#Arrigal|Arrigal]] emerges from the shadows of a nearby alley. If the players do not divert the conversation, it proceeds as follows: 
 
-* Arrigal thanks Van Richten for the “fascinating story,” thanks the players for their “aid and guidance,” and commands Arabelle to exit the wagon and return with him.
+* Arrigal thanks [[Non-Player Characters/Town of Vallaki/Dr. Rudolph van Richten|Van Richten]] for the “fascinating story,” thanks the players for their “aid and guidance,” and commands Arabelle to exit the wagon and return with him.
 * Van Richten immediately accuses Arrigal of being a spy for Strahd, noting that, while stealing the pots of paint, he saw Arrigal whispering to a bat in the woods nearby. He demands that Arabelle remain in the wagon, and asks the players to defend her from Arrigal. 
 * Arrigal’s hands go to the shortsword and daggers on his belt, while Van Richten prepares to draw his sword-cane for battle. Arabelle quietly asks the players to help them see reason.
 
@@ -989,19 +989,19 @@ Five sample answers a player might receive are given below:
 
 * What is your name? *Yan.*
 * What lord did you serve in life? *The vampire, Strahd von Zarovich.*
-* Did that lord command you to kidnap the girl Arabelle? *He did, through his servant, the vampire Escher.*
-* What did he ask you to do with her? *He bade me to take her to the Luna River, where she would be brought to Castle Ravenloft.*
+* Did that lord command you to kidnap the girl Arabelle? *He did, through his servant, the vampire [[Non-Player Characters/Castle Ravenloft/Escher|Escher]].*
+* What did he ask you to do with her? *He bade me to take her to the Luna River, where she would be brought to [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]].*
 * How did you die? *A blade sliced my head from my shoulders from behind.*
 
 Yan might also reveal the following information if asked using one of the players' five questions:
 
 * Yan served Strahd loyally because he was promised riches and power in exchange for his service.
 * Yan didn't know what Escher or Strahd planned to do with Arabelle.
-* Yan received his orders at dusk on the day before the players first arrived in Vallaki (i.e., on the same day the players received their Tarokka reading and first encountered Strahd).
+* Yan received his orders at dusk on the day before the players first arrived in [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]] (i.e., on the same day the players received their Tarokka reading and first encountered Strahd).
 
 If Yan reveals his loyalty to Strahd and his instructions to kidnap Arabelle, Arrigal is shaken, but not entirely convinced—until Arabelle speaks up to confirm Van Richten’s story, calmly reporting that Yan kidnapped her, Van Richten rescued her, and she overheard Yan asking another man whether “the lord” would pay his debts in exchange for the “whelp’s delivery” before hearing the exchanging of coins shortly thereafter.
 ### Brokering an Agreement
-Van Richten is unwilling to allow Arrigal to take Arabelle back to the Vistani encampment. However, Arrigal is unwilling to allow Van Richten to keep Arabelle hidden in Vallaki, away from her family. It is up to the players to broker an agreement between them.
+[[Non-Player Characters/Town of Vallaki/Dr. Rudolph van Richten|Van Richten]] is unwilling to allow Arrigal to take Arabelle back to the Vistani encampment. However, Arrigal is unwilling to allow Van Richten to keep Arabelle hidden in [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]], away from her family. It is up to the players to broker an agreement between them.
 
 As they do, keep the following interests in mind:
 
@@ -1032,11 +1032,11 @@ A few moments later, Arabelle staggers, her eyes rolling back into her head as t
 
 Arabelle then falls over unconscious. Any character that makes a successful DC 10 Wisdom (Medicine) check can easily discern that she is unharmed—merely asleep. Upon waking, Arabelle retains no memory of the prophecy she spoke.
 
-Neither Arabelle, Van Richten, nor Arrigal know it, but Arabelle's prophecy refers to Strahd's ultimate plot to use the Heart of Sorrow to plunge the valley into eternal night, summoning a horde of undead across the land and using the souls of the Barovians to escape the Mists.
+Neither Arabelle, [[Non-Player Characters/Town of Vallaki/Dr. Rudolph van Richten|Van Richten]], nor Arrigal know it, but Arabelle's prophecy refers to Strahd's ultimate plot to use the Heart of Sorrow to plunge the valley into eternal night, summoning a horde of undead across the land and using the souls of the Barovians to escape the Mists.
 
-Van Richten is troubled by Arabelle’s prophecy, and the resemblance it bears to Madam Eva’s warning on the Svalich Road. Nonetheless, in gratitude for the players’ aid, he bequeaths to them his *talisman of echoes.*
+Van Richten is troubled by Arabelle’s prophecy, and the resemblance it bears to [[Non-Player Characters/Tser Pool Encampment/Madam Eva|Madam Eva]]’s warning on the Svalich Road. Nonetheless, in gratitude for the players’ aid, he bequeaths to them his *talisman of echoes.*
 
-Arrigal is similarly grateful for the players’ assistance in recovering his niece. He is glad to promise that, notwithstanding his oath of loyalty to Strahd, he will refrain from reporting Arabelle or Van Richten’s true locations to Castle Ravenloft, and will avoid reporting the players’ movements for as long as he can. 
+Arrigal is similarly grateful for the players’ assistance in recovering his niece. He is glad to promise that, notwithstanding his oath of loyalty to Strahd, he will refrain from reporting Arabelle or Van Richten’s true locations to [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]], and will avoid reporting the players’ movements for as long as he can. 
 
 In addition, though he won’t take up arms against Strahd or cease his work as a spy, Arrigal offers to deliver false information to Castle Ravenloft once when the players request it—but no more than that. He won’t deliver any information that is obviously false, however, and he provides no guarantees as to how long or whether Strahd will believe his information.
 
@@ -1056,41 +1056,41 @@ In addition, though he won’t take up arms against Strahd or cease his work as 
 > 
 > A player who succeeds on a DC 15 Wisdom (Insight) check notices that Van Richten seems to be holding something back. If challenged, Van Richten lauds the player for their astuteness, but refuses to explain himself further. "I work alone—and for good reason," he states firmly. "Such reasons are my own."
 # Design Notes: The Missing Vistana
-The original module's quest to rescue Arabelle provides the players with no clear motive for her kidnapping, no real reason to find her, and no clear clues to follow in order to do so. The original module also provides Dr. Rudolph van Richten with no clear purpose while in Vallaki, introducing him as little more than a murderous pseudo-antagonist who wishes to commit mass homicide against the Vistani of the nearby encampment with a vague (though undeveloped) interest in investigating the Keepers of the Feather.
+The original module's quest to rescue Arabelle provides the players with no clear motive for her kidnapping, no real reason to find her, and no clear clues to follow in order to do so. The original module also provides Dr. Rudolph van Richten with no clear purpose while in [[Act I - Into the Mists/Arc C - Into the Valley|Vallaki]], introducing him as little more than a murderous pseudo-antagonist who wishes to commit mass homicide against the Vistani of the nearby encampment with a vague (though undeveloped) interest in investigating the Keepers of the Feather.
 
 This arc aims to remedy both issues simultaneously, providing Van Richten with a reason to remain hidden in or around Vallaki for the duration of the campaign (i.e., to keep Arabelle safe) while providing the players with a more comprehensive and engaging storyline for Arabelle's kidnapping. It also brings closure to Van Richten's troubled relationship with the Vistani, providing him with a symbolic opportunity to protect a child of the people that effectively killed his own.
 
 In the process, the arc provides the players with an opportunity to venture west beyond Vallaki's walls, alleviating the sense of suffocating claustrophobia that many parties describe following several consecutive sessions in the town.
 
-***Blinsky Toys.*** The toy shop has been introduced as a first stop in this arc in order to discourage the players from fully completing it on their first day in Vallaki (in favor of encouraging them to complete [[Arc D - St. Andral's Feast]] instead), and to further develop Izek Strazni's relationship with Ireena Kolyana, explored further in [[Arc G - The Strazni Siblings]].
+***[[Non-Player Characters/Town of Vallaki/Gadof Blinsky|Blinsky]] Toys.*** The toy shop has been introduced as a first stop in this arc in order to discourage the players from fully completing it on their first day in Vallaki (in favor of encouraging them to complete [[Arc D - St. Andral's Feast]] instead), and to further develop [[Non-Player Characters/Town of Vallaki/Izek Strazni|Izek]] Strazni's relationship with [[Non-Player Characters/Village of Barovia/Ireena Kolyana|Ireena Kolyana]], explored further in [[Arc G - The Strazni Siblings]].
 
 ***Vistani Encampment.*** Luvash, Arrigal, and the entire Vistani tribe have been made more sympathetic in order to encourage the players to build a long-term relationship with them, to further develop the adventure's themes of unity and redemption over selfishness and mistrust, and to further motivate the players to locate Arabelle and find a solution that reunites her with her family.
 
 The plotline involving the signet ring has been added to provide Luvash with a real reason to recruit unqualified strangers in the search for his daughter (because they are uniquely capable of entering Vallaki) and to provide the players with a clear sense of direction as they work to uncover the mystery of Arabelle's disappearance.
 
-***Strahd's Bounty.*** Strahd's interest in Arabelle has been added to provide an altruistic motivation for Van Richten to "kidnap her first." Yan has been changed from an ordinary Vistana thief to Escher's agent in order to paint Van Richten's actions in a better light (he was triggered by his traumatic memories of Erasmus and was working to protect an innocent), to explain why Arabelle was not immediately taken to Castle Ravenloft (Yan had to first deliver to Escher at an isolated, pre-determined spot), and to explain why Arrigal was ignorant of Strahd's plot (thereby providing the players with a proper diplomatic moral dilemma at the climax of the arc).
+***Strahd's Bounty.*** Strahd's interest in Arabelle has been added to provide an altruistic motivation for Van Richten to "kidnap her first." Yan has been changed from an ordinary Vistana thief to [[Non-Player Characters/Castle Ravenloft/Escher|Escher]]'s agent in order to paint Van Richten's actions in a better light (he was triggered by his traumatic memories of Erasmus and was working to protect an innocent), to explain why Arabelle was not immediately taken to Castle Ravenloft (Yan had to first deliver to Escher at an isolated, pre-determined spot), and to explain why Arrigal was ignorant of Strahd's plot (thereby providing the players with a proper diplomatic moral dilemma at the climax of the arc).
 
-***Dusk Elf Hovels.*** In order to discourage the players from exploring the Amber Temple too early (and because the players are strangers that he has only just met, with no evident qualifications that will help him achieve his goals), Kasimir Velikov no longer shares Patrina's dreams or his interest in the Amber Temple upon their first meeting. 
+***Dusk Elf Hovels.*** In order to discourage the players from exploring the [[Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight|Amber Temple]] too early (and because the players are strangers that he has only just met, with no evident qualifications that will help him achieve his goals), [[Non-Player Characters/Town of Vallaki/Kasimir Velikov|Kasimir]] Velikov no longer shares Patrina's dreams or his interest in the Amber Temple upon their first meeting. 
 
 Kasimir will later lead the players to the Amber Temple in [[Arc S - A Sword of Sunlight]] after the players learn of his interest in the temple at the conclusion of [[Arc Q - A Shining Beacon]]. For now, however, Kasimir's injuries from his most recent venture up Mount Ghakis have been shown to foreshadow his involvement in that future arc.
 
 The symbols on the signet ring have been added to provide the players with the solution to the puzzle door at the entrance to Van Richten's Tower.
 
-Rahadin's relationship to Prince Erevan (relayed in Kasimir's story) has been added to accentuate his decision to choose King Barov as his family over his own people, and to create a more personal antagonistic relationship between Rahadin and the bearer of the *broken blade* in the ***Barovian Relics*** adventure hook.
+[[Non-Player Characters/Castle Ravenloft/Rahadin|Rahadin]]'s relationship to Prince Erevan (relayed in Kasimir's story) has been added to accentuate his decision to choose King Barov as his family over his own people, and to create a more personal antagonistic relationship between Rahadin and the bearer of the *broken blade* in the ***Barovian Relics*** adventure hook.
 
 ***Burgomaster's Mansion.*** The "haunted mansion" plotline has been added to provide the players with a hook to [[Arc H - The Lost Soul]], and as a backup diplomatic option if the players chose to leave Ireena in the safety of St. Andral's Church.
 
 The geneology of the Strazni family has been added to explicitly reveal Ireena's connection to Izek, clarifying and accentuating the stakes of [[Arc G - The Strazni Siblings]].
 
-*Ethereal Entities* has been added to provide additional information to aid the players in restoring Stella's soul, and to provide Victor Vallakovich with an excuse to visit his father's library while the players are present. (See [[Arc H - The Lost Soul]] for more information about Stella's fate.)
+*Ethereal Entities* has been added to provide additional information to aid the players in restoring Stella's soul, and to provide [[Non-Player Characters/Town of Vallaki/Victor Vallakovich|Victor]] Vallakovich with an excuse to visit his father's library while the players are present. (See [[Arc H - The Lost Soul]] for more information about Stella's fate.)
 
 Victor has been given Khazan's lost spellbook to provide him with a reason to know of (and a reason to take an interest in) the tower at Lake Baratok, as well as to explain Victor's precocious skill as a mage. Victor's interest in Khazan's staff has been added to foreshadow the means by which the players can obtain the staff in the Ravenloft catacombs in [[Arc P - Ravenloft Heist]].
 
 ***Lake Zarovich.*** This brief detour to Szoldar and Yevgeni's dressing shack has been added to make sure that the Barovian wilderness remains strange and foreboding (because only experienced hunters know how to navigate it), to explicitly introduce the players to a pair of individuals able to point out important paths and landmarks, and to inform the players of the werewolves' heavy presence along the western half of the valley.
 
-***The Svalich Road.*** Van Richten's handkerchief has been left in the Luna River to foreshadow his involvement in Arabelle's disappearance. The **twig blights** and **scarecrows** have been placed here to foreshadow the druids of Yester Hill and their alliance with the witch of Berez, Baba Lysaga.
+***The Svalich Road.*** Van Richten's handkerchief has been left in the Luna River to foreshadow his involvement in Arabelle's disappearance. The **twig blights** and **scarecrows** have been placed here to foreshadow the druids of [[Act III - The Broken Land/Arc J - The Stolen Gem|Yester Hill]] and their alliance with the witch of [[Act III - The Broken Land/Arc Q - A Shining Beacon|Berez]], [[Non-Player Characters/Berez/Baba Lysaga|Baba Lysaga]].
 
-***Lake Baratok.*** The additional clues around Ezmerelda's wagon (the signs, scent of sulfur, and wolf tracks) have been added to discourage players from attempting to open it and thereby activate the alchemist's fire trap. The additional set of wagon tracks and the paint in the woods have been added to provide additional clues connecting Rictavio to the tower.
+***Lake Baratok.*** The additional clues around [[Non-Player Characters/Abbey of St. Markovia/Ezmerelda dAvenir|Ezmerelda]]'s wagon (the signs, scent of sulfur, and wolf tracks) have been added to discourage players from attempting to open it and thereby activate the alchemist's fire trap. The additional set of wagon tracks and the paint in the woods have been added to provide additional clues connecting Rictavio to the tower.
 
 The puzzle on the tower door has been changed to befit a more dignified archmage like Khazan, and has been integrated with the signet ring to provide the players with an easy "Eureka!" moment that nonetheless provides a sense of satisfaction for deciphering the puzzle. 
 
@@ -1102,7 +1102,7 @@ The paint-stained lily pads have been added to provide additional clues regardin
 
 Van Richten's journal page introduces the character of Erasmus van Richten, who will serve a more significant role in [[Arc H - The Lost Soul]].
 
-***The Road Back.*** The encounter with Zsolt and Mathilda introduces the werewolf pack more formally, foreshadowing [[Arc L - The Den of Wolves]] and ensuring that the players have an appreciation for the value of obtaining silvered weapons before their encounter with the coven of Old Bonegrinder in [[Arc H - The Lost Soul]].
+***The Road Back.*** The encounter with Zsolt and Mathilda introduces the werewolf pack more formally, foreshadowing [[Arc L - The Den of Wolves]] and ensuring that the players have an appreciation for the value of obtaining silvered weapons before their encounter with the coven of [[Act II - The Shadowed Town/Arc H - The Lost Soul|Old Bonegrinder]] in [[Arc H - The Lost Soul]].
 
 ***Return to Vallaki.*** Van Richten's **saber-toothed tiger** has been removed from his wagon because it no longer serves a purpose in the absence of his homicidal plan to kill the Vistani, because he would have had no place to store it during his time as "Alanik" in the village of Barovia before Strahd awoke, and because it is far more overt and uncontrollable a weapon than his cautious and prudent characterization would reasonably allow.
 

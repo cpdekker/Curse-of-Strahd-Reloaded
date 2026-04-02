@@ -1,10 +1,10 @@
 _An adventure for five 6th-level characters._
 
-In this arc, the players must locate the den of the Barovian werewolf pack, which holds the *Holy Symbol of Ravenkind* as foretold by Madam Eva. If the players previously uncovered the location of Baron Dmitri Krezkov’s son, Ilya, in ***Arc I: The Walls of Krezk***, Baron Krezkov also asks them to rescue him from the werewolves’ clutches, promising sanctuary and aid if they do.
+In this arc, the players must locate the den of the Barovian werewolf pack, which holds the *Holy Symbol of Ravenkind* as foretold by [[Non-Player Characters/Tser Pool Encampment/Madam Eva|Madam Eva]]. If the players previously uncovered the location of Baron Dmitri Krezkov’s son, Ilya, in ***Arc I: The Walls of [[Act II - The Shadowed Town/Arc I - The Walls of Krezk|Krezk]]***, Baron Krezkov also asks them to rescue him from the werewolves’ clutches, promising sanctuary and aid if they do.
 
-With the aid of Ezmerelda d’Avenir, the players can track the werewolf den to a quiet crag on the northwestern shore of Lake Baratok. During a nighttime stakeout on the edge of the Svalich Wood, the players must wait until the pack emerges to hunt, then slip into the den and bypass or defeat any lingering guards before pushing through to the shrine of Mother Night.
+With the aid of [[Non-Player Characters/Abbey of St. Markovia/Ezmerelda dAvenir|Ezmerelda]] d’Avenir, the players can track the werewolf den to a quiet crag on the northwestern shore of Lake Baratok. During a nighttime stakeout on the edge of the Svalich Wood, the players must wait until the pack emerges to hunt, then slip into the den and bypass or defeat any lingering guards before pushing through to the shrine of Mother Night.
 
-There, the players meet Zuleika Toranescu—a **werewolf** cleric of Mother Night and the elder sister of Baron Dmitri Krezkov. Zuleika is the mate of Emil Toranescu: the former **werewolf** pack leader that Kiril Stoyanovich deposed when Strahd awoke from his slumber. Zuleika agrees to lift Mother Night’s protection from the shrine and allow the players to retrieve the *Holy Symbol of Ravenkind* and win Ilya’s freedom if they also free her and promise to rescue Emil from the dungeons of Castle Ravenloft.
+There, the players meet Zuleika Toranescu—a **werewolf** cleric of Mother Night and the elder sister of Baron Dmitri Krezkov. Zuleika is the mate of Emil Toranescu: the former **werewolf** pack leader that [[Non-Player Characters/The Werewolf Den/Kiril Stoyanovich|Kiril]] Stoyanovich deposed when Strahd awoke from his slumber. Zuleika agrees to lift Mother Night’s protection from the shrine and allow the players to retrieve the *Holy Symbol of Ravenkind* and win Ilya’s freedom if they also free her and promise to rescue Emil from the dungeons of [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]].
 # L1. Finding the Den
 The players can locate the werewolves’ den in one of two ways:
 
@@ -185,7 +185,7 @@ The campfire produces no smoke, and its light does not extend beyond the edges o
 
 Ezmerelda suggests that the party station one person on the edge of the hollow to watch for the pack’s departure. If the players don't suggest doing so, Ezmerelda suggests rotating shifts once per hour to avoid fatigue.
 ### L3a. Campfire Tales
-As night falls, Ezmerelda invites the players and Ireena to share stories about themselves, and offers to share her own history in turn. “After all," she says, “if we’re to work together, I’d like to know who I’m fighting beside."
+As night falls, [[Non-Player Characters/Abbey of St. Markovia/Ezmerelda dAvenir|Ezmerelda]] invites the players and [[Non-Player Characters/Village of Barovia/Ireena Kolyana|Ireena]] to share stories about themselves, and offers to share her own history in turn. “After all," she says, “if we’re to work together, I’d like to know who I’m fighting beside."
 
 At the players’ choice, Ezmerelda can share one or both of the following stories when her turn arises: the tale of how she came to know Dr. Rudolph van Richten, or the tale of how she lost her leg.
 
@@ -200,7 +200,7 @@ At the players’ choice, Ezmerelda can share one or both of the following stori
 
 After finishing her story, Ezmerelda's expression darkens. "The night I departed his company, we exchanged harsh words—words I'd prefer to forget." She sighs. "Even so, when I received his final letter, I came at once to Barovia, praying that he would not face Zarovich alone."
 
-If asked, Ezmerelda can share that the Radanaviches sold Van Richten’s son—a boy named Erasmus, with whom Ezmerelda had briefly played hoops as a child—to a cruel and hateful vampire called Baron Metus. “I never learned what became of him after that," she says, mournfully. “Dr. Van Richten never wished to speak of it."
+If asked, Ezmerelda can share that the Radanaviches sold [[Non-Player Characters/Town of Vallaki/Dr. Rudolph van Richten|Van Richten]]’s son—a boy named Erasmus, with whom Ezmerelda had briefly played hoops as a child—to a cruel and hateful vampire called Baron Metus. “I never learned what became of him after that," she says, mournfully. “Dr. Van Richten never wished to speak of it."
 
 ***The Black Terror.*** Ezmerelda tells the story as follows:
 
@@ -255,7 +255,7 @@ When the players enter the cave mouth, read:
 <p>
 </div>
 
-Azianka and Davanka are bored, inattentive, and irritated at not being allowed to accompany Kiril beyond the Mists, and are currently arguing over whether goats or elk taste better. (If the players listen in, Azianka and Davanka eventually agree that men taste better than either goats *or* elk.)
+Azianka and Davanka are bored, inattentive, and irritated at not being allowed to accompany [[Non-Player Characters/The Werewolf Den/Kiril Stoyanovich|Kiril]] beyond the Mists, and are currently arguing over whether goats or elk taste better. (If the players listen in, Azianka and Davanka eventually agree that men taste better than either goats *or* elk.)
 
 Azianka and Davanka are restless, and can easily be lured from the cave mouth by an illusion, an annoying **wereraven** in raven form summoned by the *Keeper's whistle*, or any other nonthreatening distraction. (If the players use the *Keeper’s Whistle* to summon a **wereraven** to assist them, a gregarious and excitable **wereraven** named Stefan Zalenski appears two minutes thereafter to assist them.) Unless otherwise distracted, the women return to the cave once ten minutes have passed.
 
@@ -287,8 +287,8 @@ If the players linger or delve deeper into this chamber, read:
 
 A creature that approaches the pool sees its reflection distorted. Instead of its own reflection, the creature sees a monstrous image that reflects its worst impulses, urges, and desires. For example:
 
-* Ezmerelda sees her own reflection, but with black sclera and golden irises, predatory canines, and oily black fur covering her skin, with a terrible snarl splitting her face (literally) from ear to ear. (This image reflects Ezmerelda’s hatred of monsters, and her subconscious fear that her protective nature will turn to cruelty and zealotry.)
-* Ireena sees her own reflection, but with bloody, empty eye sockets; pallid, ashen flesh; her lips sewn together; misty chains binding her wrists; and her own rapier piercing her stomach. (This image reflects Ireena’s passivity, and her subconscious fear that self-sacrifice is her only escape from a terrible fate.)
+* [[Non-Player Characters/Abbey of St. Markovia/Ezmerelda dAvenir|Ezmerelda]] sees her own reflection, but with black sclera and golden irises, predatory canines, and oily black fur covering her skin, with a terrible snarl splitting her face (literally) from ear to ear. (This image reflects Ezmerelda’s hatred of monsters, and her subconscious fear that her protective nature will turn to cruelty and zealotry.)
+* [[Non-Player Characters/Village of Barovia/Ireena Kolyana|Ireena]] sees her own reflection, but with bloody, empty eye sockets; pallid, ashen flesh; her lips sewn together; misty chains binding her wrists; and her own rapier piercing her stomach. (This image reflects Ireena’s passivity, and her subconscious fear that self-sacrifice is her only escape from a terrible fate.)
 ## L4c. Wolf Den
 <span class="citation"><em>This area corresponds to Z3. Wolf Den (p. 203).</em></span>
 
@@ -318,7 +318,7 @@ Skennis is not asleep, only dozing. The players must succeed on a group DC 14 De
 <p>The old wolf's head snaps upwards, revealing three swollen cuts that slice across its cheek, their edges crusted with dried blood. Its eyes, milky white and unseeing, stare blankly ahead as its nostrils flare, its scarred ears twitching rapidly as it sniffs the cold air. Its ears flatten against its skull, and it releases a low, cautious growl.</p>
 </div>
 
-The sound alerts Skennis to the presence of intruders, but not their identities or locations. The players must succeed on an additional group DC 15 Dexterity (Stealth) check to exit the room without drawing Skennis’s attention or ire. Otherwise, the players can quiet Skennis by healing his cuts or offering him food, which he accepts with a soft, grateful whine. (The cuts were left by Kiril, who “punished" Skennis for attempting to steal a mouthful of goat meat the previous night.)
+The sound alerts Skennis to the presence of intruders, but not their identities or locations. The players must succeed on an additional group DC 15 Dexterity (Stealth) check to exit the room without drawing Skennis’s attention or ire. Otherwise, the players can quiet Skennis by healing his cuts or offering him food, which he accepts with a soft, grateful whine. (The cuts were left by [[Non-Player Characters/The Werewolf Den/Kiril Stoyanovich|Kiril]], who “punished" Skennis for attempting to steal a mouthful of goat meat the previous night.)
 
 If the players treat him with kindness—rather than simply attempting to pacify him—Skennis (remaining in wolf form) motions for them to wait, then proceeds through [[#L4d. Deep Caves]], ascends the rough-hewn stairs in the tunnel behind Kiril's cave (which lies behind a curtain of stitched human skin), and emerges through the secret door into the ring of stone on the rocky ledge above. Upon arriving there, he briefly pauses, then barks several times in false alarm, summoning the six **wolves** from [[#L4d. Deep Caves]]. (The two **werewolf brawlers** there are awoken by the disturbance, but continue to doze in their cave, lowering the DC of any Dexterity (Stealth) check made to avoid their notice to 11.)
 
@@ -336,7 +336,7 @@ When the players enter this area, read:
 
 The ceiling here is 10 feet high. The bones on the floor are a warning system. They crunch loudly underfoot, and creatures have disadvantage on Dexterity (Stealth) checks made to move silently through this area. Players who pass through this area can see flickering torchlight emanating from the Shrine of Mother Night below.
 
-Bianca, Wensencia, and Kellen are not present when the players arrive. Instead, the south cave is occupied by two slumbering **werewolf brawlers** in wolf form named Kobal Mironovich and Radovan Lipsiege, while the north cave is occupied by six alert **wolves** loyal to Strahd and Kiril.
+Bianca, Wensencia, and Kellen are not present when the players arrive. Instead, the south cave is occupied by two slumbering **werewolf brawlers** in wolf form named Kobal Mironovich and Radovan Lipsiege, while the north cave is occupied by six alert **wolves** loyal to Strahd and [[Non-Player Characters/The Werewolf Den/Kiril Stoyanovich|Kiril]].
 
 To sneak through this area without disturbing the wolves, the players must succeed on a DC 19 Dexterity (Stealth) check, made with disadvantage due to the bones covering the floor that crunch loudly underfoot. If they hear or see a potential intruder, the wolves begin growling and barking, awakening Kobal and Radovan. The werewolves and wolves then move to investigate the source of the disturbance. Once they've cornered any intruders, Kobal and Radovan assume their hybrid forms and attack.
 
@@ -445,12 +445,12 @@ When the two prisoners first notice the players, Ilya presses himself against th
 
 If the players introduce themselves and act kindly toward him, Ilya is willing to share the following information:
 
-* He is Ilya Krezkov, the son of Krezk’s burgomaster. (Ezmerelda, if present, recognizes him and is horrified to see his current condition.)
+* He is Ilya Krezkov, the son of [[Act II - The Shadowed Town/Arc I - The Walls of Krezk|Krezk]]’s burgomaster. ([[Non-Player Characters/Abbey of St. Markovia/Ezmerelda dAvenir|Ezmerelda]], if present, recognizes him and is horrified to see his current condition.)
 * He was kidnapped by a werewolf and taken here as a prisoner. (This is a half-truth. A player who succeeds on a DC 10 Wisdom (Insight) check sees Ilya briefly glance to the side and notices sweat beading on his forehead.)
 
 If the players ask about Zuleika, she introduces herself as Zuleika Toranescu, though she urges the players to keep their voices low. “The pack’s leader may have departed for his hunt," she hisses. “But others may still linger deeper in the den."
 
-If the players ask why she and Ilya have been imprisoned, she tells them truthfully that they have been imprisoned here by Kiril Stoyanovich, “the leader of this pack." If recognized as Dmitri Krezkov’s sister, she admits to being Ilya’s aunt. "Although," she notes dryly, with a sideways glance toward Ilya, “until recently, I had not seen him in quite some time."
+If the players ask why she and Ilya have been imprisoned, she tells them truthfully that they have been imprisoned here by [[Non-Player Characters/The Werewolf Den/Kiril Stoyanovich|Kiril]] Stoyanovich, “the leader of this pack." If recognized as Dmitri Krezkov’s sister, she admits to being Ilya’s aunt. "Although," she notes dryly, with a sideways glance toward Ilya, “until recently, I had not seen him in quite some time."
 
 If identified as a werewolf, Zuleika freely admits to being one. If her humanity is questioned as a result, she tilts her head and asks, curiously, “You judge me for a condition that I did not ask for, and which I have never used in malice?"
 
@@ -469,12 +469,12 @@ Ilya blames the false “Zuleika" for his current predicament, and somewhat blam
 ### What Zuleika Knows
 If questioned, Zuleika can share the following information:
 
-* She is a descendant of the Krezkov line, which has long been cursed with werewolf lycanthropy. Thirteen years ago, she met Emil Toranescu, another **werewolf** who taught her to see the beauty in her condition, and to master the beast within through meditation and prayer. When her family rejected her efforts, she fled Krezk and came to live as Emil’s wife as a member of Barovia’s werewolf pack—and, as her spiritual efforts progressed, a priestess to Mother Night, the divine patron of lycanthropes.
+* She is a descendant of the Krezkov line, which has long been cursed with werewolf lycanthropy. Thirteen years ago, she met Emil Toranescu, another **werewolf** who taught her to see the beauty in her condition, and to master the beast within through meditation and prayer. When her family rejected her efforts, she fled [[Act II - The Shadowed Town/Arc I - The Walls of Krezk|Krezk]] and came to live as Emil’s wife as a member of Barovia’s werewolf pack—and, as her spiritual efforts progressed, a priestess to Mother Night, the divine patron of lycanthropes.
 * Until recently, the werewolf pack ranged far and wide through the Mists for its hunts. In those days, the pack was a refuge—a family—for those who had been outcast from society for fear of their curse.
-* One of those outcasts was Kiril Stoyanovich, a young **werewolf** who joined the pack alongside his wife, Bianca. Where Zuleika had endured years of meditation to master her curse, however, Kiril was impatient and thirsty to prove himself. “There is a way for a werewolf to embrace his curse wholeheartedly," she murmurs, “without wisdom or reservation. It is a dark and forbidden thing, and requires its bearer to commit the ultimate taboo: to slay an innocent—one who has done you no wrong—and consume their flesh." 
+* One of those outcasts was [[Non-Player Characters/The Werewolf Den/Kiril Stoyanovich|Kiril]] Stoyanovich, a young **werewolf** who joined the pack alongside his wife, Bianca. Where Zuleika had endured years of meditation to master her curse, however, Kiril was impatient and thirsty to prove himself. “There is a way for a werewolf to embrace his curse wholeheartedly," she murmurs, “without wisdom or reservation. It is a dark and forbidden thing, and requires its bearer to commit the ultimate taboo: to slay an innocent—one who has done you no wrong—and consume their flesh." 
 * Although she was never able to prove Kiril had done so, his rapid progress roused her suspicions, and she watched warily as he became ever-more reckless, bloodthirsty, and cruel, often ranging far afield to go hunting on his own. Zuleika pitied his wife, Bianca, who often struggled to calm Kiril’s dark moods and rages. “I never asked where she came from," Zuleika says softly. “When we join the pack, we are born anew, leaving the ash of our old lives behind. But I know she gave up much to be with us—and even more to be with him."
 * Five years ago, the pack’s leader—an old **werewolf** named Skennis—stepped down from his position. Although Skennis had chosen Emil, Zuleika’s husband, to succeed him, Kiril challenged Emil for control of the pack. Emil swiftly defeated him, however, and Kiril nursed a grudge against Emil ever since.
-* Three months ago, shortly after Strahd awoke from his long slumber, Emil began to discuss a plan for departing through the Mists, before Strahd imprisoned them there forever. Not long thereafter, Kiril vanished from the pack for seven full days. When he returned, he was flanked by six of Strahd’s **dire wolves**—and his lycanthropic strength had mutated and grown, leaving him a terrible force to be reckoned with. "He stank of the swamp," Zuleika growls, her lip curling, "and of foul, tainted witchcraft." (If asked, Zuleika can confirm that she suspects Baba Lysaga—the witch of Berez—was somehow involved in Kiril's transformation, which, in her opinion, "left him more curse than man.") 
+* Three months ago, shortly after Strahd awoke from his long slumber, Emil began to discuss a plan for departing through the Mists, before Strahd imprisoned them there forever. Not long thereafter, Kiril vanished from the pack for seven full days. When he returned, he was flanked by six of Strahd’s **dire wolves**—and his lycanthropic strength had mutated and grown, leaving him a terrible force to be reckoned with. "He stank of the swamp," Zuleika growls, her lip curling, "and of foul, tainted witchcraft." (If asked, Zuleika can confirm that she suspects [[Non-Player Characters/Berez/Baba Lysaga|Baba Lysaga]]—the witch of [[Act III - The Broken Land/Arc Q - A Shining Beacon|Berez]]—was somehow involved in Kiril's transformation, which, in her opinion, "left him more curse than man.") 
 * Upon his return, Kiril made his bid for power. “He beat Emil within an inch of his life," Zuleika murmurs, “and bade the dire wolves to carry him away to the castle dungeons, to be punished for his disloyalty." When Zuleika attempted to stop him, Kiril defeated her as well, seizing her holy symbol and imprisoning her in her own shrine..
 
 If asked about the collars, or if the players offer or attempt to remove them, Zuleika can share the following information:
@@ -495,7 +495,7 @@ If asked about the shrine, corpses, treasure, or *Holy Symbol of Ravenkind*, or 
 > 
 > A cleric of Mother Night can grant a creature permission to take an item from the shrine. However, this permission has no effect if the cleric is being manipulated or coerced.
 
-Zuleika is willing to grant the players permission to take the *Holy Symbol of Ravenkind*—and no other treasure—if the players swear an oath to Mother Night to rescue Emil from the dungeons of Castle Ravenloft and help him reclaim his position as packleader from Kiril. 
+Zuleika is willing to grant the players permission to take the *Holy Symbol of Ravenkind*—and no other treasure—if the players swear an oath to Mother Night to rescue Emil from the dungeons of [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]] and help him reclaim his position as packleader from Kiril. 
 
 Zuleika warns the players that, should they fail to keep their oath by the moon's first light after the next new moon, their vitality and strength will sap each night that their oath remains unfulfilled. (See **Oath of the New Moon** below for details.)
 
@@ -522,7 +522,7 @@ If the players agree to swear Zuleika's oath and retrieve the *Holy Symbol of Ra
 > 
 > You can also use the holy symbol as a spellcasting focus for your cleric and paladin spells. You gain a +1 bonus to spell attack rolls and to the saving throw DCs of your cleric and paladin spells.
 ### Bianca’s Return
-Partway through the players’ conversation with Zuleika—before the players learn how to free Ilya or obtain the *Holy Symbol of Ravenkind*—Bianca Stoyanovich descends from the ring of stone on the rocky ledge above, passes through Kiril's cave (pushing past the curtain of stitched human skin), and approaches the Shrine of Mother Night. 
+Partway through the players’ conversation with Zuleika—before the players learn how to free Ilya or obtain the *Holy Symbol of Ravenkind*—Bianca Stoyanovich descends from the ring of stone on the rocky ledge above, passes through [[Non-Player Characters/The Werewolf Den/Kiril Stoyanovich|Kiril]]'s cave (pushing past the curtain of stitched human skin), and approaches the Shrine of Mother Night. 
 
 Any character with a passive Wisdom (Perception) score of 18 or above hears Bianca pass through the curtain at the rear of Kiril’s Cave. Characters who act swiftly can conceal themselves from view by moving along the southern staircase and succeeding on a DC 20 group Dexterity (Stealth) check. (On a failure, Bianca confronts them atop the southern staircase, obstructing their escape.)
 
@@ -553,7 +553,7 @@ If asked for the source of her fear, Bianca shudders and says only, “He’s al
 ## L4f. Kiril’s Return
 If Bianca breaks the _crystal of alarm_, the werewolf pack returns to the den after 10 minutes. The pack includes eighteen **wolves**, eight **werewolves**, and [[Non-Player Characters#Kiril Stoyanovich|Kiril Stoyanovich]].
 
-If the players remain at the den, Kiril directs the wolves and werewolves to attack them as described in [[Arc Q - A Shining Beacon#Q5. Pack Attack|Arc Q - A Shining Beacon]]. 
+If the players remain at the den, [[Non-Player Characters/The Werewolf Den/Kiril Stoyanovich|Kiril]] directs the wolves and werewolves to attack them as described in [[Arc Q - A Shining Beacon#Q5. Pack Attack|Arc Q - A Shining Beacon]]. 
 
 If the players have departed the den, but failed to conceal their trail with magic (e.g., *pass without trace* or *dimension door*), Kiril and the pack pursue them. If the players remain outside of a settlement's walls, they must succeed on a DC 19 group Dexterity (Stealth) check to evade the pack's notice. If the pack finds the players, Kiril directs the wolves and werewolves to attack them as described in [[Arc Q - A Shining Beacon#Q5. Pack Attack|Arc Q - A Shining Beacon]]. 
 

@@ -14,10 +14,10 @@ Our aim is to create a memorable and enjoyable gothic horror experience for ever
 A list of potentially uncomfortable topics you might want to discuss with your players before beginning the campaign includes:
 
 * Child abuse and death (e.g., the Durst children)
-* Torture and mutilation (e.g., Kasimir's severed ears)
+* Torture and mutilation (e.g., [[Non-Player Characters/Town of Vallaki/Kasimir Velikov|Kasimir]]'s severed ears)
 * Mind control (e.g., Strahd's ***charm*** ability)
 * (Implied) incest (e.g., the Belviews)
-* Stalking and (symbolic) sexual assault (e.g., Strahd's obsession with Ireena)
+* Stalking and (symbolic) sexual assault (e.g., Strahd's obsession with [[Non-Player Characters/Village of Barovia/Ireena Kolyana|Ireena]])
 * Suicide (e.g., Tatyana's death)
 * Drug addiction (e.g., the dream pastries)
 * Body horror (e.g., the vestiges' dark gifts)

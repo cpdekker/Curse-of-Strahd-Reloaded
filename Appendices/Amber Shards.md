@@ -1,4 +1,4 @@
-Throughout the adventure, the players will have the opportunity to obtain one or more *amber shards*—fragments of the amber sarcophagi that imprison the vestiges of the Amber Temple.
+Throughout the adventure, the players will have the opportunity to obtain one or more *amber shards*—fragments of the amber sarcophagi that imprison the vestiges of the [[Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight|Amber Temple]].
 
 Though they don't carry the full essence of the vestiges, each amber shard bears a psychic link to the sarcophagus from which it came. Through that link, a vestige can whisper to the shard's holder, offering promises of power in exchange for descent into corruption.
 
@@ -114,7 +114,7 @@ If the player declines the voice's offer, they can commune with the vestige agai
 
 ***Condition.*** Your skin turns ice-blue and brittle. You have disadvantage on Strength checks.
 ## Khirad, the Star of Secrets
-*Shard Location: The Amber Temple*
+*Shard Location: The [[Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight|Amber Temple]]*
 
 ***Spell.*** _Phantasmal Killer._
 
@@ -128,7 +128,7 @@ If the player declines the voice's offer, they can commune with the vestige agai
 
 ***Condition.*** Your eyes become starry voids. You have disadvantage on Wisdom (Perception) checks.
 ## Great Taar Haak, the Five-Headed Destroyer
-*Shard Location: Castle Ravenloft*
+*Shard Location: [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]]*
 
 ***Spell.*** _Earth Tremor (at 5th level)._
 
@@ -158,7 +158,7 @@ If the player declines the voice's offer, they can commune with the vestige agai
 
 ***Condition.*** You become twitchy and nervous. You have disadvantage on Charisma (Deception) checks.
 ## Seriach, the Hell Hound Whisperer
-*Shard Location: Izek Strazni*
+*Shard Location: [[Non-Player Characters/Town of Vallaki/Izek Strazni|Izek]] Strazni*
 
 ***Spell.*** _Scorching Ray._
 

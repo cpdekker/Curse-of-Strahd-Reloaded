@@ -146,7 +146,7 @@ A snow-swept gravel road climbs the mountainside as it travels north from Tsolen
 
 A thin blanket of mist drifts lazily from the archway, then splits, forming a low perimeter around the temple.
 
-As the players approach, Kasimir quietly reminds them of Patrina’s cryptic message: that she hid the weapon they seek “beneath the roots of Strahd’s power, in the one place he feared to tread." (If the players appear uncertain how to interpret Patrina’s message, Kasimir, Ezmerelda, or Ireena encourage them to review the *Tome of Strahd* for clues.)
+As the players approach, [[Non-Player Characters/Town of Vallaki/Kasimir Velikov|Kasimir]] quietly reminds them of Patrina’s cryptic message: that she hid the weapon they seek “beneath the roots of Strahd’s power, in the one place he feared to tread." (If the players appear uncertain how to interpret Patrina’s message, Kasimir, [[Non-Player Characters/Abbey of St. Markovia/Ezmerelda dAvenir|Ezmerelda]], or [[Non-Player Characters/Village of Barovia/Ireena Kolyana|Ireena]] encourage them to review the *Tome of Strahd* for clues.)
 
 > [!lore]+ **Patrina’s Riddle**
 > Fearful that Strahd might somehow eavesdrop on Kasimir’s dreams, Patrina concealed her message in a riddle. The “roots of Strahd’s power" refer to the gnarled black tree in [[#The Vampyr’s Sarcophagus]]. “The one place he feared to tread" refers to the canal of blood and souls around the tree, representing Strahd’s greatest fear: Death.
@@ -600,7 +600,7 @@ If Dorina successfully possesses a character, she pretends to be that character 
 >
 > A player who succeeds on a DC 15 Intelligence (Arcana) check recalls a ghost’s general weaknesses, which are as described in <span class="citation">Ghost (<em>Monster Manual</em>, p. 147)</span>. Due to her method of death, Dorina immediately flees a possessed target if that target suffers cold damage or fails a saving throw against the effects of <span class="citation">Extreme Cold (<em>Dungeon Master’s Guide</em>, p. 110)</span>. 
 
-A player who notices Dorina’s ghost, or who attempts to speak with her after restraining her possessed target, can convince her to speak with them instead by succeeding on a DC 20 Charisma (Persuasion) check, or by claiming to be a servant of Strahd or Baba Lysaga and succeeding on a DC 12 Charisma (Deception) check. Dorina’s ghost can then share the following information if asked:
+A player who notices Dorina’s ghost, or who attempts to speak with her after restraining her possessed target, can convince her to speak with them instead by succeeding on a DC 20 Charisma (Persuasion) check, or by claiming to be a servant of Strahd or [[Non-Player Characters/Berez/Baba Lysaga|Baba Lysaga]] and succeeding on a DC 12 Charisma (Deception) check. Dorina’s ghost can then share the following information if asked:
 
 * Her name is Dorina. She came to the Amber Temple nine years ago bearing an *amber shard of Khirad*, the Star of Secrets, seeking an answer to how she could escape Barovia.
 * As she ascended Mt. Ghakis, she was attacked by a "monster" (an amber-touched **barlgura**) and lost most of her supplies, leaving her stranded in the Amber Temple with no food or shelter. She froze to death shortly thereafter. Her spirit has been trapped here ever since, though Dorina doesn’t know why. (“The Mist traps us," she hisses. “It binds and ensnares, oh yes.")
@@ -741,7 +741,7 @@ The first scroll contains a precise sketch of three amber sarcophagus, whose fro
 ![[Khazan notes 1.png]]
 <span class="credit">"Khazan's Notes" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-The second scroll contains a similar sketch of Castle Ravenloft's North Tower Peak, including Heart of Sorrow below. A scrawled note at the bottom reads: “Composition: crystallized blood. Means of suspension: Unknown (nonmagical). Notes: Highly conductive to arcane energies, with potentially exceptional storage capacities. Arcane signature resonates with the mists around the valley. Why?" (The last word is underlined three times.)
+The second scroll contains a similar sketch of [[Act III - The Broken Land/Arc O - Dinner with the Devil|Castle Ravenloft]]'s North Tower Peak, including Heart of Sorrow below. A scrawled note at the bottom reads: “Composition: crystallized blood. Means of suspension: Unknown (nonmagical). Notes: Highly conductive to arcane energies, with potentially exceptional storage capacities. Arcane signature resonates with the mists around the valley. Why?" (The last word is underlined three times.)
 
 ![[Khazan notes 2.png]]
 <span class="credit">"Khazan's Notes" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -1973,7 +1973,7 @@ Patrina greets the players with mocking warmth, thanking them for freeing her fr
 
 ***Patrina’s Schemes.*** Patrina is glad to share the following information if prompted or asked, pausing as necessary or appropriate to allow the players to respond:
 
-* She is Patrina Velikovna, the sister of Kasimir Velikov. 
+* She is Patrina Velikovna, the sister of [[Non-Player Characters/Town of Vallaki/Kasimir Velikov|Kasimir]] Velikov. 
 * More than four hundred years ago (“as my baby brother no doubt has told you," Patrina sniffs), “Old King Barov" of the von Zarovich family decided to shake down the dusk elves for "pocket change." "Dear Uncle Erevan didn't like that," she says, showing white teeth in a grim, predatory smile. "And Barov didn't like that he disliked it. And so, dear Uncle Lion Cub found his family put to the sword, lands pillaged and destroyed, babes dashed across the walls—all of those *lovely* parts of war.
 * "It was in the aftermath of Erevan's downfall that dear Kasimir and I came of age," she continues. "Imagine this: You're a dainty, naive, young girl a mere century old, and all you see around you are your own beloved people, their backs breaking in Old King Barov's labor camps. What's a girl to do?"
 * Whether the players respond or not, Patrina continues: "I won't claim the glory or honor of being the first to call for rebellion, but I'd gladly claim the glory of being among the first when Barov’s son took the throne." She chuckles darkly, a low, throaty sound. "We thought him a naive starling—scarcely fifty summers old. How wrong we were."
@@ -2013,7 +2013,7 @@ The players can try to discourage Kasimir from accepting Patrina’s offer. If t
 Patrina might make one or more of the following arguments (in any order), moving to a new argument each time her previous argument succeeds or fails:
 
 * Patrina asks Kasimir whether his “tantrum in her laboratory" has achieved the results he had hoped for. “Did killing me bring back any of the humans who had already died?" she asks softly. “Did it help *their* people, the Barovians, let alone ours? Or did it lead only to greater calamity, with naught to show of it but blood and death?"
-* Patrina vows that only she can help Kasimir achieve vengeance against Strahd - and “the betrayer, Rahadin." “When Barov’s armies first laid waste to our forests, we vowed that, one day, his line would pay - and our people would have a home again," she hisses. “I never forgot that vow. Did you?"
+* Patrina vows that only she can help Kasimir achieve vengeance against Strahd - and “the betrayer, [[Non-Player Characters/Castle Ravenloft/Rahadin|Rahadin]]." “When Barov’s armies first laid waste to our forests, we vowed that, one day, his line would pay - and our people would have a home again," she hisses. “I never forgot that vow. Did you?"
 * Patrina warns Kasimir that Strahd is “surely aware" of his meddlings in the Amber Temple, and that it’s not long before he learns that Kasimir has found the hilt of King Barov’s broken *Brightblade*. “If he sees you with this hilt," she warns, “he will destroy you - and this time, not one of our people will survive. Only *I* can protect you; these outsiders will only bring you to ruin."
 * Patrina tells Kasimir that “only I can replicate the binding that once empowered King Barov’s *Brightblade* - and only I can repair and reforge it, so that we may wield the only weapon he has ever feared." 
 * Patrina asks Kasimir, softly, whether he knows where King Barov’s *Brightblade* came from. “It was Uncle Erevan’s *Moonblade*, perverted and reforged," she hisses. “Before Strahd’s pet wizard broke it, it held Erevan’s soul sealed within it. This weapon *belongs* to us; it is *ours* to wield. It is our legacy, our vengeance, our *birthright* - together."
