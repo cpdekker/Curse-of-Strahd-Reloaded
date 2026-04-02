@@ -54,7 +54,7 @@
 - [[Non-Player Characters/Abbey of St. Markovia/Vasilka|Vasilka]]
 
 ## The Wizard of Wines
-- [[Non-Player Characters/The Wizard of Wines/Davian Martikov|Davian Martikov]]
+- [[Non-Player Characters/The Wizard of Wines/The Martikov Family|The Martikov Family]]
 
 ## The Werewolf Den
 - [[Non-Player Characters/The Werewolf Den/Bianca Stoyanovich|Bianca Stoyanovich]]
