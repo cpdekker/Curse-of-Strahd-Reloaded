@@ -371,14 +371,14 @@ If told that the players are seeking a Vistana who’s staying at the Abbey, Zyg
 > [!info]+ **Where's Ezmerelda?**
 > In the days leading up to the players’ first full moon in Vallaki, Ezmerelda is searching the Svalich Wood near Krezk for signs of the missing Ilya Krezkov, as well as the den of the werewolf pack that haunts those woods. She doesn’t plan to return to the Abbey until the second day after the players' first full moon in Vallaki.
 
-After passing through the north gate, the players pass <span class="citation">S7. Graveyard (p. 148)</span> and approach <span class="citation">S10. Abbey Entrance (p. 148)</span>. 
+After passing through the north gate, the players pass a graveyard near the foundation of the abbey's north wing, where stunted pine trees grow out of the rocky earth and ancient gravestones bearing the names of long-dead priests and nuns burst from a thin crust of snow, and approach the abbey entrance. 
 
-If Otto and Zygfrek are accompanying the players, Otto leaps toward the wooden doors and knocks three times, whinnying in greeting. A few moments later, Clovin Belview (who is as described in <span class="citation">S17. Loft and Belfry (p. 152)</span>) answers the door and greets him skeptically, noting with irritation, “You’re not supposed to leave your posts." 
+If Otto and Zygfrek are accompanying the players, Otto leaps toward the wooden doors and knocks three times, whinnying in greeting. A few moments later, Clovin Belview (a two-headed mongrelfolk who resides in the abbey's loft and belfry, where the wood-paneled room holds a fire pit, a brightly painted toy box, a wooden chest, and a small bed sized for a child) answers the door and greets him skeptically, noting with irritation, “You’re not supposed to leave your posts." 
 
-Otto apologizes for doing so, and Zygfrek introduces the players and their purpose (if shared). Clovin then inspects the players for a moment, then turns and invites them to follow him into <span class="citation">S12. Courtyard (p. 150)</span>, toward the main hall, where the Abbot awaits. (If they do, Otto and Zygfrek then return to their posts—and their naps.)
+Otto apologizes for doing so, and Zygfrek introduces the players and their purpose (if shared). Clovin then inspects the players for a moment, then turns and invites them to follow him into the fog-filled courtyard—surrounded by a fifteen-foot-high curtain wall lined with scarecrows, with a stone well fitted with an iron winch at its center, several padlocked stone sheds along the perimeter, and two wooden tethering posts with iron rings—toward the main hall, where the Abbot awaits. (If they do, Otto and Zygfrek then return to their posts—and their naps.)
 
 > [!lore]+ **The Belviews' Perfection**
-> When the Belviews’ ancestors came to the Abbot over a century ago as described in <span class="citation">The Abbot (p. 225)</span>, they did not suffer leprosy, but a congenital disease that struck in early adulthood, leaving its victims physically frail and prematurely aged in appearance. 
+> When the Belviews’ ancestors came to the Abbot over a century ago seeking salvation, they did not suffer leprosy, but a congenital disease that struck in early adulthood, leaving its victims physically frail and prematurely aged in appearance. 
 > 
 > The Abbot, though able to cure ordinary illness, could not heal them of this condition. Frustrated, desperate, and reluctantly encouraged by the Belviews’ pleas, the Abbot searched for other means of doing so.
 > 
@@ -455,7 +455,7 @@ Finally, the Abbot can also share the following information about Saint Markovia
 > [!lore]+ **Who is the Abbot?**
 > The Abbot—in truth a **deva** named Ithuriel—was once an angelic emissary of the Morninglord. It was he who chose Markovia to be the Morninglord’s prophet, and he who guided the oracle Tasha Petrovna to find and sanctify her, bestowing upon Markovia the holy relic that would one day become the *Icon of Dawn's Grace*—a mark of office that contained a spark of the Abbot’s pure divinity. (It was on this occasion that the Abbot—by chance—first encountered Strahd von Zarovich, then a commanding officer in King Barov’s army.)
 > 
-> The Abbot, who first arrived in Krezk as described in <span class="citation">Chapter 8: The Village of Krezk (p. 143)</span> and <span class="citation">The Abbot (p. 225)</span>, came to the Abbey in memory of Saint Markovia, hoping to honor and restore the legacy of the woman he had once elevated. 
+> The Abbot, who first arrived in Krezk over a century ago as a strikingly handsome and extremely persuasive pilgrim from a distant land who insisted that he be allowed to reopen the abbey, came to the Abbey in memory of Saint Markovia, hoping to honor and restore the legacy of the woman he had once elevated. 
 > 
 > However, the Dark Powers have corrupted his soul, subtly binding and tainting the Abbot’s divinity with chains and shrouds of spiritual mist. It was the Belviews who, through the Dark Powers’ quiet machinations, forged the first link in that chain—and Strahd who helped the Abbot fall from grace completely.
 > 
@@ -489,7 +489,7 @@ If the players accept, the Abbot asks Vasilka to introduce herself, which she do
 
 Throughout the lesson, Vasilka listens to the players with rapt attention and fascination, asking frequent clarifying and follow-up questions.
 
-At an appropriate time, she asks the players whether flowers are a proper way to signify one’s care for another. As soon as the players have answered this question, Marzena, the bat-winged Belview in the courtyard (described in <span class="citation">S12d. Tethering Posts, p. 150</span>), escapes her post. Read:
+At an appropriate time, she asks the players whether flowers are a proper way to signify one’s care for another. As soon as the players have answered this question, Marzena, a chaotic neutral mongrelfolk with bat-like wings chained to one of the courtyard's wooden tethering posts, escapes her post. Read:
 
 <div class="description">
 <p>The terrible splintering of wood suddenly splits the air, followed immediately by the sound of rattling chains, beating, leathery wings, and an unintelligible scream of triumph. A moment later, a wide-eyed Clovin Belview bursts through the doors, his chest heaving as the cherubic head upon his shoulder wails with distress. "Marzena has escaped," he pants.</p>
@@ -542,13 +542,13 @@ The Abbot guides the players to the doorway of the foyer of the East Wing. The r
 
 The Abbot asks the golem to “escort our guests to Miss d’Avenir’s chambers." The golem makes no verbal response, but turns and pauses, as if waiting for the players to follow it. If the players do so, the Abbot bids them farewell and returns to the main hall.
 
-The golem leads the players past <span class="citation">S15. Madhouse (p. 151)</span> and up the stairs to <span class="citation">S20. Upstairs Office (p. 154)</span>. It then opens the door leading to <span class="citation">S18. Curtain Wall (p. 154)</span> and silently points toward <span class="citation">S19. Barracks (p. 154)</span>, though it never steps foot outside of the East Wing. (Each of these areas are otherwise as described in the original module.)
+The golem leads the players past the madhouse—a series of rooms where mongrelfolk are confined in various states of madness, some cradling treasured objects, some brawling, some chanting nonsense, and some wallowing in filth—and up the stairs to the upstairs office, where chopped-up body parts plundered from Krezkite graves lie beneath a black shroud on a table. It then opens the door leading to the curtain wall—lined with scarecrows lashed to wooden stands, looking outward over the fog-blanketed courtyard—and silently points toward the barracks, a moldy, thirty-foot-square room filled with heaps of disintegrated bunk beds, though it never steps foot outside of the East Wing.
 
 If a player proffers Vasilka’s garland necklace to the golem, it regards it with little comprehension. If asked to lower its neck for the player to place the necklace around it, the golem does so without protest. If the players provide the golem with the necklace to hold, it can be seen wearing the necklace when the players next return to it.
 
 The door to the barracks is slightly ajar, and the sound of scratching chalk can be heard from the other side. As the players move to knock or enter, they can hear the sound of chalk breaking, followed by a muffled curse immediately after. (If the players knock, an annoyed woman’s voice invites them to come in a moment later.)
 ### Meeting Ezmerelda
-The barracks are largely described as in <span class="citation">S19. Barracks (p. 154)</span>. However, add the following to the end of this area’s description:
+The barracks are a moldy, thirty-foot-square room where bunk beds that have disintegrated with age lie in heaps along the walls. However, add the following to the end of this area’s description:
 
 <div class="description">
 <p>At the center of the chamber, a ten-foot-square section purged of mold stands in stark contrast to the surrounding rot. An unrolled bedroll rests within this small island of cleanliness, accompanied by a worn backpack and a trio of sheathed weapons lying nearby.</p>
@@ -709,7 +709,7 @@ The presence is the spirit of Saint Markovia, which can communicate with the pla
  (A player who inspects the room using the *spirit mirror* sees Saint Markovia standing over Ezmerelda’s shoulder, wearing the clean, white robes of a priest with a golden mace in the shape of a sunburst sheathed upon her back.)
 
 > [!info]+ **Seances with the Tarokka Deck**
-> When using cards of the Tarokka deck to answer player questions during a seance, each card possesses a unique meaning described in <span class="citation">Appendix E: The Tarokka Deck (p. 243-44)</span>. (For example, the <strong>Artifact</strong> card represents “The importance of some physical object that must be obtained, protected, or destroyed at all costs.")
+> When using cards of the Tarokka deck to answer player questions during a seance, each card possesses a unique meaning. The tarokka deck contains fifty-four cards: forty in the common deck (divided into four suits—swords, coins, stars, and glyphs—each containing cards numbered one through nine plus a master card) and fourteen in the high deck, which symbolize the natural forces of the multiverse. Swords symbolize aggression and violence; stars symbolize the desire for personal power and magical knowledge; coins symbolize avarice and the desire for material wealth; and glyphs symbolize faith, spirituality, and the inner self. (For example, the <strong>Artifact</strong> card represents “The importance of some physical object that must be obtained, protected, or destroyed at all costs.")
 > 
 > If she is present, Ezmerelda can share each card’s meaning directly, though the players must interpret that meaning themselves in the context of their original question. A player with proficiency in the use of Tarokka cards also knows all card meanings automatically. Otherwise, a player must succeed on a DC 15 Arcana (Intelligence) check to recall the meaning of a particular card.
 > 
@@ -763,7 +763,7 @@ Immediately after the spirit answers the players’ tenth question, the players 
 > * **Guidance and Advice**: Avoid using party NPCs to provide direct solutions to puzzles, challenges, or strategic decisions. Although a party NPC might provide quiet commentary where a matter pertains to their expertise, they should offer clear hints or guidance only when directly asked, and the scope of their help should be relatively restricted.
 
 > [!info]+ **The Artifact**
-> The statuette depicted in the séance is currently located in Saint Markovia's crypt in <span class="citation">K84. Catacombs (p. 85)</span>, and is described further in [[Arc P - Ravenloft Heist#South Crypts, Third Row|Arc P - Ravenloft Heist]]. 
+> The statuette depicted in the séance is currently located in Saint Markovia's crypt in the catacombs buried deep beneath the keep of Ravenloft, and is described further in [[Arc P - Ravenloft Heist#South Crypts, Third Row|Arc P - Ravenloft Heist]]. 
 
 ***Milestone.*** Recruiting Ezmerelda d'Avenir as an ally completes a story milestone. When the players complete the seance, award each player 1,000 XP.
 ##### The Eavesdroppers
@@ -782,7 +782,7 @@ The Belviews ask the players to find and speak with Cyrus upon visiting Castle R
 If the players agree to carry out their request, the three Belviews are deeply grateful, with Otto leaping and hee-hawing with joy as Clovin hurries to quiet him.
 
 > [!info]+ **Clovin's Treasure**
-> If the players return from Castle Ravenloft with news of Cyrus, Clovin brings them to a wooden stand covered with black cloth in the southeast corner of the <span class="citation">S17. Loft and Belfry (p. 152)</span>. From the stand hang two sets of *wings of flying* with animal-bone frames. (The Abbot crafted the wings as part of his original experiments with the Belviews, but abandoned them long ago.) They have the following changes:
+> If the players return from Castle Ravenloft with news of Cyrus, Clovin brings them to a wooden stand covered with black cloth in the southeast corner of the loft and belfry. From the stand hang two sets of *wings of flying* with animal-bone frames. (The Abbot crafted the wings as part of his original experiments with the Belviews, but abandoned them long ago.) They have the following changes:
 > 
 > * The wings are artificial wings, rather than cloaks, and animate when activated instead of transforming.
 > * A set of wings animates for 1 minute, rather than 1 hour

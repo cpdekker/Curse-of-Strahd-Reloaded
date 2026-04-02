@@ -26,19 +26,19 @@ Upon returning to their chosen settlement at the conclusion of [[Arc O - Dinner 
 > > 
 > > <span class="credit">"Doru's Map" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 > >
-> > <span class="citation">K1. Front Courtyard (p. 52)</span>. “The drawbridge leads right into the front courtyard. I’m not sure if it’ll be up for you—it was down when we first went in, but the Master—er, Strahd kept it up often." 
-> > <span class="citation">K7. Entry (p. 54)</span>. “The dragon statues here always gave me a weird feeling—like they were watching me. Be careful."
-> > <span class="citation">K8. Great Entry (p. 55)</span>. “The gargoyles also always gave me a weird feeling. I swear I once saw one of them move."
-> > <span class="citation">K14. Hall of Faith (p. 57)</span>. “This hall just gave me the creeps."
-> > <span class="citation">K15. Chapel (p. 57)</span>. “I’m sure it was beautiful once, but not anymore. I saw an armored corpse there once, but it was gone the next day. It might be worth taking a look around to see if anything is left."
-> > <span class="citation">K16. North Chapel Access (p. 58)</span>. “I’m not sure where this chamber led, but it seemed to lead up."
-> > <span class="citation">K17. South Chapel Access (p. 58)</span>. “This chamber led down."
-> > <span class="citation">K18. High Tower Staircase (p. 58)</span>. “This staircase led straight down to the crypts."
-> > <span class="citation">K84. Catacombs (p. 85)</span>. “I spent most of my time here, amongst the bats on the ceilings. I could never remember all of the names on the crypts, though." (If asked, Doru can mark the approximate locations of King Dostron’s and Saint Markovia’s crypts, which are now located in Crypt 34 and Crypt 40, respectively.)
-> > <span class="citation">K85. Sergei’s Tomb (p. 93)</span>. “I never saw what was in this tomb—there was a portcullis blocking the entrance. It was always well-lit, though."
-> > <span class="citation">K86. Strahd’s Tomb (p. 93)</span>. “This was *his* tomb. I still remember opening the coffin when we first marched on it—and finding it empty."
-> > <span class="citation">K87. Guardians (p. 94)</span>. “There was a strange magic curtain blocking the staircase down. I didn’t know if it was helpful or harmful, but I tried to steer clear nonetheless."
-> > <span class="citation">K88. Tomb of King Barov and Queen Ravenovia (p. 94)</span>. “There was some kind of tomb down here, but I don’t know whose. Rahadin came here often."
+> > the front courtyard of Castle Ravenloft. “The drawbridge leads right into the front courtyard. I’m not sure if it’ll be up for you—it was down when we first went in, but the Master—er, Strahd kept it up often." 
+> > the castle entry. “The dragon statues here always gave me a weird feeling—like they were watching me. Be careful."
+> > the great entry. “The gargoyles also always gave me a weird feeling. I swear I once saw one of them move."
+> > the Hall of Faith. “This hall just gave me the creeps."
+> > the chapel. “I’m sure it was beautiful once, but not anymore. I saw an armored corpse there once, but it was gone the next day. It might be worth taking a look around to see if anything is left."
+> > the north chapel access. “I’m not sure where this chamber led, but it seemed to lead up."
+> > the south chapel access. “This chamber led down."
+> > the high tower staircase. “This staircase led straight down to the crypts."
+> > the catacombs. “I spent most of my time here, amongst the bats on the ceilings. I could never remember all of the names on the crypts, though." (If asked, Doru can mark the approximate locations of King Dostron’s and Saint Markovia’s crypts, which are now located in Crypt 34 and Crypt 40, respectively.)
+> > Sergei’s tomb. “I never saw what was in this tomb—there was a portcullis blocking the entrance. It was always well-lit, though."
+> > Strahd’s tomb. “This was *his* tomb. I still remember opening the coffin when we first marched on it—and finding it empty."
+> > the guardians' room. “There was a strange magic curtain blocking the staircase down. I didn’t know if it was helpful or harmful, but I tried to steer clear nonetheless."
+> > the tomb of King Barov and Queen Ravenovia. “There was some kind of tomb down here, but I don’t know whose. Rahadin came here often."
 >
 > > [!info]+ **What Van Richten Knows**
 > > If asked, Van Richten can provide a rough boxes-and-lines map of the following areas, with additional commentary:
@@ -47,24 +47,24 @@ Upon returning to their chosen settlement at the conclusion of [[Arc O - Dinner 
 > > 
 > > <span class="credit">"Van Richten's Map" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 > >
-> > <span class="citation">K1. Front Courtyard (p. 52)</span>. “The drawbridge leads into the front courtyard. I observed two gate towers, which I presume contain the mechanism that controls the bridge."
-> > <span class="citation">K2. Center Court Gate (p. 54)</span>. “There are two side courtyards—one north, one south. The north was obstructed by a heavy, old portcullis, which I only barely managed to lift. I presume the south was as well."
-> > <span class="citation">K3. Servants’ Courtyard (p. 54)</span>. “The servants’ courtyard, I presume, complete with a servants’ entrance. The door sticks, so be careful should you need to flee through it in a hurry."
-> > <span class="citation">K4. Carriage House (p. 54)</span>. “I presume it holds Strahd’s carriage."
-> > <span class="citation">K5. Chapel Garden (p. 54)</span>. “I believe a garden sits back here. I didn’t get a good look, however."
-> > <span class="citation">K7. Entry (p. 54)</span>. “Be careful should you enter through the front—doubtless, something will be watching."
-> > <span class="citation">K8. Great Entry (p. 55)</span>. “A major junction. Be careful you don’t get lost."
-> > <span class="citation">K14. Hall of Faith (p. 57)</span>. “I’m sure I briefly heard a metallic grinding behind the south wall, but I suppose it might have been my imagination."
-> > <span class="citation">K15. Chapel (p. 57)</span>. “Don’t forget to check the balcony overhead, just to make sure you’re not being watched."
-> > <span class="citation">K16. North Chapel Access (p. 58)</span>. “I’m confident this chamber led up to the balcony overlooking the chapel."
-> > <span class="citation">K17. South Chapel Access (p. 58)</span>. “This chamber led down."
-> > <span class="citation">K18. High Tower Staircase (p. 58)</span>. “This staircase led straight down to the crypts. I noticed a large crack in one of the walls, about halfway down—likely a passageway for a vampire in mist form."
-> > <span class="citation">K21. South Tower Stair (p. 59)</span>. “The heart of the castle. If you can find this staircase, you always know where you are."
-> > <span class="citation">K23. Servants’ Entrance (p. 59)</span>. “The rear entrance. An excellent place to sneak in."
-> > <span class="citation">K61. Elevator Trap (p. 74)</span>. “A quiet corridor. I noticed some strange indentations along the floor as I fled the castle, but couldn’t afford the time to investigate."
-> > <span class="citation">K62. Servants’ Hall (p. 76)</span>. “The servants’ hall, I presume."
-> > <span class="citation">K84. Catacombs (p. 85)</span>. “Be careful you don’t get lost down here—or open the wrong door. Dark things lurk amongst the crypts. I’m sure it’s only gotten worse with Strahd’s awakening."
-> > <span class="citation">K86. Strahd’s Tomb (p. 93)</span>. “Strahd’s tomb—and the resting place of his coffin. I’m sure he’s a light sleeper, though."
+> > the front courtyard of Castle Ravenloft. “The drawbridge leads into the front courtyard. I observed two gate towers, which I presume contain the mechanism that controls the bridge."
+> > the center court gate. “There are two side courtyards—one north, one south. The north was obstructed by a heavy, old portcullis, which I only barely managed to lift. I presume the south was as well."
+> > the servants’ courtyard. “The servants’ courtyard, I presume, complete with a servants’ entrance. The door sticks, so be careful should you need to flee through it in a hurry."
+> > the carriage house. “I presume it holds Strahd’s carriage."
+> > the chapel garden. “I believe a garden sits back here. I didn’t get a good look, however."
+> > the castle entry. “Be careful should you enter through the front—doubtless, something will be watching."
+> > the great entry. “A major junction. Be careful you don’t get lost."
+> > the Hall of Faith. “I’m sure I briefly heard a metallic grinding behind the south wall, but I suppose it might have been my imagination."
+> > the chapel. “Don’t forget to check the balcony overhead, just to make sure you’re not being watched."
+> > the north chapel access. “I’m confident this chamber led up to the balcony overlooking the chapel."
+> > the south chapel access. “This chamber led down."
+> > the high tower staircase. “This staircase led straight down to the crypts. I noticed a large crack in one of the walls, about halfway down—likely a passageway for a vampire in mist form."
+> > the south tower stair. “The heart of the castle. If you can find this staircase, you always know where you are."
+> > the servants’ entrance. “The rear entrance. An excellent place to sneak in."
+> > the elevator trap. “A quiet corridor. I noticed some strange indentations along the floor as I fled the castle, but couldn’t afford the time to investigate."
+> > the servants’ hall. “The servants’ hall, I presume."
+> > the catacombs. “Be careful you don’t get lost down here—or open the wrong door. Dark things lurk amongst the crypts. I’m sure it’s only gotten worse with Strahd’s awakening."
+> > Strahd’s tomb. “Strahd’s tomb—and the resting place of his coffin. I’m sure he’s a light sleeper, though."
 
 > [!abstract]+ **What the Martikovs Know**
 > Players who ask Davian or Urwin Martikov for information about Castle Ravenloft's layout can learn that the castle has three towers: (1) the north tower, which stands atop the guards' quarters beneath the castle, and was primarily used for defending the keep; (2) the south tower, which connects every level of the main castle, and which was used by guests, servants and Strahd's court alike; and (3) the high tower in the east, which runs from the depths of the catacombs to the castle's highest point, and which bears a shaft in the center that leads directly from the tower's peak to the catacombs below.
@@ -84,16 +84,16 @@ Upon returning to their chosen settlement at the conclusion of [[Arc O - Dinner 
 > **Muriel Vinshaw (Any).** Muriel is reluctant to venture into Ravenloft due to Davian’s orders and her grief over Elric’s death, though she is more than happy to meet the players with several **swarms of ravens** to assist their efforts to enter the castle. However, a player who promises Muriel an opportunity to obtain justice for Elric and succeeds on a DC 20 Charisma (Persuasion) check can convince her to join the party in the castle as well.
 # P2. The Old Svalich Road
 ## P2a. Approaching the Crossroads
-The journey from Vallaki to the castle crossroads is eight-and-a-half miles long and takes two hours and fifty minutes. As they travel, the players pass <span class="citation">Chapter 6: Old Bonegrinder (p. 125)</span> and the western <span class="citation">B. Gates of Barovia (p. 33)</span>.
+The journey from Vallaki to the castle crossroads is eight-and-a-half miles long and takes two hours and fifty minutes. As they travel, the players pass Old Bonegrinder and the western the Gates of Barovia.
 
-Alternatively, if the players are traveling from Barovia, the journey is ten and one-half miles long and takes three hours and thirty minutes. As they travel, the players cross <span class="citation">D. River Ivlis (p. 35)</span>, pass through <span class="citation">F. River Ivlis Crossroads (p. 35)</span>, pass the watchtower described in [[Act I - Into the Mists/Arc C - Into the Valley#C6. The Watchtower|Arc C - Into the Valley]], and cross the bridge at <span class="citation">H. Tser Falls (p. 37)</span>.
+Alternatively, if the players are traveling from Barovia, the journey is ten and one-half miles long and takes three hours and thirty minutes. As they travel, the players cross the River Ivlis, pass through the River Ivlis crossroads, pass the watchtower described in [[Act I - Into the Mists/Arc C - Into the Valley#C6. The Watchtower|Arc C - Into the Valley]], and cross the bridge at Tser Falls.
 
 > [!abstract]+ **The Revenant at the Falls**
 > As the players cross the bridge at Tser Falls, the **revenant** described in [[Act I - Into the Mists/Arc C - Into the Valley#C7b. Tser Falls|Arc C - Into the Valley]] hails them with familiarity. Although the revenant isn’t willing or able to take up arms against Strahd or his servants, players who mention their friendship with Sir Godfrey Gwilym and succeed on a DC 10 Charisma (Persuasion) check can convince the revenant to take some minor action to assist them, succeeding automatically if they mention their quest to restore Argynvost’s skull to his tomb. (The revenant won’t enter the castle or its grounds, but is otherwise glad to assist creative players.)
 
-As the players travel, they encounter a caravan of three **Vistani** riding a colorful, horse-drawn wagon from Tser Pool to Vallaki. (If the players are traveling from Vallaki, they encounter the Vistani near the monument to the Seeker described in [[Act I - Into the Mists/Arc C - Into the Valley#C9. Old Bonegrinder|Arc C - Into the Valley]]. If the players are traveling from Barovia, they encounter the Vistani at <span class="citation">F. River Ivlis Crossroads (p. 35)</span>.)
+As the players travel, they encounter a caravan of three **Vistani** riding a colorful, horse-drawn wagon from Tser Pool to Vallaki. (If the players are traveling from Vallaki, they encounter the Vistani near the monument to the Seeker described in [[Act I - Into the Mists/Arc C - Into the Valley#C9. Old Bonegrinder|Arc C - Into the Valley]]. If the players are traveling from Barovia, they encounter the Vistani at the River Ivlis crossroads.)
 
-This encounter begins as described in <span class="citation">Vistani Bandits (p. 32)</span>. However, as the Vistani come into view, read:
+This encounter begins as described in Vistani bandits. However, as the Vistani come into view, read:
 
 <div class="description">
 <p>A splash of color pierces the dreary gray, revealing a horse-drawn wagon painted in bold reds, blues, and golds. Two brightly-dressed Vistani amble alongside it, and an old Vistani man holds the reins gently from his place atop the coach, his long, grey beard swaying gently in the chill wind as he puffs smoke rings from an old wooden pipe.</p>
@@ -108,7 +108,7 @@ If asked to share Madam Eva’s “token," Stanimir removes a bead pouch from hi
 > [!lore]+ **The Stone Crest**
 > Only Madam Eva knows that the stone crest carried by Stanimir is secretly a holy symbol of the Ladies of the Fanes, allowing a faithful worshipper of the Ladies to call upon their divine magic to fuel spells.
 
-If the players are traveling from Barovia, Stanimir is glad to journey with them as far as the Ravenloft crossroads described in <span class="citation">I. Black Carriage (p. 37)</span> before parting ways.
+If the players are traveling from Barovia, Stanimir is glad to journey with them as far as the Ravenloft crossroads described in the black carriage before parting ways.
 
 Whether the players are coming from Barovia or Vallaki, if the players reunited Varushka’s spirit with Katarina’s locket in [[Arc O - Dinner with the Devil]], Stanimir abruptly recalls before departing that Madam Eva asked him to give the players a gift if he came across them in the valley, as thanks for assisting a “dear friend" of hers. (Stanimir doesn’t know who this friend is.) Stanimir then gives the players a _clairvoyance stone_ before wishing them well on their journey.
 
@@ -147,7 +147,7 @@ If any player has a passive Wisdom (Perception) score of 14 or greater, add:
 
 The figures are **wights**. (Because they’re patrolling the walls, the wights don’t notice the players immediately.)
 ## P2c. Strahd’s Departure
-Approximately fifteen minutes after dusk, Strahd descends to <span class="citation">Crypt 39 (p. 93)</span> and retrieves Beucephalus from his crypt. Strahd then mounts the **nightmare**, flies it up <span class="citation">K18a. High Tower Shaft (p. 58)</span>, and emerges from <span class="citation">K59. High Tower Peak (p. 73)</span> into the skies above Ravenloft. Read:
+Approximately fifteen minutes after dusk, Strahd descends to Crypt 39 and retrieves Beucephalus from his crypt. Strahd then mounts the **nightmare**, flies it up the high tower shaft, and emerges from the high tower peak into the skies above Ravenloft. Read:
 
 <div class="description">
 <p>A fiery ember emerges from the castle’s highest tower peak and cuts a blazing swathe westward across the sky. You catch the barest glimpse of an onyx-black steed, its mane awash with crimson flames, and a tall, richly-dressed silhouette atop its back—and then the air ripples around them, and both vanish into the abyss of the night sky.</p>
@@ -192,13 +192,13 @@ The players might use any of the following methods to distract the **wights** pa
 > 
 > Should the players instead visit St. Markovia's crypt before completing one of their other three major objectives, Rahadin doesn't appear in the catacombs. Instead, once the players move to depart Castle Ravenloft, Rahadin appears to obstruct their departure the next time they pass through one of the following areas: 
 > 
-> * <span class="citation">K8. Great Entry (p. 55)</span>, if the players are attempting to leave via <span class="citation">K7. Entry (p. 54)</span>,
-> * <span class="citation">K78. Brazier Room (p. 82)</span>, if the players are attempting to leave via the teleportation brazier there,
-> * <span class="citation">K23. Servants' Entrance (p. 59)</span>, if the players are attempting to leave via that route,
-> * <span class="citation">K46. Parapets (p. 68)</span>, if the players are attempting to leave by that route, and
-> * <span class="citation">K20. Heart of Sorrow (p. 59)</span> otherwise.
+> * the great entry, if the players are attempting to leave via the castle entry,
+> * the brazier room, if the players are attempting to leave via the teleportation brazier there,
+> * the servants' entrance, if the players are attempting to leave via that route,
+> * the parapets, if the players are attempting to leave by that route, and
+> * the Heart of Sorrow otherwise.
 > 
-> If Rahadin confronts the players in <span class="citation">K78. Brazier Room (p. 82)</span>, he removes the seven stones set into the brazier's rim and places them into a small leather pouch before they enter the room. He then ties the leather pouch to his belt. If the players notice the stones' disappearance before noticing Rahadin's ***screams of the dead***, he emerges from his hiding place behind one of the iron golems and asks, "Looking for these?" A player can attempt to sever the pouch from Rahadin's belt by making an attack against Rahadin's AC with disadvantage. On a hit, the pouch is severed if the string tying it to Rahadin's belt takes at least 1 point of piercing, slashing, fire, acid, necrotic, radiant, or force damage. Rahadin also automatically drops the pouch if he uses the *amulet of Ravenloft* to pass through a wall, ceiling, or floor of the castle.
+> If Rahadin confronts the players in the brazier room, he removes the seven stones set into the brazier's rim and places them into a small leather pouch before they enter the room. He then ties the leather pouch to his belt. If the players notice the stones' disappearance before noticing Rahadin's ***screams of the dead***, he emerges from his hiding place behind one of the iron golems and asks, "Looking for these?" A player can attempt to sever the pouch from Rahadin's belt by making an attack against Rahadin's AC with disadvantage. On a hit, the pouch is severed if the string tying it to Rahadin's belt takes at least 1 point of piercing, slashing, fire, acid, necrotic, radiant, or force damage. Rahadin also automatically drops the pouch if he uses the *amulet of Ravenloft* to pass through a wall, ceiling, or floor of the castle.
 >
 > See [[#South Crypts, Third Row]] for more information about Rahadin's statistics and appearance.
 
@@ -354,7 +354,7 @@ When 40 or more pounds of weight are placed on a pressure plate, the suit of arm
 > | Gargoyle | 3 | 3 | 4 | 5 |
 
 
-***The First Visit.*** The first time the players enter this area, a *glyph of warding* hidden among the dust on the ceiling activates, casting a *major image* spell originating from the organ in the <span class="citation">K10. Dining Hall (p. 56)</span>. (The *major image* is the source of the “sad and majestic organ tones" described in <span class="citation">K8. Great Entry (p. 55)</span>.)
+***The First Visit.*** The first time the players enter this area, a *glyph of warding* hidden among the dust on the ceiling activates, casting a *major image* spell originating from the organ in the the dining hall. (The *major image* is the source of the “sad and majestic organ tones" described in the great entry.)
 
 Shortly after the players first enter this area, the *major image* abruptly changes. Read:
 
@@ -363,13 +363,13 @@ Shortly after the players first enter this area, the *major image* abruptly chan
 </div>
 
 > [!abstract]+ **Ludmilla’s Arrival**
-> When the woman’s shriek rings out, Ludmilla Vilisevic, one of Strahd’s vampiric brides, hears the disturbance and departs [[#P9. Coven’s Quarters]], casting *gaseous form* and descending <span class="citation">K48. Offstair (p. 70)</span> and <span class="citation">K21. South Tower Stair (p. 59)</span> to <span class="citation">K9. Guests’ Hall (p. 56)</span>. She then climbs <span class="citation">K19. Grand Landing (p. 58)</span> and conceals herself, waiting for the players to return.
+> When the woman’s shriek rings out, Ludmilla Vilisevic, one of Strahd’s vampiric brides, hears the disturbance and departs [[#P9. Coven’s Quarters]], casting *gaseous form* and descending the offstair and the south tower stair to the guests’ hall. She then climbs the grand landing and conceals herself, waiting for the players to return.
 >
-> However, if the players don’t enter <span class="citation">K10. Dining Hall (p. 56)</span> and instead ascend <span class="citation">K21. South Tower Stair (p. 59)</span>, Ludmilla hears them coming and returns to <span class="citation">K47. Portrait of Strahd (p. 68)</span>. There, in order to lure the players to the roof, she uses her ***claws*** attack to slice a wound along her own shoulder, allowing blood to drip down to form a trail on the floor behind her as she ascends <span class="citation">K48. Offstair (p. 70)</span> to <span class="citation">K57. Tower Roof (p. 72)</span>.
+> However, if the players don’t enter the dining hall and instead ascend the south tower stair, Ludmilla hears them coming and returns to the portrait of Strahd landing. There, in order to lure the players to the roof, she uses her ***claws*** attack to slice a wound along her own shoulder, allowing blood to drip down to form a trail on the floor behind her as she ascends the offstair to the tower roof.
 > 
-> If the players neither enter  <span class="citation">K10. Dining Hall (p. 56)</span> nor ascend <span class="citation">K21. South Tower Stair (p. 59)</span>, and instead ascend <span class="citation">K19. Grand Landing (p. 58)</span>, Ludmilla hears them coming and creates a blood trail to lure them through <span class="citation">K25. Audience Hall (p. 61)</span> into <span class="citation">K26. Guards’ Post (p. 61)</span>, through <span class="citation">K27. King’s Hall (p. 61)</span> onto <span class="citation">K28. King’s Balcony (p. 62)</span>, and down <span class="citation">K29. Creaky Landing (p. 62)</span> into <span class="citation">K15. Chapel (p. 57)</span>. 
+> If the players neither enter  the dining hall nor ascend the south tower stair, and instead ascend the grand landing, Ludmilla hears them coming and creates a blood trail to lure them through the audience hall into the guards’ post, through the king’s hall onto the king’s balcony, and down the creaky landing into the chapel. 
 
-***The Second Visit.*** The second time the players enter this area (e.g., after investigating the <span class="citation">K10. Dining Hall (p. 56)</span>, they find a thick carpet of fog has covered its entire floor. They also find Ludmilla Vilisevic standing at the center of <span class="citation">K8. Great Entry (p. 55)</span>, waiting for them.
+***The Second Visit.*** The second time the players enter this area (e.g., after investigating the the dining hall, they find a thick carpet of fog has covered its entire floor. They also find Ludmilla Vilisevic standing at the center of the great entry, waiting for them.
 
 Ludmilla greets the players coldly and notes her regrets that the guards upon the walls evidently could not keep “troglodytes" such as them outside of the keep. She proceeds to attempt to provoke the players into attacking her, preferring to focus her insults and provocations upon melee-oriented players most likely to lose their tempers. (Ludmilla might threaten characters the player holds dear, impugn their principles or sense of honor, or imply that they are weak or otherwise incapable.)
 
@@ -397,7 +397,7 @@ Ludmilla always uses her bonus action to cast *darkness* on her first turn in co
 
 If Ludmilla isn’t hidden from the target, her attempt to take the *Holy Symbol of Ravenkind* automatically fails. Otherwise, the symbol’s wielder must make a DC 18 Dexterity saving throw to prevent Ludmilla from removing it.
 
-Whether Ludmilla successfully steals the symbol or not, she then retreats up <span class="citation">K19. Grand Landing (p. 58)</span> and releases concentration on her *darkness* spell. If she has taken the symbol, she taunts the players with an invitation to "come take it back." She then crosses <span class="citation">K25. Audience Hall (p. 61)</span> into <span class="citation">K26. Guards’ Post (p. 61)</span>, and passes through <span class="citation">K27. King’s Hall (p. 61)</span> onto <span class="citation">K28. King’s Balcony (p. 62)</span> before descending into <span class="citation">K15. Chapel (p. 57)</span>. (Following her encounter with the players at Yester Hill, Ludmilla is happy to allow the **gargoyles** in the Great Entry to dispatch or weaken them before confronting them herself.)
+Whether Ludmilla successfully steals the symbol or not, she then retreats up the grand landing and releases concentration on her *darkness* spell. If she has taken the symbol, she taunts the players with an invitation to "come take it back." She then crosses the audience hall into the guards’ post, and passes through the king’s hall onto the king’s balcony before descending into the chapel. (Following her encounter with the players at Yester Hill, Ludmilla is happy to allow the **gargoyles** in the Great Entry to dispatch or weaken them before confronting them herself.)
 
 > [!warning]+ **Opportunity Attacks in Darkness**
 > Because creatures can take opportunity attacks only against targets they can see, a character blinded by Ludmilla’s *darkness* can’t make opportunity attacks against her while she’s attempting to steal the *Holy Symbol of Ravenkind*.
@@ -592,16 +592,16 @@ Whether Ludmilla successfully steals the symbol or not, she then retreats up <sp
 </div>
 
 > [!info]+ **Ascending the Landing**
-> Players who ascend <span class="citation">K19. Grand Landing (p. 58)</span> reach [[Arc P - Ravenloft Heist#Audience Hall|Audience Hall]].
+> Players who ascend the grand landing reach [[Arc P - Ravenloft Heist#Audience Hall|Audience Hall]].
 
 > [!info]+ **South Tower Stair**
-> ***B2F.*** Players who descend two flights of stairs down <span class="citation">K21. South Tower Stair (p. 59)</span> exit the castle commons and enter [[#P11. Dungeons]] via [[Arc P - Ravenloft Heist#P11a. Dungeon Hall|Dungeon Hall]].
+> ***B2F.*** Players who descend two flights of stairs down the south tower stair exit the castle commons and enter [[#P11. Dungeons]] via [[Arc P - Ravenloft Heist#P11a. Dungeon Hall|Dungeon Hall]].
 >
-> ***B1F.*** Players who descend one flight of stairs down <span class="citation">K21. South Tower Stair (p. 59)</span> exit the castle commons and enter [[#P5. Servants’ Wing]] via [[#Elevator Hall]].
+> ***B1F.*** Players who descend one flight of stairs down the south tower stair exit the castle commons and enter [[#P5. Servants’ Wing]] via [[#Elevator Hall]].
 >
-> ***3F.*** Players who ascend two flights of stairs up <span class="citation">K21. South Tower Stair (p. 59)</span> exit the castle commons and enter [[#P6. King’s Apartments]] via [[Arc P - Ravenloft Heist#King’s Antechamber|King's Antechamber]].
+> ***3F.*** Players who ascend two flights of stairs up the south tower stair exit the castle commons and enter [[#P6. King’s Apartments]] via [[Arc P - Ravenloft Heist#King’s Antechamber|King's Antechamber]].
 >
-> ***4F.*** Players who ascend three flights of stairs up <span class="citation">K21. South Tower Stair (p. 59)</span> exit the castle commons and enter [[Arc P - Ravenloft Heist#P8. Guest Suite|Guest Suite]] via [[Arc P - Ravenloft Heist#P8a. Guest Landing|Guest Landing]].
+> ***4F.*** Players who ascend three flights of stairs up the south tower stair exit the castle commons and enter [[Arc P - Ravenloft Heist#P8. Guest Suite|Guest Suite]] via [[Arc P - Ravenloft Heist#P8a. Guest Landing|Guest Landing]].
 ### Dining Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K10.</em></span>
 
@@ -612,7 +612,7 @@ There is no illusion of Strahd sitting at the organ. When the players enter this
 <p>No food stands upon the table. Instead, a woman’s corpse lies limply across its surface.</p>
 </div>
 
-The woman’s corpse is an illusion created by the *major image* spell, and resembles a nondescript Barovian woman in her twenties. If the players touch it or interact with it in any way, it vanishes. The events described in <span class="citation">K10. Dining Hall (p. 56)</span> following the illusion’s disappearance then occur, including the “fierce, bone-chilling wind," then occur. Read:
+The woman’s corpse is an illusion created by the *major image* spell, and resembles a nondescript Barovian woman in her twenties. If the players touch it or interact with it in any way, it vanishes. The events described in the dining hall following the illusion’s disappearance then occur, including the “fierce, bone-chilling wind," then occur. Read:
 
 <div class="description">
 <p>A fierce, bone-chilling wind rises up and roars through the hall, extinguishing every open flame and plunging the majestic hall into darkness. Ancient hinges screech, and the air is briefly filled with the sounds of many heavy doors slamming shut, one after another, into the distance.</p>
@@ -669,7 +669,7 @@ Additionally, if the players encountered Ludmilla in [[#Main Foyer]], add the fo
 
 If Ludmilla successfully stole the *Holy Symbol of Ravenkind*, it is hanging from a broken window pane behind the altar, thirty feet above the floor. 
 
-Ludmilla has cast *gaseous form* and concealed herself at a random point within the cloud of fog. She reveals her true form and attacks the players shortly after they enter <span class="citation">K15. Chapel (p. 57)</span>. Too proud to retreat—and cognizant of Strahd’s displeasure should she fail again—she fights to the death.
+Ludmilla has cast *gaseous form* and concealed herself at a random point within the cloud of fog. She reveals her true form and attacks the players shortly after they enter the chapel. Too proud to retreat—and cognizant of Strahd’s displeasure should she fail again—she fights to the death.
 
 > [!warning]+ **Ezmerelda's *Holy Water***
 > Don't forget Ezmerelda's six *vials of holy water*, which she freely offers to the players as-needed to weaken Ludmilla's ***shroud of shadows***.
@@ -683,7 +683,7 @@ Ludmilla has cast *gaseous form* and concealed herself at a random point within 
 >
 > The hole in the floor forms the mouth of an enclosed shaft (area K18a) that descends 450 feet to the castle catacombs (area K84). Pidlwick II cannot be found here.
 >
-> Players who descend the high tower staircase are obstructed by the masonry wall described in <span class="citation">K18. High Tower Staircase (p. 58)</span>. Players who bypass the wall and continue to descend exit the castle commons and enter [[Arc P - Ravenloft Heist#P12. Catacombs|Castle Crypts]] via [[Arc P - Ravenloft Heist#P12. Catacombs|P12. Catacombs]].
+> Players who descend the high tower staircase are obstructed by the masonry wall described in the high tower staircase. Players who bypass the wall and continue to descend exit the castle commons and enter [[Arc P - Ravenloft Heist#P12. Catacombs|Castle Crypts]] via [[Arc P - Ravenloft Heist#P12. Catacombs|P12. Catacombs]].
 #### Chapel Stairs
 <span class="citation"><em>This scene takes place in Chapter 4, Area K29.</em></span>
 
@@ -713,7 +713,7 @@ Additionally, if the players encountered Ludmilla in [[#Main Foyer]], add the fo
 
 If Ludmilla successfully stole the *Holy Symbol of Ravenkind*, it is hanging from a broken window pane behind the altar, thirty feet above the floor. 
 
-Ludmilla has cast *gaseous form* and concealed herself at a random point within the cloud of fog. She reveals her true form and attacks the players shortly after they descend into <span class="citation">K15. Chapel (p. 57)</span>, or if they somehow manage to retrieve the *Holy Symbol* from atop the balcony. Too proud to retreat—and cognizant of Strahd’s displeasure should she fail again—she fights to the death.
+Ludmilla has cast *gaseous form* and concealed herself at a random point within the cloud of fog. She reveals her true form and attacks the players shortly after they descend into the chapel, or if they somehow manage to retrieve the *Holy Symbol* from atop the balcony. Too proud to retreat—and cognizant of Strahd’s displeasure should she fail again—she fights to the death.
 ## P4b. Castle Commons, Second Floor 
 ### Audience Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K25.</em></span>
@@ -725,7 +725,7 @@ When the players enter this area, read:
 <p>At the far southern end of the hall, a large wooden throne stands atop a marble dais. The high-backed throne faces south, away from most of the room.</p>
 </div>
 
-A secret door in the south wall leads to a turrets post access hall (area K13). It is hidden by dust and cobwebs, and requires a successful DC 16 Wisdom (Perception) check to find. Both staircases in the north wall lead down to the grand landing. The eastern double doors can be pulled open to reveal the guards’ post (area K26) beyond. The single door in the east wall opens into the [[#Accountant’s Office]]. However, if Ludmilla has passed through here, the doors leading to <span class="citation">K27. King’s Hall (p. 62)</span> are slightly ajar.
+A secret door in the south wall leads to a turrets post access hall (area K13). It is hidden by dust and cobwebs, and requires a successful DC 16 Wisdom (Perception) check to find. Both staircases in the north wall lead down to the grand landing. The eastern double doors can be pulled open to reveal the guards’ post (area K26) beyond. The single door in the east wall opens into the [[#Accountant’s Office]]. However, if Ludmilla has passed through here, the doors leading to the king’s hall are slightly ajar.
 
 > [!info]+ **Secret Door**
 > Players who find and enter the secret door behind the throne exit the castle commons and enter [[#P10. Garrison]] via [[Arc P - Ravenloft Heist#Second Floor South Archers’ Post Access Hall|Second Floor South Archers’ Post Access Hall]].
@@ -753,7 +753,7 @@ Lief Lipsiege is a lawful neutral **wight** with no attacks. The western door le
 
 Lief is not chained to his wooden desk. However, he won’t leave the room voluntarily under any circumstances. 
 
-If treated with kindness and allowed to ramble regarding Strahd’s assorted riches, conquests, and tax assessments, Lief eventually (and accidentally) mentions the location of <span class="citation">K41. Treasury (p. 67)</span>, rather than that of the *Holy Symbol of Ravenkind*. Read:
+If treated with kindness and allowed to ramble regarding Strahd’s assorted riches, conquests, and tax assessments, Lief eventually (and accidentally) mentions the location of the treasury, rather than that of the *Holy Symbol of Ravenkind*. Read:
 
 <div class="description">
 <p>"If only Count Strahd would let me properly tabulate the items he’s added to the old treasury over the years," Lief grumbles. “Too many trinkets and baubles, all layered in dust. No ledger entries, no tallies, and he expects the numbers to match!" The old wight scratches his chin, grunting. “At least the old girl keeps an eye on them, bless her heart. A dreadful business when she was alive, though. A right shame."</p>
@@ -761,7 +761,7 @@ If treated with kindness and allowed to ramble regarding Strahd’s assorted ric
 
 Lief then continues to ramble. If stopped and further questioned regarding “the old girl" he mentioned, Lief pauses to remember, then recalls aloud that she was “the red-haired woman." If Ireena is present, he jabs a withered finger in her direction and adds, “Like her." (Though he doesn’t remember her name or what happened to her, Lief is referring to the portrait of Tatyana Federovna.) 
 
-If asked how to access the “old treasury," Lief is willing to help the players only if they first promise to fully tabulate and log the items found therein, and to avoid taking any for themselves. (“Count Strahd always finds out," he wheezes, wagging a bony finger at them.) Players who intend to steal from the treasury can convince Lief of their good faith by succeeding on a DC 12 Charisma (Deception) check. If they do, Lief abashedly admits that he doesn’t recall the proper way to enter, but does remember that it involved “poking" something in the third-floor study. (Lief doesn’t remember it, but he’s referring to the poker mechanism by the fireplace in <span class="citation">K37. Study (p. 66)</span>.
+If asked how to access the “old treasury," Lief is willing to help the players only if they first promise to fully tabulate and log the items found therein, and to avoid taking any for themselves. (“Count Strahd always finds out," he wheezes, wagging a bony finger at them.) Players who intend to steal from the treasury can convince Lief of their good faith by succeeding on a DC 12 Charisma (Deception) check. If they do, Lief abashedly admits that he doesn’t recall the proper way to enter, but does remember that it involved “poking" something in the third-floor study. (Lief doesn’t remember it, but he’s referring to the poker mechanism by the fireplace in Strahd's study.
 ### King’s Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K27.</em></span>
 
@@ -785,7 +785,7 @@ When one or more characters reach the midpoint of the hall from either direction
 
 The scraping noise is the sound of the hidden compartment opening, and the squeaking is the sound of the pulleys supporting the weight of the mannequin as it glides through the air. The chuckling is a harmless magical effect similar to that created by a *prestidigitation* cantrip. On initiative count 5, the mannequin flies over the characters, 10 feet above the floor. On its next turn, it reverses direction and flies back to its compartment. The trap resets after 1 minute. The mannequin has AC 15 and 10 hit points, and it is immune to poison and psychic damage.
 
-A player can find the secret door described in <span class="citation">K27. King’s Hall (p. 61)</span> behind the tapestry of King Barov and his army. The secret door can be found as described in <span class="citation">The Lands of Barovia: Common Features (p. 33)</span>, or by spending 1 minute searching the wall for hidden doors.
+A player can find the secret door described in the king’s hall behind the tapestry of King Barov and his army. The secret door can be found as described in the common features of the lands of Barovia, or by spending 1 minute searching the wall for hidden doors.
 
 > [!info]+ **Shaft Door**
 > Players who find and enter the secret door behind the tapestry exit the castle commons and enter [[#P5. Servants’ Wing]] via [[#Second-Floor Elevator Access]].
@@ -912,7 +912,7 @@ If Cyrus already encountered any players the [[Arc O - Dinner with the Devil]], 
 
 In either case, once Cyrus has confirmed that the players are no danger to him, he suspiciously asks to know their business in the castle, then immediately insists that they not tell him. “Plausible deniability; that’s what my grandmammy always told me," he grunts. “Tell me no truths, and I won’t tell no one no lies."
 
-If the players seem friendly, Cyrus asks them to retrieve his “favorite cooking spoon" from the old garrison (see [[#P10. Garrison]]). “Saw one of those shamblers grab it, then vanish through those doors," he says, pointing to the doors to <span class="citation">K67. Hall of Bones (p. 78)</span>. (The “shambler" Cyrus is referring to is a **zombie**. Cyrus has seen numerous zombies wandering the lower halls recently, and is too frightened of them to enter the garrison himself.) In exchange for this favor, Cyrus promises to draw the players a rough map of the castle once his spoon is returned to him.
+If the players seem friendly, Cyrus asks them to retrieve his “favorite cooking spoon" from the old garrison (see [[#P10. Garrison]]). “Saw one of those shamblers grab it, then vanish through those doors," he says, pointing to the doors to the Hall of Bones. (The “shambler" Cyrus is referring to is a **zombie**. Cyrus has seen numerous zombies wandering the lower halls recently, and is too frightened of them to enter the garrison himself.) In exchange for this favor, Cyrus promises to draw the players a rough map of the castle once his spoon is returned to him.
 
 > [!info]+ **Cyrus’s Map**
 > If the players retrieve his favorite cooking spoon, Cyrus can draw them a simple boxes-and-lines map with the following details:
@@ -931,7 +931,7 @@ Whether the players accept his quest or not, Cyrus then returns to the kitchen, 
 > * The Abbot, however, did not act alone. He gave the Belviews their bestial traits with the benefit of knowledge furnished by Strahd von Zarovich. While the Belviews have long sought the “perfection" of their forms, Cyrus believes that true salvation will only come once his family has returned to their true, human nature.
 > * To this end, Cyrus agreed to work for Strahd as a butler at Castle Ravenloft at the Abbot’s recommendation. Strahd has promised him that, should Cyrus restore the castle to its former glory and maintain that restoration for a period of ten years, he will furnish Cyrus with the knowledge necessary to restore his family to their original forms—curing them of their infirmities and madness forever.
 #### The Ravenous Spawn
-The first time any player approaches the doors to <span class="citation">K67. Hall of Bones (p. 78)</span> or <span class="citation">K61. Elevator Trap (p. 74)</span>, the door leading to <span class="citation">K61. Elevator Trap (p. 74)</span> opens. An *unseen servant* carrying a crystal dinner bell then emerges from beyond the door, acting as described in <span class="citation">Unseen Servant (p. 51)</span>.
+The first time any player approaches the doors to the Hall of Bones or the elevator trap, the door leading to the elevator trap opens. An *unseen servant* carrying a crystal dinner bell then emerges from beyond the door, acting as described in an unseen servant created by Strahd—a permanent, invisible force that carries out simple tasks.
 
 When the dinner bell rings, the two **vampire spawn** lurking in [[#Kitchen]] and [[#Butler’s Quarters]] quietly scuttle across the 10-foot ceiling, attacking from above the following round. Players with a passive Wisdom (Perception) score of 15 or below are surprised when the vampires attack.
   
@@ -973,13 +973,13 @@ When the trap is sprung, the center section of the floor rises to the ceiling at
 > [!info]+ **Sleeping Gas**
 > Because vampire spawn have no need to breathe, as described in <span class="citation">Vampire (Monster Manual, p. 297)</span>, they are unaffected by the sleep gas that fills the elevator compartment as it rises.
 > 
-> Note that, as described in <span class="citation">K61. Elevator Trap (p. 74)</span>, a creature that falls unconscious due to the sleeping gas can be awoken as described in the *sleep* spell.
+> Note that, as described in the elevator trap, a creature that falls unconscious due to the sleeping gas can be awoken as described in the *sleep* spell.
 
 > [!info]+ **Chasing the Elevator**
 > A player ascending the stairs from the elevator hall to the elevator's destination at [[#P8a. Guest Landing]] must traverse 170 feet of stairs, which constitute difficult terrain.
 
 > [!abstract]+ **Escher's Intervention**
-> If a vampire spawn successfully lures one or more players into the elevator trap and knocks all of them unconscious, it attempts to drag its prey out of the elevator trap upon arriving at [[#P8a. Guest Landing]]. When it does so, it is confronted by Escher, who commands it to leave its victims and depart. Escher then brings any unconscious characters into <span class="citation">K49. Lounge (p. 70)</span>, where he drapes them across any available couches or chairs. 
+> If a vampire spawn successfully lures one or more players into the elevator trap and knocks all of them unconscious, it attempts to drag its prey out of the elevator trap upon arriving at [[#P8a. Guest Landing]]. When it does so, it is confronted by Escher, who commands it to leave its victims and depart. Escher then brings any unconscious characters into the lounge, where he drapes them across any available couches or chairs. 
 > 
 > Escher isn't entirely sure why he's doing this, but feels a mild sense of obligation to the players for keeping Ireena safe. If the players ask him to explain himself, he merely sneers and claims that it would be "unsightly" for them to bleed out all over the guest landing carpet.
 ### Wine Cellar
@@ -1017,7 +1017,7 @@ The clutter in the room was not collected by Cyrus. There is nothing of value he
 
 The vampire attacks if noticed, or if any player enters this area alone.
 # P6. King’s Apartments
-This area of the castle once hosted Strahd’s private apartments on the third floor, as well as the sleeping quarters of the members of his court on the floor immediately below. The apartments are connected to the North Tower (<span class="citation">K20. Heart of Sorrow (p. 59)</span> for ease of access by servants ascending from the servants’ quarters, as well as <span class="citation">K21. South Tower Stair (p. 59)</span> for easy access to the castle commons, including Strahd’s audience hall and the main dining hall.
+This area of the castle once hosted Strahd’s private apartments on the third floor, as well as the sleeping quarters of the members of his court on the floor immediately below. The apartments are connected to the North Tower (the Heart of Sorrow for ease of access by servants ascending from the servants’ quarters, as well as the south tower stair for easy access to the castle commons, including Strahd’s audience hall and the main dining hall.
 ## P6a. King’s Apartments, Second Floor
 ### King’s Apartment Stair
 <span class="citation"><em>This scene takes place in Chapter 4, Area K33.</em></span>
@@ -1044,7 +1044,7 @@ The broom is a **broom of animated attack**. It attacks if a player attempts to 
 > The broom belongs to the witches’ coven that resides in [[#P9. Coven’s Quarters]], whose members affectionately refer to the broom as their “pet."
 
 > [!lore]+ **Historic Inhabitants**
-> This room once served as the living quarters for the members of Strahd’s court, including castle fool Sir Jarnwald the Trickster (entombed in <span class="citation">Crypt 35, p. 92</span>, court wizard Gralmore Nimblenobs (entombed in <span class="citation">Crypt 37, p. 92</span>), and castle chaplain Tasha Petrovna (entombed in <span class="citation">Crypt 11, p. 87)</span>).
+> This room once served as the living quarters for the members of Strahd’s court, including castle fool Sir Jarnwald the Trickster (entombed in Crypt 35, court wizard Gralmore Nimblenobs (entombed in Crypt 37), and castle chaplain Tasha Petrovna (entombed in Crypt 11).
 ## P6b. King’s Apartments, Third Floor
 ### King’s Antechamber
 <span class="citation"><em>This scene takes place in Chapter 4, Area K35.</em></span>
@@ -1073,15 +1073,15 @@ The steel door is engraved with images of a human king in armor astride a horse,
 > | Swarm of Rats | 3 | 4 | 4 | 5 |
 
 > [!info]+ **South Tower Stair**
-> ***B2F.*** Players who descend four flights of stairs down <span class="citation">K21. South Tower Stair (p. 59)</span> exit the king’s apartments and enter [[#P11. Dungeons]] via [[Arc P - Ravenloft Heist#P11a. Dungeon Hall|Dungeon Hall]].
+> ***B2F.*** Players who descend four flights of stairs down the south tower stair exit the king’s apartments and enter [[#P11. Dungeons]] via [[Arc P - Ravenloft Heist#P11a. Dungeon Hall|Dungeon Hall]].
 >
-> ***B1F.*** Players who descend three flights of stairs down <span class="citation">K21. South Tower Stair (p. 59)</span> exit the king’s apartments  and enter [[#P5. Servants’ Wing]] via [[#Elevator Hall]].
+> ***B1F.*** Players who descend three flights of stairs down the south tower stair exit the king’s apartments  and enter [[#P5. Servants’ Wing]] via [[#Elevator Hall]].
 >
-> ***1F.*** Players who descend two flights of stairs down <span class="citation">K21. South Tower Stair (p. 59)</span> exit the king’s apartments and enter [[#P4. Castle Commons]] via [[Arc P - Ravenloft Heist#Main Entrance|Main Entrance]].
+> ***1F.*** Players who descend two flights of stairs down the south tower stair exit the king’s apartments and enter [[#P4. Castle Commons]] via [[Arc P - Ravenloft Heist#Main Entrance|Main Entrance]].
 >
-> ***2F.*** Players who descend one flight of stairs down <span class="citation">K21. South Tower Stair (p. 59)</span> exit the king’s apartments and enter [[#P4. Castle Commons]] via [[#Accountant’s Office]].
+> ***2F.*** Players who descend one flight of stairs down the south tower stair exit the king’s apartments and enter [[#P4. Castle Commons]] via [[#Accountant’s Office]].
 >
-> ***4F.*** Players who ascend one flight of stairs up <span class="citation">K21. South Tower Stair (p. 59)</span> exit the king’s apartments  and enter [[#P8. Guest Suite]] via [[Arc P - Ravenloft Heist#P8a. Guest Landing|Guest Landing]].
+> ***4F.*** Players who ascend one flight of stairs up the south tower stair exit the king’s apartments  and enter [[#P8. Guest Suite]] via [[Arc P - Ravenloft Heist#P8a. Guest Landing|Guest Landing]].
 ### King’s Dining Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K36.</em></span>
 
@@ -1093,7 +1093,7 @@ When the players enter this area, read:
 
 The wedding cake is over four centuries old, kept in its current rotten state by the will of Strahd. The toy figure of the groom from the top of the cake was cast on the floor long ago. A character who searches the dusty floor finds the figurine with a successful DC 10 Wisdom (Perception) check. However, nothing happens if the players take the groom figurine from the cake, and Pidlwick’s ghost doesn’t appear if a player plays the harp.
 
-The room has wooden doors in the north and west walls, and an ornate steel door in the east wall (see [[#King’s Antechamber]] for details). The doors leading to <span class="citation">K37. Study (p. 66)</span> and <span class="citation">K43. Bath Chamber (p. 68)</span> are locked as described in <span class="citation">The Lands of Barovia: Common Features (p. 33)</span>.
+The room has wooden doors in the north and west walls, and an ornate steel door in the east wall (see [[#King’s Antechamber]] for details). The doors leading to Strahd's study and the bath chamber are locked as described in the common features of the lands of Barovia.
 
 The harp stands 6½ feet tall, weighs close to 300 pounds, and is fashioned of dark, stained wood carved with images of harts and roses. Its taut strings are made of gut.
 
@@ -1107,7 +1107,7 @@ When the players enter this area, read:
 <p>A blazing hearth fire fills this room with rolling waves of red and amber light. The walls are lined with ancient books and tomes, their leather covers well oiled and preserved through careful use. All is in order here. The stone floor is concealed beneath a thick, luxurious rug. In the center of the room is a large, low table, waxed and polished to a mirrored finish. Even the poker in its stand next to the blazing fireplace is polished. Large, overstuffed divans and couches are arranged about the room. Two chairs of burgundy-colored wood with padded leather seats and back cushions face the hearth. A huge painting hangs over the mantelpiece in a heavy, gilded frame. The rolling firelight illuminates the carefully rendered portrait. It is an exact likeness of Ireena Kolyana.</p>
 </div>
 
-This chamber has several exits, including a large set of double doors in the west wall, a door at each end of the north wall, and a door to the south. The doors leading to <span class="citation">K36. Dining Hall of the Count (p. 65)</span>, <span class="citation">K45. Hall of Heroes (p. 68)</span>, and <span class="citation">K83. Spiral Stair (p. 85)</span> are locked as described in <span class="citation">The Lands of Barovia: Common Features (p. 33)</span>.
+This chamber has several exits, including a large set of double doors in the west wall, a door at each end of the north wall, and a door to the south. The doors leading to the dining hall of the Count, the Hall of Heroes, and the spiral stair are locked as described in the common features of the lands of Barovia.
 
 The painting above the fireplace depicts Tatyana, a beautiful young woman with auburn hair. Strahd commissioned the painting over four centuries ago to impress his beloved.
 
@@ -1120,7 +1120,7 @@ In addition, a player who inspects the portrait of Tatyana notices that she is w
 If present, Ireena is disturbed at the sight of the portrait and its clear resemblance to her, and voices her disbelief and discomfort at the thought that Strahd would commission a portrait of her. A player who succeeds on a DC 10 Intelligence (Investigation) check discerns that the portrait is centuries old. If informed of this fact, Ireena’s discomfort lessens, though she becomes stressed and disturbed at the prospect of this strange woman’s resemblance to her—especially if the players suggest she might be this woman’s reincarnation.
 
 > [!info]+ **Exiting the Study**
-> A player who departs the study via <span class="citation">K83. Spiral Stair (p. 85)</span> exits the king’s apartments, passes through <span class="citation">K83a. Spiral Stair Landing (p. 85)</span>, and enters the [[Arc P - Ravenloft Heist#P11. Dungeons|Dungeons]] via [[#P11e. Brazier Room]].
+> A player who departs the study via the spiral stair exits the king’s apartments, passes through the spiral stair landing, and enters the [[Arc P - Ravenloft Heist#P11. Dungeons|Dungeons]] via [[#P11e. Brazier Room]].
 >
 > The spiral stair landing is a forty-foot-long corridor that connects two spiral stairways, one leading up and the other descending into the depths of Castle Ravenloft. The tapestry that once hung here is no longer present. The stairs at the north end of the west wall descend to a door leading to [[#P11e. Brazier Room]]. The stairs at the south end of the west wall lead up, ending at a door that opens into the [[#Study]].
 ### Bath Chamber & Closet
@@ -1222,7 +1222,7 @@ In either case, add:
 
 Adjust the above text as needed if any players remain in the study at the time of Anastrasya's arrival.
 
-Anastrasya is also secretly joined by two additional **wights**, which conceal themselves in the secret passage between <span class="citation">K42. King’s Bedchamber (p. 68)</span> and the western end of <span class="citation">K45. Hall of Heroes (p. 68)</span>.
+Anastrasya is also secretly joined by two additional **wights**, which conceal themselves in the secret passage between the king’s bedchamber and the western end of the Hall of Heroes.
 
 If any doors leading from the study and bedchamber have been opened, Anastrasya telekinetically causes them to slam shut with a flick of her wrist upon entering.
 
@@ -1414,9 +1414,9 @@ The secret door at the northern end of the east wall is sealed shut. If the torc
 The secret door on the west wall can’t be opened from this side, except by magic (such as a *knock* spell). It is connected to the poker in the [[#Study]].
 
 > [!lore]+ **The Choking Skeleton**
-> This dead adventurer entered Castle Ravenloft during Strahd’s hibernation, seeking to loot the castle for gold and jewels. After finding the secret door in <span class="citation">K27. King’s Hall (p. 61)</span> and using it to access <span class="citation">K31. Trapworks (p. 63)</span>, he ascended the iron chains in <span class="citation">K31a. Elevator Shaft (p. 63)</span> and exited the secret door from <span class="citation"> K31b. Shaft Access (p. 64)</span> into <span class="citation">K39. Hall of Webs (p. 67)</span>. 
+> This dead adventurer entered Castle Ravenloft during Strahd’s hibernation, seeking to loot the castle for gold and jewels. After finding the secret door in the king’s hall and using it to access the trapworks, he ascended the iron chains in the elevator shaft and exited the secret door from the shaft access into the hall of webs. 
 >
-> After entering the then-open secret door into <span class="citation">K38. False Treasury (p. 66)</span>, the adventurer took the torch from the wall nearby, causing the secret door to swing closed. He then opened the chest, failed to resist the effects of the sleeping gas, and became paralyzed. The fire in the fireplace in <span class="citation">K37. Study (p. 66)</span> then slowly consumed the rest of the oxygen in the chamber, eventually suffocating him.
+> After entering the then-open secret door into the false treasury, the adventurer took the torch from the wall nearby, causing the secret door to swing closed. He then opened the chest, failed to resist the effects of the sleeping gas, and became paralyzed. The fire in the fireplace in Strahd's study then slowly consumed the rest of the oxygen in the chamber, eventually suffocating him.
 
 A creature that fails its saving throw against the sleeping gas can repeat the saving throw every ten minutes. The first time a creature succeeds on a repeated saving throw in this way, it becomes poisoned, rather than paralyzed. The second time a creature succeeds on a repeated saving throw in this way, the effects of the sleeping gas on it end.
 
@@ -1432,13 +1432,13 @@ If any players knock on the door or otherwise indicate their presence, the **inv
 <p>The wind whistles softly, and the clouds of smoke begin to stir . Slowly, a shape takes form in the ashen haze: a humanoid silhouette, composed entirely of clean, smokeless air.</p>
 </div>
 
-The silhouette is the invisible stalker. If any character moves, speaks, or otherwise makes clear that they aren’t paralyzed, the invisible stalker flees back into the crack in the wall and enters <span class="citation">K40. Belfry (p. 67)</span>. There, it rings the bell three times before returning to [[#P7d. Treasury]]. Read:
+The silhouette is the invisible stalker. If any character moves, speaks, or otherwise makes clear that they aren’t paralyzed, the invisible stalker flees back into the crack in the wall and enters the belfry. There, it rings the bell three times before returning to [[#P7d. Treasury]]. Read:
 
 <div class="description">
 <p>The tolling of a great, sonorous bell reverberates through the air—once, twice, three times—leaving the air and stones themselves seeming to tremble with its echoes.</p>
 </div>
 
-The sound of the bell attracts two **vampire spawn**, who pass from <span class="citation">K53. Rooftop (p. 71)</span> into <span class="citation">K20. Heart of Sorrow (p. 59)</span>, then descend to <span class="citation">K45. Hall of Heroes (p. 68)</span> before entering the false treasury via the secret door in <span class="citation">K37. Study (p. 66)</span>. The vampires attack the players on sight.
+The sound of the bell attracts two **vampire spawn**, who pass from the rooftop into the Heart of Sorrow, then descend to the Hall of Heroes before entering the false treasury via the secret door in Strahd's study. The vampires attack the players on sight.
 
 Otherwise, if undisturbed, the invisible stalker inspects each character’s body to retrieve any valuables, which it places in a pile on the floor. If it has obtained any valuable items other than coins (e.g., magical items), it replaces the torch in the wall, causing the secret door to swing open. It then takes those valuables and deposits them in [[#P7d. Treasury]].
 ## P7b. Belfry Access Hall
@@ -1508,7 +1508,7 @@ The door handle opens the door (or trapdoor) leading inside the fortress. Howeve
 
 Creatures that don’t cast a reflection (e.g., because they are invisible, because the room is completely dark, or because they are a vampire) can reach into the mirror and open the handle normally. (Due to the sparkling of the painted “stars" on the ceiling above, the players must take some action to darken the stars’ light in order to remove their reflection through darkness.)
 
-Players who fail to open the door can still enter the tower through magical teleportation or by passing through the tower’s arrow slits through magical means, as described in <span class="citation">K41. Treasury (p. 67)</span>.
+Players who fail to open the door can still enter the tower through magical teleportation or by passing through the tower’s arrow slits through magical means, as described in the treasury.
 ### Plundering the Treasury
 The ground floor of the *Daern's instant fortress* contains 50,000 cp, 10,000 sp, 10,000 gp, 1,000 pp, 15 assorted gems (100 gp each), and a *+2 shield* emblazoned with a stylized silver dragon that is the emblem of the Order of the Silver Dragon. The shield whispers warnings to its bearer, granting a +2 bonus to initiative if the bearer isn't incapacitated.
 
@@ -1520,7 +1520,7 @@ An **invisible stalker** bound by Strahd to protect the treasury’s contents lu
 
 Shortly after a character enters the lower floor of the tower for the first time, the invisible stalker causes the *driftglobe* to roll off of its shelf and onto the floor, where it comes to rest against one of the tower’s walls. The stalker then exits the tower through one of the arrow slits, waits for any characters to ascend to the upper floor, then slams the ground-floor door shut before returning to the upper floor. Upon returning, it attacks any characters that remain or re-enter the tower’s upper floor. (The stalker also eventually attacks if no characters enter the upper floor.)
 # P8. Guest Suite
-This area of the castle once hosted important guests to the keep, including those described in <span class="citation">Pidlwick II (p. 236)</span>. In the castle’s heyday, access to the elevator shaft once allowed servants to bring hot meals and wine directly from the kitchens and wine cellar, providing prompt and efficient service.
+This area of the castle once hosted important guests to the keep, including those described in Pidlwick II. In the castle’s heyday, access to the elevator shaft once allowed servants to bring hot meals and wine directly from the kitchens and wine cellar, providing prompt and efficient service.
 ## P8a. Guest Landing
 <span class="citation"><em>This scene takes place in Chapter 4, Area K47.</em></span>
 
@@ -1563,7 +1563,7 @@ If the characters attack the rug or the picture, or if they attempt to remove ei
 > |-|-|
 > | 3 | Reduce the rug of smothering’s hit points to 33, and the damage of its Smother attacks to 8 (2d4+3). Additionally, reduce the Guardian Portrait’s hit points to 16. |
 
-On initiative count 20 of the second round of combat after the **guardian portrait** or **rug of smothering** attacks, a black **cat** emerges from <span class="citation">K48. Offstair (p. 70)</span> and notices them. Read:
+On initiative count 20 of the second round of combat after the **guardian portrait** or **rug of smothering** attacks, a black **cat** emerges from the offstair and notices them. Read:
 
 <div class="description">
 <p>The darkness filling the ascending stair stirs. A black cat peers out of the shadows, its green eyes glinting with a strange, malevolent intelligence. Its gaze lands upon you, and, with a hiss, it turns and begins darting back up the stairs.</p>
@@ -1571,7 +1571,7 @@ On initiative count 20 of the second round of combat after the **guardian portra
 
 The cat is the familiar of a **Barovian witch** in [[#P9. Coven’s Quarters]], and disappears up the stairs on initiative count 20 of the following round. Unless the players kill, capture, or otherwise stop it, it goes to warn its mistress in [[#P9c. Cauldron Room]] of the players’ presence. (If killed, the cat vanishes as described in the *find familiar* spell.)
 
-Shortly after combat ends, the door to <span class="citation">K49. Lounge (p. 70)</span> cracks open, and a pale, anxious-looking face peers out. (A player with a passive Wisdom (Perception) score of 14 or greater recognizes the face as Escher’s.) Upon noticing the players, Escher then immediately slams the door shut again.
+Shortly after combat ends, the door to the lounge cracks open, and a pale, anxious-looking face peers out. (A player with a passive Wisdom (Perception) score of 14 or greater recognizes the face as Escher’s.) Upon noticing the players, Escher then immediately slams the door shut again.
 ## P8b. Guest Suite
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K49, 50 & 51.</em></span>
 
@@ -1589,7 +1589,7 @@ The closet is a small, wood-paneled room that reeks of mildew. Iron hooks line t
 
 Modify this area’s description depending on Escher’s location, which is as follows:
 
-* If he saw the players in <span class="citation">K47. Portrait of Strahd (p. 68)</span> after they fought the **guardian portrait** and **rug of smothering** in [[#P8a. Guest Landing]], Escher attempts to conceal himself in the closet while waiting for the players to leave.
+* If he saw the players in the portrait of Strahd landing after they fought the **guardian portrait** and **rug of smothering** in [[#P8a. Guest Landing]], Escher attempts to conceal himself in the closet while waiting for the players to leave.
 * Otherwise, Escher is lounging on the couch in the lounge.
 
 Regardless of his location, once discovered by the players, Escher immediately pales, then drops to his knees and begs the players to spare his life. While babbling, he promises, amongst other things, to “drink only animal blood," “become a vegetarian," or “become a monk of the Morninglord."
@@ -1633,7 +1633,7 @@ Players who invoke Escher’s former relationship to the village of Barovia and 
 > 
 > As they leave, a player with a passive Wisdom (Insight) score of 14 or greater notices that Escher’s shoulders are trembling with silent sobs.
 # P9. Coven’s Quarters
-This area lies at the peak of Castle Ravenloft’s South Tower, once nicknamed the “General’s Tower" for the contents of its highest floor. Before Strahd became a vampire, <span class="citation">K54. Familiar Room (p. 71)</span> was a guard post responsible for manning and supplying <span class="citation">K57. Tower Roof (p. 72)</span>, <span class="citation">K55. Element Room (p. 72)</span> was a map room and armory, and <span class="citation">K56. (p. Cauldron Room)</span> hosted the living quarters of General Kroval “Mad Dog" Grislek, whose remains now lie in <span class="citation">Crypt 38 (p. 92)</span>.
+This area lies at the peak of Castle Ravenloft’s South Tower, once nicknamed the “General’s Tower" for the contents of its highest floor. Before Strahd became a vampire, the familiar room was a guard post responsible for manning and supplying the tower roof, the element room was a map room and armory, and the cauldron room hosted the living quarters of General Kroval “Mad Dog" Grislek, whose remains now lie in Crypt 38.
 ## P9a. Familiar Room
 <span class="citation"><em>This scene takes place in Chapter 4, Area K54.</em></span>
 
@@ -1646,7 +1646,7 @@ The low ceiling of this twenty-foot-square room presses down on the players. Tor
 
 Heavy beams support the ceiling of this large room, the outer wall of which curves to follow the shape of the tower. Dim light filters into the room through the steel lattice squares of two leaded glass windows. Several tables stand throughout the room, weighed down by stacks of glass jars and bottles, all of them bearing labels. The labeled glass containers hold various elements that the witches use in their fell concoctions and rituals, identifying such items as "Eye of Newt," "Hair of Bat," "Snail Hearts," and "Frog's Breath." There are no magic potions among the bottles and jars. However, a **zombie** stands silently at the center of the room. (The zombie doesn’t attack except in self-defense, or except as directed by the coven.)
 
-The leaded windows are fitted with iron hinges and can be opened. They are currently locked from the inside. Characters who search the room spot numerous boot prints in the dust, as well as a short trail in the dust on the floor, leading from the northeast corner of the room to the easternmost door, as though something heavy was dragged across the floor toward the doorway. There is a secret trapdoor in the northeast corner of the floor. Because of the trail through the dust, the trapdoor can be found without an ability check. Tapping or knocking on the trapdoor three times releases a hidden latch, causing the trapdoor to swing down to reveal <span class="citation">K51 (p. 71)</span> below.
+The leaded windows are fitted with iron hinges and can be opened. They are currently locked from the inside. Characters who search the room spot numerous boot prints in the dust, as well as a short trail in the dust on the floor, leading from the northeast corner of the room to the easternmost door, as though something heavy was dragged across the floor toward the doorway. There is a secret trapdoor in the northeast corner of the floor. Because of the trail through the dust, the trapdoor can be found without an ability check. Tapping or knocking on the trapdoor three times releases a hidden latch, causing the trapdoor to swing down to reveal the closet below.
 
 Add the following to the end of this area’s read-aloud description:
 
@@ -1712,7 +1712,7 @@ In addition, replace the seven **Barovian witches** with two **Barovian hexwitch
 > | Barovian Stormwich | 2 | 1 | 3 | 3 | 
 
 
-If the players didn’t attract her to [[#Main Foyer]], Ludmilla Vilisevic is also present alongside the witches’ coven. (See [[#Main Foyer]] for her statistics.) If combat breaks out, Ludmilla prefers to lure any enemy combatants up <span class="citation">K48. Offstair (p. 70)</span> toward <span class="citation">K57. Tower Roof (p. 72)</span>, where she can more easily use the open-air battlefield to her advantage.
+If the players didn’t attract her to [[#Main Foyer]], Ludmilla Vilisevic is also present alongside the witches’ coven. (See [[#Main Foyer]] for her statistics.) If combat breaks out, Ludmilla prefers to lure any enemy combatants up the offstair toward the tower roof, where she can more easily use the open-air battlefield to her advantage.
 
 > [!item]+ **Potion of Poison Immunity**
 > A *potion of poison immunity* has the properties of a *potion of poison resistance*, but grants immunity rather than resistance.
@@ -1739,7 +1739,7 @@ One of the Barovian stormwitches is Diavola, the leader of the coven. Diavola, w
 > * 2nd level (2 slots): Melf’s acid arrow, invisibility, misty step
 > In combat, a Barovian stormwitch prefers to begin by casting *Melf’s acid arrow*, followed by *witch bolt.*
 # P10. Garrison
-This area of the castle once hosted the barracks and common areas of the castle guards, providing easy access to the upper-floor archers’ posts and battlements via <span class="citation">K64. Guards’ Stair (p. 78)</span> and the North Tower Stair (<span class="citation">K20. Heart of Sorrow (p. 59)</span>). A quartet of secret doors, providing access to <span class="citation">K10. Dining Hall (p. 56)</span>, <span class="citation">K25. Audience Hall (p. 61)</span>, <span class="citation">K33. King’s Apartment Stair (p. 64)</span>, and <span class="citation">K78. Brazier Room (p. 82)</span>, also allowed for the castle’s protectors to swiftly and quietly navigate its floors or spirit away important targets to safety in the event of an attack.
+This area of the castle once hosted the barracks and common areas of the castle guards, providing easy access to the upper-floor archers’ posts and battlements via the guards’ stair and the North Tower Stair (the Heart of Sorrow). A quartet of secret doors, providing access to the dining hall, the audience hall, the king’s apartment stair, and the brazier room, also allowed for the castle’s protectors to swiftly and quietly navigate its floors or spirit away important targets to safety in the event of an attack.
 ## P10a. Garrison, Basement Floor
 ### Hall of Bones
 <span class="citation"><em>This scene takes place in Chapter 4, Area K67.</em></span>
@@ -1848,15 +1848,15 @@ The shadow is lonely and longs for the company of others—including, particular
 A mosaic floor adds a touch of color to the otherwise dark, cold, empty tower that rises above the players. A spiral staircase rises slowly into darkness, hugging the outer wall. In the center of the room, another set of stairs leads down to [[#Kingsmen Quarters]]. Players who ascend the stairs reach [[#Servants’ Landing]].
 
 > [!info]+ **The Heart of Sorrow**
-> The Heart of Sorrow is largely as described in  <span class="citation">K20. Heart of Sorrow (p. 59)</span>. However, it is immune to all damage, and no **vampire spawn** attack characters that attack it. In addition, rather than shaking the tower on initiative count 10 each round, the Heart shakes the tower each time the players attempt to ascend an additional story toward the Heart. 
+> The Heart of Sorrow is largely as described in  the Heart of Sorrow. However, it is immune to all damage, and no **vampire spawn** attack characters that attack it. In addition, rather than shaking the tower on initiative count 10 each round, the Heart shakes the tower each time the players attempt to ascend an additional story toward the Heart. 
 >
 > A character who fails the Dexterity saving throw against the shaking tower and falls as a result can catch themselves on the edge of the stairs by succeeding on a DC 20 Dexterity saving throw. A character adjacent to a falling character can catch them by succeeding on a DC 10 Dexterity saving throw.
 ### First Floor North Archers’ Post Access Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K13.</em></span>
 
-This long, narrow corridor runs east to west. Cobwebs fill the hall, obstructing sight beyond a few feet. However, the entrance to this corridor contains a giant spider cocoon suspended from the ceiling, which is as described in <span class="citation">Giant Spider Cocoon (p. 51)</span>. 
+This long, narrow corridor runs east to west. Cobwebs fill the hall, obstructing sight beyond a few feet. However, the entrance to this corridor contains a giant spider cocoon suspended from the ceiling, which is as described in a giant spider cocoon—a 5-foot-diameter ball of webbing that might contain a victim. 
 
-If opened, the cocoon contains Pidlwick II, who is as described in <span class="citation">Pidlwick II (p. 73)</span>. Pidlwick II is grateful to the characters for rescuing him, and attempts to assist them as described in <span class="citation">Pidlwick II (p. 73)</span>. It otherwise acts as described in <span class="citation">Pidlwick II (p. 73)</span>.
+If opened, the cocoon contains Pidlwick II, who is as described in Pidlwick II, a small carved wooden effigy of a jester brought to life through dark magic. Pidlwick II is grateful to the characters for rescuing him, and attempts to assist them as described in Pidlwick II, a small carved wooden effigy of a jester brought to life through dark magic. It otherwise acts as described in Pidlwick II, a small carved wooden effigy of a jester brought to life through dark magic.
 
 If the players are kind toward Pidlwick II and succeed on a DC 12 Charisma (Persuasion) check, they can convince it to depart the castle with them to meet the toymaker Gadof Blinsky.
 
@@ -1870,7 +1870,7 @@ The castle courtyard is visible through arrow slits in the walls. Each arrow sli
 ### Second Floor South Archers’ Post Access Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K13.</em></span>
 
-This long, narrow corridor runs east to west. Cobwebs fill the hall, obstructing sight beyond a few feet. However, four **crawling claws** cling to the ceiling above the secret door leading to <span class="citation">K25. Audience Hall (p. 61)</span>, and drop down to attack any creature that passes beneath them. The claws otherwise behave as described in <span class="citation">Crawling Claws (p. 50)</span>.
+This long, narrow corridor runs east to west. Cobwebs fill the hall, obstructing sight beyond a few feet. However, four **crawling claws** cling to the ceiling above the secret door leading to the audience hall, and drop down to attack any creature that passes beneath them. The claws otherwise behave as described in crawling claws—severed hands animated through dark magic.
 ### Second Floor South Archers’ Post
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K12 & K22.</em></span>
 
@@ -1884,7 +1884,7 @@ A mosaic floor adds a touch of color to the otherwise dark, cold, empty tower. A
 > Players who find and pass through the secret door set in the northeastern wall exit the Garrison and enter [[#P5. Servants’ Wing]] via [[Arc P - Ravenloft Heist#Servants’ Upper Floor|Servants' Upper Floor]].
 
 > [!info]+ **The Heart of Sorrow**
-> The Heart of Sorrow is largely as described in  <span class="citation">K20. Heart of Sorrow (p. 59)</span>. However, it is immune to all damage, and no **vampire spawn** attack characters that attack it. In addition, rather than shaking the tower on initiative count 10 each round, the Heart shakes the tower each time the players attempt to ascend an additional story toward the Heart. 
+> The Heart of Sorrow is largely as described in  the Heart of Sorrow. However, it is immune to all damage, and no **vampire spawn** attack characters that attack it. In addition, rather than shaking the tower on initiative count 10 each round, the Heart shakes the tower each time the players attempt to ascend an additional story toward the Heart. 
 >
 > A character who fails the Dexterity saving throw against the shaking tower and falls as a result can catch themselves on the edge of the stairs by succeeding on a DC 20 Dexterity saving throw. A character adjacent to a falling character can catch them by succeeding on a DC 10 Dexterity saving throw.
 ### Second Floor North Archers’ Post Access Hall
@@ -1907,8 +1907,8 @@ The players stand on a ten-foot-wide walkway that encircles most of the keep. Th
 > [!info]+ **Through the Windows**
 > The five-foot-wide windows along this walkway are locked from the inside and covered by heavy curtains:
 >
-> * ***Eastern Window.*** The window closest to <span class="citation">K64. Guards’ Stair (p. 78)</span> looks into [[#King’s Dining Hall]].
-> * ***Western Windows.*** The two windows further from <span class="citation">K64. Guards’ Stair (p. 78)</span> look into <span class="citation">K44. Closet (p. 68)</span> in [[#Bath Chamber & Closet]].
+> * ***Eastern Window.*** The window closest to the guards’ stair looks into [[#King’s Dining Hall]].
+> * ***Western Windows.*** The two windows further from the guards’ stair look into the closet in [[#Bath Chamber & Closet]].
 ### Inner West Wall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K46.</em></span>
 
@@ -1921,7 +1921,7 @@ A mosaic floor adds a touch of color to the otherwise dark, cold, empty tower. A
 Players who pass through the western archway exit the Garrison and enter [[Arc P - Ravenloft Heist#P6. King’s Apartments|King's Apartments]] via [[#Hall of Heroes]].
 
 > [!info]+ **The Heart of Sorrow**
-> The Heart of Sorrow is largely as described in  <span class="citation">K20. Heart of Sorrow (p. 59)</span>. However, it is immune to all damage, and no **vampire spawn** attack characters that attack it. In addition, rather than shaking the tower on initiative count 10 each round, the Heart shakes the tower each time the players attempt to ascend an additional story toward the Heart. 
+> The Heart of Sorrow is largely as described in  the Heart of Sorrow. However, it is immune to all damage, and no **vampire spawn** attack characters that attack it. In addition, rather than shaking the tower on initiative count 10 each round, the Heart shakes the tower each time the players attempt to ascend an additional story toward the Heart. 
 >
 > A character who fails the Dexterity saving throw against the shaking tower and falls as a result can catch themselves on the edge of the stairs by succeeding on a DC 20 Dexterity saving throw. A character adjacent to a falling character can catch them by succeeding on a DC 10 Dexterity saving throw.
 ### Inner North Wall
@@ -1939,7 +1939,7 @@ The players stand on a ten-foot-wide walkway. The drizzle of rain continues, pun
 A mosaic floor adds a touch of color to the otherwise dark, cold, empty tower. A spiral staircase rises slowly into darkness, hugging the outer wall.
 
 > [!info]+ **The Heart of Sorrow**
-> The Heart of Sorrow is largely as described in  <span class="citation">K20. Heart of Sorrow (p. 59)</span>. However, it is immune to all damage, and no **vampire spawn** attack characters that attack it. In addition, rather than shaking the tower on initiative count 10 each round, the Heart shakes the tower each time the players attempt to ascend an additional story toward the Heart. 
+> The Heart of Sorrow is largely as described in  the Heart of Sorrow. However, it is immune to all damage, and no **vampire spawn** attack characters that attack it. In addition, rather than shaking the tower on initiative count 10 each round, the Heart shakes the tower each time the players attempt to ascend an additional story toward the Heart. 
 >
 > A character who fails the Dexterity saving throw against the shaking tower and falls as a result can catch themselves on the edge of the stairs by succeeding on a DC 20 Dexterity saving throw. A character adjacent to a falling character can catch them by succeeding on a DC 10 Dexterity saving throw.
 ## P10f. Garrison, Fifth Floor
@@ -1964,7 +1964,7 @@ A mosaic floor adds a touch of color to the otherwise dark, cold, empty tower. A
 
 
 > [!info]+ **The Heart of Sorrow**
-> The Heart of Sorrow is largely as described in  <span class="citation">K20. Heart of Sorrow (p. 59)</span>. However, it is immune to all damage, and no **vampire spawn** attack characters that attack it. In addition, rather than shaking the tower on initiative count 10 each round, the Heart shakes the tower each time the players attempt to ascend an additional story toward the Heart.
+> The Heart of Sorrow is largely as described in  the Heart of Sorrow. However, it is immune to all damage, and no **vampire spawn** attack characters that attack it. In addition, rather than shaking the tower on initiative count 10 each round, the Heart shakes the tower each time the players attempt to ascend an additional story toward the Heart.
 >
 > A character who fails the Dexterity saving throw against the shaking tower and falls as a result can catch themselves on the edge of the stairs by succeeding on a DC 20 Dexterity saving throw. A character adjacent to a falling character can catch them by succeeding on a DC 10 Dexterity saving throw.
 
@@ -1973,7 +1973,7 @@ A mosaic floor adds a touch of color to the otherwise dark, cold, empty tower. A
 >
 > The Ladies—the Seeker, the Weaver, and the Huntress—mournfully struck their youngest sister down to protect the people of the valley. The Devourer’s corpse became the Whispering Wall at Yester Hill, but a god cannot fully die. Many years later, the wizards of the Amber Temple came upon the Devourer’s divine spark and sealed it in an amber sarcophagus at the Amber Temple.
 >
-> The Devourer was a master of the magic of souls—and so when Strahd first learned of the Grand Conjunction, he realized he could use her knowledge to construct his scheme to escape the Mists. He extracted the vestige of the Devourer from her amber prison in <span class="citation">X33d. Breached Vault (p. 192)</span> and forcefully resealed her in the Heart of Sorrow, where he could call upon her power and knowledge at will. 
+> The Devourer was a master of the magic of souls—and so when Strahd first learned of the Grand Conjunction, he realized he could use her knowledge to construct his scheme to escape the Mists. He extracted the vestige of the Devourer from her amber prison in the breached vault of the Amber Temple and forcefully resealed her in the Heart of Sorrow, where he could call upon her power and knowledge at will. 
 >
 > The Devourer is no willing participant in Strahd’s schemes. However, while entrapped in the Heart of Sorrow, she is powerless to resist his torments.
 
@@ -1986,7 +1986,7 @@ The sixty-foot-diameter tower roof is rimmed with battlements. A slender stone b
 A strong wind blows across the slender bridge of stone and masonry. The bridge connects the South Tower to the North Tower. The wind isn't strong enough to knock creatures off the bridge, but a creature that takes damage while standing on the bridge must succeed on a DC 10 Dexterity saving throw or fall 60 feet onto the roof of the keep.
 
 > [!info]+ **Descending the Offstair**
-> Players who descend <span class="citation">K48. Offstair (p. 70)</span> exit the Garrison and enter [[Arc P - Ravenloft Heist#P9. Coven’s Quarters|Coven's Quarters]] via the landing outside [[#P9a. Familiar Room]].
+> Players who descend the offstair exit the Garrison and enter [[Arc P - Ravenloft Heist#P9. Coven’s Quarters|Coven's Quarters]] via the landing outside [[#P9a. Familiar Room]].
 ## P10h. Garrison, Seventh Floor
 ### North Tower Peak
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K60.</em></span>
@@ -2030,7 +2030,7 @@ The bats arrive in two rounds, rather than three.
 <span class="citation"><em>This scene takes place in Chapter 4, Area K73.</em></span>
 
 > [!info]+ **Flooded Areas** 
-> The areas of <span class="citation">K73. Dungeon Hall (p. 82) </span>, <span class="citation">K74. North Dungeon (p. 82) </span>, <span class="citation">K75. South Dungeon (p. 82) </span>, <span class="citation">and K76. Torture Chamber (p. 82) </span>  are difficult terrain.
+> The areas of the dungeon hall, the north dungeon, the south dungeon, and the torture chamber  are difficult terrain.
 
 The stairs descend into black, still water that fills an arched hallway. The water's surface is like dark, mirrored glass, disturbed only occasionally by the drop of water falling from the ceiling. Twenty feet ahead, arched doorways lead downward from each side of the hallway. In each arched doorway, an iron door stands closed and partially submerged. A weak cry for help can be heard from beyond the south door.
 
@@ -2041,11 +2041,11 @@ The water is 3 feet deep in the hallway and opaque. The steps on both sides of t
 
 Additionally, instead of teleporting their victims to cells in the dungeons, the teleporters act as follows:
 
-* ***The First Trapdoor.*** The closest trapdoor to <span class="citation">K21. South Tower Stairs (p. 59)</span>, which ordinarily leads to <span class="citation">K74c. Rotting Corpse (p. 80)</span>, instead teleports its victim to the **iron maiden** in [[#P11d. Torture Chamber]] (see below).
-* ***The Second Trapdoor.*** The second-closest trapdoor to <span class="citation">K21. South Tower Stairs (p. 59)</span>, which ordinarily leads to <span class="citation">K74a. Forgotten Treasure (p. 80)</span>, instead teleports its victim to the **rack** in [[#P11d. Torture Chamber]] (see below).
-* ***The Third Trapdoor.*** The third-closest trapdoor to <span class="citation">K21. South Tower Stairs (p. 59)</span>, which ordinarily leads to <span class="citation">K74e. End of the Ride (p. 80)</span>, instead teleports its victim to the **brazen bull** in [[#P11d. Torture Chamber]] (see below).
-* ***The Fourth Trapdoor.*** The fourth-closest trapdoor to <span class="citation">K21. South Tower Stairs (p. 59)</span>, which ordinarily leads to <span class="citation">K74h. Lost Sword (p. 81)</span>, instead teleports its victim to the **breaking wheel** in [[#P11d. Torture Chamber]] (see below).
-* ***The Fifth Trapdoor.*** The furthest trapdoor from <span class="citation">K21. South Tower Stairs (p. 59)</span>, which ordinarily leads to <span class="citation">K75d. Dead Dwarf (p. 81)</span>, instead teleports its victim to the **scavenger’s daughter** in [[#P11d. Torture Chamber]] (see below).
+* ***The First Trapdoor.*** The closest trapdoor to the south tower stair, which ordinarily leads to the rotting corpse cell, instead teleports its victim to the **iron maiden** in [[#P11d. Torture Chamber]] (see below).
+* ***The Second Trapdoor.*** The second-closest trapdoor to the south tower stair, which ordinarily leads to the forgotten treasure cell, instead teleports its victim to the **rack** in [[#P11d. Torture Chamber]] (see below).
+* ***The Third Trapdoor.*** The third-closest trapdoor to the south tower stair, which ordinarily leads to the end of the ride cell, instead teleports its victim to the **brazen bull** in [[#P11d. Torture Chamber]] (see below).
+* ***The Fourth Trapdoor.*** The fourth-closest trapdoor to the south tower stair, which ordinarily leads to the lost sword cell, instead teleports its victim to the **breaking wheel** in [[#P11d. Torture Chamber]] (see below).
+* ***The Fifth Trapdoor.*** The furthest trapdoor from the south tower stair, which ordinarily leads to the dead dwarf cell, instead teleports its victim to the **scavenger’s daughter** in [[#P11d. Torture Chamber]] (see below).
 ## P11b. North Dungeon
 <span class="citation"><em>This scene takes place in Chapter 4, Area K74.</em></span>
 
@@ -2064,7 +2064,7 @@ The cells contain the following:
 * ***K74g. Gray Ooze.*** A **gray ooze** clings to the floor and attacks anything that enters. While underwater, the ooze is effectively invisible.
 * ***K74h. Lost Sword.*** A glowing blade can be seen beneath the water near the back of the cell.
 
-In addition, modify the description of <span class="citation">K74h. Lost Sword (p. 81)</span> to refer to a glowing mace, rather than a glowing blade. The mace has the same properties as the shortsword, but is not sentient, requires no attunement, and allows its wielder to cast *aura of life* rather than *crusader’s mantle*.
+In addition, modify the description of the lost sword cell to refer to a glowing mace, rather than a glowing blade. The mace has the same properties as the shortsword, but is not sentient, requires no attunement, and allows its wielder to cast *aura of life* rather than *crusader’s mantle*.
 
 > [!info]+ **The Keys to the Cells**
 > The keys to the cells are carried on a ring held by Volenta. (If the players killed Volenta in [[Arc D - St. Andral's Feast]], the ring is instead held by Ludmilla.)
@@ -2152,10 +2152,10 @@ Emil, who has three levels of exhaustion, has been locked in his cell for weeks.
 > The keys to the cells, as well as Emil’s collar, are carried on a ring held by Volenta. (If the players killed Volenta in [[Arc D - St. Andral's Feast]], the ring is instead held by Ludmilla.)
 
 > [!abstract]+ **Milivoj's Prison**
-> If Milivoj was imprisoned in Castle Ravenloft in [[Arc D - St. Andral's Feast]], he is locked in <span class="citation">K75c. Empty Cell (p. 81)</span>.
+> If Milivoj was imprisoned in Castle Ravenloft in [[Arc D - St. Andral's Feast]], he is locked in the empty cell.
 
 > [!abstract]+ **Henrik's Prison**
-> If Henrik was imprisoned in Castle Ravenloft in [[Arc D - St. Andral's Feast]], he is locked in <span class="citation">K75e. Empty Cell (p. 81)</span>.
+> If Henrik was imprisoned in Castle Ravenloft in [[Arc D - St. Andral's Feast]], he is locked in the empty cell.
 ## P11d. Torture Chamber
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K76 & K77.</em></span>
 
@@ -2168,7 +2168,7 @@ Two large, wooden thrones rest on the observation balcony. Behind the thrones ha
 > [!info]+ **Climbing the Balcony**
 > A successful DC 10 Strength (Athletics) check is required to climb the edge of the observation balcony.
 
-If the players failed to placate Volenta during [[Arc O - Dinner with the Devil#Volenta’s Toy|Arc O - Dinner with the Devil]], the corpse of Anton Konstantinovich has been turned into an additional **zombie** and is seated in the right-side throne of <span class="citation">K77. Observation Balcony (p. 82)</span>. If combat breaks out, or if any non-undead creatures approach within 5 feet of its throne, this **zombie** attacks and pursues the nearest living creatures within the area.
+If the players failed to placate Volenta during [[Arc O - Dinner with the Devil#Volenta’s Toy|Arc O - Dinner with the Devil]], the corpse of Anton Konstantinovich has been turned into an additional **zombie** and is seated in the right-side throne of the observation balcony. If combat breaks out, or if any non-undead creatures approach within 5 feet of its throne, this **zombie** attacks and pursues the nearest living creatures within the area.
 
 Otherwise, if the players successfully placated Volenta at dinner, Anton Konstaninovich is imprisoned within a rusted, metallic cage hanging above the southwest corner of the chamber. Though he can’t speak due to his missing tongue, Anton attempts to use gestures and grunts to warn the players of the zombies that dwell within the water, and is grateful to players who rescue him.
 
@@ -2218,7 +2218,7 @@ Otherwise, if the players successfully placated Volenta at dinner, Anton Konstan
 > * The right staircase leads to the king’s apartments, where Anton has heard a female prisoner is being kept.
 > * The central staircase leads to the catacombs and crypts. (Anton can share that bats and vampires dwell there.)
 ### Meeting Volenta
-If she is still alive and the players haven’t encountered her yet in the other areas of [[#P11. Dungeons]], Volenta Popofsky is seated on the left throne on <span class="citation">K77. Observation Balcony (p. 82)</span>, playing with a human skull held in her hand. (The skull belongs to Dezdrelda Konstaninova, Anton’s wife, who Volenta fed to the ghouls after her corpse was drained for blood in [[Arc O - Dinner with the Devil]].)
+If she is still alive and the players haven’t encountered her yet in the other areas of [[#P11. Dungeons]], Volenta Popofsky is seated on the left throne on the observation balcony, playing with a human skull held in her hand. (The skull belongs to Dezdrelda Konstaninova, Anton’s wife, who Volenta fed to the ghouls after her corpse was drained for blood in [[Arc O - Dinner with the Devil]].)
 
 Volenta greets the players with mild surprise and congratulates them on surviving the traps and foes elsewhere in the castle. If the players defeated her or otherwise foiled her plot in [[Arc D - St. Andral's Feast]], she informs them that she’s been relishing the opportunity for a rematch, and directs the **zombies** beneath the water to arise and attack. 
   
@@ -2389,35 +2389,35 @@ Yellow for the mountain keep<br>
 
 In addition, revise the stones’ destinations as follows:
 
-* Violet leads to <span class="citation">U5. Marina’s Monument (p. 164)</span> in Berez.
-* Orange leads to <span class="citation">V4. Tower, First Floor (p. 170)</span> in Van Richten’s Tower.
-* Red leads to the Shrine of the White Sun in <span class="citation">S4. Pool and Shrine (p. 146)</span> in Krezk.
-* Green leads to <span class="citation">N6f. Vampire Nest (p. 118)</span> in the Coffin Maker’s Shop in Vallaki.
-* Indigo leads to <span class="citation">E6. Cemetery (p. 48)</span> in the Village of Barovia.
-* Blue leads to <span class="citation">W6. Well (p. 176)</span> near the Wizard of Wines.
-* Yellow leads to <span class="citation">T4. Guard Tower, Ground Floor (p. 157)</span> in the guard tower at Tsolenka Pass.
+* Violet leads to Marina’s monument in Berez in Berez.
+* Orange leads to the first floor of Van Richten's Tower in Van Richten’s Tower.
+* Red leads to the Shrine of the White Sun in the pool and shrine in Krezk in Krezk.
+* Green leads to the vampire nest in the Coffin Maker’s Shop in Vallaki.
+* Indigo leads to the cemetery in the village of Barovia in the Village of Barovia.
+* Blue leads to the well at the Wizard of Wines near the Wizard of Wines.
+* Yellow leads to the guard tower at Tsolenka Pass in the guard tower at Tsolenka Pass.
 
 A successful DC 15 Intelligence (Nature) check identifies “monkshood" as a colloquial name for wolfsbane.
 
 Players who investigate the exits from this room can observe the following points of interest:
 
-* A player who investigates <span class="citation">K79. Western Stair (p. 84)</span> (leading to <span class="citation">K72. Chamberlain’s Office (p. 79)</span>) observes a humanoid silhouette appearing to observe them from the far side of the landing. Once noticed, the silhouette quickly ducks out of sight. (The silhouette is a **shadow**. See [[#P11f. Western Stair]] for more information about the shadow if the players attempt to confront or communicate with it.)
-* A player who investigates <span class="citation">K80. Center Stair (p. 84)</span> (leading to <span class="citation">K81. Tunnel (p. 84)</span> and <span class="citation">K84. Catacombs (p. 85)</span>) observes only the thick, opaque fog, which limits visibility as described in <span class="citation">K81. Tunnel (p. 84)</span>.
-* A player who investigates <span class="citation">K83. Spiral Stair (p. 85)</span> (leading to <span class="citation">K37. Study (p. 66)</span>) observes a woman’s slipper lying discarded on one of the upper stairs, just before the spiral staircase curves out of sight. A DC 12 Intelligence (Investigation) check suggests that the slipper’s owner was traveling up the staircase, rather than down. (The slipper is Gertruda’s, and was left here by Strahd to lure the players toward her bedchamber.)
-* A player who investigates the door leading toward <span class="citation">K77. Observation Balcony (p. 82)</span> finds a pale, white mask hanging from the handle. Players who previously encountered Anton Konstantinovich in [[Arc O - Dinner with the Devil#Volenta’s Toy|Arc O - Dinner with the Devil]] recognize the mask as his.
+* A player who investigates the western stair (leading to the chamberlain’s office) observes a humanoid silhouette appearing to observe them from the far side of the landing. Once noticed, the silhouette quickly ducks out of sight. (The silhouette is a **shadow**. See [[#P11f. Western Stair]] for more information about the shadow if the players attempt to confront or communicate with it.)
+* A player who investigates the center stair (leading to the tunnel and the catacombs) observes only the thick, opaque fog, which limits visibility as described in the tunnel.
+* A player who investigates the spiral stair (leading to Strahd's study) observes a woman’s slipper lying discarded on one of the upper stairs, just before the spiral staircase curves out of sight. A DC 12 Intelligence (Investigation) check suggests that the slipper’s owner was traveling up the staircase, rather than down. (The slipper is Gertruda’s, and was left here by Strahd to lure the players toward her bedchamber.)
+* A player who investigates the door leading toward the observation balcony finds a pale, white mask hanging from the handle. Players who previously encountered Anton Konstantinovich in [[Arc O - Dinner with the Devil#Volenta’s Toy|Arc O - Dinner with the Devil]] recognize the mask as his.
 
 > [!abstract]+ **Rahadin's Challenge**
 > This arc assumes the players visit the catacombs after completing all other major objectives (i.e., rescuing Gertruda, freeing Emil, and obtaining Argynvost's skull). When they do, Rahadin obstructs their departure from the catacombs after they visit St. Markovia's crypt, as described in [[#South Crypts, Third Row]].
 > 
 > Should the players instead visit St. Markovia's crypt before completing one of their other three major objectives, Rahadin doesn't appear in the catacombs. Instead, once the players move to depart Castle Ravenloft, Rahadin appears to obstruct their departure the next time they pass through one of the following areas: 
 > 
-> * <span class="citation">K8. Great Entry (p. 55)</span>, if the players are attempting to leave via <span class="citation">K7. Entry (p. 54)</span>,
-> * <span class="citation">K78. Brazier Room (p. 82)</span>, if the players are attempting to leave via the teleportation brazier there,
-> * <span class="citation">K23. Servants' Entrance (p. 59)</span>, if the players are attempting to leave via that route,
-> * <span class="citation">K46. Parapets (p. 68)</span>, if the players are attempting to leave by that route, and
-> * <span class="citation">K20. Heart of Sorrow (p. 59)</span> otherwise.
+> * the great entry, if the players are attempting to leave via the castle entry,
+> * the brazier room, if the players are attempting to leave via the teleportation brazier there,
+> * the servants' entrance, if the players are attempting to leave via that route,
+> * the parapets, if the players are attempting to leave by that route, and
+> * the Heart of Sorrow otherwise.
 > 
-> If Rahadin confronts the players in <span class="citation">K78. Brazier Room (p. 82)</span>, he removes the seven stones set into the brazier's rim and places them into a small leather pouch before they enter the room. He then ties the leather pouch to his belt. If the players notice the stones' disappearance before noticing Rahadin's ***screams of the dead***, he emerges from his hiding place behind one of the iron golems and asks, "Looking for these?" A player can attempt to sever the pouch from Rahadin's belt by making an attack against Rahadin's AC with disadvantage. On a hit, the pouch is severed if the string tying it to Rahadin's belt takes at least 1 point of piercing, slashing, fire, acid, necrotic, radiant, or force damage. Rahadin also automatically drops the pouch if he uses the *amulet of Ravenloft* to pass through a wall, ceiling, or floor of the castle.
+> If Rahadin confronts the players in the brazier room, he removes the seven stones set into the brazier's rim and places them into a small leather pouch before they enter the room. He then ties the leather pouch to his belt. If the players notice the stones' disappearance before noticing Rahadin's ***screams of the dead***, he emerges from his hiding place behind one of the iron golems and asks, "Looking for these?" A player can attempt to sever the pouch from Rahadin's belt by making an attack against Rahadin's AC with disadvantage. On a hit, the pouch is severed if the string tying it to Rahadin's belt takes at least 1 point of piercing, slashing, fire, acid, necrotic, radiant, or force damage. Rahadin also automatically drops the pouch if he uses the *amulet of Ravenloft* to pass through a wall, ceiling, or floor of the castle.
 >
 > See [[#South Crypts, Third Row]] for more information about Rahadin's statistics and appearance.
 ## P11f. Western Stair
@@ -2425,17 +2425,17 @@ Players who investigate the exits from this room can observe the following point
 
 This staircase of ancient stone is worn smooth. Thick dust covers its steps, and cobwebs choke the passage. The stairs rise at a 45-degree angle for a distance of 40 feet horizontally, leading to a 10-foot-square landing. A second set of stairs continues upward to the east at a similar angle for a distance of 30 feet horizontally, ending at a secret door that opens into [[#Chamberlain's Office]]. However, remove the *glyph of warding* from the landing. Instead, a curious, yet fearful **shadow** lurks here.
 
-If the players approach the staircase from <span class="citation">K78. Brazier Room (p. 82)</span>, the shadow flees upward, squeezing through the secret door to <span class="citation">K72. Chamberlain’s Office (p. 79)</span> and concealing itself within one of the drawers of Rahadin’s desk. (The shadow isn’t very good at hiding, allowing part of its ephemeral, shroud-like body to extrude through the drawer’s keyhole.)
+If the players approach the staircase from the brazier room, the shadow flees upward, squeezing through the secret door to the chamberlain’s office and concealing itself within one of the drawers of Rahadin’s desk. (The shadow isn’t very good at hiding, allowing part of its ephemeral, shroud-like body to extrude through the drawer’s keyhole.)
 
-If the players enter the staircase via the secret door in <span class="citation">K72. Chamberlain’s Office (p. 79)</span>, the shadow flees downward, concealing itself behind the western **iron golem** in <span class="citation">K78. Brazier Room (p. 82)</span>. While the players remain in <span class="citation">K78. Brazier Room (p. 82)</span>, the shadow amuses itself by pretending to be a player’s shadow. A player with a passive Wisdom (Perception) score of 14 or greater notices that the chosen player has an extra shadow.
+If the players enter the staircase via the secret door in the chamberlain’s office, the shadow flees downward, concealing itself behind the western **iron golem** in the brazier room. While the players remain in the brazier room, the shadow amuses itself by pretending to be a player’s shadow. A player with a passive Wisdom (Perception) score of 14 or greater notices that the chosen player has an extra shadow.
 
 This **shadow**, which understands Common but can’t speak it, is the remnant of a spirit that died in the castle long ago. If confronted in either the Chamberlain’s Office or Brazier Room, the shadow attempts to assure the players through nonverbal gestures that it intends them no harm. Fearful of the other creatures that lurk in Strahd’s domain, the shadow won’t follow the players elsewhere in the castle.
 
 > [!abstract]+ **Reuniting the Shadows**
-> If the players reunite this shadow with its friend from [[#First Floor South Archers’ Post]], the shadows swirl happily around one another in greeting. As a show of thanks, the shadows then attempt to lead the players to the loose flagstone in the southeast alcove of <span class="citation">K71. Kingsmen Quarters (p. 79)</span>, then disappear together into a nearby crack in the wall.
+> If the players reunite this shadow with its friend from [[#First Floor South Archers’ Post]], the shadows swirl happily around one another in greeting. As a show of thanks, the shadows then attempt to lead the players to the loose flagstone in the southeast alcove of the Kingsmen quarters, then disappear together into a nearby crack in the wall.
 
 > [!info]+ **Ascending the Stair**
-> A player who departs the western stair via the secret door to <span class="citation">K72. Chamberlain’s Office (p. 79)</span> exits the dungeons and enters [[#P10. Garrison]] via [[#Chamberlain’s Office]].
+> A player who departs the western stair via the secret door to the chamberlain’s office exits the dungeons and enters [[#P10. Garrison]] via [[#Chamberlain’s Office]].
 ## P11g. Catacomb Tunnel
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K81 & K82.</em></span>
 
@@ -2461,13 +2461,13 @@ The following areas are described below, except where denoted otherwise.
 > 
 > Should the players instead visit St. Markovia's crypt before completing one of their other three major objectives, Rahadin doesn't appear in the catacombs. Instead, once the players move to depart Castle Ravenloft, Rahadin appears to obstruct their departure the next time they pass through one of the following areas: 
 > 
-> * <span class="citation">K8. Great Entry (p. 55)</span>, if the players are attempting to leave via <span class="citation">K7. Entry (p. 54)</span>,
-> * <span class="citation">K78. Brazier Room (p. 82)</span>, if the players are attempting to leave via the teleportation brazier there,
-> * <span class="citation">K23. Servants' Entrance (p. 59)</span>, if the players are attempting to leave via that route,
-> * <span class="citation">K46. Parapets (p. 68)</span>, if the players are attempting to leave by that route, and
-> * <span class="citation">K20. Heart of Sorrow (p. 59)</span> otherwise.
+> * the great entry, if the players are attempting to leave via the castle entry,
+> * the brazier room, if the players are attempting to leave via the teleportation brazier there,
+> * the servants' entrance, if the players are attempting to leave via that route,
+> * the parapets, if the players are attempting to leave by that route, and
+> * the Heart of Sorrow otherwise.
 > 
-> If Rahadin confronts the players in <span class="citation">K78. Brazier Room (p. 82)</span>, he removes the seven stones set into the brazier's rim and places them into a small leather pouch before they enter the room. He then ties the leather pouch to his belt. If the players notice the stones' disappearance before noticing Rahadin's ***screams of the dead***, he emerges from his hiding place behind one of the iron golems and asks, "Looking for these?" A player can attempt to sever the pouch from Rahadin's belt by making an attack against Rahadin's AC with disadvantage. On a hit, the pouch is severed if the string tying it to Rahadin's belt takes at least 1 point of piercing, slashing, fire, acid, necrotic, radiant, or force damage. Rahadin also automatically drops the pouch if he uses the *amulet of Ravenloft* to pass through a wall, ceiling, or floor of the castle.
+> If Rahadin confronts the players in the brazier room, he removes the seven stones set into the brazier's rim and places them into a small leather pouch before they enter the room. He then ties the leather pouch to his belt. If the players notice the stones' disappearance before noticing Rahadin's ***screams of the dead***, he emerges from his hiding place behind one of the iron golems and asks, "Looking for these?" A player can attempt to sever the pouch from Rahadin's belt by making an attack against Rahadin's AC with disadvantage. On a hit, the pouch is severed if the string tying it to Rahadin's belt takes at least 1 point of piercing, slashing, fire, acid, necrotic, radiant, or force damage. Rahadin also automatically drops the pouch if he uses the *amulet of Ravenloft* to pass through a wall, ceiling, or floor of the castle.
 >
 > See [[#South Crypts, Third Row]] for more information about Rahadin's statistics and appearance.
 ## P12a. North Catacombs
@@ -2482,7 +2482,7 @@ This row of crypts contains the following:
 * ***Crypt 5.*** "Artank Swilovich: Friend and member of the Barovian Wine Distillers Guild." A skeleton draped in rags lies atop a marble slab, surrounded by thousands of empty wine bottles from the Wizard of Wines winery.
 * ***Crypt 6.*** Replace the epigraph and contents of Crypt 6 with "Tatsaul Eris—Last of the Line." A skeleton draped in rags lies atop a marble slab. Mounted on the north, east, and south walls are three unlit torches in iron brackets. When a creature enters this tomb for the first time, the torches burst into flame. Examination of the skull and bones reveals that they are plaster facsimiles. Remove the trap surrounding Crypt 6.
 
-Players who exit <span class="citation">K81. Tunnel (p. 84)</span> via Crypt 1, or who approach the intersection between Crypts 2, 7, and 8 observe a human corpse lying on the stone floor just south of <span class="citation">Crypt 2 (p. 87)</span>. (The corpse is a **zombie. See below for more information.**)
+Players who exit the tunnel via Crypt 1, or who approach the intersection between Crypts 2, 7, and 8 observe a human corpse lying on the stone floor just south of Crypt 2. (The corpse is a **zombie. See below for more information.**)
 #### North Crypts, Second Row
 This row of crypts contains the following:
 
@@ -2492,7 +2492,7 @@ This row of crypts contains the following:
 * ***Crypt 10.*** "Sir Leonid Krushkin (Sir Lee the Crusher): Bigger than life, he loved his jewelry." An oversized skeleton draped in jewelry and rags lies atop an elongated marble slab. A bloodstained maul leans against the slab. The maul is harmless and nonmagical. Three jeweled necklaces (worth 750 gp each) lie across the skeleton.
 * ***Crypt 11.*** "Tasha Petrovna—Healer of Kings, Light unto the West, Servant, Companion." A skeleton wearing tattered priestly vestments lies atop a marble slab. The domed ceiling is painted with a glorious sun mural. Creatures that would take damage from sunlight have disadvantage on all ability checks, attack rolls, and saving throws while inside this crypt. However, Tasha Petrovna’s holy symbol is not present; instead, it is currently worn by Father Lucian in Vallaki.
 
-In addition, a human corpse lies sprawled across the floor immediately south of <span class="citation">Crypt 2 (p. 87)</span>. If approached, the corpse rises as a **zombie** and attacks.
+In addition, a human corpse lies sprawled across the floor immediately south of Crypt 2. If approached, the corpse rises as a **zombie** and attacks.
 
 Players who fight the **zombie** south of Crypt 2, or who attempt to avoid the zombie by descending to [[#North Crypts, Third Row]] via any other intersection, draw the attention of a **vampire spawn** lurking amidst the catacombs. Read:
 
@@ -2500,7 +2500,7 @@ Players who fight the **zombie** south of Crypt 2, or who attempt to avoid the z
 <p>You hear a rustling in the distance. Out of the corner of your eye, you catch a flicker of movement against the arched ceiling of the catacombs to the south—and then you blink, and it vanishes from sight.</p>
 </div>
 
-The vampire attempts to remain hidden from the players by clinging to the ceiling, remaining within the shadows, and staying constantly on the move. If able to do so without detection, the vampire opens the stone door to <span class="citation">Crypt 14 (p. 88)</span> and clings to the edge of the shaft, waiting for a character to investigate; when a creature comes within reach, the vampire attacks with its ***unarmed strike*** and attempts to drag its prey down into the shaft before dropping it down into the vault below. If the players avoid the open door to Crypt 14, the vampire spawn exits the crypt and continues to skulk through the catacombs.
+The vampire attempts to remain hidden from the players by clinging to the ceiling, remaining within the shadows, and staying constantly on the move. If able to do so without detection, the vampire opens the stone door to Crypt 14 and clings to the edge of the shaft, waiting for a character to investigate; when a creature comes within reach, the vampire attacks with its ***unarmed strike*** and attempts to drag its prey down into the shaft before dropping it down into the vault below. If the players avoid the open door to Crypt 14, the vampire spawn exits the crypt and continues to skulk through the catacombs.
 
 The vampire also attacks the players if cornered, or if it finds a character isolated from the rest of the party. (Like all of Strahd’s minions, however, the vampire never attacks Ireena.) No matter the case, once the vampire has isolated and attacked its prey, it attempts to grapple them with its ***unarmed strike***, then hungrily drains them of blood using its ***bite.***
 
@@ -2603,7 +2603,7 @@ This row of crypts contains the following:
 In addition, remove the **imp** from Crypt 34, and place the *Spear of the Huntress* inside of the sarcophagus there.
 
 > [!item]+ **Spear of the Huntress**
-> This six-foot shaft of ash wood is adorned with carvings of wild animals, vines, and leaves, and bears a simple, yet sharp stone head. When first recovered from Dostron’s sarcophagus, it has the properties of a *blood spear* (<span class="citation">Blood Spear, p. 221</span>), but its wielder gains only a +1 bonus to attack and damage rolls made with it instead of +2. (The spear was corrupted long ago by the influence of Kavan and the Devourer, and can be restored in [[Arc T - The Three Fanes]] by either communing with the spirit of the Huntress, or reconsecrating the Forest Fane at Yester Hill, which the players can learn about at the Mountain Folk settlement of Soldav in [[Arc R - Trials of the Mountain]].)
+> This six-foot shaft of ash wood is adorned with carvings of wild animals, vines, and leaves, and bears a simple, yet sharp stone head. When first recovered from Dostron’s sarcophagus, it has the properties of a *blood spear* (the blood spear), but its wielder gains only a +1 bonus to attack and damage rolls made with it instead of +2. (The spear was corrupted long ago by the influence of Kavan and the Devourer, and can be restored in [[Arc T - The Three Fanes]] by either communing with the spirit of the Huntress, or reconsecrating the Forest Fane at Yester Hill, which the players can learn about at the Mountain Folk settlement of Soldav in [[Arc R - Trials of the Mountain]].)
 #### South Crypts, Third Row
 This row of crypts contains the following:
 
@@ -2614,7 +2614,7 @@ This row of crypts contains the following:
 * ***Crypt 39.*** "Beucephalus, the Wonder Horse: May the flowers grow ever brighter where he trods." The door to this crypt is larger than all the others, 6 feet wide by 8 feet tall. However, Beucephalus cannot be found in Crypt 39 at this time.
 * ***Crypt 40.*** See below for the modified contents of this crypt.
 
-Finally, move the invisible teleport traps described in <span class="citation">Teleport Traps (p. 85)</span> to the base of the stairs in Strahd’s tomb (see below).
+Finally, move the invisible teleport traps described in the castle's teleport traps—magical effects that transport creatures to specific locations within Castle Ravenloft to the base of the stairs in Strahd’s tomb (see below).
 
 > [!combat]- **Combat - The Thirty-Fifth Crypt**  
 > **Combat Level**: Bruising
@@ -2629,7 +2629,7 @@ Finally, move the invisible teleport traps described in <span class="citation">T
 > | Ghoul | 4 | 5 | 6 | 7 |
 
 
-***Crypt 40.*** Replace the epigraph and contents of Crypt 40 with the epigraph and contents of <span class="citation">Crypt 6 (p. 86)</span>, including the **poison dart trap** protecting it (see <span class="citation">Dungeon Master’s Guide, p. 123</span>). However, reduce the number of darts to two, and replace the darts’ attack rolls with two DC 15 Dexterity saving throws (one per dart). In addition, replace Saint Markovia’s thighbone with the *Icon of Dawn’s Grace* (see below), and remove the whispered message from Saint Markovia’s spirit.
+***Crypt 40.*** Replace the epigraph and contents of Crypt 40 with the epigraph and contents of Crypt 6, including the **poison dart trap** protecting it (see <span class="citation">Dungeon Master’s Guide, p. 123</span>). However, reduce the number of darts to two, and replace the darts’ attack rolls with two DC 15 Dexterity saving throws (one per dart). In addition, replace Saint Markovia’s thighbone with the *Icon of Dawn’s Grace* (see below), and remove the whispered message from Saint Markovia’s spirit.
 
 > [!item]+ **Icon of Dawn’s Grace**
 > The *Icon of Dawn’s Grace* is a statuette made of the purest silver, weighing 10 pounds, depicting a cleric kneeling in supplication. It was given to Strahd by the archpriest Ciril Romulich, an old family friend, to consecrate the castle and its chapel. The icon requires attunement by a creature of good alignment. Only a creature attuned to the icon can use its properties, which are as follows:
@@ -2818,12 +2818,12 @@ Finally, move the invisible teleport traps described in <span class="citation">T
 >
 > The Amulet of Ravenloft is an onyx pendant engraved with the von Zarovich crest—a raven with its wings spread before a tall shield bearing the sigil of Castle Ravenloft—that hangs from an intricate silver chain. As an action, its wielder can present the amulet and speak the words: “I call upon the guardians of Ravenloft to enact their master’s will." The amulet’s wielder then gains the following effects for 1 hour while within Castle Ravenloft:
 >
-> * The wielder gains the lair actions described in <span class="citation">Lair Actions (p. 239)</span>, and gains the ability to pass through solid walls, doors, ceilings, and floors as if they weren’t there.
-> * Every crypt door in <span class="citation">K84. Catacombs (p. 85)</span> swings open.
-> * The **skeletons** in <span class="citation">Crypt 2 (p. 86)</span>, <span class="citation">Crypt 3 (p. 86)</span>, <span class="citation">Crypt 5 (p. 86)</span>, <span class="citation">Crypt 8 (p. 87)</span>, <span class="citation">Crypt 9 (p. 87)</span>, <span class="citation">Crypt 10 (p. 87)</span>, <span class="citation">Crypt 13 (p. 88)</span>, <span class="citation">Crypt 16 (p. 89)</span>, <span class="citation">Crypt 17 (p. 89)</span>, <span class="citation">Crypt 19 (p. 89)</span>, <span class="citation">Crypt 24 (p. 90)</span>, <span class="citation">Crypt 25 (p. 90)</span>, <span class="citation">Crypt 26 (p. 90)</span>, <span class="citation">Crypt 28 (p. 90)</span>, <span class="citation">Crypt 30 (p. 91)</span>, <span class="citation">Crypt 33 (p. 91)</span>, <span class="citation">Crypt 36 (p. 92)</span>, and <span class="citation">Crypt 37 (p. 92)</span> animate. The following round, each skeleton emerges from its crypt, pursuing and attacking any intruders on sight. (Skeletons without weapons can make only unarmed strikes and grapples.)
-> * All one hundred **skeletons** in <span class="citation">Crypt 14 (p. 88)</span> animate. Over the following three rounds, the skeletons form a living ladder, allowing any remaining **wights** in the vault to climb from the shaft and emerge from the crypt, pursuing and attacking any intruders on sight. 2d6 armed **skeletons** emerge from the crypt each subsequent round, until all skeletons have emerged.
-> * On initiative count 20 of the third round after the amulet is activated, the **hell hounds** and **wraith** described in <span class="citation">Crypt 38 (p. 92)</span> begin to manifest in their crypt, coalescing fully from brimstone smoke three rounds later. They then emerge to pursue any intruders still remaining in the catacombs or [[#P11g. Catacomb Tunnel]].
-> * The **iron golems** in <span class="citation">K78. Brazier Room (p. 82)</span> begin to animate, activating fully on initiative count 20 of the fifteenth round after the amulet is activated. (Creatures in the Brazier Room while the golems are activating can observe their limbs and heads slowly grinding to life, their lifeless gazes locking onto any intruders present in their chamber.)
+> * The wielder gains the lair actions described in Strahd's lair actions, and gains the ability to pass through solid walls, doors, ceilings, and floors as if they weren’t there.
+> * Every crypt door in the catacombs swings open.
+> * The **skeletons** in Crypt 2 (Artista DeSlop—Seventh Bride of King Barov), Crypt 3 (Lady Isolde Yunk, Fourth Bride of King Barov), Crypt 5, Crypt 8, Crypt 9, Crypt 10, Crypt 13, Crypt 16, Crypt 17, Crypt 19, Crypt 24, Crypt 25, Crypt 26, Crypt 28, Crypt 30, Crypt 33, Crypt 36, and Crypt 37 animate. The following round, each skeleton emerges from its crypt, pursuing and attacking any intruders on sight. (Skeletons without weapons can make only unarmed strikes and grapples.)
+> * All one hundred **skeletons** in Crypt 14 animate. Over the following three rounds, the skeletons form a living ladder, allowing any remaining **wights** in the vault to climb from the shaft and emerge from the crypt, pursuing and attacking any intruders on sight. 2d6 armed **skeletons** emerge from the crypt each subsequent round, until all skeletons have emerged.
+> * On initiative count 20 of the third round after the amulet is activated, the **hell hounds** and **wraith** described in Crypt 38 begin to manifest in their crypt, coalescing fully from brimstone smoke three rounds later. They then emerge to pursue any intruders still remaining in the catacombs or [[#P11g. Catacomb Tunnel]].
+> * The **iron golems** in the brazier room begin to animate, activating fully on initiative count 20 of the fifteenth round after the amulet is activated. (Creatures in the Brazier Room while the golems are activating can observe their limbs and heads slowly grinding to life, their lifeless gazes locking onto any intruders present in their chamber.)
 > * The **red dragon wyrmling** statues in the [[#Main Entrance]], as well as any remaining **gargoyles** in the [[#Main Foyer]] and any remaining **wights** still guarding the castle walls (see [[#P2d. Crossing the Chasm]]), animate and begin moving toward the amulet’s wielder.
 >
 > Once used in this way, the amulet can't be activated again until thirty days have passed.
@@ -2834,7 +2834,7 @@ A heavy portcullis stands closed in the archway leading to this tomb. Lifting it
 
 Raising the lever lifts the portcullis at the top of the stairs. Pulling it down lowers the portcullis. Creatures that enter the western alcove are instantly teleported to the western alcove of Crypt 32. Stepping into the eastern alcove has no effect, but any creature that teleports from the eastern alcove of Crypt 32 appears here. The central alcove is nonmagical.
 
-However, the teleport traps described in <span class="citation">Teleport Traps (p. 85)</span> form a protective ring around the base of the staircase that descends into the tomb, rather than around the entrance to the tomb. In addition, replace the three vampiric brides buried in the earth near the east wall with three anonymous **vampire spawn** created from ordinary Barovians. 
+However, the teleport traps described in the castle's teleport traps—magical effects that transport creatures to specific locations within Castle Ravenloft form a protective ring around the base of the staircase that descends into the tomb, rather than around the entrance to the tomb. In addition, replace the three vampiric brides buried in the earth near the east wall with three anonymous **vampire spawn** created from ordinary Barovians. 
   
 > [!combat]- **Combat - The Tomb of the Darklord**  
 > **Combat Level**: Mild
@@ -2848,4 +2848,4 @@ However, the teleport traps described in <span class="citation">Teleport Traps (
 > |-|-|-|-|-|
 > | Vampire Spawn | 2 | 3 | 3 | 3 |
 
-Strahd’s coffin is surrounded by a 5-foot-radius *antimagic field* effect identical to the one described in <span class="citation">Khazan’s Spell Drain (p. 167)</span>. The effect doesn’t apply to spells cast by a creature attuned to *Khazan's Staff*, which is hidden in <span class="citation">Crypt 15 (p. 88)</span> in [[#North Crypts, Third Row]].
+Strahd’s coffin is surrounded by a 5-foot-radius *antimagic field* effect identical to the one described in Khazan’s spell drain. The effect doesn’t apply to spells cast by a creature attuned to *Khazan's Staff*, which is hidden in Crypt 15 in [[#North Crypts, Third Row]].

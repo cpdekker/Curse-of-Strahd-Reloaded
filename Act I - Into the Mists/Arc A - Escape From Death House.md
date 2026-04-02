@@ -114,7 +114,7 @@ When the players pass through Death House’s threshold, any Barovian relics the
 
 A wide hall runs the width of the house, with a black marble fireplace at one end and a sweeping, red marble staircase at the other. The wood-paneled walls are ornately sculpted with images of vines, flowers, nymphs, and satyrs. Characters who search the walls for secret doors or otherwise inspect the paneling can, with a successful DC 12 Wisdom (Perception) check, see serpents and skulls inconspicuously woven into the wall designs. The decorative paneling follows the staircase as it circles upward to the second floor. A cloakroom off the hall has several black cloaks hanging from hooks on the walls, with a top hat sitting on a high shelf. The hall also now contains a grandfather clock, which is placed in the circular space at the base of the stairs.
 
-Instead of a longsword, the portrait of the Durst family from <span class="citation">Upper Hall (p. 213)</span> now hangs above the fireplace. In the portrait, Thorn is holding a smiling doll wearing a yellow lace dress. A plaque beneath the portrait reads: *Mr. Gustav and Mrs. Elisabeth Durst, with their two children, Rosavalda and Thornboldt.*<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup>
+Instead of the longsword ordinarily mounted on the wall above the fireplace in the upper hall, the portrait of the Durst family now hangs above the fireplace. In the portrait, Thorn is holding a smiling doll wearing a yellow lace dress. A plaque beneath the portrait reads: *Mr. Gustav and Mrs. Elisabeth Durst, with their two children, Rosavalda and Thornboldt.*<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup>
 
 ![[The Durst Family.png]]
 <span class="credit">"The Durst Family" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -1008,7 +1008,7 @@ The bundle atop the altar is the size and shape of an infant wrapped in swaddlin
 
 The dark shadow in the cave is a **flesh mound** containing Walter’s spirit and remains.<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup> It is a swollen, bloated mound of bones, flesh, and gore that seems to breathe as its mass rises and falls. A player that observes it concludes that it appears to be sleeping.
 
-The cultists' shadows described in <span class="citation">“One Must Die!” (p. 220)</span> do not appear when a player climbs the altar. Instead, the players have two choices: sacrifice a living creature on the altar, or attack the flesh mound.
+The thirteen dark apparitions—black-robed figures holding torches of black fire that seem to draw light into them, their faces nothing but voids—described in the original “One Must Die!” event do not appear when a player climbs the altar. Instead, the players have two choices: sacrifice a living creature on the altar, or attack the flesh mound.
 
 If a creature is sacrificed on the altar, the flesh mound's tendrils accept its corpse and pull it to the mound's lair. There, the mound messily devours it before returning its tendrils to the altar once more. Feeding the mound does not free the players, because its hunger cannot be sated.
 
@@ -1176,7 +1176,7 @@ When the players next begin to move toward the exit, read:
 <p>Far above, the grandfather clock begins to chime, the sound mounting to a thunderous cacophony. Dust and debris rain down as the floor shakes beneath you, the wooden cross beams of the ceiling starting to splinter and crack. Elisabeth's spirit fixes you with a feral grin—and then dissipates into thin air, leaving only echoes of its spiteful laughter as the house rumbles, shifts, and groans.</p>
 </div>
 
-The players must flee from the ritual chamber to the [[#Entrance]] of Death House before the entire structure collapses upon their heads. However, they don't need to roll initiative, and the architectural changes described in <span class="citation">The Cult is Denied (p. 220)</span> are not present. 
+The players must flee from the ritual chamber to the [[#Entrance]] of Death House before the entire structure collapses upon their heads. However, they don't need to roll initiative, and the original architectural changes—bricked-up windows, scythe-blade doorways, smoke-filled rooms with fireplaces, and walls that crumble into swarms of rats—are not present. 
 
 Instead, as the players escape the crumbling Death House, they face two additional obstacles.
 
@@ -1232,7 +1232,7 @@ The apparitions are harmless and intangible figments that can't be damaged, turn
 # A3. Outside Death House
 When the players exit Death House, the storm overhead has slowed to a mere drizzle, and the mists around the house have disappeared. Night has long since fallen, and the waning moon is high in the sky.
 
-Most surprisingly, the players now find themselves in a dark forest clearing at the beginning of the <span class="citation">Old Svalich Road (p. 33)</span>, rather than in the streets of Daggerford. The road travels west. To the east lie dark, endless woods filled with the <span class="citation">Mists of Ravenloft (p. 23)</span>.
+Most surprisingly, the players now find themselves in a dark forest clearing at the beginning of the Old Svalich Road—a muddy roadway flanked by giant, claw-like trees looming on both sides, their branches reaching into the mist—rather than in the streets of Daggerford. The road travels west. To the east lie dark, endless woods filled with a deadly fog that engulfs any creature that tries to leave the land of Barovia, draining their life with exhaustion until they turn back or perish.
 
 The house then collapses into the earth, leaving a dark and bottomless pit behind. If the players still have it, Elisabeth Durst's amber shard then crumbles into dust. The pit vanishes the first time the players depart the clearing.
 

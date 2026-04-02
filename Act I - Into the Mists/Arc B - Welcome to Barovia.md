@@ -33,7 +33,7 @@ The journey from the Gates of Barovia to [[#B3. Svalich Woods]] is one-quarter m
 # B3. Svalich Woods
 <span class="citation"><em>This scene takes place in Chapter 2: Area C.</em></span>
 
-This scene begins as described in <span class="citation">Svalich Woods (p. 34)</span>. However, when the players find the corpse of Dalvan Olensky, he is not holding a crumpled envelope, and his clothes appear to have been torn by brambles and thorns, rather than claw marks. He doesn't appear to have any visible wounds, but a successful DC 10 Wisdom (Medicine) check reveals that he died of exhaustion.
+As the players travel the Old Svalich Road, the party member with the highest passive Wisdom (Perception) score catches the scent of death on the air. Following the stench, they find a human corpse half-buried in the underbrush about fifteen feet from the road. However, unlike the original module, Dalvan Olensky is not holding a crumpled envelope, and his clothes appear to have been torn by brambles and thorns, rather than claw marks. He doesn't appear to have any visible wounds, but a successful DC 10 Wisdom (Medicine) check reveals that he died of exhaustion.
 
 Instead of the envelope, Dalvan is now holding an old, tarnished copper compass. While it remains close to the edge of the Barovian valley, its needle trembles strangely even when held still.
 
@@ -77,7 +77,7 @@ If the players then leave Dalvan's corpse and return, they find that both his an
 > [!design]+ **Design Note: Dalvan’s Fate**
 > Dalvan’s task in the original module—placing a warning note at the eastern Barovian gates—makes little sense, given that Burgomaster Indirovich would know that those who arrive in Barovia from beyond the Mists can’t turn back, even before they enter the Barovian gates. Instead, Dalvan’s role has been revised to foreshadow Madam Eva’s prophetic insight and communicate the perils (and mechanics) of entering the Mists. 
 >
-> Dalvan and his horse will later reappear as the skeletal rider described in <span class="citation">Skeletal Rider (p. 31)</span> in [[Act I - Into the Mists/Arc C - Into the Valley#C5. The Skeletal Rider|Arc C - Into the Valley]]. The rider will again appear in [[Arc O - Dinner with the Devil#O3b. The Rider’s Guidance|Arc O - Dinner with the Devil]], guiding the players at Madam Eva’s direction to Katarina’s tree and long-lost locket, which the players can use to let Varushka’s spirit find peace in [[Arc O - Dinner with the Devil#Varushka’s Grief|Arc O - Dinner with the Devil]].
+> Dalvan and his horse will later reappear as a skeletal rider—a skeletal warhorse and rider clad in ruined chainmail, holding a rusted lantern that sheds no light, doomed to ride through the valley in search of a way out—in [[Act I - Into the Mists/Arc C - Into the Valley#C5. The Skeletal Rider|Arc C - Into the Valley]]. The rider will again appear in [[Arc O - Dinner with the Devil#O3b. The Rider’s Guidance|Arc O - Dinner with the Devil]], guiding the players at Madam Eva’s direction to Katarina’s tree and long-lost locket, which the players can use to let Varushka’s spirit find peace in [[Arc O - Dinner with the Devil#Varushka’s Grief|Arc O - Dinner with the Devil]].
 # B4. Barovian Overlook
 <span class="citation"><em>This scene takes place in Chapter 2: Area D.</em></span>
 
@@ -106,7 +106,7 @@ When the players first approach the village, read the following:
 
 ![[Ismark.png]]
 <span class="credit">"Ismark Kolyanovich" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-The man is Ismark Kolyanovich, who is largely as described in <span class="citation">E2. Blood of the Vine Tavern (p. 43)</span>. The raven is Muriel, a disguised **wereraven** and member of the [[Lore of Barovia#Factions#Keepers of the Feather|Keepers of the Feather]]. Two **scouts** bearing light crossbows (+4 to hit, range 80/320 ft., one target, *Hit:* 6 (1d8 + 2) piercing damage) and named Kereza and Korga stand watch on the rooftops nearby, while six Barovian **commoners** make repairs to the barricade.
+The man is Ismark Kolyanovich, a young man and the son of the village burgomaster, Kolyan Indirovich. He is an LG male human **veteran**. The raven is Muriel, a disguised **wereraven** and member of the [[Lore of Barovia#Factions#Keepers of the Feather|Keepers of the Feather]]. Two **scouts** bearing light crossbows (+4 to hit, range 80/320 ft., one target, *Hit:* 6 (1d8 + 2) piercing damage) and named Kereza and Korga stand watch on the rooftops nearby, while six Barovian **commoners** make repairs to the barricade.
 
 > [!profile]+ **Profile: Ismark Kolyanovich**
 >
@@ -141,7 +141,7 @@ After confirming that the barricade is nearly repaired, Ismark invites the playe
 If the players agree, Muriel follows them to the town square, staying aloft in the air overhead and watching with keen interest.
 
 > [!abstract]+ **The Raven**
-> Ismark doesn’t know that the blue-winged raven is a wereraven, and doesn’t know whether anyone has given it a name. He believes the raven’s presence is a good omen, however, and can share the superstition about ravens described in <span class="citation">Beliefs and Superstitions (p. 28)</span>. (This superstition is shared by all Barovians, not just Vistani.)
+> Ismark doesn’t know that the blue-winged raven is a wereraven, and doesn’t know whether anyone has given it a name. He believes the raven’s presence is a good omen, however, and can share the Barovian superstition that one should never harm a raven, lest ill fortune befall you. (This superstition is shared by all Barovians, not just Vistani.)
 
 > [!design]+ **Design Note: Entering the Village**
 > This scene has been written to immediately convey the villagers’ wariness, establish Ismark as a sympathetic ally, and introduce the **wereraven** Muriel Vinshaw and the ravens of Barovia, thereby foreshadowing the Keepers of the Feather. 
@@ -155,7 +155,11 @@ As the players and Ismark pass through the village streets, read:
 <p>Ismark guides you through a second, larger barricade, manned by grim-faced villagers wielding clubs and spears. Beyond it stands an old, chipped stone statue standing at the center of a small town square, depicting a man wearing leather armor and holding a sword. More than a dozen makeshift tents and campfires have been set up around it, hosting a haggard-looking host of young, old, and sickly-looking villagers.</p>
 </div>
 
-Add the description of the exterior of the Blood of the Vine Tavern, given in <span class="citation">E2. Blood of the Vine Tavern (p. 43)</span>.
+When the players arrive, read the following description of the exterior of the Blood of the Vine Tavern:
+
+<div class="description"><p>A single shaft of light thrusts illumination into the main square, its brightness looking like a solid pillar in the heavy fog. Above the gaping doorway, a sign hangs precariously askew, proclaiming this to be the Blood on the Vine tavern.</p></div>
+
+Close inspection of the sign reveals that it originally read "Blood of the Vine." (An "n" has been scratched over with the "f.")
 
 The tents host the village’s elderly, sick, and children, who have been gathered here as a fortification of last resort. The statue bears a weather-worn plaque at its base, which reads: “ISMARK ANTONOVICH THE GREAT. Burgomaster of Barovia. Bane of Vampires. 618—662 B.C." (“B.C." stands for “Barovian Calendar.") 
 ![[Ismark the Great.png]]
@@ -186,7 +190,19 @@ Ismark can share the following information:
 * Six nights ago, Strahd’s undead forces began attacking the town. Each night, the Barovians beat back multiple waves of the dead—and each night, the horde comes ever-closer to breaching the village’s defenses.
 * Many Barovians fear that the village is doomed. The undead have infested the woods to the north, west, and south, blocking the Old Svalich Road just past the Ivlis River. With the Mists blocking passage to the east, the village has been effectively cut off from the world, left to survive on its own—or perish.
 
-[[Non-Player Characters#Ismark Kolyanovich|Ismark]] can also share the village’s recent history, as well as most of the information in <span class="citation">Roleplaying Ismark (p. 43)</span> and <span class="citation">Barovian Lore (p. 26)</span>. However, Ismark doesn't mention a "mad wizard" and he doesn't suggest that the Vistani serve Strahd. (Note that Ismark’s father, Burgomaster Kolyan Indirovich, is still alive—albeit wounded—in the burgomaster’s mansion, and Ismark’s sister, Ireena Kolyana, hasn’t yet been bitten by Strahd.)
+[[Non-Player Characters#Ismark Kolyanovich|Ismark]] can also share the village’s recent history, as well as most of the common Barovian lore. Specifically, Ismark can share the following information:
+
+* Strahd von Zarovich is a vampire who dwells in Castle Ravenloft. No one is welcome at the castle without an invitation.
+* The devil Strahd is a curse placed on the land because of a forgotten sin of the Barovians' ancestors.
+* A vampire must rest in its coffin during the day. At night, it can summon wolves and vermin to do its bidding, and can transform into a bat, a wolf, or a cloud of mist. In humanoid form, it can dominate you with its powerful gaze.
+* A vampire can't enter a residence without an invitation from one of the occupants.
+* Running water burns a vampire like acid, and sunlight causes a vampire to burst into flame.
+* Anyone who attempts to leave the land of Barovia begins to choke on the fog; those who don't turn back perish.
+* Wolves, dire wolves, and werewolves prowl the Svalich Woods, and hungry bats fill the skies at night.
+* The town of Vallaki lies in the heart of the valley, and the fortified village of Krezk lies at the west end.
+* Wine is the lifeblood of Barovia, supplied by the Wizard of Wines winery near Krezk.
+
+However, Ismark doesn't mention a "mad wizard" and he doesn't suggest that the Vistani serve Strahd. (Note that Ismark’s father, Burgomaster Kolyan Indirovich, is still alive—albeit wounded—in the burgomaster’s mansion, and Ismark’s sister, Ireena Kolyana, hasn’t yet been bitten by Strahd.)
 ### Bildrath's Fury
 Shortly after Ismark begins answering the players' questions, read:
 
@@ -197,7 +213,7 @@ Shortly after Ismark begins answering the players' questions, read:
 ![[Bildrath_transparent.png]]
 <span class="credit">"Bildrath" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-The man is Bildrath Cantemir, the owner of <span class="citation">Bildrath's Mercantile (p. 43)</span>. If any of the players appear interested in speaking with him further, he invites them to sit at his table instead to "hear the real story of this bloody land." "The wine's shit," he grunts, shoving a pitcher of wine across the table, "but so's everything else."
+The man is Bildrath Cantemir, the owner of Bildrath's Mercantile—the village's only shop, which sells adventuring gear at ten times the normal price. If any of the players appear interested in speaking with him further, he invites them to sit at his table instead to "hear the real story of this bloody land." "The wine's shit," he grunts, shoving a pitcher of wine across the table, "but so's everything else."
 
 If asked about Bildrath's statement about "the last fools that trusted him," Ismark winces. "He's right to hate me," he says quietly. "I asked the other villagers to stay and defend our homes. I was arrogant and foolish—I didn't appreciate just how powerful the Devil and his creatures were." He closes his eyes. "Now dozens of my friends and neighbors are gone—and I'm still here."
 
@@ -253,7 +269,7 @@ Once calmed, Mary wipes her eyes, thanks Ismark (and the players, if they comfor
 ### Ismark’s Request
 After Mary departs, Ismark asks them to aid in defending the village’s eastern barricade that night. “Like it or not, we’re all in this together," he says somberly. “The more hands, the better. I don’t know if I can promise coin, but I can promise it’ll help all of us survive the night—yourselves included." In exchange for the players’ aid, Ismark is glad to offer them room and board at his family’s home. (The Blood of the Vine Tavern doesn't have rooms for rent.) 
 
-If the players agree to aid in the town’s defense, Ismark is deeply grateful. He asks them to first retrieve a crate of “fire bottles" from his sister, Ireena, who is overseeing the defense of the village’s southern perimeter from their home, <span class="citation">E4. Burgomaster’s Mansion (p. 44)</span>. (Ismark, who has to return to the western barricades to prepare for the return of the dead, can’t take the time to do so himself.) If asked, Ismark can explain that a “fire bottle" is a bottle of distilled wine topped with a rag wick, meant to be lit and hurled at approaching undead.
+If the players agree to aid in the town’s defense, Ismark is deeply grateful. He asks them to first retrieve a crate of “fire bottles” from his sister, Ireena, who is overseeing the defense of the village’s southern perimeter from the burgomaster’s mansion. (Ismark, who has to return to the western barricades to prepare for the return of the dead, can’t take the time to do so himself.) If asked, Ismark can explain that a “fire bottle" is a bottle of distilled wine topped with a rag wick, meant to be lit and hurled at approaching undead.
 
 Once the players have retrieved the crate of fire bottles and had an opportunity to rest at the manor, Ismark tells them, they should take the fire bottles to the eastern barricade—the place where they first entered the village—where they’ll be stationed throughout the night.
 ## B5d. The Burgomaster’s Mansion
@@ -274,7 +290,7 @@ When the players arrive, they find a mob of ten Barovian **commoners** has forme
 <p>“Go home, Alenka," the man booms. “The rest of you as well. For as long as I am burgomaster, I will not permit this madness." 
 </div>
 
-The brown-haired woman is Alenka Konstantinova, a middle-aged Barovian **commoner**. The older man is Burgomaster Kolyan Indirovich, a **veteran** with four levels of exhaustion. The red-haired young woman is Ireena Kolyana, who is largely as described in <span class="citation">Roleplaying Ireena (p. 45)</span>.
+The brown-haired woman is Alenka Konstantinova, a middle-aged Barovian **commoner**. The older man is Burgomaster Kolyan Indirovich, a **veteran** with four levels of exhaustion. The red-haired young woman is Ireena Kolyana, a striking young woman with auburn hair. Although she appears mild, she has a strong will. She doesn't remember her early past and doesn't know how she came to Barovia or where she came from.
 
 ![[Ireena.png]]
 <span class="credit">"Ireena Kolyana" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -428,7 +444,7 @@ When the players are ready to depart, Ireena retrieves a wooden crate containing
 > A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.
 
 > [!abstract]+ **Visiting the Church**
-> Players who insist upon visiting <span class="citation">E5. Church (p. 45)</span> find it largely as described in [[#B5i. The Barovian Church]] below. However, Parriwimple is not at the church at this time, and Father Donavich does not mention Doru's fate without Ireena or Ismark present.
+> Players who insist upon visiting the church—a gray, sagging edifice of stone and wood atop a slight rise, its heavy wooden doors covered with claw marks and scarred by fire—find it largely as described in [[#B5i. The Barovian Church]] below. However, Parriwimple is not at the church at this time, and Father Donavich does not mention Doru's fate without Ireena or Ismark present.
 ## B5e. Bildrath’s Mercantile
 <span class="citation"><em>This scene takes place in Chapter 3: Area E1.</em></span>
 
@@ -451,7 +467,7 @@ If Bildrath orders Parriwimple to remove the players from the store, Parriwimple
 
 ## B5f. The Eastern Barricade
 ### Preparing the Barricade
-Shortly after returning to the barricade at the eastern entrance to the village, the players are met by Bildrath and Parriwimple, who are largely as described in <span class="citation">E1. Bildrath’s Mercantile (p. 43)</span>. However, Parriwimple has the statistics of a **berserker** with a spear (+5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage.) instead of a greataxe. Bildrath also carries a light crossbow (+2 to hit, range 80/320 ft., one target. *Hit:* 4 (1d8 + 0) piercing damage).
+Shortly after returning to the barricade at the eastern entrance to the village, the players are met by Bildrath and Parriwimple. Bildrath (LN male human **commoner**) is the owner of the village’s mercantile, a man who serves his own interests and offers no sanctuary. Parriwimple (LG male human), Bildrath’s nephew and stockboy, is a simple-minded but devoted young man whose muscles rippling beneath his leather tunic give ample notice of his strength. However, Parriwimple has the statistics of a **berserker** with a spear (+5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage.) instead of a greataxe. Bildrath also carries a light crossbow (+2 to hit, range 80/320 ft., one target. *Hit:* 4 (1d8 + 0) piercing damage).
 
 When the players first encounter Parriwimple, read:
 
@@ -836,13 +852,13 @@ If confronted, Ismark can reluctantly share the following information:
 
 When the player returns to their room, they can see two **swarms of bats**—Strahd's spies—gathered on the eaves of a nearby house, watching silently from the darkness.
 ### Morning at the Mansion
-The players' rest at the mansion passes without incident. When they awaken the following morning shortly before dawn, they can find the burgomasters' corpse lying in a coffin in the living room as described in <span class="citation">E4. Burgomaster's Mansion (p. 44)</span>. Ismark and Ireena are in the dining room, quietly drinking tea.
+The players' rest at the mansion passes without incident. When they awaken the following morning shortly before dawn, they can find the burgomaster's corpse lying in a simple wooden coffin in the living room, surrounded by wilting flowers and a faint odor of decay. Ismark and Ireena are in the dining room, quietly drinking tea.
 
 When the players descend to the main floor, Ireena greet them and insists on fixing them bowls of goat's milk porridge and cups of chamomile tea for breakfast. While Ireena busies herself in the kitchen, Ismark solemnly and apologetically asks the players for three favors.
 
 ***Escorting Ireena.*** Ismark first quietly notes that Ireena appears to have become a target for both the Devil and her fellow villagers, and that he no longer believes the village, which lies directly beneath the shadow of Castle Ravenloft, to be safe for her. 
 
-Ismark shares the information regarding his desire to bring her to Vallaki as described in <span class="citation">Roleplaying Ismark (p. 43)</span>, and notes that St. Andral’s Church in Vallaki is said to be hallowed ground, protecting its congregants from vampires and other undead. Although he can't leave Barovia due to his duties as his father's successor, Ismark asks the players if they would be willing to bring her to St. Andral's Church in his stead. 
+Ismark shares that he wants the players to help him escort Ireena to Vallaki, a settlement in the heart of the valley, beyond the view of Castle Ravenloft and—he hopes—beyond the reach of Strahd. He knows that moving Ireena is a gamble, since she’s vulnerable to Strahd when she is outside their home, but he has heard assertions that Vallaki is well defended. Ismark also notes that St. Andral’s Church in Vallaki is said to be hallowed ground, protecting its congregants from vampires and other undead. Although he can't leave Barovia due to his duties as his father's successor, Ismark asks the players if they would be willing to bring her to St. Andral's Church in his stead. 
 
 > [!warning]+ **Clarifying Expectations**
 > 
@@ -950,7 +966,7 @@ If the players inquire further, Donavich can share the following information:
 
 Donavich knows that he can’t defeat Doru and can’t bear to see his son’s face again. If the players are willing, however, Donavich asks them to descend to the undercroft, destroy Doru’s body, and retrieve his holy symbol. In exchange, Donavich offers to complete the proper burial rites and to tell the players of a place where they can find safety from the Devil Strahd.
 
-If the players agree, Donavich produces the key to the padlock in <span class="citation">E5d. Trapdoor (p. 45)</span> and allows them to enter. (Ismark remains upstairs with Ireena, reluctant to expose her to a vampire—even Doru—but promises the players that he will join them should Doru prove too dangerous for them to handle. A DC 12 Wisdom (Insight) check reveals that he also appears too horrified by Doru's fate to face him directly.)
+If the players agree, Donavich produces the key to the padlock on the trapdoor in the floor of the chapel and allows them to enter. (Ismark remains upstairs with Ireena, reluctant to expose her to a vampire—even Doru—but promises the players that he will join them should Doru prove too dangerous for them to handle. A DC 12 Wisdom (Insight) check reveals that he also appears too horrified by Doru's fate to face him directly.)
 ### Descent to the Undercroft
 When the players descend into the undercroft, read:
 
@@ -1179,7 +1195,7 @@ When the players are ready to leave, Ireena bids Ismark a heartfelt farewell and
 ## B5k. Mad Mary’s Townhouse
 <span class="citation"><em>This scene takes place in Chapter 3: Area E3.</em></span>
 
-There should be no reason for the players to visit <span class="citation">Mad Mary’s Townhouse (p. 44)</span> in this revision. However, if they do, the following changes have been made:
+There should be no reason for the players to visit Mad Mary’s Townhouse—a dark, boarded-up two-story townhouse from which a moaning sob floats through the still, gray streets—in this revision. However, if they do, the following changes have been made:
 
 Mad Mary did not hide Gertruda in this house for her entire life. Instead, Gertruda lived a fairly ordinary life—albeit one with a fairly overbearing widowed mother. (Ireena and Gertruda initially bonded as young girls over the loss of their parents—Ireena's mother and Gertruda's father.) When he was alive, Gertruda’s father was a merchant who raised Gertruda on stories of great lords and ladies, using their family’s meager funds to purchase her occasional books from Vistani caravans regarding diplomacy and military history.
 

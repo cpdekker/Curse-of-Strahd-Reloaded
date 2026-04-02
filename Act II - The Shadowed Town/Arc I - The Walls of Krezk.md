@@ -23,7 +23,7 @@ As the players pass it, a winding branch of the Old Svalich Road meanders up the
 <p>A dirt path branches off from the Old Svalich Road here, winding its way south up a craggy mountain spur. The earth of the path is hard-packed, its color a pallid gray-brown reminiscent of cold ashes. The trees on either side stand silent and stoic, their leaves a faded green. As the path winds upward, it's eventually replaced by the deep shadows of the mountain's forested incline, vanishing into the gloom of the woods beyond.</p>
 </div>
 
-Just before the players reach the Raven River Crossroads, they come across the path to Lake Baratok and <span class="citation">Chapter 11: Van Richten’s Tower (p. 167)</span>, not far from the path that leads to <span class="citation">Chapter 9: Tsolenka Pass (p. 157)</span>. Read:
+Just before the players reach the Raven River Crossroads, they come across the path to Lake Baratok and Van Richten’s Tower—a tower built on a small island on Lake Baratok by the archwizard Khazan, connected to the nearby shore by an earth-and-gravel causeway, not far from the path that leads to Tsolenka Pass—a gravel road that hugs Mount Ghakis, climbing to great heights, leading to a gatehouse, a guard tower, and a stone bridge that spans the Luna River. Read:
 
 <div class="description">
 <p>An old hunting trail cuts away from the Old Svalich Road here, winding north between old, gnarled trees before vanishing into the underbrush. A hundred yards beyond it, an alpine path splits from the main road to travel south toward the mountains, rising in elevation until it disappears around a steep, tree-covered escarpment.</p>
@@ -198,7 +198,7 @@ To earn the right to speak with her, Baba Lysaga ordains that one of the players
 
 Once the players have made the requested offering, Baba Lysaga is glad to do business with them. She is willing to accept Baron Krezkov’s gold bracelet as the payment for a single *scrying* spell. Should the players request it, she is also willing to accept an item of similar value to cast *scrying* a second time on a target of the players’ choice. 
 
-Upon accepting Baron Krezkov’s payment, Baba Lysaga directs the players to travel to the goat pen beside <span class="citation">U2. Ulrich Mansion (p. 162)</span> and fetch a single live **goat**. (Baba Lysaga needs the blood of the live goat to create a medium through which to perform her *scrying* ritual.) Though there is no gate in the fence of the goat pen, she informs the players that they can magically create one by speaking the passphrase: “Death to Ravenovia.”
+Upon accepting Baron Krezkov’s payment, Baba Lysaga directs the players to travel to the goat pen beside the Ulrich Mansion—a ruined mansion at the south end of the village, reduced to piles of stone and rotting timber, with an untamed garden to the south and a crude wooden fence forming a circular yard to the east in which several goats are penned, their fence posts surmounted by human skulls and fetch a single live **goat**. (Baba Lysaga needs the blood of the live goat to create a medium through which to perform her *scrying* ritual.) Though there is no gate in the fence of the goat pen, she informs the players that they can magically create one by speaking the passphrase: “Death to Ravenovia.”
 
 If asked about the strix, Lysaga gleefully explains that they are an artifact of her own creation—excellent for killing or capturing ravens, which she loathes.
 
@@ -238,7 +238,7 @@ The players' return to Krezk is eight and three-quarter miles long and takes thr
 > [!info]+ **Forced March**
 > Remember that players who travel more than eight hours in one day risk exhaustion, as described in <span class="citation">Travel Pace (Player's Handbook, p. 181)</span>.
 
-Regardless of their destination, the players experience the <span class="citation">Lost Battlefield (p. 166)</span> event as they pass the point where the Luna River splits.
+Regardless of their destination, the players experience the *Lost Battlefield* event from the original module: the players hear sounds of battle as thick fog takes on the forms of soldiers on horseback charging across the field, colliding with armored pike-bearers wearing devil-horned helms. As each soldier falls, it turns to fading mist. Hundreds more soldiers collide in a storm of screams and clashing metal. The ghostly soldiers are not solid enough to discern emblems or insignia, but it is clear that both armies are human. If the players have not yet explored Argynvostholt, they also hear a thunderous roar as a huge dragon made of silver mist glides overhead, dispersing enemy soldiers with each flap of its mighty wings, affording a fleeting glimpse of a dark mansion overlooking the valley as they pass the point where the Luna River splits.
 # I6. The Village of Krezk
 If the players return successfully to Krezk with information obtained from Baba Lysaga’s *scrying* spell and share it with Baron Krezkov, he gratefully grants them entry into the village.
 
@@ -250,7 +250,7 @@ When the players enter the village, read:
 
 The village operates as a commune, with no exports or moneymaking businesses. Villagers grow trees and vegetables, cut wood to heat their homes, raise chickens and pigs, and share their food. The village has no inns or taverns, but characters who are willing to chop wood, milk cows, or perform other chores can spend the night in the burgomaster's cottage or some other residence. Krezk's residences are single-story pine cottages with stone chimneys and thatch roofs.
 
-Once the players are within the village walls, Baron Krezkov is glad to share any or all of the information provided in <span class="citation">Krezk Lore (p. 146)</span>, with the following changes:
+Once the players are within the village walls, Baron Krezkov is glad to share any or all of the following information from the *Krezk Lore* sidebar: residents never leave the village for fear of being attacked by wolves, dire wolves, and werewolves; about once a month, a wagonload of wine arrives from the Wizard of Wines winery to the south, owned and operated by the Martikov family; a pool at the north end of the village provides fresh water throughout the year, next to which the village's ancestors built a shrine to the Morninglord known as the Shrine of the White Sun; the Abbey of Saint Markovia is named after a priest of the Morninglord who took a stand against the devil Strahd—after a fierce uprising, Markovia and her most loyal followers stormed Castle Ravenloft, only to be destroyed; and the abbey was once a hospital and a convent, but it fell on hard times after the land was swallowed up by the mists, with the following changes:
 
 * The Krezkovs have had only two children, rather than four.
 * Ilya, his elder son, is thirteen years old and went missing several days ago. (Although Baron Krezkov won't mention, Ilya went missing on the night of the full moon on Octyavr 22, exactly fourteen days before the most recent full moon on Neyavr 8.)
@@ -273,7 +273,7 @@ The pool is fed by an underground spring and was blessed long ago by Saint Marko
 <p>A handsome young man in a brown monk's robe kneels before one of the flowers, cupping its petals delicately in his hand. A painted wooden holy symbol that depicts the sun hangs from a chain around his neck, and he gazes thoughtfully at the flower between his fingers.</p>
 </div>
 
-The flowers are *wolfsbane*. The young man is the Abbot of the Abbey of St. Markovia, who is largely as described in <span class="citation">S13. Main Hall (p. 150)</span> and <span class="citation">Appendix D (p. 225)</span>.
+The flowers are *wolfsbane*. The young man is the Abbot of the Abbey of St. Markovia, who is largely as described in the original module: a deva in disguise who has lived for millennia, typically assuming the form of a strikingly handsome human priest in his late twenties or early thirties. More than a hundred years ago, the deva was sent from the Upper Planes to honor the legacy of Saint Markovia, reopening the abbey and tending to the physically and mentally ill in hopes of bringing much-needed light to Barovia. However, the Dark Powers began to corrupt him—his fall from grace started when the Belviews, a family of sickly, inbred lepers, came to the abbey seeking salvation. He rid them of their diseases but could not cure certain human defects present since birth, becoming consumed with a prideful, obsessive desire to rid them of all imperfections.
 
 
 ![[The Abbot.png]]

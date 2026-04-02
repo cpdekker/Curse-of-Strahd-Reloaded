@@ -172,7 +172,7 @@ As dusk approaches, Ezmerelda can lead the players to a dark and quiet hollow in
 <p>The air is cool and damp here, carrying the earthy scent of wet soil and decaying leaves. The hollow itself is silent, save for the faint rustling of leaves and the distant lapping of water against the shore.</p>
 </div>
 
-Ezmerelda advises the players that they can stay hidden within the hollow while using it as a vantage point from which to watch the werewolves’ den. If asked, she points out the entrance to the den, which is located along the lake’s northwestern shore and as described in <span class="citation">Approaching the Den (p. 201)</span>.
+Ezmerelda advises the players that they can stay hidden within the hollow while using it as a vantage point from which to watch the werewolves’ den. If asked, she points out the entrance to the den, which is located along the lake’s northwestern shore and along the lakeshore: the open jaws of a wolf's head form a fifteen-foot-high canopy of rock over the cave mouth, held up by natural pillars of rock, with torches in iron brackets lining the walls inside.
 
 Upon descending into the hollow, Ezmerelda asks the players to gather firewood and kindling. Once a small campfire has been created, she produces a small flint and steel from her satchel—a *furtive firestarter* (see below)—and uses it to light a small but cheery campfire beneath the cavern of roots. 
 
@@ -238,7 +238,7 @@ As the players approach, read:
 <p>An enormous beast's carcass lies crookedly across the bottom of the cliff beside the cave's mouth—an enormous elk, easily as tall as two men standing atop each other's shoulders. Much of the flesh has been stripped from its bones, and its entire throat has been ripped away.</p>
 </div>
 
-One hundred feet above the cave mouth, farther up the sloping mountainside and not visible from the cave mouth or its vicinity, is a rocky ledge (<span class="citation">Z8. Ring of Stone, p. 205</span>). A character can scale the slope to reach the ledge without the need for a climber's kit or ability checks.
+One hundred feet above the cave mouth, farther up the sloping mountainside and not visible from the cave mouth or its vicinity, is a rocky ledge containing a twenty-foot-diameter ring of stones—a place where the werewolf pack convenes to watch their young prisoners fight with spears, with spattered blood and small gnawed bones within the ring, and several blood-stained spears lying on the ground outside. A character can scale the slope to reach the ledge without the need for a climber's kit or ability checks.
 
 A successful DC 12 Wisdom (Medicine) check reveals that the elk's throat was torn away by a single massive set of jaws, easily large enough to devour a humanoid's torso whole.
 
@@ -320,7 +320,7 @@ Skennis is not asleep, only dozing. The players must succeed on a group DC 14 De
 
 The sound alerts Skennis to the presence of intruders, but not their identities or locations. The players must succeed on an additional group DC 15 Dexterity (Stealth) check to exit the room without drawing Skennis’s attention or ire. Otherwise, the players can quiet Skennis by healing his cuts or offering him food, which he accepts with a soft, grateful whine. (The cuts were left by Kiril, who “punished" Skennis for attempting to steal a mouthful of goat meat the previous night.)
 
-If the players treat him with kindness—rather than simply attempting to pacify him—Skennis (remaining in wolf form) motions for them to wait, then proceeds through [[#L4d. Deep Caves]], ascends the tunnel behind <span class="citation">Z6. Kiril's Cave (p. 204)</span>, and emerges into <span class="citation">Z8. Ring of Stone (p. 205)</span>. Upon arriving there, he briefly pauses, then barks several times in false alarm, summoning the six **wolves** from [[#L4d. Deep Caves]]. (The two **werewolf brawlers** there are awoken by the disturbance, but continue to doze in their cave, lowering the DC of any Dexterity (Stealth) check made to avoid their notice to 11.)
+If the players treat him with kindness—rather than simply attempting to pacify him—Skennis (remaining in wolf form) motions for them to wait, then proceeds through [[#L4d. Deep Caves]], ascends the rough-hewn stairs in the tunnel behind Kiril's cave (which lies behind a curtain of stitched human skin), and emerges through the secret door into the ring of stone on the rocky ledge above. Upon arriving there, he briefly pauses, then barks several times in false alarm, summoning the six **wolves** from [[#L4d. Deep Caves]]. (The two **werewolf brawlers** there are awoken by the disturbance, but continue to doze in their cave, lowering the DC of any Dexterity (Stealth) check made to avoid their notice to 11.)
 
 If the players remain in Skennis’s cave without feeding, healing, pacifying, incapacitating, or hiding from him, his growl escalates to a rumbling snarl. One round later, he releases a sharp, piercing howl that echoes across the walls of the cave and into the valley beyond.
 
@@ -334,11 +334,11 @@ When the players enter this area, read:
 <p>A maze of yellow-lit tunnels and caves expands in front of you. Bones lie strewn upon the floor.</p>
 </div>
 
-The ceiling here is 10 feet high. The bones on the floor are a warning system. They crunch loudly underfoot, and creatures have disadvantage on Dexterity (Stealth) checks made to move silently through this area. Players who pass through this area can see flickering torchlight emanating from <span class=”citation”>Z7. Shrine of Mother Night (p. 204)</span>.
+The ceiling here is 10 feet high. The bones on the floor are a warning system. They crunch loudly underfoot, and creatures have disadvantage on Dexterity (Stealth) checks made to move silently through this area. Players who pass through this area can see flickering torchlight emanating from the Shrine of Mother Night below.
 
-Bianca, Wensencia, and Kellen are not present when the players arrive. Instead, <span class="citation">Z5a. South Cave (p. 203)</span> is occupied by two slumbering **werewolf brawlers** in wolf form named Kobal Mironovich and Radovan Lipsiege, while <span class="citation">Z5b. North Cave (p. 203)</span> is occupied by six alert **wolves** loyal to Strahd and Kiril.
+Bianca, Wensencia, and Kellen are not present when the players arrive. Instead, the south cave is occupied by two slumbering **werewolf brawlers** in wolf form named Kobal Mironovich and Radovan Lipsiege, while the north cave is occupied by six alert **wolves** loyal to Strahd and Kiril.
 
-To sneak through this area without disturbing the wolves, the players must succeed on a DC 19 Dexterity (Stealth) check, made with disadvantage as described in <span class="citation">Z5. Deep Caves (p. 203)</span>. If they hear or see a potential intruder, the wolves begin growling and barking, awakening Kobal and Radovan. The werewolves and wolves then move to investigate the source of the disturbance. Once they've cornered any intruders, Kobal and Radovan assume their hybrid forms and attack.
+To sneak through this area without disturbing the wolves, the players must succeed on a DC 19 Dexterity (Stealth) check, made with disadvantage due to the bones covering the floor that crunch loudly underfoot. If they hear or see a potential intruder, the wolves begin growling and barking, awakening Kobal and Radovan. The werewolves and wolves then move to investigate the source of the disturbance. Once they've cornered any intruders, Kobal and Radovan assume their hybrid forms and attack.
 
 <div class="statblock">
 <h2>Werewolf Brawler</h2>
@@ -397,7 +397,7 @@ To sneak through this area without disturbing the wolves, the players must succe
 </div>
 
 > [!info]+ **Where Wolves?**
-> When the players first infiltrate the Werewolf Den, Bianca is sitting alone in <span class="citation">Z8. Ring of Stone (p. 205)</span>, descending to the main cavern only if Skennis raises the alarm. Wensencia no longer exists as a member of the werewolf pack, while Kellen has been made an adult member of the pack and a member of Kiril's raiding party.
+> When the players first infiltrate the Werewolf Den, Bianca is sitting alone on the rocky ledge above the den where the ring of stone stands, descending to the main cavern only if Skennis raises the alarm. Wensencia no longer exists as a member of the werewolf pack, while Kellen has been made an adult member of the pack and a member of Kiril's raiding party.
 
 ## L4e. Shrine of Mother Night
 <span class="citation"><em>This area corresponds to Z7. Shrine of Mother Night (p. 204).</em></span>
@@ -436,7 +436,7 @@ Players who saw Ilya's sketch of Zuleika in [[Arc K - The Fallen Abbey#Ilya’s 
 > The spells *dispel magic* and *knock* have no effect on either collar. In addition, if a prisoner teleports while wearing the collar, the collar teleports with its wearer.
 
 > [!info]+ **Collars and Anti-Magic**
-> A _silverthorn collar_ is affected normally by <span class="citation">Khazan's Spell Drain (p. 167)</span> at <span class="citation">Chapter 11: Van Richten's Tower (p. 167)</span>. If her collar is removed, Zuleika is glad to help the players rescue Emil from Castle Ravenloft in [[Arc P - Ravenloft Heist]].
+> A _silverthorn collar_ is affected normally by Khazan's spell drain—an antimagic field that surrounds the tower's door, which suppresses all magic within its area—at <span class="citation">Chapter 11: Van Richten's Tower (p. 167)</span>. If her collar is removed, Zuleika is glad to help the players rescue Emil from Castle Ravenloft in [[Arc P - Ravenloft Heist]].
 
 > [!info]+ **The Chains**
 > The chains connecting Ilya and Zuleika's collars to the cavern wall have the statistics of a *chain (10 feet)*, as described in <span class="citation">Player's Handbook (p. 151)</span>, with an AC of 19. 
@@ -522,7 +522,7 @@ If the players agree to swear Zuleika's oath and retrieve the *Holy Symbol of Ra
 > 
 > You can also use the holy symbol as a spellcasting focus for your cleric and paladin spells. You gain a +1 bonus to spell attack rolls and to the saving throw DCs of your cleric and paladin spells.
 ### Bianca’s Return
-Partway through the players’ conversation with Zuleika—before the players learn how to free Ilya or obtain the *Holy Symbol of Ravenkind*—Bianca Stoyanovich descends from <span class="citation">Z8. Ring of Stone (p. 205)</span>, passes through <span class="citation">Z6. Kiril's Cave (p. 204)</span>, and approaches <span class="citation">Z7. Shrine of Mother Night (p. 204)</span>. 
+Partway through the players’ conversation with Zuleika—before the players learn how to free Ilya or obtain the *Holy Symbol of Ravenkind*—Bianca Stoyanovich descends from the ring of stone on the rocky ledge above, passes through Kiril's cave (pushing past the curtain of stitched human skin), and approaches the Shrine of Mother Night. 
 
 Any character with a passive Wisdom (Perception) score of 18 or above hears Bianca pass through the curtain at the rear of Kiril’s Cave. Characters who act swiftly can conceal themselves from view by moving along the southern staircase and succeeding on a DC 20 group Dexterity (Stealth) check. (On a failure, Bianca confronts them atop the southern staircase, obstructing their escape.)
 
@@ -538,7 +538,7 @@ If Bianca doesn’t notice the players, she proceeds as follows, assuming the pl
 * Zuleika grasps the bars of her cage. “He made his choice long ago. You can still find a different path."
 * Bianca lunges for Zuleika’s cage and wraps her claws around the bars, thrusting her muzzle between them. “I gave up *everything* for him. Do you have any idea what I’ve sacrificed to be here?"
 * Zuleika meets Bianca’s gaze without flinching. She then replies, softly, “Do you?"
-* Bianca freezes, then resumes her true human form. She then turns away from Zuleika’s cage, pauses, and tiredly says, “It doesn’t matter. It never did." Bianca then proceeds to <span class="citation">Z6. Kiril's Cave (p. 204)</span>, where she uses her ***shapechange*** feature to assume her white-furred wolf form, curls up on the ground, and stares blankly across the cavern.
+* Bianca freezes, then resumes her true human form. She then turns away from Zuleika’s cage, pauses, and tiredly says, “It doesn’t matter. It never did." Bianca then proceeds to Kiril's cave, where she uses her ***shapechange*** feature to assume her white-furred wolf form, curls up on the ground, and stares blankly across the cavern.
 
 If Bianca notices and confronts the players, or if the players make no efforts to conceal themselves or escape, she demands, in a quiet, deadly tone, that they depart the den immediately and never return. If they fail to do so, she threatens to break the _crystal of alarm_ around her neck, summoning Kiril and the rest of the pack back to Barovia. “When Kiril returns," she warns breathlessly, “he’ll skin you alive."
 

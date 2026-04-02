@@ -84,7 +84,7 @@ When the players enter this area, read:
 
 The tapestry is torn in places and worthless. It is a portrait of Lord Argynvost. The alabaster busts depict several of the dragon’s other human guises. The stairs lead up to the second-floor balconies.
 
-The first time the players pass through this foyer, a great shadow with wings moves across the walls and passes into <span class="citation">Q12. Dining Hall (p. 132)</span> before disappearing. The players hear a soft bestial hiss in the darkness. The draconic shadow is ominous yet harmless.
+The first time the players pass through this foyer, a great shadow with wings moves across the walls and passes into the dining hall before disappearing. The players hear a soft bestial hiss in the darkness. The draconic shadow is ominous yet harmless.
 ## M3b. Dining Hall
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q12.</em></span>
 
@@ -116,7 +116,7 @@ Additionally, read:
 <p>The knight's chain-mail shirt is dulled and corroded with age, his silver helm cracked and blackened. Beneath it, strands of silver-gray hair fall limply across his gaunt and ashen face. His flesh is gray and pallid, skin stretched taut over sharp, skeletal cheekbones, and his head slumps forward toward the ground.</p>
 </div>
 
-This is the **revenant** Sir Godfrey Gwilym, who is as described in <span class="citation">Q37. Knights of the Order (p. 139).</span> If the players approach, interact with, or otherwise make themselves known to him, read:
+This is the **revenant** Sir Godfrey Gwilym, who can be found in a spacious chamber adorned with faded war banners, containing a heavy wooden table surrounded by six high-backed chairs with wood-carved dragons perched atop them, and five other skeletal revenants in tattered chainmail slumped in the chairs. If the players approach, interact with, or otherwise make themselves known to him, read:
 
 <div class="description">
 <p>The knight’s head lifts, revealing red eyes that flash with a quiet intensity. His arms seem to flex, almost instinctively, against his black-wire bindings—and it’s then that you notice that each wire is covered with tiny, razor-sharp barbs, many of which bite deeply into his armor and flesh.</p>
@@ -239,7 +239,7 @@ Should the players express interest in retrieving those garments, Godfrey asks o
 
 If the players ask about the origin of the buried remains, Godfrey solemnly informs them that the Order of the Silver Dragon made its final stand there.
 ### Obtaining the Garments
-If the players choose to recover the soldiers' garments from the mass grave on the Luna River, they will first need to obtain shovels to excavate the site, which they can purchase from Arasek Stockyard in Vallaki, borrow from the dusk elves of the Vallakian <span class="citation">N9. Vistani Camp (p. 119)</span>, or borrow from Burgomaster Dmitri Krezkov of Krezk.
+If the players choose to recover the soldiers' garments from the mass grave on the Luna River, they will first need to obtain shovels to excavate the site, which they can purchase from Arasek Stockyard in Vallaki, borrow from the dusk elves of the Vistani camp outside Vallaki, or borrow from Burgomaster Dmitri Krezkov of Krezk.
 
 As the players head south from the Luna River Crossroads after obtaining one or more shovels, read:
 
@@ -658,7 +658,7 @@ Seven **giant spiders** nest here. They attack anyone who gets too close. Howeve
 
 A player who succeeds on a DC 14 Wisdom (Perception) check in this room notices an old leather satchel encased in webbing in the upper northwest corner of the room, near the ceiling. (A player who takes one minute to survey the room spots the satchel automatically.)
 
-The satchel, which appears to have had its leather strap forcibly torn off, contains two vials of *holy water* and a book titled *The Oath Celestial*, which is as described in <span class="citation">Q40. Argynvost’s Study (p. 140)</span>. A simple leather bookmark engraved with the sigil of the Morninglord—a rising sun—marks the place of a passage within the book titled *Prayer for the Departed.* It reads as follows:
+The satchel, which appears to have had its leather strap forcibly torn off, contains two vials of *holy water* and a book titled *The Oath Celestial*, a partially burned devotional text for knights from a place called the Holy Empire of Valentia, its cover slashed by a sword—most of the knights who joined Argynvost against Strahd came from that empire, now lost beyond the mists. A simple leather bookmark engraved with the sigil of the Morninglord—a rising sun—marks the place of a passage within the book titled *Prayer for the Departed.* It reads as follows:
 
 <div class="description">
 <p>Blessed Morninglord, bringer of dawn, we honor those who have journeyed beyond into your kingdom of everlasting radiance. In your light, grant them peace, from this until the end of days.</p>
@@ -701,9 +701,9 @@ When the players enter this area, read:
 <p>This T-shaped hallway has branches to the west, east, and south. Three arched windows in the north wall look out over the foggy grounds.</p>
 </div>
 
-The ceiling in the hall is 20 feet high. The hallway is noticeably colder than the surrounding areas. The wooden doors to <span class="citation">Q27. Knights’ Quarters (p. 136)</span> and <span class="citation">Q28. Knights’ Quarters (p. 136)</span> are locked, requiring a successful DC 20 Strength check to break down. No **phantom warriors** reside within those rooms, and there is no *wall of stone* trap.
+The ceiling in the hall is 20 feet high. The hallway is noticeably colder than the surrounding areas. The wooden doors to the two knights’ quarters—rooms littered with the wreckage of ancient bunk beds, dirt-caked windows, and empty armor stands—are locked, requiring a successful DC 20 Strength check to break down. No **phantom warriors** reside within those rooms, and there is no *wall of stone* trap.
 
-Instead, when the players first attempt to open one of the doors leading to <span class="citation">Q27. Knights’ Quarters (p. 136)</span> or <span class="citation">Q.28 Knights’ Quarters (p. 136)</span>, five **phantom warriors** use their ***etherealness*** feature to emerge from the Ethereal Plane, three rising from beneath the floor behind the players, and two passing through the surface of the door the players attempted to enter. Modify the phantom warriors' statistics as follows:
+Instead, when the players first attempt to open one of the doors leading to either set of knights’ quarters, five **phantom warriors** use their ***etherealness*** feature to emerge from the Ethereal Plane, three rising from beneath the floor behind the players, and two passing through the surface of the door the players attempted to enter. Modify the phantom warriors' statistics as follows:
 
 * Increase each **phantom warrior**'s hit points to 75 (10d8 + 30).
 * Each **phantom warrior** gains a fly (hover) speed of 30 feet.
@@ -746,7 +746,7 @@ When the **phantom warriors** are defeated, any surviving **specters** warmly no
 
 ***Q28. Knights’ Quarters.*** Tattered and faded drapes cover the windows of this circular room, and empty torch sconces line the walls. Broken bunk beds and armor stands are strewn on the floor. Buried under the wreckage is a small wooden coffer containing four *potions of greater healing* (<span class="citation">Dungeon Master’s Guide, p. 187</span>). A search of the room yields this lost cache.
 
-In addition, <span class="citation">Q27. Knights’ Quarters (p. 136)</span> is haunted by the spirit of Minodora Taltos, a **poltergeist** that once served as a clerk to the Order of the Silver Dragon in the war against Strahd. When the players first enter this room, read:
+In addition, the other knights’ quarters is haunted by the spirit of Minodora Taltos, a **poltergeist** that once served as a clerk to the Order of the Silver Dragon in the war against Strahd. When the players first enter this room, read:
 
 <div class="description">
 <p>The temperature plummets unnaturally beyond the threshold, your breath puffing out in small clouds of fog that linger momentarily before dissipating. A thin layer of frost dims the grey light filtering through the old, cracked windows, and a deep chill seems to pervade the room.</p>
@@ -784,7 +784,7 @@ Minodora is a solemn, if black-humored spirit. If befriended by the players, she
 > **Q. How did you die?**
 > A. Invaders.
 
-Minodora is glad to provide the players with directions to Brother Marek’s preferred haunting place, <span class="citation">Q35. Upstairs Gallery (p. 138)</span>. She warns them, however, that Brother Marek prefers to remain within the Ethereal Plane wherever possible. To draw his attention, she advises, the players might wish to retrieve his holy book—which he kept in a leather satchel in his bedroom in the western chamber of <span class="citation">Q19. Ruined Bedchambers (p. 135)</span>—and read aloud one of the prayers contained therein.
+Minodora is glad to provide the players with directions to Brother Marek’s preferred haunting place, the upstairs gallery—a room with dark wood paneling rising three feet high, walls painted with murals of religious figures performing holy rites, and three tall stained-glass windows depicting figures in white robes with orange sunrises behind their heads. She warns them, however, that Brother Marek prefers to remain within the Ethereal Plane wherever possible. To draw his attention, she advises, the players might wish to retrieve his holy book—which he kept in a leather satchel in his bedroom in the western ruined bedchamber on the second floor, where the south end of the room has collapsed and the wooden floor creaks dangerously underfoot—and read aloud one of the prayers contained therein.
 ## M5c. Southern Chambers
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q19.</em></span>
 
@@ -914,7 +914,7 @@ The bracelet is carved to resemble a dragon biting its own tail, and is a *brace
 > The bracelet regains 1 expended charge daily at dawn. If you expend the bracelet's last charge, roll a d20. On a 1, the bracelet loses its magical properties.
 
 > [!item]+ **Amulet of Knight’s Passage**
-> This carved block of white stone is a key that allows passage through the gatehouse at Tsolenka Pass. If a creature presents the stone to the <span class="citation">T3. Curtain of Green Flame (p. 157)</span>, the curtain is suppressed for 1 minute. While the curtain is suppressed in this way, the petrified **vrocks** described in <span class="citation">T2. Demon Statues (p. 157)</span> don’t animate or attack.
+> This carved block of white stone is a key that allows passage through the gatehouse at Tsolenka Pass. If a creature presents the stone to the curtain of green flame that fills the eastern archway of the gatehouse (which normally deals 33 (6d10) fire damage to any creature that enters or starts its turn within it), the curtain is suppressed for 1 minute. While the curtain is suppressed in this way, the two petrified **vrocks** that serve as demon statues atop the gatehouse don’t animate or attack.
 > 
 > The scrutiny of an *identify* spell reveals only that the block is a key of some kind, though not what for.
 
@@ -977,7 +977,7 @@ A round-topped wooden door opens to reveal a spiral staircase with narrow window
 ### Ruined Antechamber
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q34 (p. 138).</em></span>
 
-This area replaces <span class="citation">Q34. Ruined Bathroom (p. 138)</span>. When the players enter this room, read:
+This area replaces the ruined bathroom, which originally contained a tiled floor and an iron bathtub filled with debris from the collapsed roof. When the players enter this room, read:
 
 <div class="description">
 <p>This room has a wooden floor warped and scuffed with age. Rusted blades hang between torn banners bearing the emblem of a silver dragon, the dragon's eyes seeming to gaze mournfully upon the broken furnishings below. A torn curtain hangs in an open doorway in the center of the east wall.</p>
@@ -1003,7 +1003,7 @@ Any player who’s previously met the Abbot of the Abbey of Saint Markovia recog
 > [!lore]+ **The Stained-Glass Windows**
 > The stained-glass windows portray the anointing of Saint Markovia as a prophet by Ithuriel, the **deva** of the Morninglord now known as the Abbot. The event was overseen by Saint Andral, the Moste High Priest of the Morninglord’s church at the time of Markovia’s selection, and Markovia’s envious competitor for the title of the Morninglord’s prophet.
 >
-> The statuette is the *Icon of Dawn's Grace*, which appears as described in <span class="citation">Icon of Ravenloft (p. 222)</span>. The statuette’s glow is a symbolic representation of the shard of the Abbot’s divinity that dwells within.
+> The statuette is the *Icon of Dawn's Grace*, which appears as a twelve-inch-tall statuette made of the purest silver, weighing ten pounds, depicting a cleric kneeling in supplication. The statuette’s glow is a symbolic representation of the shard of the Abbot’s divinity that dwells within.
 
 If the players are accompanied by the **pseudodragon** spirit Zorya, Zorya breathes silver fire upon two ancient torches flanking the stained-glass windows, setting them alight with cold silver flames that bathe the room in a chill, ethereal light.
 
@@ -1044,11 +1044,11 @@ If convinced by the players to aid them in speaking with Argynvost, Brother Mare
 > If the players are unaccompanied by Argynvost's familiar, the ghostly **pseudodragon** Zorya, modify Brother Marek's first sentence to read: "Seek out the silver dragon's shadow below, and the younger of the twin dragons above."
 
 > [!info]+ **The Younger Dragon**
-> Marek's mention of "twin dragons" refers to the dragon gargoyles that overlook the roof of the manor, one of which can now be found in <span class="citation">Q53. Beacon of Argynvostholt (p. 142)</span>. 
+> Marek's mention of "twin dragons" refers to the dragon gargoyles that overlook the roof of the manor, one of which can now be found atop the beacon tower. 
 #### Marek is Unconvinced
 If the players fail to convince Brother Marek to allow them to speak with Argynvost, he scoffs, but offers to provide them a final chance. "Lord Argynvost's tomb lies empty in the graveyard below," he informs them. "Should he hear your words, he may grant you a token of his favor. Bring me proof of that favor, and I shall give you the guidance you seek."
 
-If the players subsequently descend to <span class="citation">Q16. Dragon’s Mausoleum (p. 134)</span>, it is as described in [[#M4a. Cemetery]] above. To obtain a token of Argynvost's favor, one or more players must deliver a courageous, truthful, and honorable speech regarding their intention to defeat Strahd and free Barovia. To encourage them to do so, Argynvost's spirit kindles the torches within the mausoleum as follows:
+If the players subsequently descend to the dragon’s mausoleum, it is as described in [[#M4a. Cemetery]] above. To obtain a token of Argynvost's favor, one or more players must deliver a courageous, truthful, and honorable speech regarding their intention to defeat Strahd and free Barovia. To encourage them to do so, Argynvost's spirit kindles the torches within the mausoleum as follows:
 
 * **Argynvost Somewhat Approves.** The torches briefly flicker with cold silver embers, which are swiftly extinguished.
 * **Argynvost Approves.** The torches briefly flare with cold silver fire, which then dwindles into nothingness.
@@ -1069,13 +1069,13 @@ The floor here is 40 feet above the floor of the ballroom below. The roof is 20 
 ## M7a. Rooftop
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q43, Q44, Q45, Q46, Q47, Q48, and Q49.</em></span>
 
-When the players first exit the <span class="citation">Q31. East Staircases (p. 138)</span> to emerge on the roof, read:
+When the players first exit the east staircase to emerge on the roof, read:
 
 <div class="description">
 <p>As the old wooden door creaks open, grey light floods the darkened landing—and a shimmering ethereal arrow pierces the stone floor before you. Your eyes trace its trajectory upward, and catch a glimpse of a spectral figure in the window of an upper tower—before it ducks down and vanishes from sight.</p>
 </div>
 
-The tower is one of <span class="citation">Q52. Beacon Turrets (p. 141)</span>. The spectral figure is one of the two **phantom warriors** that occupy the turrets.
+The tower is one of the two beacon turrets. The spectral figure is one of the two **phantom warriors** that occupy the turrets.
 
 ***Hole in Roof.*** This 20-foot-diameter hole in the mansion’s roof is directly above the collapsed ceiling below. The rubble on the roof surrounding the hole is difficult terrain. The roof is sloped and covered with cracked stone tiles. Climbing the tiled roof requires a successful DC 15 Strength (Athletics) check. A failure by 5 or more causes the climber to slide down to the parapet, landing prone but taking no damage.
 
@@ -1083,7 +1083,7 @@ The tower is one of <span class="citation">Q52. Beacon Turrets (p. 141)</span>. 
 
 ***Ancient Ballista.*** An ancient ballista, rotted by time and weather, stands behind the battlements on this tower rooftop. The ballista falls apart if disturbed.
 
-***Destroyed Ballista.*** Strewn atop the roof toward the front of the mansion is the wreckage of a ballista. Flanking the wreckage are two stone turrets with conical rooftops and narrow doors. A player who approaches or inspects the destroyed ballista notices that it appears to have been pointed at <span class="citation">Q53. Beacon of Argynvostholt (p. 142)</span> before its destruction. (A player who succeeds on a DC 15 Wisdom (Perception) check notices that the tower stonework where the destroyed ballista is pointing is broken and crushed, as if gouged by an enormous set of claws.)
+***Destroyed Ballista.*** Strewn atop the roof toward the front of the mansion is the wreckage of a ballista. Flanking the wreckage are two stone turrets with conical rooftops and narrow doors. A player who approaches or inspects the destroyed ballista notices that it appears to have been pointed at the beacon tower before its destruction. (A player who succeeds on a DC 15 Wisdom (Perception) check notices that the tower stonework where the destroyed ballista is pointing is broken and crushed, as if gouged by an enormous set of claws.)
 
 ***Roof Turrets.*** Cobwebs hang from the rafters of each turret, which is empty except for a wooden bench and an iron stove. Arrow slits look down upon the foggy grounds in front of the mansion.
 
@@ -1091,9 +1091,9 @@ The tower is one of <span class="citation">Q52. Beacon Turrets (p. 141)</span>. 
 
 ***Beacon Tower Door.*** The parapet narrows to a width of ten feet, ending before a sturdy wooden door set into the wall of the eastern tower. This door is barred from the inside.
 
-If the players, while all are wearing garments or gear bearing the insignia of the Order of the Silver Dragon, identify themselves as members or soldiers of the Order and succeed on a DC 11 Charisma (Deception) check, the two **phantom warriors** in <span class="citation">Q52. Beacon Turrets (p. 141)</span> demand the players speak Commander Horngaard's password before allowing them to approach <span class="citation">Q49. Beacon Tower Door (p. 141)</span>. 
+If the players, while all are wearing garments or gear bearing the insignia of the Order of the Silver Dragon, identify themselves as members or soldiers of the Order and succeed on a DC 11 Charisma (Deception) check, the two **phantom warriors** in the beacon turrets demand the players speak Commander Horngaard's password before allowing them to approach the beacon tower door. 
 
-If the players fail to speak the password ("From this until the end of days"), or if any of the visible players aren't wearing garments or gear bearing the Order's insignia, the phantom warriors attack the players on sight, making ***spectral longbow*** attacks against any living character within their line of sight. (The **phantom warriors** have 16 (+3) Dexterity, and their ***spectral longbow*** attacks have +5 to hit and deal 7 (1d8 + 3) force damage on a hit.) A character can escape their line of sight by taking cover behind the mansion’s central roof, the turrets containing <span class="citation">Q31. East Staircases (p. 138)</span>, <span class="citation">Q47. Roof Turrets (p. 141)</span>.
+If the players fail to speak the password ("From this until the end of days"), or if any of the visible players aren't wearing garments or gear bearing the Order's insignia, the phantom warriors attack the players on sight, making ***spectral longbow*** attacks against any living character within their line of sight. (The **phantom warriors** have 16 (+3) Dexterity, and their ***spectral longbow*** attacks have +5 to hit and deal 7 (1d8 + 3) force damage on a hit.) A character can escape their line of sight by taking cover behind the mansion’s central roof or the turrets containing the east staircases and the roof turrets.
 
 ***Beacon, Lower Landing.*** A rickety wooden landing and a staircase cling to the walls of this tower. The stairs lead up to another landing twenty feet above, and the floor of the chapel lies sixty feet below. The landing and the stairs creak and shudder underfoot, but they are safe.
 
@@ -1101,7 +1101,7 @@ If the players fail to speak the password ("From this until the end of days"), o
 
 ***Beacon Turrets.*** A stone battlement encloses the roof of each turret. A spiral staircase descends to the level below. These turret rooftops are 80 feet above ground level. The spiral stairs descend 20 feet to archers’ posts -- small rooms with arrow slits. Standing guard in each of the two rooms is a **phantom warrior**, with the changes described above.
 
-In addition, if any characters successfully enter the tower, the **phantom warriors** exit the beacon turrets and engage the characters on the stairs connecting  <span class="citation">Q50. Beacon, Lower Landing (p. 141)</span> and <span class="citation">Q51. Beacon, Upper Landing (p. 141)</span>. When they do, they gain the following additional reaction, which they use in an effort to lure the players onto the trapped landing on <span class="citation">Q51. Beacon, Upper Landing (p. 141)</span>:
+In addition, if any characters successfully enter the tower, the **phantom warriors** exit the beacon turrets and engage the characters on the stairs connecting the beacon's lower landing and upper landing. When they do, they gain the following additional reaction, which they use in an effort to lure the players onto the trapped section of the upper landing:
 
 * ***Pivot.*** In response to an enemy missing an attack against it, the phantom warrior moves up to 10 feet away without triggering opportunity attacks.
 
@@ -1123,7 +1123,7 @@ Additionally, read:
 <p>A small, silver-plated gargoyle, shaped like a dragon wyrmling and holding a tarnished brazier in its claws, crouches on the floor just beside the staircase landing, its wings curled tightly toward itself. Not far away, a knight in old, rusted armor stands by the western window, looking out across the misted landscape far beyond. The blade of a tall, gleaming greatsword rests on the ground beside him, with one of the knight’s rusted iron gauntlets resting upon its hilt.</p>
 </div>
 
-The gargoyle is half the size of <span class="citation">Q44. Dragon Gargoyle (p. 141)</span>. The knight is Vladimir Horngaard, who is as described in <span class="citation">Q36. Dragon’s Audience Hall (p. 138)</span>.
+The gargoyle is half the size of the silver-plated dragon gargoyle on the rooftop below. The knight is Vladimir Horngaard, commander of the fallen Order of the Silver Dragon—a gaunt, armored figure with one gauntlet wrapped around the hilt of a greatsword.
 ### Meeting Vladimir Horngaard
 The players must succeed on a DC 14 Dexterity (Stealth) check to ascend the staircase without alerting Vladimir to their presence. If the players don’t approach stealthily, fail their Dexterity (Stealth) check, approach the dragon gargoyle, or fought the **phantom warriors** in the turrets below, Vladimir is alerted. Read:
 
@@ -1173,9 +1173,9 @@ If asked, Vladimir can share the following information:
 > [!lore] **Vladimir and Argynvost**
 > Vladimir's anger and hatred prevent him from hearing Argynvost's voice. If the players mention anyone communicating with Argynvost's spirit, he claims they are lying. (As Argynvost's commander, Vladimir is convinced that if he can't hear Argynvost's spirit, then no one can, and can't be persuaded otherwise.)
 
-If the players mention an interest in Argynvost’s spirit, Vladimir asks them coldly if “the fool in the chapel" set them to this mission. If the players deny Sir Godfrey’s involvement and succeed on a DC 14 Charisma (Deception) check, Vladimir regards them coolly, then states tiredly that the “old dragon" has earned his rest and old spirits should be left well-enough alone. He then instructs the players to depart once they have satisfied their curiosities and descends the staircase to return to <span class="citation">Q36. Dragon’s Audience Hall (p. 138)</span>.
+If the players mention an interest in Argynvost’s spirit, Vladimir asks them coldly if “the fool in the chapel" set them to this mission. If the players deny Sir Godfrey’s involvement and succeed on a DC 14 Charisma (Deception) check, Vladimir regards them coolly, then states tiredly that the “old dragon" has earned his rest and old spirits should be left well-enough alone. He then instructs the players to depart once they have satisfied their curiosities and descends the staircase to return to the dragon’s audience hall.
 
-If the players share a convincing story that doesn’t involve Sir Godfrey or Argynvost and succeed on a DC 14 Charisma (Deception) check, Vladimir instructs the players to depart once they have satisfied their curiosities. He then descends the staircase to return to <span class="citation">Q36. Dragon’s Audience Hall (p. 138)</span>.
+If the players share a convincing story that doesn’t involve Sir Godfrey or Argynvost and succeed on a DC 14 Charisma (Deception) check, Vladimir instructs the players to depart once they have satisfied their curiosities. He then descends the staircase to return to the dragon’s audience hall.
 ### Vladimir’s Anger
 If the players inform Vladimir that they came to Argynvostholt at Sir Godfrey’s invitation or have otherwise spoken with Sir Godfrey, he asks quietly whether they “seek to join that traitor in his accursed crusade against the lord of Castle Ravenloft." The players can convince Vladimir that they are no enemies of Strahd with a successful DC 14 Charisma (Deception) check. On a failure, or if the players confess to seeking Strahd’s destruction, read:
 
@@ -1197,7 +1197,7 @@ If any of the players refuse to swear Vladimir’s oath, read:
 > If Vladimir uses his ***oathbind*** feature to subject a players to the effects of a *geas*, he whispers the following binding command: “You shall raise no hand against Strahd von Zarovich for as long as you live."
 
 > [!info]+ **Room Dimensions**
-> When preparing to run the fight with Vladimir, remember that each square on Argynvostholt’s grid is 10 feet across, and that <span class="citation">Q53. Beacon of Argynvostholt (p. 142)</span> is a full 30 feet across.
+> When preparing to run the fight with Vladimir, remember that each square on Argynvostholt’s grid is 10 feet across, and that the beacon of Argynvostholt is a full 30 feet across.
 
 > [!combat]- **Combat - The Commander**  
 > **Combat Level**: Bruising (first phase), Bruising (second phase)
@@ -1215,7 +1215,7 @@ If any of the players refuse to swear Vladimir’s oath, read:
 > | 6 | Increase Vladimir’s hit points in each phase to 258. Increase his Greatsword to a +3 greatsword (+13 to hit, 2d6+8 slashing damage), increase the damage of his ***Conjure Phantoms*** to 1d10+3, increase his ***Reaving Sweep*** to 4d10 slashing damage, increase his ***Umbral Snare*** to 6d4 piercing initially and 3d4 piercing when attempting to escape the grapple. In his second phase, increase his Greatsword to a +3 (+13 to hit, 2d6+8 slashing damage) and 1d6 additional piercing damage, increase his ***Black Flames*** to 3d4 fire damage and 1d6 necrotic damage, increase his Gravepyre to ***2d10*** fire and 2d10 necrotic damage, increase his ***Destructive Wave*** to 2d10 thunder and 2d10 necrotic damage, and increase his ***Vengeful Rush***’s initial damage to 3d4. |
 
 > [!abstract]+ **The Players Flee**
-> If any players attempt to flee down the stairs, Vladimir leaps from the beacon’s western window and lands on the rooftop beside <span class="citation">Q49. Beacon Tower Door (p. 141)</span> to block their escape.
+> If any players attempt to flee down the stairs, Vladimir leaps from the beacon’s western window and lands on the rooftop beside the beacon tower door to block their escape.
 
 <div class="statblock">
 <h2>Vladimir Horngaard, Vengeful Revenant</h2>
@@ -1342,12 +1342,12 @@ If any of the players refuse to swear Vladimir’s oath, read:
 While in his second form, Vladimir attempts to use his ***vengeful rush*** reaction to push players against the chamber’s walls or through the chamber’s windows or railings. If Vladimir attempts to push a player out of a window or over a railing, that player must succeed on an additional DC 18 Strength saving throw or be pushed over the edge. That player is then subject to one of the following effects:
 
 * If the player was pushed out of a window, they take 2 (1d4) slashing damage from jagged glass shards and must succeed on a DC 10 Dexterity saving throw. On a success, they catch themselves on a stone outcropping 10 feet below the window. On a failure, they fall to the ground or rooftop below, depending on their location.
-* If the player was pushed over a railing, they take any fall damage as normal, then must succeed on a DC 10 Dexterity saving throw. On a failure, they then fall to the bottom of the stairs, landing prone on <span class="citation">Q51. Beacon, Upper Landing (p. 141)</span> and taking 1d6 bludgeoning damage for each 10 feet of stairs fallen.
+* If the player was pushed over a railing, they take any fall damage as normal, then must succeed on a DC 10 Dexterity saving throw. On a failure, they then fall to the bottom of the stairs, landing prone on the beacon's upper landing and taking 1d6 bludgeoning damage for each 10 feet of stairs fallen.
 
 > [!warning]+ **Failing Forward**
 > The fight with Vladimir will likely end in a TPK if the players have not yet reached 6th level or recruited Ezmerelda d’Avenir in [[Arc K - The Fallen Abbey]]. As such, make sure to use Vladimir’s ***oathbind*** ability to “double-tap" dying players whenever possible, stabilizing them and ensuring that a TPK does not cause the end of the campaign.
 > 
-> If Vladimir defeats the players, he strips them of their weapons and leaves their unconscious bodies on the Old Svalich Road by the path to Argynvostholt. He then buries their weapons in one of the open graves in <span class="citation">Q15. Cemetery (p. 134)</span> and returns to the throne in <span class="citation">Q36. Dragon’s Audience Hall</span>. 
+> If Vladimir defeats the players, he strips them of their weapons and leaves their unconscious bodies on the Old Svalich Road by the path to Argynvostholt. He then buries their weapons in one of the open graves in the cemetery and returns to the throne in the dragon’s audience hall. 
 > 
 > The players can learn that their weapons have been buried in the cemetery by asking Sir Godfrey, and can locate the particular grave with a DC 5 Intelligence (Investigation) check, or by digging up all of the graves in the cemetery. Sir Godfrey apologizes deeply for Vladimir's violence, but shares that Vladimir has recently returned to his audience hall, clearing the way should the players wish to continue exploring the upper reaches of the manor.
 > 
@@ -1368,7 +1368,7 @@ The players can summon an aspect of Argynvost’s spirit to briefly animate the 
 <p>Its mouth moves, its whispering hiss seeming to echo in the enclosed space.</p>
 </div>
 
-The gargoyle then whispers the short verse described in <span class="citation">Q44. Dragon Gargoyle (p. 141)</span>.
+The gargoyle then whispers the following short verse: "When the dragon dreams its dream / Within its rightful tomb, / The light of Argynvost will beam / And rid this land of gloom."
 
 ***Milestone.*** Receiving Argynvost’s quest completes a story milestone. When the players obtain the gargoyle’s prophecy, award each player 2,500 XP.
 

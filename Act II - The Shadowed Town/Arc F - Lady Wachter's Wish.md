@@ -34,7 +34,7 @@ The envelope contains the following letter, with the blank filled with the name 
 <p>Lady Fiona Wachter</p>
 </div>
 
-If the players ask Urwin about Lady Wachter, he can share all of the information about her described in <span class="citation">Vallaki Lore (p. 96)</span>. He can also share that, according to town legend, Lady Wachter’s parents and elder brother were killed in a mysterious accident when she was a teenager. (Urwin, who only relocated to Vallaki ten years ago, can’t confirm or deny the story.)
+If the players ask Urwin about Lady Wachter, he can share all of the information about her described in the *Vallaki Lore* sidebar: no one hates the burgomaster more than Lady Fiona Wachter, who is often quoted as saying, "I'd rather serve the devil than a madman." She owns an old house in town but rarely leaves her estate. Her two adult sons, Nikolai and Karl, are local troublemakers. Lady Wachter also has a mad daughter whom she keeps locked away. The burgomaster doesn't confront Fiona or her offspring because he is afraid of Lady Wachter, whose family has old ties to Strahd. He can also share that, according to town legend, Lady Wachter’s parents and elder brother were killed in a mysterious accident when she was a teenager. (Urwin, who only relocated to Vallaki ten years ago, can’t confirm or deny the story.)
 # F2. Wachterhaus
 <span class="citation"><em>This scene takes place in Chapter 5: Area N4.</em></span>
 
@@ -89,19 +89,19 @@ Wachterhaus contains the following areas:
 * 2nd level (3 slots): *blindness/deafness, zone of truth, hold person*
 * 3rd level (2 slots): *animate dead, spirit guardians*
 ## F2a. Welcome to Wachterhaus
-As the players approach Wachterhaus, read the following description instead of the text in <span class="citation">N4. Wachterhaus (p. 110)</span>:
+As the players approach Wachterhaus, read the following description instead of the original module's text:
 
 <div class="description">
 <p>A thick garden, filled with herbs and vines stands beside this wide, red-roofed manor. A slouching roof hangs heavy over furrowed gables, and moss-covered walls sag and bulge under the weight of the vegetation. A handsome red-painted door stands at the house's entrance, its upper half set with frosted glass.</p>
 </div>
 
-When the players knock upon arrival, Lady Wachter's valet, Haliq, opens the door and welcomes the players warmly, using the same form of address used in Lady Wachter's letter. Haliq, a prim and proper butler, first offers to take the players' coats and other belongings, which he stores in the eastern closet of <span class="citation">N4a. Front Door and Vestibule (p. 110)</span>. 
+When the players knock upon arrival, Lady Wachter's valet, Haliq, opens the door and welcomes the players warmly, using the same form of address used in Lady Wachter's letter. Haliq, a prim and proper butler, first offers to take the players' coats and other belongings, which he stores in the eastern closet of the front vestibule—a narrow room flanked by two closets, with three stained-glass doors in wooden frames leading further inside. 
 
-Haliq then leads the players into <span class="citation">N4b. Staircase (p. 110)</span>, from which they can smell an assortment of delicious scents, both sweet and savory, wafting from <span class="citation">N4c. Kitchen (p. 112)</span>. (A player who peeks through the open door into the kitchen can see the cook, Dhavit, hard at work preparing a roast leg of lamb and assorted stewed vegetables.) 
+Haliq then leads the players into the staircase—a wooden staircase leading up to a balcony, with a landing at its foot bearing three stained-glass doors in wooden frames, from which they can smell an assortment of delicious scents, both sweet and savory, wafting from the kitchen—a spotless room where the cook rushes about most of the day. (A player who peeks through the open door into the kitchen can see the cook, Dhavit, hard at work preparing a roast leg of lamb and assorted stewed vegetables.) 
 
-Haliq then guides the players through <span class="citation">N4j. Dining Room (p. 112)</span> and invites them to take seats in <span class="citation">N4i. Parlor (p. 112)</span>. After determining which players would like glasses of wine, Haliq assures the players that Lady Wachter will be with them shortly and excuses himself.
+Haliq then guides the players through the dining room—an ornate room with a crystal chandelier hanging above a polished wooden table surrounded by eight chairs with sculpted elk horns adorning their backs and invites them to take seats in the parlor—a room with three elegant couches surrounding an oval table made of black glass, set in front of a blazing hearth above which hangs a framed portrait of the late Lord Nikolai Wachter. After determining which players would like glasses of wine, Haliq assures the players that Lady Wachter will be with them shortly and excuses himself.
 
-The players have a few moments to take stock of and discuss their surroundings. Should they investigate the doors to <span class="citation">N4k. Den (p. 112)</span> or <span class="citation">N4h. Servants' Quarters (p. 112)</span>, they find both doors to be locked. Throughout the evening, Ernst Larnak, Lady Wachter’s spy, silently eavesdrops on the players’ conversations from the den as described in <span class="citation">N4i. Parlor (p. 112)</span>. 
+The players have a few moments to take stock of and discuss their surroundings. Should they investigate the doors to the den—a stifling room with wood paneling, embroidered rugs, colorful furnishings, and a blazing fire, with an elk's head mounted above the mantel or the servants' quarters—a room with four simple beds and equally austere wooden chests, where Lady Wachter's servants sleep at night, they find both doors to be locked. Throughout the evening, Ernst Larnak, Lady Wachter’s spy, silently eavesdrops on the players’ conversations from the den from behind the den door. 
 ## F2b. Meet the Wachters
 Shortly after the players arrive in the parlor, they notice that a young woman wearing slippers and a white nightgown, approximately sixteen years of age, is standing in the open doorway leading back to the staircase and front entrance. The woman appears to be staring vacantly into space toward them, but neither moves nor makes eye contact—even if approached.
 
@@ -162,13 +162,13 @@ Lady Wachter may also respond to player questions as follows:
 > If asked about the different factions and locations throughout Barovia, Lady Wachter can provide the following information:
 > 
 > * ***The Forest Folk.*** "They are descendants of the original inhabitants of the valley who now worship Count von Zarovich as a god. They use Yester Hill as a gathering place, but reside throughout the Svalich Wood."
-> * ***Argynvostholt.*** Lady Wachter shares the information in <span class="citation">Vallaki Lore (p. 96)</span>.
+> * ***Argynvostholt.*** Lady Wachter shares the following information from the *Vallaki Lore* sidebar: west of town is a haunted mansion called Argynvostholt, and legend has it that a dragon died there long, long ago.
 > * ***The Amber Temple.*** Lady Wachter can share that she once heard of an "order of knights" inhabiting the abandoned manor to the west, which was said to guard a place called the "Amber Temple." (She learned of this from her mentor, the swamp witch Baba Lysaga, who she refers to only as "Lysa.") She knows little else, however.
 > * ***The Werewolf Pack.*** "An uncivilized assortment of bloodthirsty brutes. Their aggression has intensified as of late, I fear, but Vallaki's walls and silver have kept us safe." (Lady Wachter doesn't know where the pack's den lies, and doesn't know enough to speculate.)
 
 > [!lore]+ **Who is Lysa?**
 >
-> “Lysa’s” true identity is Baba Lysaga, the swamp-witch of <span class="citation">Chapter 10: The Ruins of Berez (p. 161)</span>. Fiona’s story is true—as a young woman, she ran from home and found refuge with Baba Lysaga. For six months, she joined the ranks of Lysaga’s witches-in-training, many of whom now serve at Strahd’s pleasure in <span class="citation">K56. Cauldron</span> (p. 72) in Castle Ravenloft. During this time, Fiona struggled beneath Lysaga’s tutelage to “hear the voice” of Mother Night, a task that she ultimately never achieved.
+> “Lysa’s” true identity is Baba Lysaga, the swamp-witch of the Ruins of Berez—a village on the shore of the Luna River that was flooded and destroyed by Strahd after its burgomaster killed a woman named Marina who bore a striking resemblance to Strahd's beloved Tatyana. Fiona’s story is true—as a young woman, she ran from home and found refuge with Baba Lysaga. For six months, she joined the ranks of Lysaga’s witches-in-training, many of whom now serve at Strahd’s pleasure in the cauldron room (p. 72)—a dark, oppressive room in Castle Ravenloft where green-glowing wisps of steam bubble up from a fat, black cauldron, surrounded by gaunt Barovian witches on tall wooden stools who have sworn themselves to Strahd's service in exchange for arcane power in Castle Ravenloft. During this time, Fiona struggled beneath Lysaga’s tutelage to “hear the voice” of Mother Night, a task that she ultimately never achieved.
 >
 > Upon learning of her family’s death, Fiona chose to return to Vallaki to claim her birthright. Baba Lysaga did not take the news well, and warned Fiona that her departure would be treated as a personal betrayal—and that she would be banished from Berez forevermore for her choice. Fiona returned to Vallaki nonetheless, taking the small grimoire that Baba Lysaga had given her as a memento of her studies.
 >
@@ -191,7 +191,7 @@ Should the players indicate an opposition to the Baron, Lady Wachter confesses t
 * Baron Vargas Vallakovich first came to power as burgomaster eleven years ago, when his father, Baron Valentin Vallakovich, passed away in his sleep. (At the time, Valentin was barely fifty years old and in near-perfect health. Fiona has always harbored her suspicions, but no foul play ever came to light.)
 * Vargas is a firm believer in the superstition that the Devil Strahd first arrived as a punishment for the sins of the Barovians’ ancestors. He has therefore always had a strange fixation on the idea that “happiness” may one day allow the Vallakian people to return sunlight to the valley, hosting weekly “festivals” that most have always considered to be dull affairs.
 * Ever since Strahd’s awakening three months ago, Vargas’s once-harmless beliefs have become an obsessive fixation. He has instituted weekly festivals and made attendance mandatory. 
-* Vargas has also criminalized “malicious unhappiness,” as described in <span class="citation">Donkey-Headed Criminals (p. 119)</span>. While most “lawbreakers” wind up in the stocks, a select few have been taken to his mansion for personal “rehabilitation”—including Udo Lukovich, a local shoemaker, who was arrested last week as described in <span class="citation">N3m. Locked Closet (p. 107)</span>. Udo hasn’t been seen since.
+* Vargas has also criminalized “malicious unhappiness,” in the original module: townsfolk arrested for "malicious unhappiness" (spreading negative opinions about the upcoming festival) are locked in the stocks in the town square, forced to wear plaster donkey heads meant to encourage ridicule. While most “lawbreakers” wind up in the stocks, a select few have been taken to his mansion for personal “rehabilitation”—including Udo Lukovich, a local shoemaker, who was arrested last week in the original module: Udo was chained to the back wall of an otherwise empty closet in the burgomaster's mansion, badly beaten and wearing nothing but a loincloth, his iron shackles cutting into his wrists. Udo hasn’t been seen since.
 * Vargas’s fear and paranoia have even driven him to bar the refugees from the village of Barovia from entering Vallaki—an enormous abuse of power that has caused significant and undeserved suffering.
 * Vargas’s will is enforced by his right-hand man, Izek Strazni, who serves both as Vallaki’s Captain of the Guard and as Vargas’s personal enforcer. 
 
@@ -357,7 +357,7 @@ Izek then commands one of the guards to fetch a dozen fresh silvered crossbow bo
 
 As Izek is leaving the Morning Gate, he idly commands one of the guards standing watch to purchase and deliver a dream pastry for him when the peddler returns the following day.
 ### 4. End of the Day
-When [[Non-Player Characters#Izek Strazni|Izek]] has finished the evening inspection for all of the gates, he dismisses his two **guards** as usual. However, instead of proceeding to one of his usual drinking spots, he travels to <span class="citation">N7. Blinsky Toys (p. 118)</span>, where he attempts to pick up the doll that looks like Ireena Kolyana. 
+When [[Non-Player Characters#Izek Strazni|Izek]] has finished the evening inspection for all of the gates, he dismisses his two **guards** as usual. However, instead of proceeding to one of his usual drinking spots, he travels to Blinsky Toys—the cramped toy shop owned by Gadof Blinsky, where he attempts to pick up the doll that looks like Ireena Kolyana. 
 
 > [!abstract]+ **The Missing Doll**
 >
@@ -566,7 +566,7 @@ If the players return to Wachterhaus to obtain their promised compensation (if a
 
 All of the weapons, ammunition, and armor were taken from an old armory whose location was lost for several years due to Izek’s chronic mismanagement.
 
-If the players ask Lady Wachter about the "ancient foe of an old and noble house" described in Madam Eva's Tarokka reading, or if she previously promised to share that information upon Izek's death, she guides them upstairs to <span class="citation">N4p. Library (p. 113)</span>. There, she retrieves a thin, worn volume from an upper shelf titled *The Noble House of Wachter* by Lady Lovina Wachter.
+If the players ask Lady Wachter about the "ancient foe of an old and noble house" described in Madam Eva's Tarokka reading, or if she previously promised to share that information upon Izek's death, she guides them upstairs to the Wachterhaus library—a room crawling with cats, its bookshelves mostly bare, with a desk, a chair, a table, and a wine cabinet. There, she retrieves a thin, worn volume from an upper shelf titled *The Noble House of Wachter* by Lady Lovina Wachter.
 
 Lady Wachter can share the following information as she retrieves and leafs through the book:
 

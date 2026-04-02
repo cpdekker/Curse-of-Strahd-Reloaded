@@ -167,7 +167,7 @@ As the players pass it, they can see a winding branch of the Old Svalich Road th
 </div>
 
 ## J2b. The Path to Tsolenka Pass
-Just before the players reach the Raven River Crossroads, they come across the path to Lake Baratok and <span class="citation">Chapter 11: Van Richten’s Tower (p. 167)</span>, not far from the path that leads to <span class="citation">Chapter 9: Tsolenka Pass (p. 157)</span>. Read:
+Just before the players reach the Raven River Crossroads, they come across the path to Lake Baratok and <span class="citation">Chapter 11: Van Richten’s Tower (p. 167)</span>, not far from the path that leads to Tsolenka Pass, a gravel road that hugs Mount Ghakis, climbing to great heights toward a gatehouse and guard tower, as well as a stone bridge that spans the Luna River. Read:
 
 <div class="description">
 <p>An old hunting trail cuts away from the Old Svalich Road here, winding north between old, gnarled trees before vanishing into the underbrush. A hundred yards beyond it, an alpine path splits from the main road to travel south toward the mountains, rising in elevation until it disappears around a steep, tree-covered escarpment.</p>
@@ -216,7 +216,7 @@ As the players proceed south from the Raven River Crossroads, read:
 
 As the players enter this area, Muriel whispers that something isn’t right, noting that the road “didn’t smell like death" the last time she passed through here.
 
-The road here hides a spiked pit trap (<span class="citation">Dungeon Master's Guide, p. 122</span>), concealed as described in <span class="citation">False Trail (p. 30)</span>. The clumps of vines (and the source of the scent of decay) are five **vine blights**, concealed through the use of their ***false appearance*** feature.
+The road here hides a spiked pit trap (<span class="citation">Dungeon Master's Guide, p. 122</span>), concealed beneath a thin tarp made of twigs and pine needles, with the bottom of the pit lined with sharpened wooden stakes. The clumps of vines (and the source of the scent of decay) are five **vine blights**, concealed through the use of their ***false appearance*** feature.
 
 A player with a passive Wisdom (Perception) score of 15 or greater or who succeeds on a DC 15 Wisdom (Perception) check spots the pit. If any players fall into the pit, attempt to bypass the pit, or attack the vine blights, the vine blights attack. Any player who has not already recognized the clumps of vines as a threat is surprised.
 
@@ -269,7 +269,7 @@ If Muriel is with the party, she recognizes the man's cloak as Davian Martikov�
 > 
 > Livius adventured with Ismark and Lugdana for nearly a decade afterward, scouting out dangers and spying on their enemies. When he finally retired from adventuring, he used the wealth and notoriety he had gained to found the Keepers of the Feather, a secret society of wereravens dedicated to opposing the forces of darkness across Barovia. Though the Keepers would not themselves enter the fray, they vowed to serve, guide, and shelter any heroes who might one day rise in Lugdana’s memory.
 > 
-> Ten years ago, Madam Eva—assisted by the **roc of Mount Ghakis** disguised as an ordinary raven—stole one of the three enchanted gemstones from the winery. Davian blamed his son, Urwin, as described in <span class="citation">Chapter 12: The Wizard of Wines (p. 173)</span>. Urwin told Davian that he had seen a raven carrying the gem away into the night—a claim that Davian dismissed as ludicrous, because the Keepers knew and commanded all of the ravens in the valley. After a furious fight, Urwin and his betrothed, Danika Dorakova, left for Vallaki the following morning, never to return.
+> Ten years ago, Madam Eva—assisted by the **roc of Mount Ghakis** disguised as an ordinary raven—stole one of the three enchanted gemstones from the winery. Davian blamed his son, Urwin, because Urwin was on watch the night the gem was taken, and Davian was convinced that Urwin had shirked his duty to spend time with his betrothed. Urwin told Davian that he had seen a raven carrying the gem away into the night—a claim that Davian dismissed as ludicrous, because the Keepers knew and commanded all of the ravens in the valley. After a furious fight, Urwin and his betrothed, Danika Dorakova, left for Vallaki the following morning, never to return.
 > 
 > Just over three months ago, when the ravens caught word of Doru’s brewing rebellion, the **wereraven** Elric Martikov—one of Davian’s youngest sons and Elvir Martikov’s twin brother—became determined to fight alongside them. Davian, however, forbade him from doing so.
 > 
@@ -281,7 +281,7 @@ If Muriel is with the party, she recognizes the man's cloak as Davian Martikov�
 > 
 > Baba Lysaga’s **scarecrows** have repeatedly attacked the winery since then. On one such occasion, Ludmilla detected the presence of the two remaining magic gems. Three weeks ago, during one such attack, the scarecrows found one of the gems, dug it up, and spirited it away to Baba Lysaga in Berez.
 > 
-> Five days ago, the druids of Yester Hill found the second gem and stole it. The wereravens launched a counterattack as described in <span class="citation">Chapter 12: The Wizard of Wines (p. 173)</span>, but were unable to overcome the druids and their defenses. Three days ago, the druids marched on the winery with a small army of corrupted blights and drove the Martikovs out.
+> Five days ago, the druids of Yester Hill found the second gem and stole it. The wereravens launched a counterattack against the druids and their blight defenses, but were unable to overcome the druids and their defenses. Three days ago, the druids marched on the winery with a small army of corrupted blights and drove the Martikovs out.
 > 
 > The druids have remained in the winery ever since, searching for the third gemstone that they believe to be hidden there. They have also planted a cutting of the Gulthias Tree within the winery, which they plan to use to extend their reach north, toward Krezk. Soon, however, the druids will give up their search—and the **tree blight** Wintersplinter will march upon the winery and destroy it for good.
 
@@ -575,7 +575,7 @@ If the players reveal themselves without attacking, the druid tilts her head and
 Silvia invites the players to approach the caged raven and see “the mark of the night" upon its chest, which brands all of Strahd’s servants. (This is a trick meant to lure the players into the open. A player who makes a DC 10 Wisdom (Insight) check notices Silvia’s eyes dart toward the twig blights around her as she asks the players to approach.)
 
 > [!info]+ **The Broken Spigot**
-> The fermentation vat to the immediate west of the central staircase of <span class="citation">W9. Fermentation Vats (p. 176)</span> has a damaged spigot. The first time that a player approaches it, read:
+> The fermentation vat to the immediate west of the fermentation vats chamber—a large, two-story room dominated by four enormous wooden casks—has a damaged spigot. The first time that a player approaches it, read:
 > 
 > <hr>
 > 
@@ -780,7 +780,7 @@ If the players free the ravens from their cages, they join the party as a **swar
 </div>
 
 ## J3d. The First Floor
-The first floor of the winery is largely as in <span class="citation">W2. Loading Dock (p. 176)</span>, <span class="citation">W3. Barrel Maker’s Workshop (p. 176)</span>, <span class="citation">W4. Barrel Storage (p. 176)</span>, <span class="citation">W5. Veranda (p. 176)</span>, and <span class="citation">W8. Storage (p. 176)</span>. The two Martikovs' two draft horses have been entrapped in <span class="citation">W1. Stables (p. 176)</span> by thick rows of poison razorvine (see above) that cover the doors.
+The first floor of the winery contains the loading dock (with a wagon bearing three barrels of Purple Grapemash No. 3 parked inside and a raised wooden walkway along the walls), the barrel maker’s workshop (lined with tools and two worktables), the barrel storage room (containing thirteen empty barrels and a narrow stone staircase spiraling upward), the veranda (with three five-foot-diameter wooden grape-crushing tubs, sliding wooden doors chained shut from the inside, and a smaller door barred from within), and a storage room (with bare hooks on the walls and shelves holding stained wooden grape-crushing sandals). The two Martikovs’ two draft horses have been entrapped in the stables by thick rows of poison razorvine (see above) that cover the doors.
 ### Loading Dock
 <span class="citation"><em>This scene takes place in Chapter 12, Area W2.</em></span>
 
@@ -818,9 +818,9 @@ The barrel in the northwest corner is visibly older than the others, with darker
 ## J3e. The Second Floor
 The second floor of the winery contains the upper balconies of the fermentation vat chamber, the loading winch room, the master bedroom (currently used by Stefania and Dag Martikov and their baby daughter), a kitchen and dining room with a rectangular table surrounded by eight chairs, two sleeping quarters with bunk beds, and the printing press room. 
 
-However, the door leading from the balcony of <span class="citation">W9. Fermentation Vats (p. 176)</span> to <span class="citation">W16. Loading Winch (p. 178)</span> is covered in **poison razorvine** and obstructed from the far side, requiring a successful DC 20 Strength check to open.
+However, the door leading from the balcony of the fermentation vats chamber to the loading winch room (which contains a wooden winch looming over a ten-foot-square hole in the floor) is covered in **poison razorvine** and obstructed from the far side, requiring a successful DC 20 Strength check to open.
 
-When the players first reach the second floor, they can hear the sound of clattering objects originating from <span class="citation">W20. Printing Press (p. 179)</span>.
+When the players first reach the second floor, they can hear the sound of clattering objects originating from the printing press room, which contains a desk, a chair, a tall wooden cabinet, and a printing press that takes up most of the northern end of the room.
 ### Printing Press
 <span class="citation"><em>This scene takes place in Chapter 12, Area W20.</em></span>
 
@@ -1158,7 +1158,7 @@ Additionally, read the following text when the players arrive at the base of Yes
 
 When the players arrive at Yester Hill, if Strahd has accompanied them, he informs them that, if they wish to make good on their bet, they must first meet him at the point where the road meets the top of the hill. (He promises the players that he'll "make sure the festivities don't start without you," adding, "You must meet your opponent, after all.") If the players accept, he notes that he will "see them at the top," and vanishes astride Beucephalus.
 
-The players can climb the trail straight to <span class="citation">Y3. Druids Circle (p. 197)</span> at the top of the hill. (They don't need to travel through the berserker cairns, which are ten-foot-high mounds of slimy black rocks arranged in two concentric rings encircling the hillside, and which they pass during their ascent up the hill, in order to do so.)
+The players can climb the trail straight to the druids' circle at the top of the hill. (They don't need to travel through the berserker cairns, which are ten-foot-high mounds of slimy black rocks arranged in two concentric rings encircling the hillside, and which they pass during their ascent up the hill, in order to do so.)
 
 > [!info]+ **The Swarms of Ravens**
 > The **swarms of ravens** that accompanied the players to Yester Hill follow in the skies behind them, but don't join in the fighting. (If the players mention this, Muriel points out that they'd be of little use when attacking against more dangerous foes than the blights of the winery, but notes her belief that they may find some way to help all the same.)
@@ -1260,11 +1260,11 @@ The lightning strike signals the true beginning of the druids’ ritual. Once th
 > The second time this lightning is triggered, the damage increases to 10 (3d6) lightning damage. The third time this lightning is triggered, the ritual is ruined, unleashing its destructive energy as described in **Stopping the Ritual** below.
 
 > [!abstract]+ **The Ritual is Completed**
-> If the druids successfully complete the ritual, the **tree blight** Wintersplinter is born as described in <span class="citation">Druids’ Ritual (p. 200)</span>. The druid naturalists then turn to attack the players as Wintersplinter begins its march on the Wizard of Wines winery. (If the players don’t stop it, Wintersplinter destroys the winery as described in <span class="citation">Wintersplinter Attacks (p. 180)</span>, then returns to Yester Hill, where it stands dormant near its birthplace awaiting further orders.)
+> If the druids successfully complete the ritual, the **tree blight** Wintersplinter is born—an enormous tree blight that tears itself free from the earth and begins lumbering toward the winery. The druid naturalists then turn to attack the players as Wintersplinter begins its march on the Wizard of Wines winery. (If the players don’t stop it, Wintersplinter tramples the grapevines and smashes the winery into ruins, then returns to Yester Hill, where it stands dormant near its birthplace awaiting further orders.)
 > 
 > If the players are defeated, the druids stabilize them and bring them to the Gulthias Tree as sacrifices. Before binding the players, the druids remove any visible or easily found weapons, focuses, magic items, and containers (e.g., backpacks) from the players’ persons, which they store at the base of the statue that once held Wintersplinter. 
 > 
-> All druids then depart from the hill except Svarog, who buries himself in mud nearby as described in <span class="citation">Hidden Graves (p. 198)</span>. Two **berserkers** also bury themselves in mud not far away. The players must succeed on a DC 11 Dexterity (Stealth) check to retrieve their belongings without awakening Svarog or his berserker guardians.
+> All druids then depart from the hill except Svarog, who buries himself in an earthen grave hidden under a cover of sod and dead grass, covered head to toe in bluish-gray mud. Two **berserkers** also bury themselves in mud not far away. The players must succeed on a DC 11 Dexterity (Stealth) check to retrieve their belongings without awakening Svarog or his berserker guardians.
 > 
 > When the players regain consciousness, they find themselves disarmed and lashed to the trunk of the Gulthias Tree, with webs of small, black roots extruding from the tree’s base and penetrating their skin. A player is restrained while bound in this way, and poisoned for as long as the roots remain in their skin. A web of roots has AC 10, 10 hit points, and regenerates 10 hit points at initiative count 20 of each round if it has at least 1 hit point and isn’t in sunlight or running water.
 > 
@@ -1277,7 +1277,7 @@ Immediately after the ritual begins, the two **druid assailants** and two **bers
 <br>
 
 > [!info]+ **The Size of the Hill**
-> The area encompassed by <span class="citation">Y3. Druids' Circle (p. 197)</span> is approximately two hundred and fifty feet in diameter, or approximately one hundred and twenty-five feet in radius. The players must travel approximately sixty feet from their entry point in the circle—where the **berserkers** and **druid assailants** obstruct them—to reach the edge of Ludmilla's shroud of mist.
+> The area encompassed by the druids' circle is approximately two hundred and fifty feet in diameter, or approximately one hundred and twenty-five feet in radius. The players must travel approximately sixty feet from their entry point in the circle—where the **berserkers** and **druid assailants** obstruct them—to reach the edge of Ludmilla's shroud of mist.
 ## J5e. Ludmilla's Barricade
 Once the players bypass or defeat the druids and berserkers guarding the entrance to the circle, Ludmilla and her allies create two barriers to obstruct them: a shroud of mist, followed by a wall of roots.
 ### The Shroud of Mist
@@ -1468,7 +1468,7 @@ In the three rounds following the ritual's disruption, the following events occu
 In addition, if still present on her next turn, Ludmilla uses her action to use her ***dimension door*** to escape, teleporting to the Gulthias grove to the south before returning to Castle Ravenloft.
 
 > [!abstract]+ **Strahd’s Wager**
-> If the players successfully stop the ritual, Strahd briefly reappears upon Beucephalus, hovering thirty feet above the ground on the northwest edge of the stone circle. Once noticed by the players, Strahd inclines his head toward <span class="citation">Y5. Wall of Fog (p. 200)</span>, nudges Beucephalus in its direction, and vanishes once again as the **nightmare** canters toward it.
+> If the players successfully stop the ritual, Strahd briefly reappears upon Beucephalus, hovering thirty feet above the ground on the northwest edge of the stone circle. Once noticed by the players, Strahd inclines his head toward the wall of fog to the west—through which the false image of a white fortress on a hill above a great city can be seen, quite distant, maybe a mile away—and nudges Beucephalus in its direction, and vanishes once again as the **nightmare** canters toward it.
 # J6. After the Ritual
 ## J6a. Muriel’s Confession
 If the players confront Muriel after the fight, she is willing to share the following information:
@@ -1485,7 +1485,7 @@ If the players ask Muriel to curse them with wereraven lycanthropy, she laughs s
 > [!warning]+ **Player Dreams**
 > Before running this scene, ask your players to provide you with information about their characters' deepest desires, then use this information to craft a suitable encounter should that player enter the Whispering Wall.
 
-This area takes the place of <span class="citation">Y5. Whispering Wall (p. 200)</span>. When the players first arrive, read:
+This area takes the place of the original Wall of Fog, described in the module as a place where the ancient mountain folk could hear whispers of voices from the past and future. According to legend, an ancient god gave up his divinity to preserve the world from destruction, and his last exhalation as a god produced this mist, containing all his memories and visions of possible futures. When the players first arrive, read:
 
 <div class="description">
 <p>A shadowed wall of impenetrable fog looms above the earth here, stretching forth to meet the heavens far above. Strange shapes and silhouettes seem to drift through its depths, and distant voices seem to whisper just out of earshot.</p>
@@ -1553,7 +1553,7 @@ When the players all either return from the Whispering Wall or decline to do so,
 
 When all players have either accepted or declined their gifts, Strahd mounts Beucephalus once again, bids them farewell, and notes that he looks forward to seeing them at dinner. He and Beucephalus then vanish into the Ethereal Plane.
 ## J6c. Gulthias Tree
-The players should have no reason to visit the grove of the Gulthias Tree at this time. Should they do, this area as described in <span class="citation">Y4. Gulthias Tree (p. 198)</span>. However, replace the last two sentences of the area description with the following text:
+The players should have no reason to visit the grove of the Gulthias Tree at this time. Should they do, this area is as follows: at the south end of the hilltop is a sickly copse, a grove of dead trees and shrubs with a huge, misshapen tree at its core, from which blood oozes like sap from its twisted trunk. However, replace the last two sentences of the area description with the following text:
 
 <div class="description">
 <p>A circle of craggy, jagged megaliths stands hunkered down among the undergrowth, draped with rotted vines and overgrown by large brambles and dead shrubs. The air here is thick and unseasonably warm, and a sickly, putrid smell chokes the air.</p>
@@ -1643,7 +1643,7 @@ Although Muriel was chased away before she could hear the end of the reading, sh
 <span class="credit">"Keeper's Whistle" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!abstract]+ **The Wine Shipments**
-> With the winery saved and the gem recovered, Davian sets Adrian and Elvir to preparing the winery's remaining wine for shipment. The following morning, the two brothers load an additional three barrels onto the (freshly repaired) cart in <span class="citation">W2. Loading Dock (p. 176)</span> and set off, delivering three barrels first to Krezk then an additional three barrels to the Blue Water Inn in Vallaki. 
+> With the winery saved and the gem recovered, Davian sets Adrian and Elvir to preparing the winery's remaining wine for shipment. The following morning, the two brothers load an additional three barrels onto the (freshly repaired) cart in the loading dock and set off, delivering three barrels first to Krezk then an additional three barrels to the Blue Water Inn in Vallaki. 
 > 
 > Should the players mention an interest in traveling to Krezk, Adrian asks them to accompany the wagon, noting, "Krezk can be unwelcoming to strangers, but with a good word from us and a shipment of wine, they'll be sure to welcome you with open arms."
 > 
