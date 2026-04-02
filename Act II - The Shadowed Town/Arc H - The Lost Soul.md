@@ -20,7 +20,7 @@ Should the players successfully obtain a heartstone through assault or negotiati
 
 > [!lore]+ **The Fate of Stella Wachter**
 >
-> Three years ago, Victor found a spellbook in his father’s library, as described in **N3t. Victor’s Workroom** (p. 109). It was not, however, just any spellbook—it was the lost spellbook of the lich Khazan himself, long thought destroyed in the accident that had led to Khazan’s death. Victor studied its secrets intensely, using Khazan’s precise notes and his own powerful intellect to master many of the spells within.
+> Three years ago, Victor found a spellbook in his father’s library. It was not, however, just any spellbook—it was the lost spellbook of the lich Khazan himself, long thought destroyed in the accident that had led to Khazan’s death. Victor studied its secrets intensely, using Khazan’s precise notes and his own powerful intellect to master many of the spells within.
 > 
 > Six months ago, Victor met Stella Wachter, the youngest child of Lady Fiona Wachter, while skipping stones by Lake Zarovich. Stella and Victor were surprised to find that they shared a mutual interest in magic, myths, and philosophy. Despite their parents’ clear disapproval, the two became fast friends.
 > 
@@ -238,9 +238,9 @@ Stella, through Victor, suggests that the players visit Wachterhaus to request L
 >
 > **_A New Opportunity._** Bitter and enraged, Leo hid himself away in his quarters to lick his wounds—until he learned that Sergei had been found murdered in his quarters, and that Strahd had chased Tatyana into the gardens while vowing to take her hand in marriage. Seeing an immediate opportunity, Leo gathered a contingent of the castle guards and directed them to attack Strahd in vengeance for the death of the beloved prince, Sergei.
 >
-> However, Leo’s plot did not go unopposed. Leo’s elder sister, Lovina Wachter née Dilisnya—now the wife of Vladislav Wachter—led her family’s personal guards in Strahd’s defense. Leo’s traitorous guards drove the Wachters into **K62. Servants' Hall**, killing Lovina’s husband and butchering many of his relatives. There, Lovina and her family took shelter alongside Katarina, a castle servant and (unknown to Strahd) Strahd’s secret half-sister, in the castle kitchen—a steaming hot room where a huge pot bubbles over a blazing fire pit in the center, its far wall lined with pegs holding numerous large cooking implements.
+> However, Leo’s plot did not go unopposed. Leo’s elder sister, Lovina Wachter née Dilisnya—now the wife of Vladislav Wachter—led her family’s personal guards in Strahd’s defense. Leo’s traitorous guards drove the Wachters into the servants’ hall, killing Lovina’s husband and butchering many of his relatives. There, Lovina and her family took shelter alongside Katarina, a castle servant and (unknown to Strahd) Strahd’s secret half-sister, in the castle kitchen.
 >
-> When Strahd arose as a vampire, Leo fled into the servants' entrance—a dim corridor with a dust-caked window in the east wall and a door leading to the castle's northeast courtyard, down through **K62. Servants’ Hall**, and through the Hall of Bones—a former mess hall now decorated with bones and skulls arranged in a morbidly decorative fashion, its walls and vaulted ceiling adorned with garlands of skulls and a chandelier of bones into the Guards' Run—a cold, moist ten-foot-wide arched corridor. As Strahd pursued, he slaughtered the guards terrorizing the Wachters, and—in a moment of rare lucidity—thanked the Wachters for their loyalty and allowed Lovina and Katarina to depart in peace. As Strahd bathed the stone of Castle Ravenloft in the blood of the castle guards—both innocent and traitorous alike—their spirits combined in death to form a dreadful **gallows speaker** (<span class="citation">Van Richten’s Guide to Ravenloft, p. 234</span>) that would haunt Castle Ravenloft for years to come.
+> When Strahd arose as a vampire, Leo fled through the castle’s servants’ passages, down through the servants’ hall and into the guards’ run. As Strahd pursued, he slaughtered the guards terrorizing the Wachters, and—in a moment of rare lucidity—thanked the Wachters for their loyalty and allowed Lovina and Katarina to depart in peace. As Strahd bathed the stone of Castle Ravenloft in the blood of the castle guards—both innocent and traitorous alike—their spirits combined in death to form a dreadful **gallows speaker** (<span class="citation">Van Richten’s Guide to Ravenloft, p. 234</span>) that would haunt Castle Ravenloft for years to come.
 >
 > **_Leo's Punishment._** Leo successfully escaped Castle Ravenloft along with a half-dozen of the traitorous guards. Years later, however, with Lovina’s aid, Strahd tracked Leo to the darkened corridors of the now-abandoned Abbey of Saint Markovia.
 >
@@ -288,7 +288,7 @@ Lady Wachter is shocked by and wary of the players’ knowledge of the protectiv
 * When she returned to Wachterhaus, she determined that a malevolent spirit had been responsible for her family’s death. Though the spirit appeared to have departed by the time Lady Wachter returned, she was wary of the prospect that it might one day return.
 * Using magic that she had learned from her mentor, Lysa, Lady Wachter erected a protective barrier around Wachterhaus that would prevent any creature within the Ethereal Plane from crossing over the boundary of the property.
 
-Upon agreeing to deactivate the protective circle, Lady Wachter retreats to her master bedroom—a locked room with a sputtering fire in the hearth, above which hangs a framed family portrait of the late Lord Nikolai Wachter, Lady Wachter, their two young sons, and a baby daughter in the father's arms and retrieves the scale model of Wachterhaus from the high shelf beside the iron chest. She then returns to the parlor and sets the model upon the central table. 
+Upon agreeing to deactivate the protective circle, Lady Wachter retreats to her master bedroom and retrieves the scale model of Wachterhaus from a high shelf. She then returns to the parlor and sets the model upon the central table. 
 
 With her eyes closed, Lady Wachter murmurs an incantation, causing a circle of ethereal grey light to briefly manifest around the scale model before vanishing again. She then informs the players that the circle has been lowered and sits back expectantly on the sofa while sipping her tea.
 
@@ -316,7 +316,7 @@ If the players and Lady Wachter come to an agreement, she promises to meet them�
 ## H6a. The Morning Gate
 If the players recruit [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] to their cause, she and her four **cult fanatic** associates meet them promptly at the Morning Gate at the chosen time. Lady Wachter has exchanged her dress for a practical pair of pants, flat-soled leather boots, and a chain shirt tucked under a forest-green tunic, with a round-headed mace hanging from her belt and a black hooded riding cloak covering the ensemble. Majesto, her **imp** familiar, accompanies her in **crow** form.
 
-The fanatics are as described in the original module—men and women in black robes with hoods who gather in a candlelit room with a large black pentagram inscribed on the stone floor and are named Andrej, Boris, Miruna, and Ruxandra, respectively. None of the fanatics are particularly talkative.
+The fanatics are men and women in black robes with hoods, named Andrej, Boris, Miruna, and Ruxandra, respectively. None of the fanatics are particularly talkative.
 ## H6b. The Druid
 The journey from the Town of Vallaki to Old Bonegrinder is five-and-three-quarter miles long and takes two hours.
 
@@ -360,7 +360,7 @@ Lady Wachter is glad to offer the players the service of her **imp** familiar Ma
 > The windmill rests upon a small, bare, grassy hill approximately one thousand feet in diameter, with a hilltop approximately four hundred feet in diameter. Its north and western edges are flanked by the trees of the Svalich Wood, which press closely toward its base.
 
 > [!info]+ **Victor's Spellbook**
-> Victor's spellbook largely contains the spells from the original module's mage statblock (including *acid splash*, *animate dead*, *blight*, *cloudkill*, *darkvision*, *glyph of warding*, *levitate*, *mending*, *remove curse*, and *thunderwave*), except it also contains the _sending_ and _fear_ spells and does not contain _remove curse._ On the day he ventures to Old Bonegrinder, he has largely prepared the spells described in the **mage** statblock, but has prepared _blight_ instead of _cone of cold_.
+> Victor's spellbook contains the spells *acid splash*, *animate dead*, *blight*, *cloudkill*, *darkvision*, *glyph of warding*, *levitate*, *mending*, *sending*, *fear*, and *thunderwave*. On the day he ventures to Old Bonegrinder, he has largely prepared the spells described in the **mage** statblock, but has prepared _blight_ instead of _cone of cold_.
 
 > [!Warning]+ Counterspell 2024
 > 
@@ -415,7 +415,7 @@ The stone compartment also contains a *charm of mass heroism*, resembling a gold
 > [!item]+ **Charm of Mass Heroism**
 > As an action, the wielder of this charm can give any number of creatures within 30 feet the benefit of a *potion of heroism*. Once they do so, the charm vanishes from their person.
 
-Fyodor and Myrtle are imprisoned on the third floor of the windmill and guarded by the **night hags** Belladonna "Bella" Sunbane and Offalia Wormwiggle, in the original module: dancing around a thick wooden gear shaft in the center of the cramped, circular third-floor bedroom are the two ugly young women wearing silk shawls and gowns of stitched flesh, with long needles sticking out of their tangled mops of black hair, cackling with glee. In a rotting wooden closet are three stacked crates with small doors set into them—the top one empty, but the middle and lower ones each containing a captive child. However, Fyodor and Myrtle have no particular knowledge of Ireena or Ismark, and wish only to be returned to their father, Franz.
+Fyodor and Myrtle are imprisoned on the third floor of the windmill and guarded by the **night hags** Belladonna "Bella" Sunbane and Offalia Wormwiggle. The two hags, appearing as ugly young women wearing silk shawls and gowns of stitched flesh with long needles sticking out of their tangled mops of black hair, dance and cackle around a thick wooden gear shaft in the center of the cramped, circular bedroom. In a rotting wooden closet are three stacked crates with small doors set into them—the top one empty, but the middle and lower ones each containing a captive child. However, Fyodor and Myrtle have no particular knowledge of Ireena or Ismark, and wish only to be returned to their father, Franz.
 
 ![[The Three Hags.png]]
 <span class="credit">"The Three Hags" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -839,7 +839,7 @@ Once the players have obtained a *heartstone*, they will need a location at whic
 
 If present, Lady Wachter first disables the protective circle around Wachterhaus in order to allow creatures to pass through the boundary of the Ethereal Plane. She then leads the players and Victor to the cult headquarters in the cellar, setting her **cult fanatics** to guard the cellar entrances. Otherwise, the players must gain access to the Wachterhaus cellar themselves, whereupon Victor leads them to **N4t. Cult Headquarters** to enact the ritual.
 
-The inside of the chamber is largely as described in **N4t. Cult Headquarters**. However, modify the descriptive text to read as follows:
+When the players enter the chamber, read the following:
 
 <div class="description">
 <p>Flickering candles in iron holders fill this room with light and shadows. This room has a ten-foot-high ceiling and a large black pentagram inscribed on the stone floor. At each point of the pentagram rests a wooden chair.</p>
@@ -1337,7 +1337,7 @@ The true name requirement of Lady Wachter's binding ritual has been added to pro
 
 The *charm of mass heroism* has been added to provide the players with an additional boost in a difficult, saving throw-heavy boss fight.
 
-Freek has been renamed to Fyodor remove the negative connotations associated with the name "Freek."
+Freek has been renamed to Fyodor to remove the negative connotations associated with the name "Freek."
 
 Morgantha's use of the *Laughter* and *Mother's Milk* potions (which also exist in the original module) has been added to prevent the players from easily escaping their bonds or fighting their way free should they TPK to the coven. The *cackle fever* disease also intensifies the weight of the party's TPK, ensuring that the players do not soon forget the consequences of failure should they escape.
 

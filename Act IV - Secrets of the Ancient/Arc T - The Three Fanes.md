@@ -683,16 +683,12 @@ Two ten-foot-wide passages lead from this chamber:
 This area has the following description:
 
 <div class="description">
-<p>Through the fog you see the empty shell an old stone church, north of which is a cemetery of leaning grave stones enclosed by a disintegrating iron fence. Half of the cemetery has sunk into the mire. '. Rotted coffins and moldy bones are buried in the grave yard.</p>
+<p>Through the fog you see the empty shell an old stone church, north of which is a cemetery of leaning grave stones enclosed by a disintegrating iron fence. Half of the cemetery has sunk into the mire. . Rotted coffins and moldy bones are buried in the grave yard.</p>
 </div>
 
-Characters who explore the gutted church find the rotten remains of a pulpit and an old iron bell half immersed in the marsh, lying amid the remains of a col lapsed steeple.
+Characters who explore the gutted church find the rotten remains of a pulpit and an old iron bell half immersed in the marsh, lying amid the remains of a collapsed steeple.
 
-However, add the following to the end of this area’s description:
-
-<div class="description">
-<p>Three flickering lights bob between the graves.</p>
-</div>
+Three flickering lights bob between the graves.
 
 The three lights are **will-o’-wisps**. A player who scrutinizes the lights from a distance and succeeds on a DC 10 Wisdom (Perception) check discerns that the lights aren’t being carried, but are hovering in the air.
 
@@ -718,13 +714,7 @@ Three ten-foot-wide passages lead from this chamber:
 ## T3f. Marina’s Monument
 This area has the following description:
 
-<div class="description">
-<p>Strahd had this monument erected after Marina's death. The monument is hidden ip the marsh, and the charac ters aren't likely to find it on their own unless they scour the area thoroughly.</p>
-</div>
-
-If they lay Burgomaster Ulrich's spirit to rest (see area U2), it points t-he\ to this.location before fading away. Without Ul.rich's guidance, t!Je char acters must enter the square in which the monument 'is located and search that area .. A characJer·who searches the area for 10 minutes can make a DC.15 Wisdom (Perception) check, finding.the monument on a success. If the monument isn't found, th] check can be repeated after another 10 minutes of searching. The following boxed text assumes that the characters have met Ireena Koly^na. If they have not, don't read the sentence that mentions her. Hidden by the fog and elevated a few feet above the sur rounding marsh is a raised plot of land, barely ten feet on a side, enclosed by a disintegrating iron fence. In the center of the plot is a life-sized stone monument carved in the likeness of a kneeling peasant girl clutching a rose. Although her features are gray and weatherworn, she bears a striking resemblance to lreena Kolyana. Carved into the monument's base is an epitaph. The epitaph reads as follows: Marina, Taken by the Mists.
-
-However, modify this area’s description as follows:
+Strahd had this monument erected after Marina’s death. The monument is hidden in the marsh.
 
 <div class="description">
 <p>Hidden by the fog and elevated a few feet above the surrounding marsh is a raised plot of land, barely ten feet on a side, enclosed by a disintegrating iron fence. In the center of the plot is a stone monument.</p>
@@ -1962,16 +1952,10 @@ Van Richten is eternally grateful to the players for reuniting him and Erasmus, 
 The Forest Fane is located at the grove of the Gulthias Tree at Yester Hill. This area has the following description:
 
 <div class="description">
-<p>At the south end of the hilltop is a sickly copse, a grove of dead trees and shrubs with a huge, misshapen tree at its core. Blood oozes like sap from its twisted trunk. Skulk ing around the tree are six gangly' humanoid creatures covered with needles. Embedded in the tree is a shiny battleaxe, beneath which lies a humanoid skeleton. The tree is a Gulthias tree (see the blights entry in the Monster Manual), the roots of which extend deep be neath the hill. Lurking among the dead trees and shrubs are three vine blights, six needle blights, and twelve twig blights. The needle blights are plainly visible, but the False Appearance feature of the vine blights and the twig blights allows them to hide in plain sight. The blights attack anyone who harms the Gulthias tree, which has no actions or effective attacks of its own.</p>
+<p>At the south end of the hilltop is a sickly copse, a grove of dead trees and shrubs with a huge, misshapen tree at its core. Blood oozes like sap from its twisted trunk. A circle of craggy, jagged megaliths stands hunkered down among the undergrowth, draped with rotted vines and overgrown by large brambles and dead shrubs. Each megalith bears a carving of a different animal. The air here is thick and unseasonably warm, and a sickly, putrid smell chokes the air.</p>
 </div>
 
-The Gulthias tree has AC 15, 250 hit points, and im munity to bludgeoning, piercing, and psychic damage. If it is reduced to O hit points, it seems to be destroyed but isn't truly dead; it regains 1 hit point every month until it is fully healed. With a successful DC 15 Intelligence (Nature) check, a character can determine that the en tire stump must be uprooted for the tree to truly die. The Gulthias tree withers and dies in 3d10 days if a hallow spell is cast in its area. The Gulthias tree creates blights from ordinary plants and is the only tree of its kind in Barovia. If the Gulth ias tree is killed, no new blights can be created within Strahd's domain. Award the party 1,500 XP for destroy ing the Gulthias tree. The skeleton lying at the base of the Gulthias tree is all that remains of a human adventurer who was killed by blights while trying to cut down the tree.
-
-However, replace the last two sentences of the area description with the following text:
-
-<div class="description">
-<p>A circle of craggy, jagged megaliths stands hunkered down among the undergrowth, draped with rotted vines and overgrown by large brambles and dead shrubs. Each megalith bears a carving of a different animal. The air here is thick and unseasonably warm, and a sickly, putrid smell chokes the air.</p>
-</div>
+The tree is a Gulthias tree (see the blights entry in the Monster Manual), the roots of which extend deep beneath the hill. The Gulthias tree has AC 15, 250 hit points, and immunity to bludgeoning, piercing, and psychic damage. If it is reduced to 0 hit points, it seems to be destroyed but is not truly dead; it regains 1 hit point every month until it is fully healed. With a successful DC 15 Intelligence (Nature) check, a character can determine that the entire stump must be uprooted for the tree to truly die. The Gulthias tree withers and dies in 3d10 days if a *hallow* spell is cast in its area.
 
 A character who inspects the eight carved megaliths finds the following animals’ images carved into their stone surfaces, moving clockwise from the north: bear, owl, goat, wolf, hawk, elk, panther, and raven.
 

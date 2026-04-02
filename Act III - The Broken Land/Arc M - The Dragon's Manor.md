@@ -617,7 +617,7 @@ When the players enter this area, read:
 <p>Rubble is strewn throughout much of this vast chamber, caused by the partial collapse of the rooms above it. On the pink marble floor, fallen chandeliers lie amid broken chairs and other furnishings. Thick webs stretch from wall to wall, and moving among them are too many giant spiders to count!</p>
 </div>
 
-Seven **giant spiders** nest here. They attack anyone who gets too close. However, replace two of the **giant spiders** with a pair of **phase spiders** lurking in the Ethereal Plane, which emerge into the Material Plane and attack when all **giant spiders** have been defeated.
+Five **giant spiders** and a pair of **phase spiders** nest here. The giant spiders attack anyone who gets too close, while the phase spiders lurk in the Ethereal Plane, emerging into the Material Plane to attack when all **giant spiders** have been defeated.
 
 > [!combat]- **Combat - The Spiders' Ballroom**  
 > **Combat Level**: Bruising (first wave), Mild (second wave)

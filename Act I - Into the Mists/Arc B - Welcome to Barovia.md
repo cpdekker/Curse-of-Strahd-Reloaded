@@ -33,9 +33,9 @@ The journey from the Gates of Barovia to [[#B3. Svalich Woods]] is one-quarter m
 # B3. Svalich Woods
 <span class="citation"><em>This scene takes place in Chapter 2: Area C.</em></span>
 
-As the players travel the Old Svalich Road, the party member with the highest passive Wisdom (Perception) score catches the scent of death on the air. Following the stench, they find a human corpse half-buried in the underbrush about fifteen feet from the road. However, unlike the original module, Dalvan Olensky is not holding a crumpled envelope, and his clothes appear to have been torn by brambles and thorns, rather than claw marks. He doesn't appear to have any visible wounds, but a successful DC 10 Wisdom (Medicine) check reveals that he died of exhaustion.
+As the players travel the Old Svalich Road, the party member with the highest passive Wisdom (Perception) score catches the scent of death on the air. Following the stench, they find a human corpse half-buried in the underbrush about fifteen feet from the road. The corpse belongs to a man named Dalvan Olensky. His clothes appear to have been torn by brambles and thorns, and he doesn't appear to have any visible wounds. A successful DC 10 Wisdom (Medicine) check reveals that he died of exhaustion.
 
-Instead of the envelope, Dalvan is now holding an old, tarnished copper compass. While it remains close to the edge of the Barovian valley, its needle trembles strangely even when held still.
+Dalvan is holding an old, tarnished copper compass. While it remains close to the edge of the Barovian valley, its needle trembles strangely even when held still.
 
 Dalvan's hand holding the compass is splayed out in the direction of a nearby tree, which bears thirteen tally marks and an arrow that points deeper into the woods, along what seems to be a well-traveled footpath.
 
@@ -169,11 +169,7 @@ If the players ask about the statue, Ismark can share the following information:
 * In life, Ismark Antonovich, also known as Ismark the Great, was a mighty warrior and the burgomaster of the village of Barovia. In his prime, he fought scores of vampires and other undead left behind when Strahd vanished from public view. He eventually died defending a group of trappers from a dire wolf attack at the age of 44, and the statue outside was erected in his honor. 
 * Ismark Antonovich was Ismark Kolyanovich's great-grandfather. Ismark's father, Kolyan, gave him that name in the hopes that he would one day become a great warrior.
 ## B5c. The Blood of the Vine Tavern
-<div class="description">
-<p>A single shaft of light thrusts illumination into the main square, its brightness looking like a solid pillar in the heavy fog. Above the gaping doorway, a sign hangs precariously askew, proclaiming this to be the Blood on the Vine tavern.</p>
-</div>
-
-The tavern building is about 60 feet square. Close inspection of the sign reveals that it originally read "Blood of the Vine." (An "n" has been scratched over with the "f.") This once finely appointed tavern has grown shoddy over the years. A blazing fire in the hearth gives scant warmth to the few huddled souls within. They include the barkeep and Ismark, who has arrived ahead of the players.
+The tavern building is about 60 feet square. This once finely appointed tavern has grown shoddy over the years. A blazing fire in the hearth gives scant warmth to the few huddled souls within. They include the barkeep and Ismark, who has arrived ahead of the players.
 
 Arik Lorensk (CN male human **commoner**), a pudgy little man, tends bar. Mindlessly, he cleans glasses, one after another. When they’re all clean, he starts over. If he is spoken to, he takes orders for drinks in a dull, hollow voice. A small glass of wine costs 1 cp. A pitcher of wine costs 1 sp. After serving drinks, Arik returns to cleaning glasses. He ignores all attempts to question him.
 

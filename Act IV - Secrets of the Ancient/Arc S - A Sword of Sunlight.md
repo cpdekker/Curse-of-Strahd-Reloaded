@@ -144,11 +144,7 @@ This area has the following description:
 
 A snow-swept gravel road climbs the mountainside as it travels north from Tsolenka Pass toward the temple. Each statue is carved from a single block of amber and depicts a faceless, hooded figure, its hands pressed together in a gesture of prayer. Between the two innermost statues is a twenty foot-tall archway with a staircase leading down. The amber statues are impervious to damage. Looking at one for long fills a viewer with unease.
 
-However, add the following sentence to the end of this area’s description:
-
-<div class="description">
-<p>A thin blanket of mist drifts lazily from the archway, then splits, forming a low perimeter around the temple.</p>
-</div>
+A thin blanket of mist drifts lazily from the archway, then splits, forming a low perimeter around the temple.
 
 As the players approach, Kasimir quietly reminds them of Patrina’s cryptic message: that she hid the weapon they seek “beneath the roots of Strahd’s power, in the one place he feared to tread." (If the players appear uncertain how to interpret Patrina’s message, Kasimir, Ezmerelda, or Ireena encourage them to review the *Tome of Strahd* for clues.)
 
@@ -226,16 +222,12 @@ The hall connects areas Xl and X4. There are no guards in the rooms behind the a
 This area has the following description:
 
 <div class="description">
-<p>A twenty-foot-wide balcony of black marble with a shattered railing overlooks a vast temple. Black marble staircases at each end of the balcony descend thirty feet to the temple floor. The vaulted ceiling is thirty feet above the balcony. The walls and ceiling are covered in an amber glaze, lending the gloom a golden sheen. A set of amber doors stands closed at the west end of the bal cony. A similar pair stands open to the east.</p>
+<p>A twenty-foot-wide balcony of black marble with a shattered railing overlooks a vast temple. Black marble staircases at each end of the balcony descend thirty feet to the temple floor. The vaulted ceiling is thirty feet above the balcony. The walls and ceiling are covered in an amber glaze, lending the gloom a golden sheen. A set of amber doors stands closed at the west end of the balcony. A similar pair stands open to the east.</p>
 </div>
 
-Anyone with a passive Wisdom (Perception) score of 12 or higher notice arrow slits in the walls overlooking the temple (see areas X8 and X17 for more information on these arrow slits). If the characters' light source or vi sion extends 90 feet or more, they can see a large, face less statue at the far end of the temple (area XSa). The open doorway to the east leads to area X6. The double doors to the west open into area XlS. Characters who listen at the western doors hear gruff humanoid voices beyond, but can't discern what's being said.
+Anyone with a passive Wisdom (Perception) score of 12 or higher notice arrow slits in the walls overlooking the temple (see areas X8 and X17 for more information on these arrow slits). If the characters' light source or vision extends 90 feet or more, they can see a large, faceless statue at the far end of the temple (area XSa). The open doorway to the east leads to area X6. The double doors to the west open into area XlS. Characters who listen at the western doors hear gruff humanoid voices beyond, but can't discern what's being said.
 
-However, add the following text to the end of this area’s description:
-
-<div class="description">
-<p>A faint, fiery light flickers from a trio of arrow slits along the west wall.</p>
-</div>
+A faint, fiery light flickers from a trio of arrow slits along the west wall.
 
 In addition, the first time the **arcanaloth** Neferon (described in Temple of Lost Secrets) notices the players, he casts *mind blank* on himself, then assumes the form of Heinrich Stolt as described in God of Secrets.
 
@@ -412,16 +404,10 @@ However, revise the last sentence of Northwest Balcony's description to read:
 This area has the following description:
 
 <div class="description">
-<p>I Shattered bits of wood cover the floor of this frigid, twen- I ty-foot-square room. The ceiling in each of these rooms is 10 feet high. The wood is all that remains of guards' bunks.</p>
+<p>Shattered bits of wood cover the floor of this frigid, twenty-foot-square room. The ceiling is 10 feet high. The wood is all that remains of guards' bunks. Old carvings mark the walls in numerous places.</p>
 </div>
 
 A secret door set in one wall of each room can be pulled open to reveal area X2a or X2b beyond.
-
-However, add the following text to the end of this area's description:
-
-<div class="description">
-<p>Old carvings mark the walls in numerous places.</p>
-</div>
 
 A player who inspects the carvings finds the following messages engraved in the stone:
 
@@ -445,16 +431,10 @@ The glinting object is an old, bloodstained crystal orb, worth 10 gp if cleaned.
 This area has the following description:
 
 <div class="description">
-<p>This room contains a gladiator (CE female human), five berserkers (CE male and female humans), and one dire wolf. The gladiator and. the berserkers are bloodthirsty mountain folk, the dire wolf a servant of Strahd. The dire wolf can't be charmed:or frightened . ' When they aren't expecting trouqle, the gladiator and the berserkers sit on the floor, sharpening th.ejr Êea p ons, while the dire wolf.sleeps in the d.ilddle of the room .. The gladiator and the berser-kers 'fight tq the death.</p>
+<p>Torches in sconces light this bare stone room. Six bedrolls made of stitched animal furs cover the floor. Cold air enters through a fissure in the southwest wall. A tall, broad-shouldered woman clad in wolfskin clutches a tall, single-bladed spear with a curved end, just beside a stocky man with thick, black stubble and a greataxe across his back. Dark bags hang under their bloodshot eyes.</p>
 </div>
 
-The dire wolf flees the teri-iple (h:eading east: through; areas X4 and X2) if reduced to fewer ·Ëal! half its_ hit poirits., . . . Torches in sconces light this bare stone room. Six bed rolls made of stitched animal furs cover the floor. Cold air enters through a fissure in the southwest wall. Other than the berserkers' armor and weapons, there is ; qoth1ng,ofvaiuehere. The berserkers are aware of the  .'•  . , ' --- -.....::: .. »-.. \/· .. flameskulls ("fiery spirits") to the north and keep the doors to area X17 closed. A fissure has formed in the southwest wall. The gap is 2 feet wide, 10 feet tall, and 15 feet deep. It leads outside (area Xla). A secret door in the south wall opens into area X16. Neither the mountain folk nor the dire wolf knows of it.
-
-However, no **dire wolf** or “bloodthirsty mountain folk" are present. Instead, add the following to the end of this area’s description:
-
-<div class="description">
-<p>A tall, broad-shouldered woman clad in wolfskin clutches a tall, single-bladed spear with a curved end, just beside a stocky man with thick, black stubble and a greataxe across his back. Dark bags hang under their bloodshot eyes.</p>
-</div>
+A fissure has formed in the southwest wall. The gap is 2 feet wide, 10 feet tall, and 15 feet deep. It leads outside (area X1a). A secret door in the south wall opens into area X16.
 
 The woman is Diona, the eldest daughter of Chief Diegia (use the statistics of a **champion** with AC 15 (leather armor) and a glaive instead of a greatsword). The man is Coryllus, a **berserker**, and Diona’s most loyal friend. Both have three levels of exhaustion.
 
@@ -483,10 +463,10 @@ This area has the following features: Apart from its location, this room is iden
 This area has the following description:
 
 <div class="description">
-<p>The walls of this twenty-foot-wide, seventy-foot-long arched corridor are sheathed in amber. The southern half of the hall is scorched by fire, and a charred corpse lies on the floor here, under a burned fur cloak. Several am ber doors lead from this hall, and three arrow slits are cut into the east wa·11. Floating in the middle of the hall are three skulls wreathed in green flame. Three ftameskulls guard this hall, attacking creatures that enter. The flameskulls will not leave the hall. The charred corpse is all that remains of a wizard namedJakarion, who came to the Amber Temple seek ing power. The flameskulls incinerated the wizard. The arrow slits look down on the temple (area XS).</p>
+<p>The walls of this twenty-foot-wide, seventy-foot-long arched corridor are sheathed in amber. The southern half of the hall is scorched by fire, and a charred corpse lies on the floor here, under a burned fur cloak. Several amber doors lead from this hall, and three arrow slits are cut into the east wall. Floating in the middle of the hall are three skulls wreathed in green flame.</p>
 </div>
 
-However, remove the *staff of frost*.
+Three **flameskulls** guard this hall, attacking creatures that enter. The flameskulls will not leave the hall. The charred corpse is all that remains of an unknown wizard. The arrow slits look down on the temple (area X5).
 
 > [!lore]+ **The Charred Corpse**
 > The corpse here was not Vilnius’s mentor, but an unknown mage that came to the temple two years ago seeking the vestiges’ power.
@@ -747,14 +727,14 @@ A secret door is set in the north wall. It can be pulled open to reveal a stairc
 This area has the following description:
 
 <div class="description">
-<p>Dominating this room is a twelve-foot-tall model of a dark castle with high walls and tall spires. Behind it, tucked in a corner, are some ruined furnishings and a wooden chest. In the months leading up to the construction of Castle Ravenloft, this room was occupied by the castle's archi tect, a wizard named Artimus. He built a scale model of the castle out of magically sculpted rock.</p>
+<p>Dominating this room is a twelve-foot-tall model of a dark castle with high walls and tall spires. Behind it, tucked in a corner, are some ruined furnishings and a wooden chest. In the months leading up to the construction of Castle Ravenloft, this room was occupied by the castle's architect, a wizard named Artimus. He built a scale model of the castle out of magically sculpted rock.</p>
 </div>
 
 Anyone who has seen the castle recognizes this replica for what it is. The ceiling here is 15 feet high. A secret door in the south wall can be pulled open to a staircase landing (area X21).
 
-However, a player with a passive Wisdom (Perception) score of 10 or greater observes faint scuff marks along the bottom of the chest. (The marks were left by opening the chest’s false bottom.)
+A player with a passive Wisdom (Perception) score of 10 or greater observes faint scuff marks along the bottom of the chest. (The marks were left by opening the chest’s false bottom.)
 
-In addition, replace the *tome of understanding* with a set of *eyes of minute seeing*, two old parchment scrolls, a moldy ink bottle, and three old quill pens.
+In addition, the room contains a set of *eyes of minute seeing*, two old parchment scrolls, a moldy ink bottle, and three old quill pens.
 
 The first scroll contains a precise sketch of three amber sarcophagus, whose fronts are engraved with the following designs from left to right: (1) a gnarled tree encircled by a canal; (2) a tome upon a pedestal; and (3) an eye upon a hill. An arrow points to a circle around the leftmost sarcophagus (the one depicting the tree) from several lines of complex runes and arcane formulae. (A player who succeeds on a DC 18 Intelligence (Arcana) check identifies the runes and formulae as notes regarding some kind of conjuration magic—specifically, magic similar to the *demiplane* spell.) A scrawled note beneath the formulae reads: “Integrity parameter + duplication runes + inversion function = hidden physical demiplane within psychic manifestation. But who altered it, and why?"
 
@@ -786,14 +766,14 @@ Area Xl 7 lies beyond the door to the east, area X21 be yond the door to the wes
 This area has the following description:
 
 <div class="description">
-<p>Torches in sconces illuminate a dining table in the center of the room. Covering the table is a magnificent feast that fills the hall with the rich smells of cooked meat, sweet vegetables, piping hot gravy, and wine. The ceiling he.re is 20 feet high. Amber door; lead south .</p>
+<p>Torches in sconces illuminate a dining table in the center of the room. Covering the table is a magnificent feast that fills the hall with the rich smells of cooked meat, sweet vegetables, piping hot gravy, and wine.</p>
 </div>
 
-to a hallway'(area X18) 'and ei3St to·ii shatter¯d balco.Iiy : ·(area X23). .... · ;- · '..:-; ·: · ' · · · · · · .. The t°ble is i-e±l. but thiforches;thdeast, and the chairs are .illu²io³s created by a proira'mnied·i/lusion . . ' . . \ .... . . 188 spell that triggers when a door to the room is opened. The illusion can be dispelled (DC 17). Hidden in plain sight amid the feast on the table is a green copper ewer embossed with images of dancing bears, elks, and wolves. The ewer, like the table, isn't illusory. A detect magic spell reveals an aura of trans mutation magic around the ewer. If a character picks up the ewer, the illusions fade away (including the torches and their light), and seven specters materialize and at tack whoever has the ewer.
+The ceiling here is 20 feet high. Amber doors lead south to a hallway (area X18) and east to a shattered balcony (area X23). The table is real, but the torches, the feast, and the chairs are illusions created by a *programmed illusion* spell that triggers when a door to the room is opened. The illusion can be dispelled (DC 17). Hidden in plain sight amid the feast on the table is a green copper ewer embossed with images of dancing bears, elks, and wolves. The ewer, like the table, is not illusory. A *detect magic* spell reveals an aura of transmutation magic around the ewer.
 
 However, there are two ewers on the table: the green copper ewer described in Northwest Annex, and an ordinary wooden pitcher. When the *programmed illusion* spell activates, the green copper ewer is disguised to resemble the wooden pitcher, and vice-versa.
 
-In addition, replace two of the **specters** with **wraiths**. The spirits don’t attack if the players pick up the ewer. Instead, after entering this room, a player with a passive Wisdom (Perception) score of 15 or greater feels a prickling on the back of their neck, and feels as though they are being watched. A player with a passive Wisdom (Perception) score of 20 or greater senses an ethereal presence in the room with them. A player who attempts to sense this presence’s disposition and succeeds on a DC 20 Wisdom (Insight) check receives a feeling of wariness and curiosity.
+The spirits don’t attack if the players pick up the ewer. Instead, after entering this room, a player with a passive Wisdom (Perception) score of 15 or greater feels a prickling on the back of their neck, and feels as though they are being watched. A player with a passive Wisdom (Perception) score of 20 or greater senses an ethereal presence in the room with them. A player who attempts to sense this presence’s disposition and succeeds on a DC 20 Wisdom (Insight) check receives a feeling of wariness and curiosity.
 
 The spirits emerge if a player picks up the ewer or greets the unseen presence and succeeds on a DC 10 Charisma (Persuasion) check. A player makes the check with advantage if they mention the *Sunsword* or forswear any interest in accepting the vestiges’ gifts. When the spirits appear, read:
 
@@ -851,16 +831,10 @@ The spirits won’t share further information (e.g., the location of the *Sunswo
 This area has the following description:
 
 <div class="description">
-<p>This bare stone room consists of a foyer to the east and a shrine to the west. Candlesticks draped in cobwebs stand in the four corners of the foyer. In the shrine, a faceless obsidian statue stands in a raised alcove at the western end of the chamber. Slumped before the statue are two desiccated corpses in tattered garments. Two pairs of al coves line the north and south walls of the shrine. The obsidian statue is 4 feet tall, weighs 250 pounds, and depicts the same nameless god that stands watch in the main temple (area XS). Any living creature that enters this room must succeed'oti-a J;)C 16.Wisdom sav ing throw or be drawn to·the statue as though affected by the sympathy effect of an antipathy/sympathy spell.</p>
+<p>This bare stone room consists of a foyer to the east and a shrine to the west. Candlesticks draped in cobwebs stand in the four corners of the foyer. In the shrine, a faceless obsidian statue stands in a raised alcove at the western end of the chamber. Slumped before the statue are two desiccated corpses in tattered garments. Two pairs of alcoves line the north and south walls of the shrine. A tall, glittering staff shaped like a jagged icicle lies across the statue’s arms.</p>
 </div>
 
-The corpses lying in front of the statue are the remains of two human wizards who came here separately, failed their saving throws, and starved to death while under the spell's effect. The lich in area X27 destroyed the wizards' spellbooks and other possessions. Covering the statue or removing it from this shrine suppresses its magic and ends its sympathy effect on anyone.
-
-However, add the following to the end of this area's description:
-
-<div class="description">
-<p>A tall, glittering staff shaped like a jagged icicle lies across the statue's arms.</p>
-</div>
+The obsidian statue is 4 feet tall, weighs 250 pounds, and depicts the same nameless god that stands watch in the main temple (area X5). Any living creature that enters this room must succeed on a DC 16 Wisdom saving throw or be drawn to the statue as though affected by the sympathy effect of an *antipathy/sympathy* spell. The corpses lying in front of the statue are the remains of two human wizards who came here separately, failed their saving throws, and starved to death while under the spell’s effect. Covering the statue or removing it from this shrine suppresses its magic and ends its sympathy effect on anyone.
 
 The staff is a *staff of frost*, with the following changes:
 
@@ -880,12 +854,12 @@ The first time a player picks up the *staff of frost*, if they did so at Vilnius
 This area has the following description:
 
 <div class="description">
-<p>This arched hall rises to a height of twenty feet. You can see your reAections in the amber glaze. But the images don't mirror your movements. Instead, they wave their arms and scream silent warnings to you. The characters' bizarre reflections are illusions meant to discourage them from exploring the temple.</p>
+<p>This arched hall rises to a height of twenty feet. You can see your reflections in the amber glaze, but the images don’t mirror your movements. Instead, they wave their arms and scream silent warnings to you.</p>
 </div>
 
-The illu sions can be dispelled (DC 15). The east hall leads to area X32, the west hall to area X36. Glistening amber coats the walls and ceiling of this enor mous hall like sculpted honey, and dust covers the black marble floor. The vaulted ceiling is twenty-five feet high. Set into the walls at a height of five feet are amber ledges lined with life-sized alabaster statues of cats, frogs, hawks, owls, rats, ravens, snakes, toads, and weasels. Many of the statues have fallen off their perches and lie shattered on the floor. An amber door in the north wall stands open. Four other amber doors to the west and south stand closed. The animal statues represenf°aiffecent kinds of famil- iars, and they are harmless .. 1 ; •· ',· • •
+The characters’ bizarre reflections are illusions meant to discourage them from exploring the temple. The illusions can be dispelled (DC 15). Glistening amber coats the walls and ceiling of this enormous hall like sculpted honey, and dust covers the black marble floor. The vaulted ceiling is twenty-five feet high. Set into the walls at a height of five feet are amber ledges lined with life-sized alabaster statues of cats, frogs, hawks, owls, rats, ravens, snakes, toads, and weasels. Many of the statues have fallen off their perches and lie shattered on the floor. An amber door in the north wall stands open. Four other amber doors to the west and south stand closed.
 
-However, remove the **death slaad**, and if any player inspects their reflection, read:
+If any player inspects their reflection, read:
 
 <div class="description">
 <p>For a brief instant, a silhouette flickers across the reflection, mere inches behind yours.</p>
@@ -913,7 +887,7 @@ The silhouette vanishes as quickly as it appeared.
 This area has the following description:
 
 <div class="description">
-<p>Furnishings made of ancient, colorless wood have col lapsed under their own weight and now lie covered with cobwebs and dust. This room, once a bedchamber, is littered with broken furnishings. Scattered about the room are the remains of a bed, a wardrobe, two trunks, three tall candlesticks, a desk, a bookshelf, and several chairs. Torn-up books, old quill pens, and tattered clothes are also strewn about. The ceiling here is 10 feet high. A poltergeist (see the specter entry in the Monster Manual) haunts this room and telekinetically hurls broken furnishings at intruders so as not to give away its location.</p>
+<p>Furnishings made of ancient, colorless wood have collapsed under their own weight and now lie covered with cobwebs and dust. This room, once a bedchamber, is littered with broken furnishings. Scattered about the room are the remains of a bed, a wardrobe, two trunks, three tall candlesticks, a desk, a bookshelf, and several chairs. Torn-up books, old quill pens, and tattered clothes are also strewn about. The ceiling here is 10 feet high. A poltergeist (see the specter entry in the Monster Manual) haunts this room and telekinetically hurls broken furnishings at intruders so as not to give away its location.</p>
 </div>
 ### West Vaults
 
@@ -939,12 +913,10 @@ This area has the following description:
 This area has the following description:
 
 <div class="description">
-<p>The, amber door to this 'roCJm hangs opeil. C ·':';" .. · This room has amber-glazed walls and a floor of pur plish-black marble. Two amber sarcophagi stand in alcoves to the west and east. A third sarcophagus that once stood in the north alcove lies shattered on the floor. Clustered in the middle of the room are four loath some, hunched creatures.</p>
+<p>This room has amber-glazed walls and a floor of purplish-black marble. Two amber sarcophagi stand in alcoves to the west and east. A third sarcophagus that once stood in the north alcove lies shattered on the floor.</p>
 </div>
 
-Each one has a single large, baleful eye. The creatures huddled in this room are four nothics former wizards reduced to this evil state by their mad quest for forbidden lore. The nothics use their Weird Insight feature to pry secrets from the characters. Al though this power is wickedly invasive, the nothics don't consider their prying to be offensive, and so they are taken aback if the characters retaliate. The nothics fight only if one of them is accosted, or if the characters try to destroy the amber sarcophagi. Characters who touch the amber sarcophagi are offered dark gifts by the evil vestiges contained within them (see the "Amber Sarcophagi" sidebar). West Sarcophagus. The vestige within this sarcoph agus offers the dark gift of Delban, the Star of Ice and Hate. Delban's gift is the power to unleash deadly cold. This dark gift allows its beneficiary to cast the cone of cold spell as an action. After it has been used seven times, the dark gift vanishes. Until it vanishes, the bene ficiary also gains the benefits of a ring of warmth. The beneficiary of this dark gift gains the following flaw: "Fire terrifies me." North Sarcophagus. This sarcophagus has been shat tered in a way that suggests the vestige inside it some how broke free. West Sarcophagus. The vestige within this sarcoph agus offers the dark gift of Khirad, the Star of Secrets. Khirad's gift is the power of divination. This gift allows its beneficiary to cast the scrying spell as an action. Af ter it has been used three times, the dark gift vanishes. The beneficiary's voice becomes a low whisper, and its smile becomes cruel and evil. in the "Amber Sarcophagi" sidebar). The lich has no al liance with or animosity toward Strahd, and no interest in challenging Strahd for control of Barovia. The furnishings here are in poor condition and fall apart easily. There are three secret doors in this room. The secret door to area X28 has an arcane Jock spell cast on it. The password to suppress the spell is "Exethanter."
-
-However, no **nothics** dwell in this chamber. In addition, modify the sarcophagi in this room (and their dark gifts) as described below.
+The sarcophagi in this room contain the following dark gifts:
 
 > [!info]+ **West Sarcophagus (Tomb of Delban).** 
 > If a player touches this sarcophagus, read:
@@ -1008,15 +980,7 @@ If the player passes through the amber archway or accepts Delban’s gift, the t
 #### Vault of Harkotha
 <span class="citation">This scene takes place in Chapter 13, Area X33e</span>
 
-This area has the following description:
-
-<div class="description">
-<p>quired to climb it.</p>
-</div>
-
-The shaft leads up to area X6. The amber door to this room·is sealed with an ar- Characters who touch the.amber s_arcophagi are cane Jock spell. The password to suppress the spell is offered dark gifts by the evil vestiges contained within "Shalx." A character can push'.open the doors with a · ttiQm (see the "Amber Sarcophagi" s.idQbar). : , _ .. successful DC 25 Strength.check. The door (AC 15, 30 : West_Siirc_ophaA,us. "[hyyesīige,within thi& sarcoph-. . . , . . . hit points) can also Qe smashed. If the door is reduced ·.· a_g1;1s-offerĬ the 'dark gift of Fekrĭ,;Que:en·of Poxes. · .Į ::,:." ( ·. , .. · too hit points, necroti<; ·energy. fills the 30-foot cube ··. ,fe!cre\giff_iR_tne .J:!.ower of spreacii'ng C,i_sease. This._dark ·. : · .. ·:, '._ directly in front of it. Acrii'ature in the area takes 22 .. į . -? gi°ft::İ}_IıĲR fts beneficl1.ry t_c{cĳsi t_hi .9bĴtagion·sptl(a:(. · '' . (4d10) necrotic damage,. foi:ning to dust and bones if re- : : ")( an ĵction. After it ljai;:'tieen usĶ<!Jhce,e)fmes,-.the:d,ark duced toOhit points: .. ,_:._ . . ::.ķ·.:giftyanishes.ĸ- .,.:> . . :_· .. ·· ,··--{\;·-· ..  .. ---- ·-:v;,- -- \ -- ----- ------ -------·-------------- .,,,; ; ,  ' .:· :: '- .! The beneficiary of this dark gift reeks of filth. South Sarcophagus. The vestige within this sar cophagus offers the dark gift of Zrin-Hala, the Howling Storm. Zrin-Hala's gift is the power to create lightning. This dark gift allows its beneficiary to cast the lightning bolt spell as an action. After it has been used three times, the dark gift vanishes. As soon as this dark gift is received, one side of the beneficiary's face sags and loses all feeling. East Sarcophagus. The vestige within this sarcoph agus offers the dark gift of Sykane, the Soul Hungerer. Sykane's gift is the power to raise the recently deceased. This dark gift allows its beneficiary to cast the raise dead spell as an action. After it has been used three times, the dark gift vanishes. As soon as this dark gift is received, the beneficiary's eyes glow a sickly yellow until the dark gift vanishes. The beneficiary also gains the following flaw: "If I help someone, I expect payment in return." in the "Amber Sarcophagi" sidebar). The lich has no al liance with or animosity toward Strahd, and no interest in challenging Strahd for control of Barovia. The furnishings here are in poor condition and fall apart easily. There are three secret doors in this room. The secret door to area X28 has an arcane Jock spell cast on it. The password to suppress the spell is "Exethanter."
-
-However, modify the sarcophagi in this room (and their dark gifts) as described below.
+The sarcophagi in this room contain the following dark gifts:
 
 > [!info]+ **North Sarcophagus (Tomb of Yrrga).** 
 > If a player touches this sarcophagus, read:
@@ -1101,15 +1065,7 @@ However, modify the sarcophagi in this room (and their dark gifts) as described 
 #### Vault of Thangob
 <span class="citation">This scene takes place in Chapter 13, Area X33f</span>
 
-This area has the following description:
-
-<div class="description">
-<p>quired to climb it.</p>
-</div>
-
-The shaft leads up to area X6. The amber door to this room·is sealed with an ar- Characters who touch the.amber s_arcophagi are cane Jock spell. The password to suppress the spell is offered dark gifts by the evil vestiges contained within "Shalx." A character can push'.open the doors with a · ttiQm (see the "Amber Sarcophagi" s.idQbar). : , _ .. successful DC 25 Strength.check. The door (AC 15, 30 : West_Siirc_ophaA,us. "[hyyesīige,within thi& sarcoph-. . . , . . . hit points) can also Qe smashed. If the door is reduced ·.· a_g1;1s-offerĬ the 'dark gift of Fekrĭ,;Que:en·of Poxes. · .Į ::,:." ( ·. , .. · too hit points, necroti<; ·energy. fills the 30-foot cube ··. ,fe!cre\giff_iR_tne .J:!.ower of spreacii'ng C,i_sease. This._dark ·. : · .. ·:, '._ directly in front of it. Acrii'ature in the area takes 22 .. į . -? gi°ft::İ}_IıĲR fts beneficl1.ry t_c{cĳsi t_hi .9bĴtagion·sptl(a:(. · '' . (4d10) necrotic damage,. foi:ning to dust and bones if re- : : ")( an ĵction. After it ljai;:'tieen usĶ<!Jhce,e)fmes,-.the:d,ark duced toOhit points: .. ,_:._ . . ::.ķ·.:giftyanishes.ĸ- .,.:> . . :_· .. ·· ,··--{\;·-· ..  .. ---- ·-:v;,- -- \ -- ----- ------ -------·-------------- .,,,; ; ,  ' .:· :: '- .! The beneficiary of this dark gift reeks of filth. South Sarcophagus. The vestige within this sar cophagus offers the dark gift of Zrin-Hala, the Howling Storm. Zrin-Hala's gift is the power to create lightning. This dark gift allows its beneficiary to cast the lightning bolt spell as an action. After it has been used three times, the dark gift vanishes. As soon as this dark gift is received, one side of the beneficiary's face sags and loses all feeling. East Sarcophagus. The vestige within this sarcoph agus offers the dark gift of Sykane, the Soul Hungerer. Sykane's gift is the power to raise the recently deceased. This dark gift allows its beneficiary to cast the raise dead spell as an action. After it has been used three times, the dark gift vanishes. As soon as this dark gift is received, the beneficiary's eyes glow a sickly yellow until the dark gift vanishes. The beneficiary also gains the following flaw: "If I help someone, I expect payment in return."
-
-However, modify the sarcophagi in this room (and their dark gifts) as described below.
+The sarcophagi in this room contain the following dark gifts:
 
 > [!info]+ **West Sarcophagus (Norganas).**  
 > If a player touches this sarcophagus, read:  
@@ -1197,16 +1153,10 @@ However, modify the sarcophagi in this room (and their dark gifts) as described 
 This area has the following description:
 
 <div class="description">
-<p>I l This chamber is bFightly lit by red copper lanthorns that l hang from the ceiling.</p>
+<p>This chamber is dimly lit by red copper lanthorns that hang from the ceiling. The walls are sheathed in amber that has been shaped into bas-reliefs of wizards with spellbooks. Stairs to the north and south descend twenty feet to an obsidian lectern, behind which a slab of black slate hangs from chains. Between the stairs are descending rows of red marble benches. A thick layer of mist rolls lazily across the floor of this chamber.</p>
 </div>
 
-The walls are sheathed in amber that has been shaped into bas-reliefs of wizards with spell books. Stairs to the north and south descend twenty feet to an obsidian lectern, behind which a slab of black slate hangs from chains. Between the stairs are descend ing rows of red marble benches. The hanging lanthorns have continual light spells cast on them. The black slate slab once served as a chalk board and has a few chalk marks on it. Hiding behind the lectern is Vilnius (NE male human mage) and his invisible quasit familiar. Characters who have a passive Wisdom (Perception) score of 17 or higher notice him. A character who actively searches the room for hidden occupants spots Vilnius with a success ful DC 12 Wisdom (Perception) check. Vilnius wears scorched robes, his unkempt hair is half burned away, and his face and arms are covered with blisters from magic fire. He is the apprentice of Jakarion, the dead wizard in area X17. After the flame skulls there incinerated his master, the wounded Vilnius retreated here. He eats vermin to survive. The amber golem has been patrolling the hallway outside (area X8), and Vilnius won't leave this room until he knows the go tern has been destroyed. Vilnius is a greedy, treacherous coward. He curses his dead master for leading them to this wretched land. If the characters try to befriend him, be is suspicious of their intentions. He would like to retrieve bis dead mas ter's staff and spellbook, but otherwise he has no inter est in exploring more of the Amber Temple. He knows the following information about the place: The temple is a haven for forbidden knowledge. • Flameskulls-constructs made from the remains of dead wizards-guard the temple. • Barbaric mountain folk use the temple for shelter.
-
-However, modify the first sentence of this area's description to replace "brightly lit" with "dimly lit." In addition, add the following sentence to the end of this area's description:
-
-<div class="description">
-<p>A thick layer of mist rolls lazily across the floor of this chamber.</p>
-</div>
+The hanging lanthorns have *continual light* spells cast on them. The black slate slab once served as a chalkboard and has a few chalk marks on it.
 
 A player with a passive Wisdom (Perception) score of 15 or greater notices that the mist flows *up* the stairs, rather than down—and that its source seems to be the lectern at the front of the room. 
 
@@ -1403,7 +1353,7 @@ This area has the following description:
 <p>The walls and ceiling in the eastern portion of this bare stone room have collapsed. To the west and south are open amber doors. In the center of the room is a ten-foot-tall statue of a jackal-headed warrior made of cracked amber. It turns to face you and clenches its fists. The ceiling here is 20 feet high, and the walls are lined with empty torch sconces.</p>
 </div>
 
-The statue is a damaged am ber golem (use the stat block for the stone golem in the Monster Manual). It has 145 hit points and attacks any creature it sees, stopping only when it can't see any. An earthquake collapsed the eastern part of the room Jong ago.
+The statue is a damaged amber golem (use the stat block for the stone golem in the Monster Manual). It has 145 hit points and attacks any creature it sees, stopping only when it can't see any. An earthquake collapsed the eastern part of the room long ago.
 
 However, modify the **amber golem**’s statistics as follows:
 
@@ -1453,15 +1403,7 @@ In addition, a player with a passive Wisdom (Perception or Survival) score of 15
 This area has the following description:
 
 <div class="description">
-<p>A dusty corridor heads north, then bends to the east, de scending a dark staircase. The air is thin, but heavy with the stench of death.</p>
-</div>
-
-I Three 10-foot-long staircases with landings between them descend a total of 30 feet to area X14a. The stench grows stronger down the stairs. Xl4A. COLLAPSED LOWER HALL The stairs descend to a collapsed hall with a high ceiling and amber-glazed walls glazed. Rubble covers most of the floor, and a path through the rubble leads to an open doorway. A deathly stench seems to come from there. This ruined area once connected to area X32, but an earth tremor caused the ceiling and walls to collapse. The ceiling here is 25 feet high. Unless the characters douse their light sources and move quietly, the creatures in area X33c hear them ap proaching and prepare to attack.
-
-However, add the following to the end of this area’s description:
-
-<div class="description">
-<p>A trail of footprints breaks the frost and dust, descending into the darkness.</p>
+<p>A dusty corridor heads north, then bends to the east, descending a dark staircase. The air is thin, but heavy with the stench of death. A trail of footprints breaks the frost and dust, descending into the darkness.</p>
 </div>
 
 A player who succeeds on a DC 15 Wisdom (Survival) check discerns that the footprints are less than a day old. (The footprints were left by the Mountain Folk Meda.)
@@ -1472,12 +1414,10 @@ A player who succeeds on a DC 15 Wisdom (Survival) check discerns that the footp
 This area has the following description:
 
 <div class="description">
-<p>This arched hall rises to a height of twenty feet. You can see your reAections in the amber glaze. But the images don't mirror your movements. Instead, they wave their arms and scream silent warnings to you. The characters' bizarre reflections are illusions meant to discourage them from exploring the temple.</p>
+<p>This arched hall rises to a height of twenty feet. You can see your reflections in the amber glaze, but the images don’t mirror your movements. Instead, they wave their arms and scream silent warnings to you.</p>
 </div>
 
-The illu sions can be dispelled (DC 15). The east hall leads to area X32, the west hall to area X36. The walls and ceiling of this great hall are coated in am ber that glistens like fresh honey. Dust covers the black marble floor. To the north, the hall has collapsed, leaving a wall of rubble. Many amber doors lead from this hall. Standing in front of the south door are three ugly women in tattered black gowns with brooms and black, pointed hats. An earth tremor collapsed the northern part of the hall. Three Barovian witches (see appendix D) are trying to open the amber door to area X33a by trying different passwords, unaware that they could gain entry through the shaft in area X6. Frustrated by their Jack of prog ress, they vent their rage by attacking the characters. The witches Jet loose their three brooms of animated attack (see appendix D) while they cast spells.
-
-However, remove the **Barovian witches** from this area.
+The characters’ bizarre reflections are illusions meant to discourage them from exploring the temple. The illusions can be dispelled (DC 15). The walls and ceiling of this great hall are coated in amber that glistens like fresh honey. Dust covers the black marble floor. To the north, the hall has collapsed, leaving a wall of rubble. Many amber doors lead from this hall. An earth tremor collapsed the northern part of the hall.
 ### East Quarters
 <span class="citation">This scene takes place in Chapter 13, Areas X34 and X35.</span>
 
@@ -1492,15 +1432,7 @@ Its control amulet can be found in area X9.
 #### Vault of Shalx
 <span class="citation">This scene takes place in Chapter 13, Area X33a</span>
 
-This area has the following description:
-
-<div class="description">
-<p>quired to climb it.</p>
-</div>
-
-The shaft leads up to area X6. The amber door to this room·is sealed with an ar- Characters who touch the.amber s_arcophagi are cane Jock spell. The password to suppress the spell is offered dark gifts by the evil vestiges contained within "Shalx." A character can push'.open the doors with a · ttiQm (see the "Amber Sarcophagi" s.idQbar). : , _ .. successful DC 25 Strength.check. The door (AC 15, 30 : West_Siirc_ophaA,us. "[hyyesīige,within thi& sarcoph-. . . , . . . hit points) can also Qe smashed. If the door is reduced ·.· a_g1;1s-offerĬ the 'dark gift of Fekrĭ,;Que:en·of Poxes. · .Į ::,:." ( ·. , .. · too hit points, necroti<; ·energy. fills the 30-foot cube ··. ,fe!cre\giff_iR_tne .J:!.ower of spreacii'ng C,i_sease. This._dark ·. : · .. ·:, '._ directly in front of it. Acrii'ature in the area takes 22 .. į . -? gi°ft::İ}_IıĲR fts beneficl1.ry t_c{cĳsi t_hi .9bĴtagion·sptl(a:(. · '' . (4d10) necrotic damage,. foi:ning to dust and bones if re- : : ")( an ĵction. After it ljai;:'tieen usĶ<!Jhce,e)fmes,-.the:d,ark duced toOhit points: .. ,_:._ . . ::.ķ·.:giftyanishes.ĸ- .,.:> . . :_· .. ·· ,··--{\;·-· ..  .. ---- ·-:v;,- -- \ -- ----- ------ -------·-------------- .,,,; ; ,  ' .:· :: '- .! The beneficiary of this dark gift reeks of filth. South Sarcophagus. The vestige within this sar cophagus offers the dark gift of Zrin-Hala, the Howling Storm. Zrin-Hala's gift is the power to create lightning. This dark gift allows its beneficiary to cast the lightning bolt spell as an action. After it has been used three times, the dark gift vanishes. As soon as this dark gift is received, one side of the beneficiary's face sags and loses all feeling. East Sarcophagus. The vestige within this sarcoph agus offers the dark gift of Sykane, the Soul Hungerer. Sykane's gift is the power to raise the recently deceased. This dark gift allows its beneficiary to cast the raise dead spell as an action. After it has been used three times, the dark gift vanishes. As soon as this dark gift is received, the beneficiary's eyes glow a sickly yellow until the dark gift vanishes. The beneficiary also gains the following flaw: "If I help someone, I expect payment in return." in the "Amber Sarcophagi" sidebar). The lich has no al liance with or animosity toward Strahd, and no interest in challenging Strahd for control of Barovia. The furnishings here are in poor condition and fall apart easily. There are three secret doors in this room. The secret door to area X28 has an arcane Jock spell cast on it. The password to suppress the spell is "Exethanter."
-
-However, remove the **flameskulls** from this area. In addition, the corpse of Duras can be found here (having been pushed by Meda), and modify the sarcophagi in this room (and their dark gifts) as described below.
+The corpse of Duras can be found here, having been pushed by Meda. The sarcophagi in this room contain the following dark gifts:
 
 > [!info]+ **West Sarcophagus (Tomb of Sykane)**  
 > If a player touches this sarcophagus, read:  
@@ -1585,15 +1517,7 @@ However, remove the **flameskulls** from this area. In addition, the corpse of D
 #### Vault of Maverus
 <span class="citation">This scene takes place in Chapter 13, Area X33b</span>
 
-This area has the following description:
-
-<div class="description">
-<p>quired to climb it.</p>
-</div>
-
-The shaft leads up to area X6. The amber door to this room·is sealed with an ar- Characters who touch the.amber s_arcophagi are cane Jock spell. The password to suppress the spell is offered dark gifts by the evil vestiges contained within "Shalx." A character can push'.open the doors with a · ttiQm (see the "Amber Sarcophagi" s.idQbar). : , _ .. successful DC 25 Strength.check. The door (AC 15, 30 : West_Siirc_ophaA,us. "[hyyesīige,within thi& sarcoph-. . . , . . . hit points) can also Qe smashed. If the door is reduced ·.· a_g1;1s-offerĬ the 'dark gift of Fekrĭ,;Que:en·of Poxes. · .Į ::,:." ( ·. , .. · too hit points, necroti<; ·energy. fills the 30-foot cube ··. ,fe!cre\giff_iR_tne .J:!.ower of spreacii'ng C,i_sease. This._dark ·. : · .. ·:, '._ directly in front of it. Acrii'ature in the area takes 22 .. į . -? gi°ft::İ}_IıĲR fts beneficl1.ry t_c{cĳsi t_hi .9bĴtagion·sptl(a:(. · '' . (4d10) necrotic damage,. foi:ning to dust and bones if re- : : ")( an ĵction. After it ljai;:'tieen usĶ<!Jhce,e)fmes,-.the:d,ark duced toOhit points: .. ,_:._ . . ::.ķ·.:giftyanishes.ĸ- .,.:> . . :_· .. ·· ,··--{\;·-· ..  .. ---- ·-:v;,- -- \ -- ----- ------ -------·-------------- .,,,; ; ,  ' .:· :: '- .! The beneficiary of this dark gift reeks of filth. South Sarcophagus. The vestige within this sar cophagus offers the dark gift of Zrin-Hala, the Howling Storm. Zrin-Hala's gift is the power to create lightning. This dark gift allows its beneficiary to cast the lightning bolt spell as an action. After it has been used three times, the dark gift vanishes. As soon as this dark gift is received, one side of the beneficiary's face sags and loses all feeling. East Sarcophagus. The vestige within this sarcoph agus offers the dark gift of Sykane, the Soul Hungerer. Sykane's gift is the power to raise the recently deceased. This dark gift allows its beneficiary to cast the raise dead spell as an action. After it has been used three times, the dark gift vanishes. As soon as this dark gift is received, the beneficiary's eyes glow a sickly yellow until the dark gift vanishes. The beneficiary also gains the following flaw: "If I help someone, I expect payment in return."
-
-However, modify the sarcophagi in this room (and their dark gifts) as described below.
+The sarcophagi in this room contain the following dark gifts:
 
 > [!info]+ **North Sarcophagus (Tomb of Savnok).**  
 > If a player touches this sarcophagus, read:  
@@ -1679,15 +1603,7 @@ However, modify the sarcophagi in this room (and their dark gifts) as described 
 This area has the following description:
 
 <div class="description">
-<p>The amber door to this room hangs open, and the cham ber reeks of death. This room has amber-glazed walls and a floor of dark green marble. Three amber sarcophagi stand in alcoves. Two feral humanoids with ghastly gray skin stare at you hungrily with three eyes-two normal eyes and a third lidless eye blinded by cataracts. Five more cling to the walls and ceiling. The ceiling here is 10 feet high. The seven hungry ghasts that lair here fight to the death. The ghasts have the following additional feature: Spider Climb.</p>
-</div>
-
-The ghast can climb difficult surfaces, includ ing upside down on ceilings, without needing to make an ability check. Characters who touch the amber sarcophagi are offered dark gifts by the evil vestiges contained within them (see the "Amber Sarcophagi" sidebar). North Sarcopha;us. The vestige within this sar cophagus offers the dark gift of Drizlash, the Nine-Eyed Spider. Drizlash's gift is the power to walk on walls and ceilings. This dark gift allows its beneficiary to climb difficult surfaces, including upside down on ceilings, without needing to make an ability check. The beneficiary of this dark gift grows an extra eye somewhere on its body. The eye is blind and ever open. East Sarcopha;us. The vestige within this sarcoph agus offers the dark gift of Dahlver-Nar, He of the Many Teeth. Dahlver-Nar's gift is the power to live many lives. Upon receiving this dark gift, the beneficiary instantly reincarnates when it dies, as though it was the target of a reincarnate spell. The new body appears within 10 feet of the old one. After it has been used three times, the dark gift vanishes. The beneficiary of this dark gift loses all of its teeth until it reincarnates for the third and final time. South Sarcophagus. The vestige within this sarcoph agus offers the dark gift of Zantras, the Kingmaker. Zantras's gift is power that comes from great presence and force of personality. This dark gift increases the beneficiary's Charisma by.4, up to a maximum of 22. The beneficiary of this dark gift gains the following . flaw: "I won't take no for' an a11Ŧwer." ·. in the "Amber Sarcophagi" sidebar). The lich has no al liance with or animosity toward Strahd, and no interest in challenging Strahd for control of Barovia. The furnishings here are in poor condition and fall apart easily. There are three secret doors in this room. The secret door to area X28 has an arcane Jock spell cast on it. The password to suppress the spell is "Exethanter."
-
-However, remove the **ghasts** from this room, and modify the sarcophagi in this room (and their dark gifts) as described below. In addition, add the following to the end of this area’s description:
-
-<div class="description">
-<p>A lone, hunched creature sits in the middle of the room, a torn fur cloak draped across its shoulders.</p>
+<p>The amber door to this room hangs open, and the chamber reeks of death. This room has amber-glazed walls and a floor of dark green marble. Three amber sarcophagi stand in alcoves. A lone, hunched creature sits in the middle of the room, a torn fur cloak draped across its shoulders.</p>
 </div>
 
 The creature, which once was the Mountain Folk Meda, is a **nothic**. When the players first interact with it or otherwise make their presence known, the nothic turns to face them. Read:
@@ -1811,10 +1727,10 @@ A 10-foot square hole in the northwest corner of the ceiling magi cally forms if
 This area has the following description:
 
 <div class="description">
-<p>The amber doors to the south are sealed with an ar cane Jock spell.</p>
+<p>The amber doors to the south are sealed with an *arcane lock* spell.</p>
 </div>
 
-The password to suppress the spell is "Dhaviton." A character can push open the doors with a successful DC 25 Strength check. The doors (AC 15, 60 hit points) can also be smashed. If the doors are reduced to O hit points, a greater invisibility spell is cast on the amber golem in this room. The spell lasts for 1 minute. l Piles of treasure are heaped against the west and east walls of this stone room. If the golem is visible, add: A ten-foot-tall statue carved from amber in the likeness of a hawk-headed humanoid stands in a wide alcove to the north. Behind it, a crack has formed in the wall. l - The ceiling here is 30 feet high and flat. The statue in the northern alcove is an amber golem (use the stat block for the stone golem in the Monster Manual). It at tacks any creature that disturbs the treasure. The golem can leave the room but can't leave the Amber Temple. See area X41 for a description of the cracks in the south wall.
+The password to suppress the spell is "Dhaviton." A character can push open the doors with a successful DC 25 Strength check. The doors (AC 15, 60 hit points) can also be smashed. If the doors are reduced to O hit points, a greater invisibility spell is cast on the amber golem in this room. The spell lasts for 1 minute. l Piles of treasure are heaped against the west and east walls of this stone room. If the golem is visible, add: A ten-foot-tall statue carved from amber in the likeness of a hawk-headed humanoid stands in a wide alcove to the north. Behind it, a crack has formed in the wall. l - The ceiling here is 30 feet high and flat. The statue in the northern alcove is an amber golem (use the stat block for the stone golem in the Monster Manual). It attacks any creature that disturbs the treasure. The golem can leave the room but can't leave the Amber Temple. See area X41 for a description of the cracks in the south wall.
 
 However, revise this area’s description to read as follows:
 
@@ -1868,7 +1784,7 @@ In addition, the **amber golem** attacks any creature that disturbs any of the p
 ## S6c. Amber Vault
 <span class="citation">This scene takes place in Chapter 13, Areas X41 and X42.</span>
 
-This area has the following features: An earth tremor split the rock between areas X40 and X42, creating two natural openings that are virtually side by side. The openings are 3 feet wide, 8 feet high, and 10 feet deep. Several of these.amber-glazed rooms are located along the periphery of the complex. ·Each room contains two or more amber sarcophagi (se_e the "Amber Sarcoph- agi" sidebar). · · However, there are no crates or **vampire spawn** in this chamber. In addition, modify the east and south sarcophagi as described below.
+An earth tremor split the rock between areas X40 and X42, creating two natural openings that are virtually side by side. The openings are 3 feet wide, 8 feet high, and 10 feet deep. The sarcophagi in this room contain the following dark gifts:
 
 > [!info]+ **East Sarcophagus (Tomb of Zhudun)**
 > If a player touches this sarcophagus, read:
@@ -2440,12 +2356,10 @@ As he and the players pass through Secret Roomligh. ·), Exethanter points out t
 This area has the following description:
 
 <div class="description">
-<p>I Hundreds of skulls fall out of a cavity behind the door. This room has a 30-foot-high ceiling and is packed floor to ceiling with human skulls. It takes 5 minutes for a single character to clear a path into the room. Multi- ple characters can work together to clear a path more quickly. Once the skulls are cleared away, characters can search the room. Attached to the thirty-foot-high ceiling of this dark sepulcher is an upside-down iron chest with a barrel shaped lid.</p>
+<p>This fifteen-foot-high room contains the trappings of royalty: ornate furniture, exquisite rugs and tapestries, and decorative statuary. Everywhere you look are lit candelabras atop small tables. The beauty of the decor is undone by thick dust and cobwebs.</p>
 </div>
 
-Two secret doors lead to this room. The iron chest on the ceiling is held in place with sover eign glue, and its lid is sealed with an arcane lock spell. The chest is impervious to weapon damage. Prying it open requires a successful DC 25 Strength check, assuming the characters can reach it. The inside of the chest is lined with lead. If the chest's lid is opened, the floor of this room dis appears (as if affected by a disintegrate spell), crea_ting a 10-foot-square hole above area X39. Creatures stapding on the floor when it disappears fall 30 feet, landing in the northwest corner of area X39. The iron chest is empty. This fifteen-foot-high room contains the trappings of roy alty: ornate furniture, exquisite rugs and tapestries, and decorative statuary. Everywhere you look are lit candela bras atop small tables. The beauty of the decor is undone by thick dust and cobwebs. Standing in the center of the room is a decrepit skeleton clad in tattered robes. Red pinpoints of light burn in the skeleton's eye sock ets. "Do I know you?" it asks. I The lich has fewer hit points than normal (99 hit points), doesn't remember its name (Exethanter), and has forgot ten all of its prepared spells. It does know its cantrips. In its current condition, the lich has a challenge rating of 10 (5,900 XP). A greater restoration spell restores the lich's memory and all of its spells. Another casting of the spell restores its normal hit point maximum (135). If the characters restore its memory, the lich gives them the passwords to all the locked doors in the Amber Temple (with the exception of the door into area X28, where its phylactery is hidden). It also provides all the information pertaining to Strahd and the temple pre sented at the start of this chapter. If the characters think to ask, it provides them with the command words for any of the books in the library (area K30). If the characters restore its body, it offers to escort them while they explore the temple. The other creatures that inhabit the temple don't threaten the characters as long as the lich is with them. The lich defends itself if attacked and turns to dust if it is reduced to O hit points. The lich assumes that the characters have come seek ing knowledge and power. If it is inclined to help them, it tells them how the amber sarcophagi work (as explained in the "Amber Sarcophagi" sidebar). The lich has no al liance with or animosity toward Strahd, and no interest in challenging Strahd for control of Barovia. The furnishings here are in poor condition and fall apart easily. There are three secret doors in this room. The secret door to area X28 has an arcane Jock spell cast on it. The password to suppress the spell is "Exethanter."
-
-However, no **lich** dwells here. In addition, a crystal chime lies in the desk’s uppermost drawer. 
+The furnishings here are in poor condition and fall apart easily. There are three secret doors in this room. The secret door to area X28 has an *arcane lock* spell cast on it. The password to suppress the spell is “Exethanter.” A crystal chime lies in the desk’s uppermost drawer. 
 
 Players who read Exethanter’s spellbook find that, in addition to the spells described in Lich’s Lair, it also contains instructions for enacting the *Rite of Conjured Divinity* (see below).
 

@@ -1694,7 +1694,7 @@ Not visible from the entrance is a small table behind the cauldron on which sits
 > [!lore]+ **The Cauldron**
 > The potion in the cauldron, when imbibed by a **zombie**, transforms it into a **zombie plague spreader**. Due to the enchantments layered into the potion by the witches, a **zombie plague spreader** created in this way is loyal first to Strahd, second to Rahadin, third to Strahd’s consorts, and last to the witches who created it. Unless ordered otherwise, the plague spreader attacks any non-undead on sight.
 
-In addition, replace the seven **Barovian witches** with two **Barovian hexwitches** wearing bone earrings, two **Barovian bogwitches** with brown paint smeared around their eyes, and three **Barovian stormwitches** wearing black leather gloves (see below). Each witch carries a _potion of healing_, a _potion of poison_, and a _potion of poison immunity_.
+The witches present are two **Barovian hexwitches** wearing bone earrings, two **Barovian bogwitches** with brown paint smeared around their eyes, and three **Barovian stormwitches** wearing black leather gloves (see below). Each witch carries a _potion of healing_, a _potion of poison_, and a _potion of poison immunity_.
 
 
 > [!combat]- **Combat - The Witches**  
@@ -1765,7 +1765,7 @@ This ten-foot-wide arched corridor is cold and moist. The cold seems to emanate 
 ### Guards’ Quarters
 <span class="citation"><em>This scene takes place in Chapter 4, Area K69.</em></span>
 
-The yellow lichen covering the ceiling of this passage is harmless. However, revise the area’s read-aloud description as follows:
+The yellow lichen covering the ceiling of this passage is harmless. When the players enter, read:
 
 <div class="description">
 <p>Sickly, yellow lichen covers the ceiling of this cold, damp, ten-foot-wide passage running east and west. Opening off both sides of this passage are ten ten-foot-square alcoves that contain rotting debris and rags.</p>
@@ -2005,7 +2005,7 @@ A player with a passive Wisdom (Perception) score of 14 or higher also notices a
 ### North Tower Rooftop
 <span class="citation"><em>This scene takes place in Chapter 4, Area K60a.</em></span>
 
-The courtyard lies 260 feet below, and the roof of the keep is 130 feet below. However, revise the area’s read-aloud description to read as follows:
+The courtyard lies 260 feet below, and the roof of the keep is 130 feet below. When the players emerge onto the rooftop, read:
 
 <div class="description">
 <p>A cold wind greets you atop the tower roof, its rain-slicked flagstones surrounded by a twenty-foot-diameter ring of stone battlements. From the thunderclouds above, thousands of bats descend upon the tower.</p>
@@ -2161,7 +2161,7 @@ Emil, who has three levels of exhaustion, has been locked in his cell for weeks.
 
 Dark, low shapes thrust up out of the still, brackish water that fills this fifty-foot-square room, the ceiling of which is festooned with hanging chains that look like thick, black web strands. A balcony set into the north wall overlooks the room and has two large thrones atop it, with a red velvet curtain behind them.
 
-The ceiling is 17 feet above the surface of the water, which is 3 feet deep. The balcony to the north stands 7 feet above the water’s surface, 10 feet above the floor. The dark shapes in the water are racks, iron maidens, stocks, and other instruments of torture. However, remove the reference to the “last victims” of the torture devices. In addition, replace the six **Strahd zombies** with three **zombies**, and add a three-foot amphora and an *alchemy jug* beside the thrones on the balcony. The amphora is filled with several gallons of oil, which is otherwise as described in <span class="citation">Oil (Flask) (Player’s Handbook, p. 152)</span>. Also, there is an extra **zombie** operating the rack. It is docile and only attacks in self-defense.
+The ceiling is 17 feet above the surface of the water, which is 3 feet deep. The balcony to the north stands 7 feet above the water’s surface, 10 feet above the floor. The dark shapes in the water are racks, iron maidens, stocks, and other instruments of torture. Three **zombies** stand guard in the water. A fourth **zombie** operates the rack; it is docile and only attacks in self-defense. A three-foot amphora and an *alchemy jug* sit beside the thrones on the balcony. The amphora is filled with several gallons of oil (as described in <span class=”citation”>Oil (Flask) (Player’s Handbook, p. 152)</span>).
 
 Two large, wooden thrones rest on the observation balcony. Behind the thrones hangs a red velvet curtain thirty feet long. The ceiling here is ten feet high. The room continues behind the curtain an additional 10 feet to a wall that has a door in its center.
 
@@ -2202,7 +2202,7 @@ Otherwise, if the players successfully placated Volenta at dinner, Anton Konstan
 > > The manacles are largely as described in <span class="citation">Player’s Handbook, p. 152</span>. However, because the manacles have rusted with age, creatures have advantage on Strength checks made to break them.
 > 
 > > [!info]- **The Scavenger’s Daughter**
-> > This device is a vertical, triangular metal frame with a large bulge at the top, two manacles halfway down the sides, and two additional manacles at the bottom points. A character teleported to this device from [[#P11a. Dungeon Hall]] finds themselves manacled to the device, their head forced into the the upper bulge, their arms strapped into the two manacles at the sides, and their legs strapped into the manacles at the bottom, with their body contorted into an exaggerated and compressed kneeling position. Due to the positioning of the rack, the imprisoned character’s head is also forced underwater.
+> > This device is a vertical, triangular metal frame with a large bulge at the top, two manacles halfway down the sides, and two additional manacles at the bottom points. A character teleported to this device from [[#P11a. Dungeon Hall]] finds themselves manacled to the device, their head forced into the upper bulge, their arms strapped into the two manacles at the sides, and their legs strapped into the manacles at the bottom, with their body contorted into an exaggerated and compressed kneeling position. Due to the positioning of the rack, the imprisoned character’s head is also forced underwater.
 > >
 > > At the end of each of the imprisoned character’s turns, they must succeed on a DC 10 Constitution saving throw, taking 3 (1d6) bludgeoning damage on a failure. In addition, a character teleported into the scavenger’s daughter is forced to hold their breath as described in <span class="citation">Suffocating (Player’s Handbook, p. 183)</span> unless they can breathe underwater.
 > > 
@@ -2374,7 +2374,7 @@ The brazier’s flame is magical and sheds no warmth. A successful casting of *d
 
 ***Development.*** If the brazier, the hourglass, or either golem is attacked, the doors of the room magically slam shut and lock (unless held or wedged open), and the golems animate and attack. On the first round, the golems fill the room with their poison breath, which issues from the horses’ mouths. (Each creature in the room must make two saving throws, one for each breath weapon.) On subsequent rounds, each golem makes one attack with its sword and one slam attack with its hoof. When there are no creatures left to fight, the golems return to their alcoves, and the doors unlock. Forcing open a locked door requires a successful DC 25 Strength (Athletics) check. Each door has AC 15, 25 hit points, and immunity to poison and psychic damage.
 
-However, revise the brazier’s riddle to read as follows:
+The brazier’s riddle reads as follows:
 
 <div class="description">
 <p>Cast a stone into the fire<br>
@@ -2387,7 +2387,7 @@ Blue to where the grapes grow sweet<br>
 Yellow for the mountain keep<br>
 </div>
 
-In addition, revise the stones’ destinations as follows:
+The stones’ destinations are as follows:
 
 * Violet leads to Marina’s monument in Berez in Berez.
 * Orange leads to the first floor of Van Richten's Tower in Van Richten’s Tower.
@@ -2423,7 +2423,7 @@ Players who investigate the exits from this room can observe the following point
 ## P11f. Western Stair
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K79.</em></span>
 
-This staircase of ancient stone is worn smooth. Thick dust covers its steps, and cobwebs choke the passage. The stairs rise at a 45-degree angle for a distance of 40 feet horizontally, leading to a 10-foot-square landing. A second set of stairs continues upward to the east at a similar angle for a distance of 30 feet horizontally, ending at a secret door that opens into [[#Chamberlain's Office]]. However, remove the *glyph of warding* from the landing. Instead, a curious, yet fearful **shadow** lurks here.
+This staircase of ancient stone is worn smooth. Thick dust covers its steps, and cobwebs choke the passage. The stairs rise at a 45-degree angle for a distance of 40 feet horizontally, leading to a 10-foot-square landing. A second set of stairs continues upward to the east at a similar angle for a distance of 30 feet horizontally, ending at a secret door that opens into [[#Chamberlain's Office]]. A curious, yet fearful **shadow** lurks on the landing.
 
 If the players approach the staircase from the brazier room, the shadow flees upward, squeezing through the secret door to the chamberlain’s office and concealing itself within one of the drawers of Rahadin’s desk. (The shadow isn’t very good at hiding, allowing part of its ephemeral, shroud-like body to extrude through the drawer’s keyhole.)
 
@@ -2480,7 +2480,7 @@ This row of crypts contains the following:
 * ***Crypt 3.*** "Lady Isolde Yunk (Isolde the Incredible): Purveyor of antiques and imports." A skeleton draped in rags lies atop a marble slab, surrounded by heaps of old baskets, braziers, bundled tapestries, candlesticks, chairs, chests, cooking utensils, and other junk. None of the junk looks valuable.
 * ***Crypt 4.*** "Prince Ariel du Plumette (Ariel the Heavy)." If opened, the apparition of a large, rotund man forms within the dark crypt, its eyes wild with insanity. Large, artificial wings unfold from its back. Prince Ariel's evil **ghost** attacks the characters on sight. If Ariel succeeds in possessing a character, his host climbs the high tower until it reaches the peak, then hurls itself down the tower's central shaft, screaming, "I can fly!"
 * ***Crypt 5.*** "Artank Swilovich: Friend and member of the Barovian Wine Distillers Guild." A skeleton draped in rags lies atop a marble slab, surrounded by thousands of empty wine bottles from the Wizard of Wines winery.
-* ***Crypt 6.*** Replace the epigraph and contents of Crypt 6 with "Tatsaul Eris—Last of the Line." A skeleton draped in rags lies atop a marble slab. Mounted on the north, east, and south walls are three unlit torches in iron brackets. When a creature enters this tomb for the first time, the torches burst into flame. Examination of the skull and bones reveals that they are plaster facsimiles. Remove the trap surrounding Crypt 6.
+* ***Crypt 6.*** "Tatsaul Eris—Last of the Line." A skeleton draped in rags lies atop a marble slab. Mounted on the north, east, and south walls are three unlit torches in iron brackets. When a creature enters this tomb for the first time, the torches burst into flame. Examination of the skull and bones reveals that they are plaster facsimiles.
 
 Players who exit the tunnel via Crypt 1, or who approach the intersection between Crypts 2, 7, and 8 observe a human corpse lying on the stone floor just south of Crypt 2. (The corpse is a **zombie. See below for more information.**)
 #### North Crypts, Second Row
@@ -2510,12 +2510,12 @@ This row of crypts contains the following:
 
 * ***Crypt 12.*** “King Troisky—The Three-Faced King.” There are no bones atop the marble slab, only a steel helm with three evenly spaced visors crafted to look like three faces—one sad, one happy, and one angry. The helm is nonmagical and weighs 10 pounds. If the helm is removed without 10 pounds of weight immediately being added, poisonous gas pours out of the slab’s hollow interior. A DC 12 Wisdom (Perception) check spots tiny holes in the slab. A creature in the crypt must make a DC 14 Constitution saving throw, taking 22 (4d10) poison damage on a failure, or half on a success.
 * ***Crypt 13.*** “King Katsky (Katsky the Bright): Ruler, inventor, and self-proclaimed time traveler.” A skeleton draped in rags lies atop a marble slab with a stoppered drinking horn (powder horn loaded with gunpowder), a fat pouch (20 silvered bullets), and a musket. A wooden flying contraption (dragon-wing glider) hangs from the ceiling by wires. The glider can’t support more than 80 pounds.
-* ***Crypt 14.*** “Stahbal Indi-Bhak: A truer friend no ruler ever had. Here lies his family in honor.” A ten-foot-square shaft plunges 40 feet into a vault containing fifteen stone coffins and fifteen **wights** (one per coffin). See the original module for full details on this vault.
-* ***Crypt 15.*** “Khazan: His word was power.” A skeleton draped in rags lies atop a marble slab. The skull has black opals set in its eye sockets (worth 1,000 gp each) and shards of amber where its teeth should be (eight amber teeth worth 100 gp each). (See [[#North Crypts, Third Row]] for the modified Khazan puzzle.)
-* ***Crypt 16.*** Replace the epigraph to read “Elsa Fallona, Beloved Actor.” A skeleton draped in rags lies atop a marble slab. Nine shallow alcoves are carved into the surrounding walls, the back wall of each painted with a full-body image of a handsome man. At the feet of each painting rests a skull atop a pile of bones.
+* ***Crypt 14.*** “Stahbal Indi-Bhak: A truer friend no ruler ever had. Here lies his family in honor.” A ten-foot-square shaft plunges 40 feet into a vault containing fifteen stone coffins and fifteen **wights** (one per coffin). Each wight fights until destroyed.
+* ***Crypt 15.*** “Khazan: His word was power.” A skeleton draped in rags lies atop a marble slab. The skull has black opals set in its eye sockets (worth 1,000 gp each) and shards of amber where its teeth should be (eight amber teeth worth 100 gp each). (See [[#North Crypts, Third Row]] for the Khazan puzzle.)
+* ***Crypt 16.*** “Elsa Fallona, Beloved Actor.” A skeleton draped in rags lies atop a marble slab. Nine shallow alcoves are carved into the surrounding walls, the back wall of each painted with a full-body image of a handsome man. At the feet of each painting rests a skull atop a pile of bones.
 * ***Crypt 17.*** “Sir Sedrik Spinwitovich (Admiral Spinwitovich): Confused though he was, he built the greatest naval force ever assembled in a landlocked country.” An eleven-foot-long funeral barge dominates this crypt, wedged diagonally. Lying in the boat is a skeleton draped in rags, with hundreds of clay coins painted gold (worthless).
 
-***Crypt 15.*** Speaking the name “Khazan" inside Crypt 15 does not cause a *staff of power* to materialize. Instead, the back wall of the crypt is engraved with eight arcane runes and the inscription: “The one who marks my seal with their mastery may prove themselves worthy to inherit my legacy."  A player with proficiency in Arcana, or who makes a successful DC 10 Intelligence (Arcana) check, identifies the runes as the symbols of the eight schools of magic. The order of the symbols, moving clockwise around the engraving, is: illusion, abjuration, necromancy, conjuration, divination, enchantment, transmutation, evocation.
+***Crypt 15.*** The back wall of the crypt is engraved with eight arcane runes and the inscription: “The one who marks my seal with their mastery may prove themselves worthy to inherit my legacy."  A player with proficiency in Arcana, or who makes a successful DC 10 Intelligence (Arcana) check, identifies the runes as the symbols of the eight schools of magic. The order of the symbols, moving clockwise around the engraving, is: illusion, abjuration, necromancy, conjuration, divination, enchantment, transmutation, evocation.
 
 A creature can cast a spell, including a cantrip or ritual spell, into an engraved rune. If the spell cast is of the same school of magic as the school the rune represents, the rune glows with the color of its corresponding school of magic: evocation (red), divination (silver), illusion (purple), transmutation (green), conjuration (brown), abjuration (yellow), enchantment (pink), and necromancy (blue).
 
@@ -2588,7 +2588,7 @@ This row of crypts contains the following:
 * ***Crypt 24.*** "Ivan Ivliskovich, Champion of Winter Dog Racing: The race may go to the swift, but vengeance is for the loser's relatives." A skeleton draped in bits of fur lies atop a marble slab. The walls and ceiling are covered with plaster painted to look like an evergreen forest surrounded by snow. This crypt contains nothing of interest.
 * ***Crypt 25.*** "Stefan Gregorovich: First Counselor to King Barov von Zarovich." A skeleton draped in rags lies atop a marble slab. The skull is well polished and radiates a faint aura of necromancy magic. It will answer up to five questions per day as though *speak with dead* had been cast on it. If questioned about Strahd or the castle, all information it provides is untrue.
 * ***Crypt 26.*** "Intree Sik-Valoo: He spurned wealth for the knowledge he could take to heaven." A skeleton draped in rags lies atop a marble slab. The skull is well polished and radiates a faint aura of necromancy magic. It will answer up to five questions per day as though *speak with dead* had been cast on it. Unlike Stefan in Crypt 25, Intree was well educated, and the information he provides about Strahd or the castle is true.
-* ***Crypt 27.*** This crypt is missing its door. However, remove the **giant wolf spiders** from Crypt 27. The crypt is otherwise empty.
+* ***Crypt 27.*** This crypt is missing its door. The crypt is empty.
 * ***Crypt 28.*** "Bascal Ofenheiss—Chef Deluxe." A skeleton draped in white linen lies atop a marble slab, clutching a bell and wearing a tall chef's hat. If the bell is rung inside the crypt, magic fire sweeps through (DC 17 Dexterity save; 22 (4d10) fire damage on failure, half on success). Creatures that fail catch fire, taking 5 (1d10) fire damage per turn. An electrum spork with a bejeweled handle (worth 250 gp) is tucked under the chef's hat.
 * ***Crypt 29.*** "Baron Eisglaze Driif." Opening the door fills the area with cold. Every surface is covered with thick, brownish mold. A patch of brown mold fills the crypt. If killed off, a set of *+2 studded leather armor* can be found hidden under the mold next to the baron's bones.
 #### South Crypts, Second Row
@@ -2597,10 +2597,10 @@ This row of crypts contains the following:
 * ***Crypt 30.*** “Prefect Ciril Romulich (Beloved of King Barov and Queen Ravenovia): High Priest of the Most Holy Order.” A skeleton in red vestments lies atop a marble slab, clutching a golden holy symbol. The domed ceiling is painted to look like a canopy of autumn trees. Dozens of stone ravens perch on a narrow ledge ten feet above the floor. The prefect’s gold holy symbol is worth 750 gp. If touched by an evil creature, it is consumed in a blast of light dealing 11 (2d10) radiant damage to all creatures within 5 feet.
 * ***Crypt 31.*** “We knew him only by his wealth.” This crypt is empty, its walls painted with mountains of gold coins. The floor is actually the cover of a 30-foot-deep spiked pit that opens if 100 pounds or more are placed on it. A human skeleton wrapped in bits of studded leather armor lies amid the spikes at the bottom, along with a shattered lantern, a rusty crowbar, 50 feet of hempen rope, a dagger, a pouch containing 25 pp, and a *spell scroll of magic circle*.
 * ***Crypt 32.*** The door has no name or epitaph. This crypt is empty except for two alcoves in the back wall, above which are carved the words “PASS NOT THESE PORTALS YE FOOLISH MORTALS.” Creatures that enter the eastern alcove are teleported to the eastern alcove of Strahd’s tomb. The western alcove has no effect, but creatures teleporting from the western alcove of Strahd’s tomb appear here.
-* ***Crypt 33.*** Revise the epigraph to read “St. Finderway, Saint of Lost Travelers.” Replace Sir Klutz’s remains with a set of human bones lying beside an *orb of direction* (<span class="citation">Xanathar’s Guide to Everything, p. 138</span>) hanging from a leather cord.
+* ***Crypt 33.*** “St. Finderway, Saint of Lost Travelers.” A set of human bones lies beside an *orb of direction* (<span class="citation">Xanathar’s Guide to Everything, p. 138</span>) hanging from a leather cord.
 * ***Crypt 34.*** “King Dostron the Hellborn.” A seven-foot-long gilded sarcophagus with the likeness of a screaming king rests in the center. A stuffed owlbear looms behind it. The sarcophagus is made of beaten lead encased in gold (500 gp worth). Its lid can be pried open to reveal nothing but dust.
 
-In addition, remove the **imp** from Crypt 34, and place the *Spear of the Huntress* inside of the sarcophagus there.
+The sarcophagus also contains the *Spear of the Huntress* (see below).
 
 > [!item]+ **Spear of the Huntress**
 > This six-foot shaft of ash wood is adorned with carvings of wild animals, vines, and leaves, and bears a simple, yet sharp stone head. When first recovered from Dostron’s sarcophagus, it has the properties of a *blood spear* (the blood spear), but its wielder gains only a +1 bonus to attack and damage rolls made with it instead of +2. (The spear was corrupted long ago by the influence of Kavan and the Devourer, and can be restored in [[Arc T - The Three Fanes]] by either communing with the spirit of the Huntress, or reconsecrating the Forest Fane at Yester Hill, which the players can learn about at the Mountain Folk settlement of Soldav in [[Arc R - Trials of the Mountain]].)
@@ -2629,7 +2629,7 @@ Finally, move the invisible teleport traps described in the castle's teleport tr
 > | Ghoul | 4 | 5 | 6 | 7 |
 
 
-***Crypt 40.*** Replace the epigraph and contents of Crypt 40 with the epigraph and contents of Crypt 6, including the **poison dart trap** protecting it (see <span class="citation">Dungeon Master’s Guide, p. 123</span>). However, reduce the number of darts to two, and replace the darts’ attack rolls with two DC 15 Dexterity saving throws (one per dart). In addition, replace Saint Markovia’s thighbone with the *Icon of Dawn’s Grace* (see below), and remove the whispered message from Saint Markovia’s spirit.
+***Crypt 40.*** "Saint Markovia: Heroine of the Faith." The crypt is protected by a **poison dart trap** (see <span class="citation">Dungeon Master’s Guide, p. 123</span>), which fires two darts. Each dart requires a DC 15 Dexterity saving throw to avoid. Inside, a skeleton draped in rags lies atop a marble slab, with the *Icon of Dawn’s Grace* (see below) clutched in its bony hands.
 
 > [!item]+ **Icon of Dawn’s Grace**
 > The *Icon of Dawn’s Grace* is a statuette made of the purest silver, weighing 10 pounds, depicting a cleric kneeling in supplication. It was given to Strahd by the archpriest Ciril Romulich, an old family friend, to consecrate the castle and its chapel. The icon requires attunement by a creature of good alignment. Only a creature attuned to the icon can use its properties, which are as follows:
@@ -2834,7 +2834,7 @@ A heavy portcullis stands closed in the archway leading to this tomb. Lifting it
 
 Raising the lever lifts the portcullis at the top of the stairs. Pulling it down lowers the portcullis. Creatures that enter the western alcove are instantly teleported to the western alcove of Crypt 32. Stepping into the eastern alcove has no effect, but any creature that teleports from the eastern alcove of Crypt 32 appears here. The central alcove is nonmagical.
 
-However, the teleport traps described in the castle's teleport traps—magical effects that transport creatures to specific locations within Castle Ravenloft form a protective ring around the base of the staircase that descends into the tomb, rather than around the entrance to the tomb. In addition, replace the three vampiric brides buried in the earth near the east wall with three anonymous **vampire spawn** created from ordinary Barovians. 
+The castle's teleport traps—magical effects that transport creatures to specific locations within Castle Ravenloft—form a protective ring around the base of the staircase that descends into the tomb. Three anonymous **vampire spawn**, created from ordinary Barovians, lie buried in the earth near the east wall.
   
 > [!combat]- **Combat - The Tomb of the Darklord**  
 > **Combat Level**: Mild

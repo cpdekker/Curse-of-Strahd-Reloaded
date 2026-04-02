@@ -21,7 +21,7 @@ Upon arriving in Vallaki, the players can find lodgings at the Blue Water Inn. T
 > To travel from the Tser Pool Encampment to Vallaki, the players will instead need to travel south, back toward the River Ivlis Crossroads, then take the Old Svalich Road westward.
 
 > [!info]+ **No Random Encounters**
-> This guide incorporates the material in the original *Curse of Strahd* module only by reference. As such, whenever the players are traveling, you should disregard the module's random encounter tables except where a particular encounter is referenced and incorporated directly.
+> This guide does not use random encounter tables. Only use encounters that are specifically described in the text below.
 # C1. The Svalich Woods
 The journey from the village of Barovia to the River Ivlis Crossroads is three miles long and takes one hour.
 ## C1a. The Barovian Scouts
@@ -524,7 +524,7 @@ Stanimir goes first, delivering the following tale. He fills his mouth with wine
 
 He tells of his people—wanderers from an ancient land whose name is long forgotten, forced from their homes by their enemies. One night, a wounded soldier staggered into their camp and collapsed. They nursed his terrible injury and quenched his thirst with wine. When they asked who he was, he wouldn't say. All he wanted was to return home, but they were deep in the land of his enemies. They took him as one of their own and followed him back toward his homeland. As they traveled, they met other groups of Vistani who swore to protect the wounded soldier as well. One night, a band of assassins crept into their camp, but the Vistani fought them off. The soldier said, “I owe you my life. Stay as long as you wish, leave when you choose, and know that you will always be safe here.”
 
-The figure in the dancing fire vanquishes its final foe, then disperses in a cloud of smoke and embers. (Exclude the original module's final paragraph, in which Stanimir asks the players to return to Barovia.) Throughout his tale, the players can notice Stanimir using the *major image* spell to create the shapes in the flames.
+The figure in the dancing fire vanquishes its final foe, then disperses in a cloud of smoke and embers. Throughout his tale, the players can notice Stanimir using the *major image* spell to create the shapes in the flames.
 
 When his tale has ended and all participants have made their guesses—Ireena, Eliza, and Arturi going last, with Ireena voting "True", Eliza voting “True”, and Arturi voting “Half-True”—Stanimir reveals that his story was indeed a true tale of the Vistani people, and that the wounded prince lived on as a friend to the Vistani, even when his heart was led astray by shadows and mist. (If asked, Stanimir admits that the prince was Strahd von Zarovich in the days before he came to Barovia, and that his promise to the Vistani is why they remain in the valley to this day, “without fear or favor.”)
 ### Eliza’s Tale
@@ -677,7 +677,7 @@ If the players accept Madam Eva's task, she nods approvingly. She then begins th
 <p>The cerulean light dances across its surface, revealing an illustration of a smirking guardsman looking up at a haughty priest, the priest’s pointing fingers mere inches from the guardsman’s nose as the guardsman readies a wickedly curved dagger behind his back. “The Nine of Glyphs—the Traitor.” Her dark pupils shift from side to side, as though reading from an unseen text. "I see the ancient foe of an old and noble house. The lost soul will lead you to him."</p>
 <p>She moves her hand to the second card, this one at the top of the cross. As she closes her eyes and listens once more, the candlelight flares, its color bursting into a fierce, cheery yellow.</p>
 <p>"This card tells of a powerful force for good and protection, a holy symbol of great hope." She flips the card.</p>
-<p>This time, the light reveals a new illustration: an armored warrior clutching a cracked iron sword and a leather-bound wooden shield, his face obscured by a heavy iron helmet. “The Five of Swords—the Myrmidon.” Her eyes stare deep into the darkness that lurks beyond the candlelight. (See the "Swords (Spades)" section of the Fortunes of Ravenloft in the original module for the Holy Symbol of Ravenkind’s foretelling.)</p>
+<p>This time, the light reveals a new illustration: an armored warrior clutching a cracked iron sword and a leather-bound wooden shield, his face obscured by a heavy iron helmet. “The Five of Swords—the Myrmidon.” Her eyes stare deep into the darkness that lurks beyond the candlelight. (Use the Myrmidon’s foretelling from the Fortunes of Ravenloft to describe the Holy Symbol of Ravenkind’s location.)</p>
 <p>She moves her hand to the third card, at the right arm of the cross, her eyelids closing like a trance, her lips pursed in quiet contemplation. The candlelight vanishes, for a heartbeat—and then returns in a nova of fierce, burning white, so pure and strong and clean that it hurts to look at, burns to see—</p>
 <p>Madam Eva's eyes snap open, burning with a fierce determination.</p>
 <p>"This is a card of power and strength. It tells of a weapon of vengeance: a sword of sunlight." She flips the card.</p>
@@ -685,7 +685,7 @@ If the players accept Madam Eva's task, she nods approvingly. She then begins th
 <p>She moves to the fourth card, at the bottom of the cross, and listens once more, tracing small circles across its back as she hums a contemplative note. The magic flames leap and dance upon their wicks, now casting swirling violet embers into the air as the graves beyond shimmer with a twilit glow.</p>
 <p>"This card sheds light on one who will help you greatly in the battle against darkness."</p>
 <p>She flips the card.</p>
-<p>This time, the illustration revealed is a quiet graveyard choked with fog, its entrance sealed with a sharp iron fence. "The Mists." Madam Eva leans forward. (See the "Strahd’s Enemy" section of the Fortunes of Ravenloft in the original module for this card’s foretelling.)</p>
+<p>This time, the illustration revealed is a quiet graveyard choked with fog, its entrance sealed with a sharp iron fence. "The Mists." Madam Eva leans forward. (Use the Mists card’s foretelling from the Fortunes of Ravenloft to describe Strahd’s enemy.)</p>
 <p>Finally, she moves her hand to the fifth card—and nearly recoils, her brow furrowing until the wrinkles split her forehead like a trench. Behind her, shadows encircle the candlelight until the light is very nearly swallowed by the creeping dark. When next she speaks, Madam Eva's rasping voice is scarce above a whisper.</p>
 <p>"Your enemy is a creature of darkness, whose powers are beyond mortality. When the hour of judgment arrives, this card will lead you to him!"</p>
 <p>Her hand trembles above the card for a silent moment—and then deft, ancient fingers reveal its opposite side.</p>
@@ -892,7 +892,7 @@ The journey from Tser Falls to the Crossroads of Ravenloft is one-and-a-half mil
 <p>It's not long before the road bends north once again, a second hill arising from the fog on your left. Twisted trees dot its steep slopes, their branches reaching out like gnarled fingers.</p>
 <p>As you travel deeper between the hills, the road narrows and the cliffs grow taller. Soon, though, the hills fall away once more, the road continuing forth into a small, fog-choked basin.</p></div>
 
-The dirt road splits in two here, widening toward the east, where patches of cobblestone suggest that the eastern branch was once an important thoroughfare. Strahd's carriage is not present, though the players can see deep grooves in the muddy road that pass from the Old Svalich Road onto the old cobblestone-strewn thoroughfare that leads to Castle Ravenloft.
+The dirt road splits in two here, widening toward the east, where patches of cobblestone suggest that the eastern branch was once an important thoroughfare. The players can see deep grooves in the muddy road that pass from the Old Svalich Road onto the old cobblestone-strewn thoroughfare that leads to Castle Ravenloft.
 
 The journey from the Crossroads of Ravenloft to the western **Gates of Barovia** is a quarter-mile and takes five minutes. When the players arrive, read:
 
@@ -948,7 +948,7 @@ Morgantha greets the players warmly, calling them "weary travelers," and shares 
 * She is just returning from a day peddling her goods to the townsfolk of Vallaki and the "poor, hungry dears" camped outside the gates. (Her latter comment is referring to a camp of Barovian refugees that has not been allowed to enter the town.)
 * She lives in the old windmill up the hill with her two daughters, Bella and Offalia. (She kindly declines to share what happened to her "husband," saying only, "Now, that's an old woman's business, meant to be shared only if she chooses.")
 
-Morgantha has a few "dream pastries" left from her workday—"filled with the light and love of dreaming"—which she offers to the players for free as a "first sample." She advises the players that the dream pastries taste best after a warm meal, "especially with a nice bit of wine to wash them down." (The dream pastries, if eaten, affect the players as described in **Dream Pastries**, p. 125.)
+Morgantha has a few "dream pastries" left from her workday—"filled with the light and love of dreaming"—which she offers to the players for free as a "first sample." She advises the players that the dream pastries taste best after a warm meal, "especially with a nice bit of wine to wash them down." (If eaten, the dream pastries cause the eater to fall into a trance that fills their mind with happy dreams for 1d4 + 4 hours, during which the eater is incapacitated and has a speed of 0.)
 
 If asked how she manages to travel the roads safely, Morgantha only smiles and promises the players that "an old woman has her tricks." ("But," she complains, "my back and poor feet do complain from time to time. I can't wait to soak them in a tub of nice, hot water once I'm home.")
 
@@ -1116,14 +1116,10 @@ Any players who failed their saving throw against the curse of lycanthropy soon 
 > As noted in [[Session Zero]], this campaign is designed for heroic player characters, rather than villainous ones. As such, it is incompatible with characters who choose to embrace **werewolf** lycanthropy by killing and devouring an innocent humanoid. If a player expresses any interest in doing so, warn them that embracing the curse will result in their current character being turned into a villainous NPC, requiring them to create a new character instead.
 # C12. The Town of Vallaki
 ## C12a. The Vallakian Gates
-The road continues forward to the **Town of Vallaki**. When the characters first approach, read the following (omitting the original module's first sentence):
+The road continues forward to the **Town of Vallaki**. When the characters first approach, read the following:
 
-<div class="description"><p>The Old Svalich Road meanders into a valley watched over by dark, brooding mountains to the north and south. The woods recede, revealing a sullen mountain burg surrounded by a wooden palisade. Thick fog presses up against this wall, as though looking for a way inside, hoping to catch the town aslumber.</p>
+<div class="description"><p>The Old Svalich Road meanders into a valley watched over by dark, brooding mountains to the north and south. The woods recede, revealing a sullen mountain burg surrounded by a wooden palisade. Thick fog presses up against this wall, as though looking for a way inside, hoping to catch the town aslumber. More than a dozen ramshackle tents have been set up against the palisade wall. Among them, dozens of ragged, emaciated people mill about or sit by low-burning campfires and bedrolls, their hollow gazes watching silently as you approach.</p>
 <p>The dirt road ends at a set of sturdy iron gates with a pair of shadowy figures standing behind them. Planted in the ground and flanking the road outside the gates are a half-dozen pikes with wolves' heads impaled on them.</p></div>
-
-Add the following text at the end of the first paragraph: 
-
-<div class="description"><p>More than a dozen ramshackle tents have been set up against the palisade wall. Among them, dozens of ragged, emaciated people mill about or sit by low-burning campfires and bedrolls, their hollow gazes watching silently as you approach.</p></div>
 
 If the players departed from Tser Pool that morning, they arrive in Vallaki at dusk.
 
@@ -1387,7 +1383,7 @@ Lowering his voice, Urwin warns the players that they must be cautious in Vallak
 
 Urwin quietly notes, however, that the Baron is known to be highly susceptible to flattery—and that should the players ever need to win his favor, his ego may be a prime target.
 
-If the players ask whether the Baron has any enemies in Vallaki, Urwin can also share the information about Lady Fiona Wachter described in the Vallaki lore above. However, instead of describing Lady Wachter's "mad daughter," Urwin shares only that Lady Fiona has a daughter, Stella Wachter, who Lady Wachter has recently kept cloistered on the grounds of Wachterhaus for unknown reasons.
+If the players ask whether the Baron has any enemies in Vallaki, Urwin can also share the information about Lady Fiona Wachter described in the Vallaki lore above. Urwin also shares that Lady Fiona has a daughter, Stella Wachter, who Lady Wachter has recently kept cloistered on the grounds of Wachterhaus for unknown reasons.
 
 As Urwin's conversation draws to a close, Rictavio descends the stairs from his private guest room and approaches the bar, greeting the players with a nod. Urwin bids him good morning and removes a small parcel from beneath the counter, which Rictavio accepts and tucks into his cloak.
 

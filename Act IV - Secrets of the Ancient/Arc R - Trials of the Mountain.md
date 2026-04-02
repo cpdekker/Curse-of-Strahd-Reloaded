@@ -950,18 +950,14 @@ The journey from the crevasse to the gatehouse is one and three-quarter miles lo
 The players’ arrival at the gatehouse has the following description:
 
 <div class="description">
-<p>The shelf of rock on which the mountain road clings grows narrow. To your left, the icy cliffs rise sharply toward dark, rolling clouds. To your right, the ground falls away into a sea of fog. Ahead, through the wind and snow, you see a high wall of black stone lined with spikes and topped by statues of demonic vultures with horned heads. Set in the center of the wall is a closed iron port cullis, behind which burns a curtain of green flame. On the other side of the dark wall, gripping the moun tain's edge, is a guard tower of white stone topped by golden statues of mighty warriors. The gatehouse is 30 feet high.</p>
+<p>The shelf of rock on which the mountain road clings grows narrow. To your left, the icy cliffs rise sharply toward dark, rolling clouds. To your right, the ground falls away into a sea of fog. Ahead, through the wind and snow, you see a high wall of black stone lined with spikes and topped by statues of demonic vultures with horned heads. Set in the center of the wall is a closed iron portcullis, behind which burns a curtain of green flame. On the other side of the dark wall, gripping the mountain's edge, is a guard tower of white stone topped by golden statues of mighty warriors. The gatehouse is 30 feet high.</p>
 </div>
 
-The adjoining walls are 20 feet high and lined with stone spikes_ If the charac ters circumvent the gate by flying or climbing over it, the statues on the gatehouse (area T2) animate and attack. THE ROAD CURVED AND CLIMBED, MAKING a lengthy switchback into this edge of Mount Ghakis. The air grew colder, not warmer, and patches of snow became more frequent until they were unbroken. · - : '. : ·._ -Strahd van Zarovich I . in I, Sti'ahct: TheMem?ir/ of a Y°OJnPire , . . 1• i , ' - ... :--	:·· If the characters approach within 10 feet of the port cullis, it shrieks with the sound of metal on metal as it rises on its own. It stays open for 1 minute, then closes. These statues are actually two petrified vrocks. If they are attacked, or if the characters bypass the gatehouse, the vrocks revert to flesh and attack, pursuing prey that flees and fighting until slain. A curtain of green flame fills the eastern archway of the gatehouse. Any creature that enters the curtain for the first time on a turn or starts its turn in the green flame takes 33 (6d10) fire damage. A successful casting of dispel magic (DC 16) sup presses the curtain for 1 minute. The curtain is also suppressed within an antimagic field.
+The adjoining walls are 20 feet high and lined with stone spikes. The tower perches upon the lip of an overhanging cliff, which juts out across the churning fog far below.
 
-However, add the following sentence to the end of the description of Gatehouse Portcullis:
+If the characters circumvent the gate by flying or climbing over it, four petrified **vrocks** (disguised as the demonic vulture statues atop the gatehouse) revert to flesh and attack, pursuing prey that flees and fighting until slain. If the characters approach within 10 feet of the portcullis, it shrieks with the sound of metal on metal as it rises on its own. It stays open for 1 minute, then closes. A curtain of green flame fills the eastern archway of the gatehouse. Any creature that enters the curtain for the first time on a turn or starts its turn in the green flame takes 33 (6d10) fire damage. A successful casting of *dispel magic* (DC 16) suppresses the curtain for 1 minute. The curtain is also suppressed within an *antimagic field*.
 
-<div class="description">
-<p>The tower perches upon the lip of an overhanging cliff, which juts out across the churning fog far below.</p>
-</div>
-
-In addition, increase the number of petrified vrocks to four. (If present, Kasimir can identify the demon statues as guardians that attacked him the last time he came here, animating and pursuing him when he tried to bypass the gatehouse by means of a rope.)
+If present, Kasimir can identify the demon statues as guardians that attacked him the last time he came here, animating and pursuing him when he tried to bypass the gatehouse by means of a rope.
 
 > [!combat]- **Combat - The Gatehouse**  
 > **Combat Level**: Bloody 
@@ -1225,7 +1221,7 @@ When the players awaken the following morning, the weather is crisp and cold, wi
 > [!info]+ **Traveling to the Gatehouse**
 > If the players chose to find shelter instead of proceeding toward the gatehouse the previous night, the journey from their place of shelter to the gatehouse is two-and-three-quarter miles long and takes one hour and fifty minutes. 
 > 
-> The players’ arrival at the gatehouse is as follows: The shelf of rock on which the mountain road clings grows narrow. To your left, the icy cliffs rise sharply toward dark, rolling clouds. To your right, the ground falls away into a sea of fog. Ahead, through the wind and snow, you see a high wall of black stone lined with spikes and topped by statues of demonic vultures with horned heads. Set in the center of the wall is a closed iron port cullis, behind which burns a curtain of green flame. However, add the following sentence to the end of the description of Gatehouse Portcullis:
+> The players’ arrival at the gatehouse is as follows: The shelf of rock on which the mountain road clings grows narrow. To your left, the icy cliffs rise sharply toward dark, rolling clouds. To your right, the ground falls away into a sea of fog. Ahead, through the wind and snow, you see a high wall of black stone lined with spikes and topped by statues of demonic vultures with horned heads. Set in the center of the wall is a closed iron portcullis, behind which burns a curtain of green flame. However, add the following sentence to the end of the description of Gatehouse Portcullis:
 >
 > <hr>
 > 

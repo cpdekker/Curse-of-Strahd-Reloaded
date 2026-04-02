@@ -320,7 +320,7 @@ As the players enter the keep, the castle drawbridge rises once more. Read:
 
 The castle foyer contains four dragon statues that glare down from the vaulted ceiling overhead, though only two are **red dragon wyrmlings**. (The other two are harmless statuary.) The dragon statues do not attack the players for as long as the players are here by invitation.
 
-In addition, revise this area’s description as follows as Rahadin leads the players through for the first time:
+As Rahadin leads the players through for the first time, read:
 
 <div class="description">
 <p>You pass through the ornate outer doors into the castle's vaulted entry foyer, your footsteps echoing on the dark stone floor. Overhead, four statues of dragons glare down, their lifelike eyes flickering in the torchlight.</p>
@@ -698,7 +698,7 @@ When the topic has been exhausted, Strahd guides the players through the guards'
 
 Dim light from the courtyard falls into this great hall through the broken glass and iron latticework of a large window in the west wall. This immense room is a place of chilly, brooding darkness. Empty iron sconces dot the walls, and hundreds of dust-laden cobwebs drape the hall, hiding the ceiling from view. Directly across from the window stand a set of double doors in the east wall. Farther south, a single door also leads from the east wall. Staircases at both ends of the north wall lead down. At the far southern end of the hall, a large wooden throne stands atop a marble dais, its high back facing south, away from most of the room.
 
-However, revise the description of the window as follows:
+Read the following description of the window:
 
 <div class="description">
 <p>Dim light from the courtyard falls into this great hall through the broken glass and iron latticework of a large window in the west wall. A cold wind shrieks through the broken window as arcs of lightning lance from the weeping skies beyond, each bolt followed by the crack of nearby thunder.</p>

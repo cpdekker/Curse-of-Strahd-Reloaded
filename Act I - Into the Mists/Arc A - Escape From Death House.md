@@ -1,7 +1,7 @@
 *An adventure for five 2nd-level characters.*
 
 > [!warning]+ **A Second-Level Adventure**
-> Remember that, unlike the original *Curse of Strahd* adventure, the players in this guide begin at 2nd level, rather than 1st level.
+> Remember that the players in this guide begin at 2nd level, rather than 1st level.
 
 The players begin in the town of Daggerford on the night before Highharvesttide, an annual feast and holiday celebration. The local inns are full for the night, and the players—vagabonds with little coin or company to speak of—find shelter in the stable of the Nightmare’s Bridle, a ramshackle tavern on the outskirts of town. 
 
@@ -112,9 +112,9 @@ The wrought-iron gate filling the portico archway is unlocked, and its rusty hin
 
 When the players pass through Death House’s threshold, any Barovian relics they carry cease to be active. (For example, the *sunrise medallion* ceases to glow.)
 
-A wide hall runs the width of the house, with a black marble fireplace at one end and a sweeping, red marble staircase at the other. The wood-paneled walls are ornately sculpted with images of vines, flowers, nymphs, and satyrs. Characters who search the walls for secret doors or otherwise inspect the paneling can, with a successful DC 12 Wisdom (Perception) check, see serpents and skulls inconspicuously woven into the wall designs. The decorative paneling follows the staircase as it circles upward to the second floor. A cloakroom off the hall has several black cloaks hanging from hooks on the walls, with a top hat sitting on a high shelf. The hall also now contains a grandfather clock, which is placed in the circular space at the base of the stairs.
+A wide hall runs the width of the house, with a black marble fireplace at one end and a sweeping, red marble staircase at the other. The wood-paneled walls are ornately sculpted with images of vines, flowers, nymphs, and satyrs. Characters who search the walls for secret doors or otherwise inspect the paneling can, with a successful DC 12 Wisdom (Perception) check, see serpents and skulls inconspicuously woven into the wall designs. The decorative paneling follows the staircase as it circles upward to the second floor. A cloakroom off the hall has several black cloaks hanging from hooks on the walls, with a top hat sitting on a high shelf. A grandfather clock stands in the circular space at the base of the stairs.
 
-Instead of the longsword ordinarily mounted on the wall above the fireplace in the upper hall, the portrait of the Durst family now hangs above the fireplace. In the portrait, Thorn is holding a smiling doll wearing a yellow lace dress. A plaque beneath the portrait reads: *Mr. Gustav and Mrs. Elisabeth Durst, with their two children, Rosavalda and Thornboldt.*<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup>
+A portrait of the Durst family hangs above the fireplace. In the portrait, Thorn is holding a smiling doll wearing a yellow lace dress. A plaque beneath the portrait reads: *Mr. Gustav and Mrs. Elisabeth Durst, with their two children, Rosavalda and Thornboldt.*<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup>
 
 ![[The Durst Family.png]]
 <span class="credit">"The Durst Family" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -339,7 +339,7 @@ When the players enter this room, read:
 <p>Klara</p>
 </div>
 
-In addition to the note, the desk holds an oil lamp, a jar of ink, a quill pen, a tinderbox, and a letter kit containing a red wax candle, four blank sheets of parchment, and a wooden seal bearing the Durst family’s insignia (a windmill). The top drawer of the desk now contains a number of receipts for candles, daggers, and incense, rather than the key to [[#Children’s Room]].
+In addition to the note, the desk holds an oil lamp, a jar of ink, a quill pen, a tinderbox, and a letter kit containing a red wax candle, four blank sheets of parchment, and a wooden seal bearing the Durst family’s insignia (a windmill). The top drawer of the desk contains a number of receipts for candles, daggers, and incense.
 
 The bookshelves hold hundreds of tomes covering a range of topics including history, warfare, and alchemy, as well as several shelves containing first-edition collected works of poetry and fiction. The books rot and fall apart if taken from the house.
 
@@ -367,7 +367,7 @@ The bookshelves contain tomes describing fiend-summoning rituals and the necroma
 
 Close inspection of the skeleton reveals that it belongs to a human adventurer who triggered a poisoned dart trap — three darts are stuck in the skeleton’s armor and ribcage. The dart-firing mechanism inside the chest no longer functions.
 
-Clutched in the skeleton’s left hand is a letter bearing the seal of Strahd von Zarovich. The chest no longer contains the deed to Old Bonegrinder. The letter reads as follows:
+Clutched in the skeleton’s left hand is a letter bearing the seal of Strahd von Zarovich. The letter reads as follows:
 
 <div class="description">
 <p>My most pathetic servant,</p>
@@ -506,7 +506,7 @@ The object is a severed human finger with several pieces of flesh stripped from 
 
 The name "Walter" has been lovingly carved into the head of the crib. A successful DC 14 Intelligence (Arcana) identifies the runes around it as dark necromantic magic.
 
-***The Mirror.*** The nursemaid’s **specter** does not appear in this room. Instead, when a player approaches the mirror, the nursemaid’s spirit appears as an apparition in the glass.
+***The Mirror.*** When a player approaches the mirror, the nursemaid’s spirit appears as an apparition in the glass.
 
 The spirit resembles a pale, skeletally thin young woman, with all of her fingers and toes removed, her eyes sewn shut, and her lips and teeth torn from her mouth. Countless knife-thin scars line her entire body, including the flesh around her wrists and ankles, and her hair has been carelessly hacked to stubble.
 
@@ -618,7 +618,7 @@ When the players enter this room, read:
 <p>This dusty chamber is packed with lumpy, squat shapes draped in dusty white sheets. An old iron stove stands against the right-side wall, next to what looks to be a large trunk covered by a sheet.</p>
 </div>
 
-The nursemaid’s **specter** does not appear in this room. Instead, a character who opens the trunk finds the nursemaid’s corpse, with wounds consistent with those seen on the spirit’s body in the **Nursemaid’s Suite**. A DC 14 Wisdom (Medicine) check reveals that the woman died of starvation.
+A character who opens the trunk finds the nursemaid’s corpse, with wounds consistent with those seen on the spirit’s body in the **Nursemaid’s Suite**. A DC 14 Wisdom (Medicine) check reveals that the woman died of starvation.
 
 A player inspecting the remains feels a cold breath on their shoulder and the unshakeable sense of being watched. Meanwhile, if another player has previously uncovered a nearby mirror from its sheet covering, that player can see an apparition of Elisabeth Durst within the mirror staring at the player near the chest. Once observed, the apparition swiftly vanishes.
 ### Guest Bedroom
@@ -1008,7 +1008,7 @@ The bundle atop the altar is the size and shape of an infant wrapped in swaddlin
 
 The dark shadow in the cave is a **flesh mound** containing Walter’s spirit and remains.<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup> It is a swollen, bloated mound of bones, flesh, and gore that seems to breathe as its mass rises and falls. A player that observes it concludes that it appears to be sleeping.
 
-The thirteen dark apparitions—black-robed figures holding torches of black fire that seem to draw light into them, their faces nothing but voids—described in the original “One Must Die!” event do not appear when a player climbs the altar. Instead, the players have two choices: sacrifice a living creature on the altar, or attack the flesh mound.
+When a player climbs the altar, the players have two choices: sacrifice a living creature on the altar, or attack the flesh mound.
 
 If a creature is sacrificed on the altar, the flesh mound's tendrils accept its corpse and pull it to the mound's lair. There, the mound messily devours it before returning its tendrils to the altar once more. Feeding the mound does not free the players, because its hunger cannot be sated.
 
@@ -1176,7 +1176,7 @@ When the players next begin to move toward the exit, read:
 <p>Far above, the grandfather clock begins to chime, the sound mounting to a thunderous cacophony. Dust and debris rain down as the floor shakes beneath you, the wooden cross beams of the ceiling starting to splinter and crack. Elisabeth's spirit fixes you with a feral grin—and then dissipates into thin air, leaving only echoes of its spiteful laughter as the house rumbles, shifts, and groans.</p>
 </div>
 
-The players must flee from the ritual chamber to the [[#Entrance]] of Death House before the entire structure collapses upon their heads. However, they don't need to roll initiative, and the original architectural changes—bricked-up windows, scythe-blade doorways, smoke-filled rooms with fireplaces, and walls that crumble into swarms of rats—are not present. 
+The players must flee from the ritual chamber to the [[#Entrance]] of Death House before the entire structure collapses upon their heads. The players don't need to roll initiative for this escape.
 
 Instead, as the players escape the crumbling Death House, they face two additional obstacles.
 
@@ -1215,7 +1215,7 @@ The players can convince Gustav to step aside with a successful DC 20 Charisma (
 
 If the players successfully persuade Gustav to stand aside, he warns them that "her other servants" are lying in wait ahead to block the players' escape. "Don't fear them," he says. "Their only power is fear." He then vanishes.
 
-***The Cult's Return*** When the players first reach the [[#Family Crypts]] or (if they have previously found and opened the hidden trapdoor described in **32. Hidden Trapdoor**, p. 219) near the [[#Darklord’s Shrine]], the spirits of the cult arise to stop them. Read:
+***The Cult's Return*** When the players first reach the [[#Family Crypts]] or (if they have previously found and opened the [[#Hidden Trapdoor]]) near the [[#Darklord’s Shrine]], the spirits of the cult arise to stop them. Read:
 
 <div class="description">
 <p>The chanting rises once more as thirteen dark apparitions appear around you, obstructing the way forward—as well as the way back. Each one resembles a black-robed figure holding a torch, but the torch's fire is black and seems to draw light into it. Where you'd expect to see faces are voids. "He is the Ancient!" they chant, over and over. "He is the Land!"</p>
@@ -1238,7 +1238,7 @@ The house then collapses into the earth, leaving a dark and bottomless pit behin
 
 If they’re still possessing the players, [[Non-Player Characters#Rosavalda "Rose" Durst|Rose]] and [[Non-Player Characters#Thornboldt "Thorn" Durst|Thorn]]’s spirits end their possessions. The children remark that the woods resembles the Svalich Woods, which once surrounded their home—Barovia. However, the children add that these particular woods are unfamiliar to them, and that they seem to be far from their family's original village.
 
-As the players explore their surroundings, they can quickly see the top of an old, ruined stone tower poking up through the treetops. The tower is old and ruined, its floor made of packed earth. However, unlike the original module, the interior is not desecrated ground, there is no wooden chest on the ground, and there are no **zombies** or **will-o'-wisps** inside or around the tower.
+As the players explore their surroundings, they can quickly see the top of an old, ruined stone tower poking up through the treetops. The tower is old and ruined, its floor made of packed earth. The interior is empty and safe.
 
 The players can easily surmise that this ruin appears to be a safe place to spend the night. Rose and Thorn offer to serve as sentries while the players rest, watching the woods and awakening the players should any threats emerge.
 

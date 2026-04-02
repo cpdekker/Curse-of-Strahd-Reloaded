@@ -1485,7 +1485,7 @@ If the players ask Muriel to curse them with wereraven lycanthropy, she laughs s
 > [!warning]+ **Player Dreams**
 > Before running this scene, ask your players to provide you with information about their characters' deepest desires, then use this information to craft a suitable encounter should that player enter the Whispering Wall.
 
-This area takes the place of the original Wall of Fog, described in the module as a place where the ancient mountain folk could hear whispers of voices from the past and future. According to legend, an ancient god gave up his divinity to preserve the world from destruction, and his last exhalation as a god produced this mist, containing all his memories and visions of possible futures. When the players first arrive, read:
+According to legend, an ancient god gave up his divinity to preserve the world from destruction, and his last exhalation as a god produced this mist, containing all his memories and visions of possible futures. When the players first arrive, read:
 
 <div class="description">
 <p>A shadowed wall of impenetrable fog looms above the earth here, stretching forth to meet the heavens far above. Strange shapes and silhouettes seem to drift through its depths, and distant voices seem to whisper just out of earshot.</p>
