@@ -784,7 +784,7 @@ The first floor of the winery contains the loading dock (with a wagon bearing th
 ### Loading Dock
 <span class="citation"><em>This scene takes place in Chapter 12, Area W2.</em></span>
 
-Revise the description of this area to read as follows:
+When the players enter this area, read:
 
 <div class="description">
 <p>A raised wooden walkway runs along the west, south, and east wall of this overgrown loading dock, which is choked with roots, dead shrubs, and tangles of hanging vines. A wide door to the south stands closed, its wooden width covered in mosses and assorted fungi. Three wooden barrels lie haphazardly discarded around the room, partially overgrown with strands of green ivy with red spots and sharp thorns.</p>
@@ -1553,7 +1553,7 @@ When the players all either return from the Whispering Wall or decline to do so,
 
 When all players have either accepted or declined their gifts, Strahd mounts Beucephalus once again, bids them farewell, and notes that he looks forward to seeing them at dinner. He and Beucephalus then vanish into the Ethereal Plane.
 ## J6c. Gulthias Tree
-The players should have no reason to visit the grove of the Gulthias Tree at this time. Should they do, this area is as follows: at the south end of the hilltop is a sickly copse, a grove of dead trees and shrubs with a huge, misshapen tree at its core, from which blood oozes like sap from its twisted trunk. However, replace the last two sentences of the area description with the following text:
+The players should have no reason to visit the grove of the Gulthias Tree at this time. Should they do so, read:
 
 <div class="description">
 <p>A circle of craggy, jagged megaliths stands hunkered down among the undergrowth, draped with rotted vines and overgrown by large brambles and dead shrubs. The air here is thick and unseasonably warm, and a sickly, putrid smell chokes the air.</p>

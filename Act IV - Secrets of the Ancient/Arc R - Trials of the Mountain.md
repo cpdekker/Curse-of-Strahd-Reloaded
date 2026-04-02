@@ -1243,8 +1243,6 @@ The bridge beyond the gatehouse has the following description:
 
 The southern branch continues to wrap around Mount Ghakis until it ends at the deadly fog that sur rounds Barovia (see chapter 2, "Mists of Ravenloft"). statistics, with the following modifications:
 
-However, remove the description of the black-cloaked rider from the text of Stone Bridge.
-
 As the players depart the bridge, read:
 
 <div class="description">
@@ -2471,7 +2469,7 @@ Modify Sangzor's stats as follows:
 * It has 136 hit points.
 * Its ***ram*** attack has +6 to hit and deals 19 (3d10 + 3) bludgeoning damage on a hit.  If Sangzor moved at least 20 feet straight toward the target immediately before the  attack, the attack is made with advantage and deals an extra 11 (2d10) bludgeoning damage on a hit, rather than 5 (2d4).
 
-Remove the second sentence from Sangzor's description. After the players have had an opportunity to react to it, read:
+After the players have had an opportunity to react, read:
 
 <div class="description">
 <p>The goat regards you with dark, piercing eyes. One by one, it turns its gaze to each of you, carefully evaluating each subject in turn.</p>

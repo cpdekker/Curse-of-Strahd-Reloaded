@@ -892,7 +892,7 @@ Revise Argynvost’s journal page to read as follows:
 ![[Argynvost_Journal_RRL.jpg]]
 <span class="credit">"Argynvost's Journal" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-If the players inspect the slashed picture, revise the first sentence of its description to read as follows:
+If the players inspect the slashed picture, read:
 
 <div class="description">
 <p>The picture hangs askew in its place on the wall. It shows the mansion in better days, under clear winter skies with snow-capped mountains in the background.</p>

@@ -536,7 +536,7 @@ The players’ approach to Berez has the following description:
 
 Muriel Vinshaw, a wereraven in human form, lurks amid the circle of standing stones (area U6) and is using a lantern to signal the heroes. In the village proper, fog prevents a creature from seeing any other creature or object more than 120 feet away. A few sections of dirt road have survived, and these places are not difficult terrain. The marsh, however, is difficult terrain. Whenever the characters take a short or long rest in the marsh, even if they barricade themselves in a ruined building, they are accosted by ld4 swarms of hungry flies (use the swarm of insects [wasps) stat block in the Monster Manual). The swarms don't trouble characters in areas U3 or US.
 
-However, revise this area’s description as follows:
+When the players arrive, read:
 
 <div class="description">
 <p>The trail hugs the river for several miles. The dirt and grass soon turn to marsh as the trail dissolves into spongy earth pockmarked with stands of tall reeds and pools of stagnant water. A thick shroud of fog covers all.</p>
@@ -1141,7 +1141,7 @@ This area has the following description:
 
 Baba Lysaga (see appendix D) is inside her hut unless she has been drawn forth by activity elsewhere. The squawks of the birds are music to her ears, but the noise makes it impossible for her to hear anyone approaching. Only the howling of the skulls in area U2 or sounds of combat nearby are loud enough to be heard over the squawking. Inside each cage is a swarm of ravens that fiercely attacks Baba Lysaga and her scarecrows if released. Each cage is held shut by one of Baba Lysaga's arcane lock spells, and opening it requires a knock spell or a successful DC 20 Strength check. A character can also pick the lock with thieves' tools and a successful DC 20 Dexterity check.
 
-However, if more than 10 minutes have passed since Baba Lysaga’s _programmed illusion_ activated in [[#T3a. Berez Outskirts]], revise this area’s description as follows:
+If more than 10 minutes have passed since Baba Lysaga’s _programmed illusion_ activated in [[#T3a. Berez Outskirts]], read instead:
 
 <div class="description">
 <p>A small, grassy hill rises from the mire here. A ramshackle wooden hut rests on a stump atop the hill. The stump’s rotting roots thrust down toward the mire, like the legs of a gigantic spider.</p>
@@ -2033,7 +2033,7 @@ The players can convince Haliq to allow them entry or share what he knows by suc
 
 Once persuaded or intimidated, Haliq can lead the players to Lady Wachter in Den.
 ### Meeting Lady Wachter
-When the players first enter Wachterhaus after completing [[Arc S - A Sword of Sunlight]], Lady Wachter is in Den communing with the goddess Ezra. If the players enter this area while Lady Wachter is communing, revise the final sentence of this area’s description to read as follows:
+When the players first enter Wachterhaus after completing [[Arc S - A Sword of Sunlight]], Lady Wachter is in the den communing with the goddess Ezra. If the players enter while she is communing, read:
 
 <div class="description">
 <p>Across from the hearth, curtains have been drawn across this room’s tall, slender windows, plunging it into a quiet, shadowed darkness. Thirteen candles flicker in a line across the base of the cold hearth, which is filled not by flames, but a thick cloud of mist. The mist flows outward from the hearth, forming a shallow carpet of low, drifting grey that covers the floor around it.</p>

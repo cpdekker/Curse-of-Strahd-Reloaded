@@ -728,7 +728,7 @@ If the players toss an object down the well and then turn away, they hear loud s
 
 Each side room contains a wood-framed bed with a moldy straw mattress and a wooden chest to hold personal belongings. Each chest is secured with a rusty iron padlock that can be picked with thieves' tools and a successful DC 15 Dexterity check. In addition to some worthless personal effects, the chests contain the following valuables: **25A** holds 11 gp and 60 sp in a pouch made of human skin; **25B** holds three moss agates (worth 10 gp each) in a folded piece of black cloth; **25C** holds a black leather eyepatch with a carnelian (worth 50 gp) sewn into it; **25D** holds an ivory hairbrush with silver bristles (worth 25 gp).
 
-Replace the silvered shortsword in footlocker **25E** with a book bound in grimy black leather. This journal, which is signed by Drasha, contains a list of names and physical descriptions associated with each name. Each entry includes gruesome details describing the victim’s sacrifice, such as “struggled profusely” or “no sedative given,”<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup> and ends with the phrase, "Fed to Walter."
+Footlocker **25E** holds a book bound in grimy black leather. This journal, which is signed by Drasha, contains a list of names and physical descriptions associated with each name. Each entry includes gruesome details describing the victim’s sacrifice, such as “struggled profusely” or “no sedative given,”<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup> and ends with the phrase, "Fed to Walter."
 
 
 ### Hidden Spiked Pit

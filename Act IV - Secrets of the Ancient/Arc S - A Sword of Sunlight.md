@@ -392,7 +392,7 @@ This area has the following description:
 
 Characters can see an arrow slit west of the northern set of doors (see area X13). This black marble balcony overhangs the northwest cor ner of the temple, the floor of which lies thirty feet below. Nearly half of the balcony has fallen away, and obvious cracks have formed near its ragged edge. This balcony is unsafe. Weight in excess of 250 pounds causes it to collapse. Any creature on the balcony when it collapses falls 30 feet to the temple floor below. Characters can see an arrow slit east of the northern set of doors (see area X25).
 
-However, revise the last sentence of Northwest Balcony's description to read:
+When the players look down from the Northwest Balcony, read:
 
 <div class="description">
 <p>Nearly half of the balcony has fallen away, and the remainder sags toward the floor thirty feet below, with large cracks spiderwebbing across the joint where the balcony meets the northern wall.</p>
@@ -542,7 +542,7 @@ This area has the following description:
 <p>Glazed amber covers the walls of this twenty-foot-wide, seventy-foot-long arched corridor. The amber doors at both ends of the hall stand open. A closed door is in the middle of the east wall, and three arrow slits are cut into the wall across from it. Cracks in the black marble floor run the length of the hall. The cracks in the floor were made by the golem in area XlO. The arrow slits are 5 inches wide, 2\h feet tall, and 1 foot thick. They look down on the temple (area XS).</p>
 </div>
 
-However, revise the third sentence to read:
+In addition, read:
 
 <div class="description">
 <p>A trio of arrow slits cut into the western wall, directly across from a wide door that stands closed to the east. A thin carpet of mist rolls across the floor from beneath it.</p>
@@ -1732,7 +1732,7 @@ This area has the following description:
 
 The password to suppress the spell is "Dhaviton." A character can push open the doors with a successful DC 25 Strength check. The doors (AC 15, 60 hit points) can also be smashed. If the doors are reduced to O hit points, a greater invisibility spell is cast on the amber golem in this room. The spell lasts for 1 minute. l Piles of treasure are heaped against the west and east walls of this stone room. If the golem is visible, add: A ten-foot-tall statue carved from amber in the likeness of a hawk-headed humanoid stands in a wide alcove to the north. Behind it, a crack has formed in the wall. l - The ceiling here is 30 feet high and flat. The statue in the northern alcove is an amber golem (use the stat block for the stone golem in the Monster Manual). It attacks any creature that disturbs the treasure. The golem can leave the room but can't leave the Amber Temple. See area X41 for a description of the cracks in the south wall.
 
-However, revise this area’s description to read as follows:
+When the players enter, read:
 
  <div class="description">
 <p>Piles of amber are heaped against the west and east walls of this stone room. The southeast corner holds an additional pile: a mound of treasure.</p>
